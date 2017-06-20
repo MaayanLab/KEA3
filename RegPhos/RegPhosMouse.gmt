@@ -1,0 +1,190 @@
+autocatalysis_Mus musculus	RegPhos	Prkaca	Lck	Hck	Csf1r	Camk2a	Prkce	Fes	Rps6ka3	Tec	Lyn	Camk2b	Prkcd	Ptk2	Ret	Kdr	Btk	Fyn	Txk	Syk	Map3k1	Prkcg	Fer	Tek	Epha4	Epha2	Abl2	Musk	Dyrk1a	Fgfr3	Prkd1	Jak2	Ddr2	Atm	Dapk1	Pak4	Prkd2	Grk5	Ptk2b	Prkab1	Stk11	Eif2ak1	Stk25
+PKA_group_Mus musculus	RegPhos	Fcor	Rara	Hspb1	Vim	Tnni3	Stmn1	Arpp19	Pfkfb2	Enah	Nfe2	Plcl1	Sik1	Bad	Lasp1	Mef2d	Ppp1r9b	Naxe	Acly	Smtnl1	Raf1	Arpp21	Pik3cg	Stk11	Snapin	Itpr2
+ERK2_Mus musculus	RegPhos	Fos	Itpr1	Ets2	Atf2	Tnfrsf1a	Cebpb	Dusp1	Nr5a1	Ddit3	Elk1	Pla2g4a	Stmn1	Smad4	Cry1	Pgr	Gata4	Nr2c1	Khdrbs1	Neurod1	Ksr1	Ppp1r9b	Myocd	Raf1	Cry2	Sorbs3
+AMPK_group_Mus musculus	RegPhos	Tp53	Hist1h2bn	Hist1h2bm	Irs1	Pfkfb2	Cry1	Ctnnb1	Crtc2	Tbc1d1	Hist1h2bb	Hist1h2bh	Hist2h2be	Hist2h2bb	Hdac4	Hist1h2bg	Hist1h2bk	Hist1h2bp	Rptor	Hist3h2ba	Mtor	Srebf1	Gys1	Hdac5
+PKC_group_Mus musculus	RegPhos	Il1r1	Hspb1	Vim	Marcks	Marcksl1	Irs1	Lmna	Tnni3	Pitpnb	Snap25	Eif4e	Grin2b	Nr2c1	Tmpo	Ocln	Pea15	Prkd1	Prkd2	Slc12a5	Trpv4
+SRC_Mus musculus	RegPhos	Cdh2	Csf2rb	Prkcd	Akt1	Nectin2	Ptk2	Cav1	Dab1	Shc1	Cttn	Igf1r	Bcar1	Adam12	Ddr2	Efs	Ptk2b	Cav2	Trip6
+PKACa_Mus musculus	RegPhos	Prkaca	En2	Rara	Itpr1	Csf2rb	Rasgrf1	Tead1	Tnni3	Pln	Rela	Sptbn1	Ppp1r9b	Mef2c	Raf1	Stk11	Gsk3b	Kcnd2
+PKCa_Mus musculus	RegPhos	Rho	Ptpra	Vim	Ahr	Crebbp	Lmna	Tnni3	Tnnt2	Pitpna	Pitpnb	Eif4e	Nfe2l2	Kcnj11	Raf1	Gng12	Stk11
+MST1_Mus musculus	RegPhos	Hist1h2bn	Hist1h2bm	Hist1h2bb	Hist1h2bh	Hist2h2be	Hist2h2bb	Hist1h2bg	Mob1b	Hist3h2bb	Hist1h2bk	Hist1h2bp	Hist3h2ba	Stk4
+ABL1_Mus musculus	RegPhos	Pdgfrb	Myod1	App	Cbl	Cdk5	Cav1	Dok1	Bcar1	Jak2	Sorbs1	Crk	Rin1	Apbb1
+CDK5_Mus musculus	RegPhos	Tp53	Th	Ezr	Apex1	Map2k1	Ptk2	Dab1	Cacna1c	Cdk16	Ppp1r9b	Suds3	Ndel1
+CK2a1_Mus musculus	RegPhos	Ptprc	Cdh1	Spi1	Ppm1a	Thra	Bid	Ascl1	Stip1	Bad	Hsph1	Mef2c	Nfkbia
+MAPK_group_Mus musculus	RegPhos	Krt8	Tal1	Zfp36	Marcks	Ets1	Pla2g4a	Nr2c2	Cry1	Papola	Mapk8ip3	Cry2
+LYN_Mus musculus	RegPhos	Tec	Lyn	Prkcd	Btk	Syk	Lilrb3	Pag1	Lpxn	Trpv4	Ptk2b	Clnk
+AKT1_Mus musculus	RegPhos	Cdkn1b	Creb1	Gsk3a	Tbc1d1	Pde3b	Tbc1d4	Acly	Palld	Ndrg2	Foxo1	Gsk3b
+CDC2_Mus musculus	RegPhos	Polr2a	Myod1	Itpr1	Hmga1	Mcm3	Crem	Lmna	Mcm4	Stmn1	Nup210	Incenp
+GSK3B_Mus musculus	RegPhos	Prkce	Mdm2	Ccnd1	Cebpb	Ctnnb1	Sik1	Naca	Dpysl3	Myocd	Cry2
+ERK1_Mus musculus	RegPhos	Ets2	Atf2	Cebpb	Canx	Elk1	Pla2g4a	Mapkapk2	Pgr
+MAPKAPK2_Mus musculus	RegPhos	Krt18	Hspb1	Rps6ka3	Lsp1	Zfp36	Ddit3	Hnrnpa0	Krt20
+FYN_Mus musculus	RegPhos	Kit	Txk	Cdk5	Pld2	Grin2b	Pag1	Skap2	Dlg2
+JNK1_Mus musculus	RegPhos	Bcl2	Rxra	Elk3	Jdp2	Nfe2	Bad	Itch	Sirt1
+CDK2_Mus musculus	RegPhos	Mdm2	Ubtf	Cdkn1b	Mybl2	Mcm4	E2f5	Cables1	Mcm3ap
+PKB_group_Mus musculus	RegPhos	Irs1	Bax	Grb10	Bad	Pde3b	Map3k11	Foxo1	Foxo4
+SYK_Mus musculus	RegPhos	Prkca	Btk	Syk	Tuba1a	Prkcb	Sh3bp2	Plcg1
+ROCK2_Mus musculus	RegPhos	Vim	Ezr	Msn	Rdx	Irs1	Irf4	Myl9
+LKB1_Mus musculus	RegPhos	Mark2	Prkaa1	Brsk1	Sik1	Brsk2	Prkaa2	Stk11
+HIPK2_Mus musculus	RegPhos	Hmga1	Pdx1	Pax6	Ctnnb1	Runx1	Pml
+CaMK2a_Mus musculus	RegPhos	Myog	Gabrg2	Gabrb1	Pln	Cpeb1	Il6st
+CaMK2_group_Mus musculus	RegPhos	Vim	Creb1	Pea15	Wee2	Sirt1	Mecp2
+p38a_Mus musculus	RegPhos	Atf2	Stat4	Mapkapk2	Dlx5	Siah2	Mapkapk3
+PDK1_Mus musculus	RegPhos	Prkaca	Mapt	Rps6ka3	Akt1	Tssk3
+JAK2_Mus musculus	RegPhos	Ctla4	Stat1	Lepr	Arhgef1	Jak2
+PAK1_Mus musculus	RegPhos	Stat5a	Dynll1	Bad	Mapk4	Ppp1r14a
+RSK_group_Mus musculus	RegPhos	Cebpb	Tnni3	Creb1	Bad	Stk11
+PKG1_Mus musculus	RegPhos	Gabrb1	Vasp	Lasp1	Smtnl1	Ppp1r17
+SGK1_Mus musculus	RegPhos	Map3k3	Ndrg1	Nedd4l	Ndrg2	Foxo1
+LCK_Mus musculus	RegPhos	Ctla4	Vav1	Prkcd	Pecam1	Ptk2b
+CDK_group_Mus musculus	RegPhos	Rrm2	Vim	Lmna	Stmn1	Cables1
+AKT2_Mus musculus	RegPhos	Creb1	Pde3b	Acly	Foxo1	Stxbp4
+ATM_Mus musculus	RegPhos	Tp53	H2afx	Ttc5	Stk11
+EGFR_Mus musculus	RegPhos	Pcna	Eps15	Egfr	Gab1
+AurB_Mus musculus	RegPhos	Vim	Hist1h3i	Hist2h3c2	H3f3b
+PKCt_Mus musculus	RegPhos	Bad	Card11	Ndrg2	Pdpk1
+CK1_group_Mus musculus	RegPhos	Mapt	Dnmt1	Gja1	Foxo1
+PKD1_Mus musculus	RegPhos	Tnni3	Prkd1	Hdac7	Hdac5
+CK2_group_Mus musculus	RegPhos	Eef1d	Stip1	Abcf1	Mef2c
+AurA_Mus musculus	RegPhos	Cpeb1	Hist2h3c2	H3f3b
+GSK3B_group_Mus musculus	RegPhos	Cdh1	Mdm2	Cebpa
+PKCb_Mus musculus	RegPhos	Prkca	Card11	Mapk9
+Haspin_Mus musculus	RegPhos	Hist1h3i	Hist2h3c2	H3f3b
+MSK1_Mus musculus	RegPhos	Hmgn1	Hist1h3i	Hist2h2aa2
+PAK3_Mus musculus	RegPhos	Cttn	Myo6	Mapk4
+MAP2K4_Mus musculus	RegPhos	Mapk10	Mapk8	Mapk9
+FER_Mus musculus	RegPhos	Stat3	Pecam1	Cttn
+MAP2K7_Mus musculus	RegPhos	Mapk10	Mapk8	Mapk9
+DYRK1B_Mus musculus	RegPhos	Ccnd1	Cdkn1b	Hdac9
+PAK2_Mus musculus	RegPhos	Myc	Bad	Mapk4
+MAPKAPK5_Mus musculus	RegPhos	Tp53	Hspb1	Rheb
+RSK2_Mus musculus	RegPhos	Creb1	Atf4	Gsk3b
+CaMK4_Mus musculus	RegPhos	Hck	Crebbp	Creb1
+DAPK1_Mus musculus	RegPhos	Grin2b	Myl12b	Dapk1
+INSR_Mus musculus	RegPhos	Fabp4	Cav1	Irs2
+BRSK1_Mus musculus	RegPhos	Mapt	Tubg1	Tubg2
+TRKB_Mus musculus	RegPhos	Ntrk2	Tiam1	Frs3
+p38b_Mus musculus	RegPhos	Prkce	Atf2	Atf7
+SIK_Mus musculus	RegPhos	Crtc2	Hdac4	Srebf1
+PIM2_Mus musculus	RegPhos	Myc	Bad
+RSK1_Mus musculus	RegPhos	Bad	Rptor
+ACK_Mus musculus	RegPhos	Akt1	Wasl
+ROCK_group_Mus musculus	RegPhos	Marcks	Des
+MSK2_Mus musculus	RegPhos	Hist1h3i	Creb1
+PDGFRb_Mus musculus	RegPhos	Pdgfrb	Pik3r1
+PKCz_Mus musculus	RegPhos	Rela	Cabp4
+MAP3K1_Mus musculus	RegPhos	Map2k1	Map3k1
+ABL2_Mus musculus	RegPhos	Pdgfrb	Arhgap35
+MAPKAPK3_Mus musculus	RegPhos	Hspb1	Krt20
+PLK1_Mus musculus	RegPhos	Hsf1	Tex14
+PYK2_Mus musculus	RegPhos	Ptk2b	Asap1
+MET_Mus musculus	RegPhos	Met	Gab1
+JNK2_Mus musculus	RegPhos	Ets2	Rxra
+MNK1_Mus musculus	RegPhos	Pla2g4a	Eif4e
+MAP2K1_Mus musculus	RegPhos	Mapk1	Mapk3
+SIK2_Mus musculus	RegPhos	Irs1	Crtc2
+SRC-type Tyr-kinases_Mus musculus	RegPhos	Cd79a	Cd79b
+TGFBR1_Mus musculus	RegPhos	Eng	Smad3
+CaMK1_group_Mus musculus	RegPhos	Creb1	Hdac5
+Wnk1_Mus musculus	RegPhos	Syt2	Nedd4l
+IKKe_Mus musculus	RegPhos	Ikbke	Nfkbia
+CDK7_Mus musculus	RegPhos	Rara	Cdk4
+CDK4_Mus musculus	RegPhos	Rb1	Cebpa
+DYRK3_Mus musculus	RegPhos	Dyrk3	Sirt1
+ERK5_Mus musculus	RegPhos	Mef2d	Nfatc4
+EphA4_Mus musculus	RegPhos	Cdk5	Epha4
+ATR_Mus musculus	RegPhos	H2afx	Rad17
+Wee1_Mus musculus	RegPhos	Cdk1	Cdk2
+IGF1R_Mus musculus	RegPhos	Igf1r	Crk
+FES_Mus musculus	RegPhos	Pecam1	Bcr
+STLK3_Mus musculus	RegPhos	Slc12a2	Stk39
+IKKb_Mus musculus	RegPhos	Rela	Nfkbia
+SGK3_Mus musculus	RegPhos	Flii	Gsk3b
+FAK_Mus musculus	RegPhos	Bcar1	Wasl
+FRAP_Mus musculus	RegPhos	Akt1	Rptor
+PKG2_Mus musculus	RegPhos	Prkg2
+PKD_group_Mus musculus	RegPhos	Hdac5
+Wnk4_Mus musculus	RegPhos	Nedd4l
+YES_Mus musculus	RegPhos	Yes1
+isoform HMG-Y_Mus musculus	RegPhos	Hmga1
+p70S6K_Mus musculus	RegPhos	Bad
+PKCe_Mus musculus	RegPhos	Tnni3
+p38d_Mus musculus	RegPhos	Prkd1
+host_Mus musculus	RegPhos	Nedd4
+PKCd_Mus musculus	RegPhos	Prkcd
+PKN1_Mus musculus	RegPhos	Marcks
+inisoform HMG-I_Mus musculus	RegPhos	Hmga1
+caMLCK_Mus musculus	RegPhos	Myl9
+RSK5_Mus musculus	RegPhos	Rela
+Wee1B_Mus musculus	RegPhos	Cdk1
+Tyr-kinases_Mus musculus	RegPhos	Cd79a
+PLK3_Mus musculus	RegPhos	Atf2
+PLK4_Mus musculus	RegPhos	Hand1
+Tropomyosin kinase_Mus musculus	RegPhos	Tpm1
+TTBK1_Mus musculus	RegPhos	Mapt
+PRPK_Mus musculus	RegPhos	Tp53
+TSSK3_Mus musculus	RegPhos	Tssk3
+TIE2_Mus musculus	RegPhos	Tek
+RET_Mus musculus	RegPhos	Ptk2
+ROCK1_Mus musculus	RegPhos	Marcks
+TIE1_Mus musculus	RegPhos	Tie1
+TAOK1_Mus musculus	RegPhos	Mark2
+SRC_group_Mus musculus	RegPhos	Gab2
+p38g_Mus musculus	RegPhos	Atf2
+TYK2_Mus musculus	RegPhos	Stat1
+MAP3K7_Mus musculus	RegPhos	Map3k7
+PIM3_Mus musculus	RegPhos	Bad
+FGFR3_Mus musculus	RegPhos	Rps6ka3
+FAK2_Mus musculus	RegPhos	Asap1
+FAK1_Mus musculus	RegPhos	Wasl
+EphB2_Mus musculus	RegPhos	Ephb2
+DYRK2_Mus musculus	RegPhos	Dpysl3
+DYRK1A_Mus musculus	RegPhos	Sirt1
+DNAPK_Mus musculus	RegPhos	H2afx
+DDR1_Mus musculus	RegPhos	Cdk4
+DCLK1_Mus musculus	RegPhos	Dclk1
+Chak1_Mus musculus	RegPhos	Trpm7
+CaMK2d_Mus musculus	RegPhos	Pln
+CTK_Mus musculus	RegPhos	Lyn
+CSK_Mus musculus	RegPhos	Lyn
+CRIK_Mus musculus	RegPhos	Myl9
+CK1d_Mus musculus	RegPhos	Mdm2
+CK1a_Mus musculus	RegPhos	Bid
+CDK6_Mus musculus	RegPhos	Cebpa
+CDK3_Mus musculus	RegPhos	Cables1
+CDC42BP_Mus musculus	RegPhos	Ppp1r12c
+CAMKK2_Mus musculus	RegPhos	Prkaa1
+BRSK2_Mus musculus	RegPhos	Mapt
+BRK_Mus musculus	RegPhos	Arhgap35
+BAZ1B_Mus musculus	RegPhos	H2afx
+BARK1_Mus musculus	RegPhos	Pde6g
+AurC_Mus musculus	RegPhos	Hist1h3i
+ABL_Mus musculus	RegPhos	Cdv3
+FGFR1_Mus musculus	RegPhos	Frs2
+FGR_Mus musculus	RegPhos	Pld2
+PIK3CG_Mus musculus	RegPhos	Tpm2
+FMS_Mus musculus	RegPhos	Csf1r
+PDHK4_Mus musculus	RegPhos	Pdha1
+PDGFR_group_Mus musculus	RegPhos	Ptpn11
+PCTAIRE1_Mus musculus	RegPhos	Nsf
+PASK_Mus musculus	RegPhos	Pdx1
+PAK7_Mus musculus	RegPhos	Bad
+PAK5_Mus musculus	RegPhos	Bad
+PAK4_Mus musculus	RegPhos	Bad
+NuaK1_Mus musculus	RegPhos	Tp53
+NLK_Mus musculus	RegPhos	Mef2a
+NEK6_Mus musculus	RegPhos	Rps6kb1
+MNK2_Mus musculus	RegPhos	Eif4e
+MARK3_Mus musculus	RegPhos	Ksr1
+MARK2_Mus musculus	RegPhos	Crtc2
+MARK1_Mus musculus	RegPhos	Mapt
+MAP2K2_Mus musculus	RegPhos	Mapk1
+LOK_Mus musculus	RegPhos	Msn
+KIS_Mus musculus	RegPhos	Cdkn1b
+KDR_Mus musculus	RegPhos	Kdr
+JNK_group_Mus musculus	RegPhos	Shc1
+JAK1_Mus musculus	RegPhos	Stat1
+ILK1_Mus musculus	RegPhos	Naca
+IKKa_Mus musculus	RegPhos	Rela
+HIPK4_Mus musculus	RegPhos	Tp53
+HCK_Mus musculus	RegPhos	Hck
+GRK3_Mus musculus	RegPhos	Oprk1
+p70S6K_group_Mus musculus	RegPhos	Lmna

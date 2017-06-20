@@ -1,0 +1,80 @@
+autocatalysis_Homo sapiens	Swiss-Prot Exp.	ABL2	BRAF1	DAPK1	DAPK2	DYR1B	E2AK2	EGFR	EPHB1	FAK1	FAK2	FGFR1	INSR	KCC4	KPCB	LCK	MET	NTRK1	PDPK1	PGFRB	PRKDC	RAF1	RET	SRC	ST38L	STK38	STK4	T2FA	TAF1	TIE2	VGFR1	VRK1	WNK4	ZAP70
+None_Homo sapiens	Swiss-Prot Exp.	A4	ADDA	ADDB	ICK	IF2A	IKBA	JIP1	K2C8	KCC1A	KCC1D	MK03	MK08	MK09	MK10	MK12	MK13	MKNK1	MKNK2	MPIP3	RAF1	RGS19	STMN1	SYUA	SYUB	TF65	VASP	VIME
+PKA_Homo sapiens	Swiss-Prot Exp.	ABCA1	ADDA	ADDB	ADRB2	AP2A	AQP2	AT2B1	CFTR	GP1BB	IPP1	IPPD	KCNQ2	KPYR	STAR	STK24	STMN1	TAU	TNNI3	VTNC
+PKC_Homo sapiens	Swiss-Prot Exp.	ADDA	ADDB	ANXA1	ANXA2	AT2B1	CD44	CFTR	EGFR	FSCN1	MACS	NF2L2	PLEK	PLS1	PTN1	RAF1	VIME
+None_Mus musculus	Swiss-Prot Exp.	A4	BAD	CABL1	HSPB1	IF2A	MK01	MK08	MK09	MKNK1	SHC1	SNP25	STMN1	VIME
+CDC2_Homo sapiens	Swiss-Prot Exp.	41	BIRC5	EPN1	KIF11	P53	PTN1	PTTG1	RAB4A	RBBP5	RB	TIP60
+CK2_Homo sapiens	Swiss-Prot Exp.	A4	C1R	ESR1	FURIN	LA	MYCN	NRF1	PTEN	SYUA	TOP2A
+partial_Homo sapiens	Swiss-Prot Exp.	B3AT	CD44	CYTS	EGFR	FA9	FETUA	IBP1	LEG3	MIP
+autocatalysis_Mus musculus	Swiss-Prot Exp.	BTK	CSF1R	EPHA4	EPHA8	FAK1	INSR	RET	STK3
+PKC_Mus musculus	Swiss-Prot Exp.	ANXA2	BCL2	IL1R1	MACS	PEA15	SNP25	VIME
+PKB/AKT1_Homo sapiens	Swiss-Prot Exp.	ARK5	EDG1	FOXO1	IKKA	PTN1
+PKA_Mus musculus	Swiss-Prot Exp.	LASP1	PTPRR	S25BP	STMN1	VIME
+MAPK_Mus musculus	Swiss-Prot Exp.	ETS1	JIP3	MACS	MAPK2	TTP
+PDPK1_Homo sapiens	Swiss-Prot Exp.	AKT1	SGK1	SGK2	SGK3
+MAPK_Homo sapiens	Swiss-Prot Exp.	ADA17	K2C8	NCOA6	PA24A
+EGFR_Homo sapiens	Swiss-Prot Exp.	41	ANXA1	RGS16	VAV2
+SRC_Homo sapiens	Swiss-Prot Exp.	ANXA2	FHIT	GELS	GNAT1
+ATM_Homo sapiens	Swiss-Prot Exp.	BRCA1	RBBP8	SMC1A	TERF1
+ABL_Homo sapiens	Swiss-Prot Exp.	P73	PLS1	ROBO1
+PHK_Homo sapiens	Swiss-Prot Exp.	PHS1	PHS2	PHS3
+CDC2_Mus musculus	Swiss-Prot Exp.	BIRC5	LAMC	VIME
+CDK2_Homo sapiens	Swiss-Prot Exp.	CCNE1	ESR1	MYBB
+CK2_Mus musculus	Swiss-Prot Exp.	DCOR	MEF2C
+ROCK1_Homo sapiens	Swiss-Prot Exp.	ADDA	LIMK1
+PDGFR_Homo sapiens	Swiss-Prot Exp.	EZRI	PTN11
+PLK_Homo sapiens	Swiss-Prot Exp.	PMYT1	TCTP
+MAPK1_Homo sapiens	Swiss-Prot Exp.	ELK1	ERF
+MAPK14_Homo sapiens	Swiss-Prot Exp.	ATF2	ETV6
+CK_Homo sapiens	Swiss-Prot Exp.	B3AT	PRGR
+JAK_Homo sapiens	Swiss-Prot Exp.	STA5A	STAT1
+JAK2_Mus musculus	Swiss-Prot Exp.	EPOR	LEPR
+MAP3K14_Homo sapiens	Swiss-Prot Exp.	IKKA	KBF2
+HIPK2_Homo sapiens	Swiss-Prot Exp.	CTBP1	P53
+SRC_Mus musculus	Swiss-Prot Exp.	ANXA2	EFS
+TAF1_Homo sapiens	Swiss-Prot Exp.	P53	TF2AA
+CaMK1_Homo sapiens	Swiss-Prot Exp.	ATF1	IF4G3
+CaMK2_Homo sapiens	Swiss-Prot Exp.	SYN1	TAU
+CaMK2_Mus musculus	Swiss-Prot Exp.	PEA15	VIME
+CK1_Homo sapiens	Swiss-Prot Exp.	A4	IF6
+EGFR_Mus musculus	Swiss-Prot Exp.	ANXA1	EP15
+Tyr-kinases_Homo sapiens	Swiss-Prot Exp.	ESR1	IKBA
+GSK3_Homo sapiens	Swiss-Prot Exp.	CCNE1	MITF
+vitro_Homo sapiens	Swiss-Prot Exp.	CSK	DPYL2
+PRPK_Homo sapiens	Swiss-Prot Exp.	P53
+PRKDC_Homo sapiens	Swiss-Prot Exp.	XRCC4
+VRK1_Homo sapiens	Swiss-Prot Exp.	P53
+WEE1_Homo sapiens	Swiss-Prot Exp.	CDK2
+RAF_Homo sapiens	Swiss-Prot Exp.	MP2K1
+PKG_Homo sapiens	Swiss-Prot Exp.	SF01
+PKD_Homo sapiens	Swiss-Prot Exp.	RIN1
+WEE1_Mus musculus	Swiss-Prot Exp.	CDK2
+STK6_Homo sapiens	Swiss-Prot Exp.	LATS2
+SNF1LK2_Homo sapiens	Swiss-Prot Exp.	IRS1
+partial_Mus musculus	Swiss-Prot Exp.	LAMC
+SGK_Homo sapiens	Swiss-Prot Exp.	FOXO3
+ABL1_Mus musculus	Swiss-Prot Exp.	CDK5
+PKB/AKT1_Mus musculus	Swiss-Prot Exp.	FOXO1
+PDPK_Homo sapiens	Swiss-Prot Exp.	TAU
+ABL_Mus musculus	Swiss-Prot Exp.	ENAH
+CAK_Homo sapiens	Swiss-Prot Exp.	CDK2
+CAK_Mus musculus	Swiss-Prot Exp.	CDK4
+CDK1_Homo sapiens	Swiss-Prot Exp.	STMN1
+CDK1_Mus musculus	Swiss-Prot Exp.	STMN1
+CDK5_Homo sapiens	Swiss-Prot Exp.	IPPD
+CDK5_Mus musculus	Swiss-Prot Exp.	DAB1
+CDK8_Homo sapiens	Swiss-Prot Exp.	CCNH
+CSK_Homo sapiens	Swiss-Prot Exp.	CTNB1
+CaMK4_Homo sapiens	Swiss-Prot Exp.	HDAC4
+CaMK_Homo sapiens	Swiss-Prot Exp.	HDAC5
+FAK1_Homo sapiens	Swiss-Prot Exp.	ACTN1
+GSK3-beta_Homo sapiens	Swiss-Prot Exp.	CTNB1
+HIPK1_Mus musculus	Swiss-Prot Exp.	DAXX
+INSR_Homo sapiens	Swiss-Prot Exp.	DOK1
+INSR_Mus musculus	Swiss-Prot Exp.	CAV1
+MAPK8_Homo sapiens	Swiss-Prot Exp.	AP1
+ABL2_Homo sapiens	Swiss-Prot Exp.	SIVA
+MARK1_Homo sapiens	Swiss-Prot Exp.	TAU
+MARK3_Mus musculus	Swiss-Prot Exp.	KSR1
+MLCK_Homo sapiens	Swiss-Prot Exp.	MLRN
+MAPKAPK2_Homo sapiens	Swiss-Prot Exp.	LOX5
