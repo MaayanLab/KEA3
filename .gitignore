@@ -1,5 +1,6 @@
 MINT_MiTab.txt
 networkin_human_predictions.tsv
+<<<<<<< HEAD
 Swiss_phos_exp(1).tab
 POST_TRANSLATIONAL_MODIFICATIONS.txt
 phosphoELM_all_2015-04.txt
@@ -7,4 +8,13 @@ RegPhos_Phos_human.txt
 RegPhos_Phos_mouse.txt
 Swiss_phos_putative(1).tab
 Kinase_Substrate_Dataset(1)
+=======
+Swiss_phos_putative(1).tab
+Kinase_Substrate_Dataset(1)
+phosphoELM_all_2015-04.txt
+POST_TRANSLATIONAL_MODIFICATIONS.txt
+RegPhos_Phos_human.txt
+RegPhos_Phos_mouse.txt
+Swiss_phos_exp(1).tab
+>>>>>>> working
 
