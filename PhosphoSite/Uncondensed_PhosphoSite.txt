@@ -1,32 +1,72 @@
+EIF2S1	EIF2AK1_Homo sapiens
+HDAC5	PRKCD_Homo sapiens
+PTPRA iso2	PRKCD_Homo sapiens
+HNRNPK	PRKCD_Homo sapiens
+BLVRA	PRKCD_Homo sapiens
+MUC1	PRKCD_Homo sapiens
+ADD1	PRKCD_Homo sapiens
+NCF1	PRKCD_Homo sapiens
+ENOX2	PRKCD_Homo sapiens
+TNNI3	PRKCD_Homo sapiens
+FOSL1	PRKCD_Homo sapiens
+BEST1	PRKCD_Homo sapiens
+RPS6KB2	PRKCD_Homo sapiens
+CARD9	PRKCD_Homo sapiens
+ITGB2	PRKCD_Homo sapiens
+PRKCD	PRKCD_Homo sapiens
+LCP1	PRKCD_Homo sapiens
+TRPV4	PRKCD_Homo sapiens
+KRT8	PRKCD_Homo sapiens
+GAPDH	PRKCD_Homo sapiens
+NRG1 iso6	PRKCD_Homo sapiens
+DAP3	PRKCD_Homo sapiens
+STAT1	PRKCD_Homo sapiens
 RPS6	PRKCD_Homo sapiens
-RPS3	PRKCD_Homo sapiens
-CTNNB1	PRKCD_Homo sapiens
+SLC29A1	PRKCD_Homo sapiens
+CTTN	PRKCD_Homo sapiens
+DAB2	PRKCD_Homo sapiens
+PTPN22	PRKCD_Homo sapiens
 PRKD1	PRKCD_Homo sapiens
+SMPD1	PRKCD_Homo sapiens
+HIST1H3J	PRKCD_Homo sapiens
+CHAT iso3	PRKCD_Homo sapiens
+CYBA	PRKCD_Homo sapiens
+TP53	PRKCD_Homo sapiens
+PREX1	PRKCD_Homo sapiens
+ADAM17	PRKCD_Homo sapiens
+CDH1	PRKCD_Homo sapiens
+C5AR1	PRKCD_Homo sapiens
 IRS1	PRKCD_Homo sapiens
+PLSCR3	PRKCD_Homo sapiens
+PPP1R14A	PRKCD_Homo sapiens
+G6PD iso3	PRKCD_Homo sapiens
+LIMK2	PRKCD_Homo sapiens
+NR2F6	PRKCD_Homo sapiens
+IL6ST	PRKCD_Homo sapiens
+RPS3	PRKCD_Homo sapiens
+PLD2	PRKCD_Homo sapiens
+BAG3	PRKCD_Homo sapiens
+SHC1 iso2	PRKCD_Homo sapiens
+ELAVL1	PRKCD_Homo sapiens
+CTNNB1	PRKCD_Homo sapiens
 CXCR4	PRKCD_Homo sapiens
 GSK3A	PRKCD_Homo sapiens
-TNNI3	PRKCD_Homo sapiens
 PPP1R14B	PRKCD_Homo sapiens
 FCER1G	PRKCD_Homo sapiens
 TBL1XR1	PRKCD_Homo sapiens
 STAT3	PRKCD_Homo sapiens
 GSK3B	PRKCD_Homo sapiens
 DNM1L	PRKCD_Homo sapiens
-TRPV4	PRKCD_Homo sapiens
 EP300	PRKCD_Homo sapiens
 FLI1	PRKCD_Homo sapiens
 MET	PRKCD_Homo sapiens
-ELAVL1	PRKCD_Homo sapiens
-BLVRA	PRKCD_Homo sapiens
 PA2G4	PRKCD_Homo sapiens
 HVCN1	PRKCD_Homo sapiens
 CAT	PRKCD_Homo sapiens
 p73 iso2	PRKCD_Homo sapiens
-G6PD iso3	PRKCD_Homo sapiens
 SRC	PRKCD_Homo sapiens
 CHN2	PRKCD_Homo sapiens
 PEBP1	PRKCD_Homo sapiens
-NCF1	PRKCD_Homo sapiens
 RASGRP3	PRKCD_Homo sapiens
 PKM	PIM2_Homo sapiens
 CDKN1A	PIM2_Homo sapiens
