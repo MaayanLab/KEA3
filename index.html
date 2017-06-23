@@ -26,7 +26,7 @@
 			<div class= "col-6">
 				<h2> Overview </h2>
 				<hr width="50%" class="my-2">
-				<p> KEA2 (Kinase Enrichment Analysis 2) is a tool which takes an input of a gene list and outputs a list of associated kinases. This tool (KEA) was originally built in 2009 and is comprised of manually curated kinase-substrate interactions. Since 2009, many databases that were originally curated have expanded and new databases have emerged, so the purpose of the KEA3 project is to collect and process new data pertaining to kinase-substrate interactions and expand the KEA2 database. </p>
+				<p> KEA2 (Kinase Enrichment Analysis 2) is a tool which takes an input of a gene list and outputs a list of associated kinases. This tool (KEA) was originally built in 2009 and is comprised of manually curated kinase-substrate interactions. Since 2009, many databases that were originally curated have expanded and new databases have emerged, so the purpose of the KEA3 project is to collect and process new data pertaining to kinase-substrate interactions and expand the KEA2 database. Thus far, seven databases have been processed and converted into the file format utilized by KEA2, and these resources represent both databases from the original KEA2 paper and new databases that did not exist when KEA was first created.</p>
 				<p>
 					<a id = 'l' href = "http://www.maayanlab.net/KEA2/">Link to KEA2 website</a>
 				</p>
@@ -35,7 +35,7 @@
 			<div class="col-6">
 				<h2> Methods </h2>
 				<hr width="50%" class="my-2">
-				<p> To match the current file format of KEA2 data, all data downloaded from the following databases needed to be converted from their original format to the .gmt file format. To accomplish this, a script was written for each dataset in Python to process the data. Both these scripts and the .gmt files created are linked below according to its corresponding resource. Links to the download pages of the original datasets are also included, and only data pertaining to the human and mouse species was considered in the final .gmt files. </p>	
+				<p> To match the current file format of KEA2 data, all data downloaded from the following databases needed to be converted from their original format to the .gmt file format. To accomplish this, a script was written for each dataset in Python to process the data. Both these scripts and the .gmt files created are linked below according to its corresponding resource. Links to the download pages of the original datasets are also included, and only data pertaining to the human and mouse species was considered in the final .gmt files. In addition to the .gmt files, .sig files were also created for increased accessibility of the information and are also linked below each resource. Only kinases which had at least five substrates and no more than 2000 substrates are included in the .gmt and .sig files included below.</p>	
 			</div>
 		</div>
 	</div>
@@ -58,11 +58,10 @@
 					<p>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoELM/PhosphoELM%20Final%20Notebook-%20KEA3.ipynb">Jupyter Notebook</a>
 					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoELM/PhosphoELM.gmt">Processed .GMT</a>
-					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PhosphoELM/PhosphoELMsig.txt">Processed .SIG file</a>
+					<p>Processed Files
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoELM/PhosphoELM.gmt">.GMT</a>
+						|
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PhosphoELM/PhosphoELMsig.txt">.SIG</a>
 					</p>
 					<p>
 						<a id = 'l' href = "http://phospho.elm.eu.org/dataset.html">Download Original Data</a>
@@ -78,11 +77,10 @@
 					<p>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoSite/PhosphoSite%20Final%20Notebook-KEA3.ipynb">Jupyter Notebook</a>
 					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoSite/PhosphoSite.gmt">Processed .GMT</a>
-					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PhosphoSite/PhosphoSitesig.txt">Processed .SIG file</a>
+					<p>Processed Files
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoSite/PhosphoSite.gmt">.GMT</a>
+						|
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PhosphoSite/PhosphoSitesig.txt">.SIG</a>
 					</p>
 					<p>
 						<a id = 'l' href = "http://www.phosphosite.org/staticDownloads.action">Download Original Data</a>
@@ -98,11 +96,10 @@
 					<p>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/MINT/MINT%20Working%20Notebook%20-%20KEA3.ipynb">Jupyter Notebook</a>
 					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/MINT/MINT.gmt">Processed .GMT</a>
-					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/MINT/MINTsig.txt">Processed .SIG file</a>
+					<p>Processed Files
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/MINT/MINT.gmt">.GMT</a>
+						|
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/MINT/MINTsig.txt">.SIG</a>
 					</p>
 					<p>
 						<a id = 'l' href = "http://mint.bio.uniroma2.it/download.html">Download Original Data</a>
@@ -121,11 +118,10 @@
 					<p>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/Swiss-Prot%20Experimental%20%28from%20Kinase-Phos%20Database%29-%20KEA3.ipynb">Jupyter Notebook</a>
 					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/SwissProtexp.gmt">Processed .GMT</a>
-					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/SwissProt/SwissProtExpsig.txt">Processed .SIG file</a>
+					<p>Processed Files
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/SwissProtexp.gmt">.GMT</a>
+						|
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/SwissProt/SwissProtExpsig.txt">.SIG</a>
 					</p>
 					<p>
 						<a id = 'l' href = "http://kinasephos.mbc.nctu.edu.tw/download.html">Download Original Data</a>
@@ -141,11 +137,10 @@
 					<p>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/Swiss-Prot%20Putative%20%28from%20Kinase-Phos%20Database%29-KEA3.ipynb">Jupyter Notebook</a>
 					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/SwissProt_put.gmt">Processed .GMT</a>
-					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/SwissProt/SwissProtPutsig.txt">Processed .SIG file</a>
+					<p>Processed Files
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/SwissProt_put.gmt">.GMT</a>
+						|
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/SwissProt/SwissProtPutsig.txt">.SIG</a>
 					</p>
 					<p>
 						<a id = 'l' href = "http://kinasephos.mbc.nctu.edu.tw/download.html">Download Original Data</a>
@@ -161,11 +156,10 @@
 					<p>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhos%20-%20Human%20-%20KEA3.ipynb">Jupyter Notebook</a>
 					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhosHuman.gmt">Processed .GMT</a>
-					</p>
-					<p>
-						<a id = 'l' href = "">Processed .SIG file</a>
+					<p>Processed Files
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhosHuman.gmt">.GMT</a>
+						|
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/RegPhos/RegPhosHumansig.txt">.SIG</a>
 					</p>
 					<p>
 						<a id = 'l' href = "http://140.138.144.141/~RegPhos/download.php">Download Original Data</a>
@@ -185,11 +179,10 @@
 					<p>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhos%20-%20Mouse%20-%20KEA3.ipynb">Jupyter Notebook</a>
 					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhosMouse.gmt">Processed .GMT</a>
-					</p>
-					<p>
-						<a id = 'l' href = "">Processed .SIG file</a>
+					<p>Processed Files
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhosMouse.gmt">.GMT</a>
+						|
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/RegPhos/RegPhosMousesig.txt">.SIG</a>
 					</p>
 					<p>
 						<a id = 'l' href = "http://140.138.144.141/~RegPhos/download.php">Download Original Data</a>
@@ -206,11 +199,10 @@
 					<p>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/NetworKIN/NetworKIN-%20Working%20-%20KEA3.ipynb">Jupyter Notebook</a>
 					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/NetworKIN/NetworKIN.gmt">Processed .GMT</a>
-					</p>
-					<p>
-						<a id = 'l' href = "">Processed .SIG file</a>
+					<p>Processed Files
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/NetworKIN/NetworKIN.gmt">.GMT</a>
+						|
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/NetworKIN/NetworKINsig.txt">.SIG</a>
 					</p>
 					<p>
 						<a id = 'l' href = "http://networkin.info/download.shtml">Download Original Data</a>
@@ -226,11 +218,10 @@
 					<p>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/HPRD/HPRD%20Final%20Notebook%20-%20KEA3.ipynb">Jupyter Notebook</a>
 					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/HPRD/HPRD_PTM.gmt">Processed .GMT</a>
-					</p>
-					<p>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/HPRD/HPRDsig.txt">Processed .SIG file</a>
+					<p>Processed Files
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/HPRD/HPRD_PTM.gmt">.GMT</a>
+						|
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/HPRD/HPRDsig.txt">.SIG</a>
 					</p>
 					<p>
 						<a id = 'l' href = "http://hprd.org/download">Download Original Data</a>
