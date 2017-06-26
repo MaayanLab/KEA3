@@ -78,3 +78,29 @@ h3 {
 .container {
 	width: 1100px;
 }*/
+
+
+#gmt-select{
+	text-align: center;
+	width: 685px;
+    margin: 0 auto;
+
+}
+
+/*D3 network styling*/
+
+
+.links line {
+  stroke: #999;
+  stroke-opacity: 0.6;
+}
+
+.nodes circle {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+#display {
+	width: 685px;
+    margin: 0 auto;
+}

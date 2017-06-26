@@ -1,229 +1,119 @@
-41	CDC2_Homo sapiens
-41	EGFR_Homo sapiens
-A4	CK2_Homo sapiens
-A4	CK1_Homo sapiens
-ABCA1	PKA_Homo sapiens
-ABL2	autocatalysis_Homo sapiens
-ACTN1	FAK1_Homo sapiens
-ADA17	MAPK_Homo sapiens
-ADDA	PKA_Homo sapiens
-ADDA	ROCK1_Homo sapiens
-ADDA	PKC_Homo sapiens
-ADDB	PKA_Homo sapiens
-ADDB	PKC_Homo sapiens
-ADRB2	PKA_Homo sapiens
-AKT1	PDPK1_Homo sapiens
-ANXA1	EGFR_Homo sapiens
-ANXA1	PKC_Homo sapiens
-ANXA1	EGFR_Mus musculus
-ANXA2	SRC_Homo sapiens
-ANXA2	PKC_Homo sapiens
-ANXA2	SRC_Mus musculus
-ANXA2	PKC_Mus musculus
-AP1	MAPK8_Homo sapiens
-AP2A	PKA_Homo sapiens
-AQP2	PKA_Homo sapiens
-ARK5	PKB/AKT1_Homo sapiens
-AT2B1	PKC_Homo sapiens
-AT2B1	PKA_Homo sapiens
-ATF1	CaMK1_Homo sapiens
-ATF2	MAPK14_Homo sapiens
-B3AT	CK_Homo sapiens
-BCL2	PKC_Mus musculus
-BIRC5	CDC2_Homo sapiens
-BIRC5	CDC2_Mus musculus
-BRAF1	autocatalysis_Homo sapiens
-BRCA1	ATM_Homo sapiens
-BTK	autocatalysis_Mus musculus
-C1R	CK2_Homo sapiens
-CAV1	INSR_Mus musculus
-CCNE1	GSK3_Homo sapiens
-CCNE1	CDK2_Homo sapiens
-CCNH	CDK8_Homo sapiens
-CD44	PKC_Homo sapiens
-CDK2	WEE1_Homo sapiens
-CDK2	CAK_Homo sapiens
-CDK2	WEE1_Mus musculus
-CDK4	CAK_Mus musculus
-CDK5	ABL1_Mus musculus
-CFTR	PKA_Homo sapiens
-CFTR	PKC_Homo sapiens
-CSF1R	autocatalysis_Mus musculus
-CSK	vitro_Homo sapiens
-CTBP1	HIPK2_Homo sapiens
-CTNB1	GSK3-beta_Homo sapiens
-CTNB1	CSK_Homo sapiens
-DAB1	CDK5_Mus musculus
-DAPK1	autocatalysis_Homo sapiens
-DAPK2	autocatalysis_Homo sapiens
-DAXX	HIPK1_Mus musculus
-DCOR	CK2_Mus musculus
-DOK1	INSR_Homo sapiens
-DPYL2	vitro_Homo sapiens
-DYR1B	autocatalysis_Homo sapiens
-E2AK2	autocatalysis_Homo sapiens
-EDG1	PKB/AKT1_Homo sapiens
-EFS	SRC_Mus musculus
-EGFR	PKC_Homo sapiens
-EGFR	autocatalysis_Homo sapiens
-ELK1	MAPK1_Homo sapiens
-ENAH	ABL_Mus musculus
-EP15	EGFR_Mus musculus
-EPHA4	autocatalysis_Mus musculus
-EPHA8	autocatalysis_Mus musculus
-EPHB1	autocatalysis_Homo sapiens
-EPN1	CDC2_Homo sapiens
-EPOR	JAK2_Mus musculus
-ERF	MAPK1_Homo sapiens
-ESR1	CDK2_Homo sapiens
-ESR1	CK2_Homo sapiens
-ESR1	Tyr-kinases_Homo sapiens
-ETS1	MAPK_Mus musculus
-ETV6	MAPK14_Homo sapiens
-EZRI	PDGFR_Homo sapiens
-FAK1	autocatalysis_Homo sapiens
-FAK1	autocatalysis_Mus musculus
-FAK2	autocatalysis_Homo sapiens
-FGFR1	autocatalysis_Homo sapiens
-FHIT	SRC_Homo sapiens
-FOXO1	PKB/AKT1_Homo sapiens
-FOXO1	PKB/AKT1_Mus musculus
-FOXO3	SGK_Homo sapiens
-FSCN1	PKC_Homo sapiens
-FURIN	CK2_Homo sapiens
-GELS	SRC_Homo sapiens
-GNAT1	SRC_Homo sapiens
-GP1BB	PKA_Homo sapiens
-HDAC4	CaMK4_Homo sapiens
-HDAC5	CaMK_Homo sapiens
-IF4G3	CaMK1_Homo sapiens
-IF6	CK1_Homo sapiens
-IKBA	Tyr-kinases_Homo sapiens
-IKKA	PKB/AKT1_Homo sapiens
-IKKA	MAP3K14_Homo sapiens
-IL1R1	PKC_Mus musculus
-INSR	autocatalysis_Homo sapiens
-INSR	autocatalysis_Mus musculus
-IPP1	PKA_Homo sapiens
-IPPD	PKA_Homo sapiens
-IPPD	CDK5_Homo sapiens
-IRS1	SNF1LK2_Homo sapiens
-JIP3	MAPK_Mus musculus
-K2C8	MAPK_Homo sapiens
-KBF2	MAP3K14_Homo sapiens
-KCC4	autocatalysis_Homo sapiens
-KCNQ2	PKA_Homo sapiens
-KIF11	CDC2_Homo sapiens
-KPCB	autocatalysis_Homo sapiens
-KPYR	PKA_Homo sapiens
-KSR1	MARK3_Mus musculus
-LAMC	CDC2_Mus musculus
-LASP1	PKA_Mus musculus
-LATS2	STK6_Homo sapiens
-LA	CK2_Homo sapiens
-LCK	autocatalysis_Homo sapiens
-LEPR	JAK2_Mus musculus
-LIMK1	ROCK1_Homo sapiens
-LOX5	MAPKAPK2_Homo sapiens
-MACS	PKC_Homo sapiens
-MACS	MAPK_Mus musculus
-MACS	PKC_Mus musculus
-MAPK2	MAPK_Mus musculus
-MEF2C	CK2_Mus musculus
-MET	autocatalysis_Homo sapiens
-MITF	GSK3_Homo sapiens
-MLRN	MLCK_Homo sapiens
-MP2K1	RAF_Homo sapiens
-MYBB	CDK2_Homo sapiens
-MYCN	CK2_Homo sapiens
-NCOA6	MAPK_Homo sapiens
-NF2L2	PKC_Homo sapiens
-NRF1	CK2_Homo sapiens
-NTRK1	autocatalysis_Homo sapiens
-P53	PRPK_Homo sapiens
-P53	VRK1_Homo sapiens
-P53	HIPK2_Homo sapiens
-P53	TAF1_Homo sapiens
-P53	CDC2_Homo sapiens
-P73	ABL_Homo sapiens
-PA24A	MAPK_Homo sapiens
-PDPK1	autocatalysis_Homo sapiens
-PEA15	PKC_Mus musculus
-PEA15	CaMK2_Mus musculus
-PGFRB	autocatalysis_Homo sapiens
-PHS1	PHK_Homo sapiens
-PHS2	PHK_Homo sapiens
-PHS3	PHK_Homo sapiens
-PLEK	PKC_Homo sapiens
-PLS1	ABL_Homo sapiens
-PLS1	PKC_Homo sapiens
-PMYT1	PLK_Homo sapiens
-PRGR	CK_Homo sapiens
-PRKDC	autocatalysis_Homo sapiens
-PTEN	CK2_Homo sapiens
-PTN11	PDGFR_Homo sapiens
-PTN1	PKB/AKT1_Homo sapiens
-PTN1	PKC_Homo sapiens
-PTN1	CDC2_Homo sapiens
-PTPRR	PKA_Mus musculus
-PTTG1	CDC2_Homo sapiens
-RAB4A	CDC2_Homo sapiens
-RAF1	PKC_Homo sapiens
-RAF1	autocatalysis_Homo sapiens
-RBBP5	CDC2_Homo sapiens
-RBBP8	ATM_Homo sapiens
-RB	CDC2_Homo sapiens
-RET	autocatalysis_Homo sapiens
-RET	autocatalysis_Mus musculus
-RGS16	EGFR_Homo sapiens
-RIN1	PKD_Homo sapiens
-ROBO1	ABL_Homo sapiens
-S25BP	PKA_Mus musculus
-SF01	PKG_Homo sapiens
-SGK1	PDPK1_Homo sapiens
-SGK2	PDPK1_Homo sapiens
-SGK3	PDPK1_Homo sapiens
-SIVA	ABL2_Homo sapiens
-SMC1A	ATM_Homo sapiens
-SNP25	PKC_Mus musculus
-SRC	autocatalysis_Homo sapiens
-ST38L	autocatalysis_Homo sapiens
-STA5A	JAK_Homo sapiens
-STAR	PKA_Homo sapiens
-STAT1	JAK_Homo sapiens
-STK24	PKA_Homo sapiens
-STK38	autocatalysis_Homo sapiens
-STK3	autocatalysis_Mus musculus
-STK4	autocatalysis_Homo sapiens
-STMN1	PKA_Homo sapiens
-STMN1	CDK1_Homo sapiens
-STMN1	PKA_Mus musculus
-STMN1	CDK1_Mus musculus
-SYN1	CaMK2_Homo sapiens
-SYUA	CK2_Homo sapiens
-T2FA	autocatalysis_Homo sapiens
-TAF1	autocatalysis_Homo sapiens
-TAU	PDPK_Homo sapiens
-TAU	PKA_Homo sapiens
-TAU	MARK1_Homo sapiens
-TAU	CaMK2_Homo sapiens
-TCTP	PLK_Homo sapiens
-TERF1	ATM_Homo sapiens
-TF2AA	TAF1_Homo sapiens
-TIE2	autocatalysis_Homo sapiens
-TIP60	CDC2_Homo sapiens
-TNNI3	PKA_Homo sapiens
-TOP2A	CK2_Homo sapiens
-TTP	MAPK_Mus musculus
-VAV2	EGFR_Homo sapiens
-VGFR1	autocatalysis_Homo sapiens
-VIME	PKC_Homo sapiens
-VIME	PKC_Mus musculus
-VIME	PKA_Mus musculus
-VIME	CDC2_Mus musculus
-VIME	CaMK2_Mus musculus
-VRK1	autocatalysis_Homo sapiens
-VTNC	PKA_Homo sapiens
-WNK4	autocatalysis_Homo sapiens
-XRCC4	PRKDC_Homo sapiens
-ZAP70	autocatalysis_Homo sapiens
+autocatalysis_Homo sapiens	ABL2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	BRAF1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	DAPK1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	DAPK2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	DYR1B	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	E2AK2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	EGFR	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	EPHB1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	FAK1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	FAK2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	FGFR1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	INSR	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	KCC4	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	KPCB	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	LCK	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	MET	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	NTRK1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	PDPK1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	PGFRB	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	PRKDC	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	RAF1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	RET	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	SRC	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	ST38L	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	STK38	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	STK4	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	T2FA	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	TAF1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	TIE2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	VGFR1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	VRK1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	WNK4	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Homo sapiens	ZAP70	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	ABCA1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	ADDA	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	ADDB	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	ADRB2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	AP2A	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	AQP2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	AT2B1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	CFTR	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	GP1BB	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	IPP1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	IPPD	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	KCNQ2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	KPYR	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	STAR	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	STK24	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	STMN1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	TAU	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	TNNI3	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Homo sapiens	VTNC	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	ADDA	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	ADDB	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	ANXA1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	ANXA2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	AT2B1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	CD44	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	CFTR	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	EGFR	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	FSCN1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	MACS	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	NF2L2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	PLEK	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	PLS1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	PTN1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	RAF1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Homo sapiens	VIME	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	41	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	BIRC5	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	EPN1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	KIF11	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	P53	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	PTN1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	PTTG1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	RAB4A	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	RBBP5	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	RB	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CDC2_Homo sapiens	TIP60	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	A4	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	C1R	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	ESR1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	FURIN	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	LA	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	MYCN	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	NRF1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	PTEN	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	SYUA	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+CK2_Homo sapiens	TOP2A	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Mus musculus	BTK	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Mus musculus	CSF1R	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Mus musculus	EPHA4	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Mus musculus	EPHA8	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Mus musculus	FAK1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Mus musculus	INSR	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Mus musculus	RET	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+autocatalysis_Mus musculus	STK3	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Mus musculus	ANXA2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Mus musculus	BCL2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Mus musculus	IL1R1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Mus musculus	MACS	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Mus musculus	PEA15	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Mus musculus	SNP25	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKC_Mus musculus	VIME	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Mus musculus	LASP1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Mus musculus	PTPRR	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Mus musculus	S25BP	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Mus musculus	STMN1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKA_Mus musculus	VIME	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKB/AKT1_Homo sapiens	ARK5	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKB/AKT1_Homo sapiens	EDG1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKB/AKT1_Homo sapiens	FOXO1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKB/AKT1_Homo sapiens	IKKA	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+PKB/AKT1_Homo sapiens	PTN1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+MAPK_Mus musculus	ETS1	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+MAPK_Mus musculus	JIP3	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+MAPK_Mus musculus	MACS	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+MAPK_Mus musculus	MAPK2	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+MAPK_Mus musculus	TTP	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.

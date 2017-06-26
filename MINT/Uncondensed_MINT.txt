@@ -1,261 +1,88 @@
-ZNHIT1	MAPK14_Homo sapiens
-ZNHIT1	MAPK11_Homo sapiens
-TP53	GSK3B_Homo sapiens
-RB1	CHEK2_Homo sapiens
-RB1	CHEK1_Homo sapiens
-RB1	MAPK14_Homo sapiens
-Grb7	Ptk2_Mus musculus
-Clock	Prkca_Mus musculus
-Clock	Prkcg_Mus musculus
-HIF1A	CSNK2A1_Homo sapiens
-FLNA	CCNB2_Homo sapiens
-MDM4	CHEK1_Homo sapiens
-TP53	CHEK1_Homo sapiens
-SORBS2	AKT1_Homo sapiens
-MDM2	HIPK2_Homo sapiens
-Ldb3	Prkcb_Mus musculus
-PBK	PBK_Homo sapiens
-PBK	CDK1_Homo sapiens
-MBP	PBK_Homo sapiens
-Jun	Mapk8_Mus musculus
-TOPBP1	AKT1_Homo sapiens
-EPAS1	PDK1_Homo sapiens
-LCT	SRC_Homo sapiens
-PPP1R14B	ROCK2_Homo sapiens
-RAF1	PAK1_Homo sapiens
-RPS6KB1	PDK1_Homo sapiens
-PKN2	PDK1_Homo sapiens
-NCF1	PRKCA_Homo sapiens
-NCF1	PRKCD_Homo sapiens
-MAPT	GSK3B_Homo sapiens
-MAPT	CDK5_Homo sapiens
-Epha4	Epha4_Mus musculus
-Ephb2	Epha4_Mus musculus
-Epha2	Epha4_Mus musculus
-CBL	SRC_Homo sapiens
-Pde3a	Akt1_Mus musculus
-Pde3a	Prkaca_Mus musculus
-ADRB2	SRC_Homo sapiens
-SRC	SRC_Homo sapiens
-Plk4	Plk4_Mus musculus
-CTTN	PAK1_Homo sapiens
-CTTN	PAK2_Homo sapiens
-MYH9	TRPM7_Homo sapiens
-MYH10	TRPM7_Homo sapiens
-MYH14	TRPM7_Homo sapiens
-MYH14	TRPM6_Homo sapiens
-MYH10	TRPM6_Homo sapiens
-MYH9	TRPM6_Homo sapiens
-EIF2S1	EIF2AK2_Homo sapiens
-EIF4B	CAMK2D_Homo sapiens
-STIP1	CAMK2D_Homo sapiens
-EEF2K	CDK1_Homo sapiens
-Map2	Camk2d_Mus musculus
-RCHY1	CAMK2A_Homo sapiens
-RACGAP1	AURKB_Homo sapiens
-RACGAP1	CDK1_Homo sapiens
-KANK2	CSNK2A1_Homo sapiens
-IGF1R	IGF1R_Homo sapiens
-PRKCD	PRKCD_Homo sapiens
-CFL1	LIMK1_Homo sapiens
-ZIC2	PRKDC_Homo sapiens
-PRKD2	CSNK1A1_Homo sapiens
-PRKD2	CSNK1E_Homo sapiens
-HDAC7	PRKD2_Homo sapiens
-RELA	CHUK_Homo sapiens
-WAS	FYN_Homo sapiens
-RELA	IKBKB_Homo sapiens
-Atf2	Mapk8_Mus musculus
-Atf2	Mapk1_Mus musculus
-Atf2	Mapk11_Mus musculus
-Atf2	Mapk14_Mus musculus
-MAP2	FYN_Homo sapiens
-FYN	CD2_Homo sapiens
-LCK	CD2_Homo sapiens
-GNAI2	CXCR5_Homo sapiens
-ESR1	MAP3K1_Homo sapiens
-CBL	SYK_Homo sapiens
-CBL	FYN_Homo sapiens
-CBL	ABL1_Homo sapiens
-MDM2	AKT1_Homo sapiens
-MDM2	CHEK2_Homo sapiens
-TP53	CHEK2_Homo sapiens
-YBX1	MAPK1_Homo sapiens
-YBX3	MAPK1_Homo sapiens
-YBX1	GSK3B_Homo sapiens
-YBX3	GSK3B_Homo sapiens
-RALBP1	PRKCA_Homo sapiens
-Cdh1	Csnk2a1_Mus musculus
-NBN	CHEK2_Homo sapiens
-PLXNB1	MET_Homo sapiens
-GAB2	MAPK3_Homo sapiens
-BCL2	MAPK8_Homo sapiens
-BCL2L1	MAPK8_Homo sapiens
-SNRK	STK11_Homo sapiens
-CREB1	SGK1_Homo sapiens
-Asap1	Ptk2b_Mus musculus
-KRT18	RAF1_Homo sapiens
-XRCC1	CSNK2A1_Homo sapiens
-XRCC4	CSNK2A1_Homo sapiens
-FLNA	PRKACB_Homo sapiens
-CSNK2B	CHEK1_Homo sapiens
-BCL2	MAPK1_Homo sapiens
-PRKACA	GRIA1_Homo sapiens
-GRIA4	CAMK2A_Homo sapiens
-GRIA4	PRKACA_Homo sapiens
-CDKN1B	AKT1_Homo sapiens
-AKT1	CDKN1B_Homo sapiens
-Stam	Jak3_Mus musculus
-Stam	Jak2_Mus musculus
-STAM2	JAK1_Homo sapiens
-CDC34	CSNK2A1_Homo sapiens
-SUB1	CSNK2A1_Homo sapiens
-Mknk1	Mapk3_Mus musculus
-Mapk3	Mknk2_Mus musculus
-Mapk11	Mknk2_Mus musculus
-PPP1R12A	DMPK_Homo sapiens
-CDC25A	CHEK2_Homo sapiens
-LCP2	FCGR1A_Homo sapiens
-SHC1	FCGR1A_Homo sapiens
-CBL	FCGR1A_Homo sapiens
-YWHAZ	CSNK1A1_Homo sapiens
-SNAP23	TLK1_Homo sapiens
-XRCC5	WRN_Homo sapiens
-XRCC5	XRCC6_Homo sapiens
-WRN	XRCC5_Homo sapiens
-WRN	XRCC6_Homo sapiens
-RPS6KB2	EEF2K_Homo sapiens
-EEF2K	RPS6KA1_Homo sapiens
-OCLN	CSNK1E_Homo sapiens
-ITCH	SGK3_Homo sapiens
-SGK3	PDK1_Homo sapiens
-MUC1	ABL1_Homo sapiens
-EIF4B	RPS6KA1_Homo sapiens
-NCOA3	MAPK14_Homo sapiens
-IER3	MAPK1_Homo sapiens
-PPP2R5C	MAPK1_Homo sapiens
-LIMK1	MAPK14_Homo sapiens
-LIMK1	MAPKAPK2_Homo sapiens
-CHEK2	CHEK2_Homo sapiens
-RPS6	RPS6KB2_Homo sapiens
-MAP3K1	BRAF_Homo sapiens
-RPS6	RPS6KA2_Homo sapiens
-Myh9	Trpm7_Mus musculus
-RUNX1	HIPK2_Homo sapiens
-EP300	HIPK2_Homo sapiens
-YWHAZ	PRKACA_Homo sapiens
-Pstpip1	Abl1_Mus musculus
-PDCD6IP	SRC_Homo sapiens
-Eps15	Egfr_Mus musculus
-TP53	ATM_Homo sapiens
-RELA	PRKACA_Homo sapiens
-RELA	PRKCZ_Homo sapiens
-RELA	CSNK2A1_Homo sapiens
-Hcls1	Lyn_Mus musculus
-Cttn	Lyn_Mus musculus
-Irs2	Lyn_Mus musculus
-Efs	Lyn_Mus musculus
-Bcar1	Lyn_Mus musculus
-Dok2	Lyn_Mus musculus
-Dbnl	Lyn_Mus musculus
-MDM2	PIM1_Homo sapiens
-MDM2	PIM3_Homo sapiens
-MDM2	PIM2_Homo sapiens
-CAV1	PTPN1_Homo sapiens
-PTPN1	EGFR_Homo sapiens
-PTPN1	CSNK2A1_Homo sapiens
-PTPN1	SRC_Homo sapiens
-PTPN1	INSR_Homo sapiens
-PTPN1	CLK1_Homo sapiens
-PTPN1	CLK2_Homo sapiens
-EIF3F	CDK11B_Homo sapiens
-Rara	Rps6ka5_Mus musculus
-Rara	Ddr1_Mus musculus
-DDX3X	TBK1_Homo sapiens
-IRF3	TBK1_Homo sapiens
-PDX1	PASK_Homo sapiens
-GYS1	PASK_Homo sapiens
-RAB11FIP1	PASK_Homo sapiens
-FXN	PASK_Homo sapiens
-PIAS1	PASK_Homo sapiens
-CREB1	PASK_Homo sapiens
-NFATC4	PASK_Homo sapiens
-KCNH2	PASK_Homo sapiens
-RPS6	PASK_Homo sapiens
-PHKB	PASK_Homo sapiens
-EIF4ENIF1	PASK_Homo sapiens
-PFKFB1	PASK_Homo sapiens
-EEF1A1	PASK_Homo sapiens
-PKIA	PASK_Homo sapiens
-MAPT	PASK_Homo sapiens
-NCF1	PASK_Homo sapiens
-HSPB1	PASK_Homo sapiens
-VTN	PASK_Homo sapiens
-KRT8	PASK_Homo sapiens
-RAB4A	PASK_Homo sapiens
-MET	PASK_Homo sapiens
-IL2RA	PASK_Homo sapiens
-LMNA	PASK_Homo sapiens
-LMNB1	PASK_Homo sapiens
-FGA	PASK_Homo sapiens
-MYL12A	CIT_Homo sapiens
-MYL12A	MYLK_Homo sapiens
-Ptpra	Src_Mus musculus
-CENPJ	PLK2_Homo sapiens
-CENPJ	PLK4_Homo sapiens
-MAPK1	MAP3K3_Homo sapiens
-MAPK3	MAP3K3_Homo sapiens
-Eif2s1	Eif2ak1_Mus musculus
-GTSE1	PLK1_Homo sapiens
-LIMK1	PRKACA_Homo sapiens
-CFL1	PRKACA_Homo sapiens
-TNK2	TNK2_Homo sapiens
-JUN	MAPK8_Homo sapiens
-JUN	MAPK10_Homo sapiens
-JUN	MAPK9_Homo sapiens
-AKT1	PRKCZ_Homo sapiens
-MDC1	CSNK2A1_Homo sapiens
-STRAP	CHEK2_Homo sapiens
-Ncf1	Mapk14_Mus musculus
-RCAN1	PRKACB_Homo sapiens
-MDM2	PLK1_Homo sapiens
-TP53	PLK1_Homo sapiens
-Bmpr2	Prkg1_Mus musculus
-XRCC1	CHEK2_Homo sapiens
-Jak2	Jak2_Mus musculus
-CTNNB1	ABL1_Homo sapiens
-MAPK1	MAP2K1_Homo sapiens
-AATF	MAPKAPK2_Homo sapiens
-TUBB	GRK2_Homo sapiens
-NPM1	AURKB_Homo sapiens
-NPM1	AURKA_Homo sapiens
-AKT1	LRRK2_Homo sapiens
-MEF2C	MYLK2_Homo sapiens
-ERRFI1	CHEK1_Homo sapiens
-ALOX5	MAPKAPK2_Homo sapiens
-ALOX5	YES1_Homo sapiens
-ALOX5	PRKACA_Homo sapiens
-ALOX5	HCK_Homo sapiens
-ALOX5	FGR_Homo sapiens
-ALOX5	CAMK2G_Homo sapiens
-PTPN23	PTK2_Homo sapiens
-PTPRC	CSK_Homo sapiens
-PTPRC	LCK_Homo sapiens
-PTPN6	LCK_Homo sapiens
-NSF	FER_Homo sapiens
-NSF	FES_Homo sapiens
-PDHA1	PDK1_Homo sapiens
-DUSP1	MAPK3_Homo sapiens
-DOK1	SRMS_Homo sapiens
-BECN1	DAPK1_Homo sapiens
-DAPK1	DAPK1_Homo sapiens
-ARFIP1	PRKD2_Homo sapiens
-STAT1	JAK2_Homo sapiens
-NEDD9	PLK1_Homo sapiens
-FAM129A	AKT1_Homo sapiens
-GSK3B	GSK3B_Homo sapiens
-IKBKB	IKBKG_Homo sapiens
-NFKBIA	IKBKG_Homo sapiens
-NFKBIA	IKBKB_Homo sapiens
-CDK1	EIF2AK2_Homo sapiens
-FOXM1	CCNE1_Homo sapiens
+PASK_Homo sapiens	PDX1	21418524
+PASK_Homo sapiens	GYS1	21418524
+PASK_Homo sapiens	RAB11FIP1	21418524
+PASK_Homo sapiens	FXN	21418524
+PASK_Homo sapiens	PIAS1	21418524
+PASK_Homo sapiens	CREB1	21418524
+PASK_Homo sapiens	NFATC4	21418524
+PASK_Homo sapiens	KCNH2	21418524
+PASK_Homo sapiens	RPS6	21418524
+PASK_Homo sapiens	PHKB	21418524
+PASK_Homo sapiens	EIF4ENIF1	21418524
+PASK_Homo sapiens	PFKFB1	21418524
+PASK_Homo sapiens	EEF1A1	21418524
+PASK_Homo sapiens	PKIA	21418524
+PASK_Homo sapiens	MAPT	21418524
+PASK_Homo sapiens	NCF1	21418524
+PASK_Homo sapiens	HSPB1	21418524
+PASK_Homo sapiens	VTN	21418524
+PASK_Homo sapiens	KRT8	21418524
+PASK_Homo sapiens	RAB4A	21418524
+PASK_Homo sapiens	MET	21418524
+PASK_Homo sapiens	IL2RA	21418524
+PASK_Homo sapiens	LMNA	21418524
+PASK_Homo sapiens	LMNB1	21418524
+PASK_Homo sapiens	FGA	21418524
+CSNK2A1_Homo sapiens	HIF1A	17382325
+CSNK2A1_Homo sapiens	KANK2	17476305
+CSNK2A1_Homo sapiens	XRCC1	15367657
+CSNK2A1_Homo sapiens	XRCC4	15385968
+CSNK2A1_Homo sapiens	CDC34	11546811
+CSNK2A1_Homo sapiens	SUB1	7809103
+CSNK2A1_Homo sapiens	RELA	10938077
+CSNK2A1_Homo sapiens	PTPN1	9600099
+CSNK2A1_Homo sapiens	MDC1	18583988
+CHEK2_Homo sapiens	RB1	17380128
+CHEK2_Homo sapiens	MDM2	15862297
+CHEK2_Homo sapiens	TP53	15862297
+CHEK2_Homo sapiens	NBN	11438675
+CHEK2_Homo sapiens	CDC25A	11298456
+CHEK2_Homo sapiens	TP53	10724175
+CHEK2_Homo sapiens	CHEK2	16794575
+CHEK2_Homo sapiens	STRAP	18833288
+CHEK2_Homo sapiens	TP53	18833288
+CHEK2_Homo sapiens	XRCC1	18971944
+Lyn_Mus musculus	Hcls1	10428862
+Lyn_Mus musculus	Cttn	10428862
+Lyn_Mus musculus	Irs2	10428862
+Lyn_Mus musculus	Efs	10428862
+Lyn_Mus musculus	Bcar1	10428862
+Lyn_Mus musculus	Dok2	10428862
+Lyn_Mus musculus	Dbnl	10428862
+SRC_Homo sapiens	LCT	17053785
+SRC_Homo sapiens	CBL	17141222
+SRC_Homo sapiens	ADRB2	17170700
+SRC_Homo sapiens	SRC	17170700
+SRC_Homo sapiens	PDCD6IP	15557335
+SRC_Homo sapiens	PTPN1	9600099
+PRKACA_Homo sapiens	GRIA4	10366608
+PRKACA_Homo sapiens	YWHAZ	16376338
+PRKACA_Homo sapiens	RELA	9150141
+PRKACA_Homo sapiens	LIMK1	19424295
+PRKACA_Homo sapiens	CFL1	19424295
+PRKACA_Homo sapiens	ALOX5	24860872
+GSK3B_Homo sapiens	TP53	14744935
+GSK3B_Homo sapiens	MAPT	17078951
+GSK3B_Homo sapiens	YBX1	16198352
+GSK3B_Homo sapiens	YBX3	16198352
+GSK3B_Homo sapiens	GSK3B	21985244
+PDK1_Homo sapiens	EPAS1	17024177
+PDK1_Homo sapiens	RPS6KB1	17110931
+PDK1_Homo sapiens	PKN2	17110931
+PDK1_Homo sapiens	SGK3	16888620
+PDK1_Homo sapiens	PDHA1	7782287
+CHEK1_Homo sapiens	RB1	17380128
+CHEK1_Homo sapiens	MDM4	16511572
+CHEK1_Homo sapiens	TP53	16511572
+CHEK1_Homo sapiens	CSNK2B	15225637
+CHEK1_Homo sapiens	ERRFI1	22505024
+MAPK1_Homo sapiens	YBX1	16198352
+MAPK1_Homo sapiens	YBX3	16198352
+MAPK1_Homo sapiens	BCL2	15225643
+MAPK1_Homo sapiens	IER3	16456541
+MAPK1_Homo sapiens	PPP2R5C	16456541
+AKT1_Homo sapiens	SORBS2	15784622
+AKT1_Homo sapiens	TOPBP1	17006541
+AKT1_Homo sapiens	MDM2	15527798
+AKT1_Homo sapiens	CDKN1B	12042314
+AKT1_Homo sapiens	FAM129A	22510990

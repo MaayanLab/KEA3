@@ -1,2174 +1,1685 @@
-ANXA2P2	SRC_Homo sapiens
-CD300LB	FYN_Homo sapiens
-SGK1	MAPK7_Homo sapiens
-SGK1	PDHK2_Homo sapiens
-SGK1	PDK1_Homo sapiens
-SGK1	PKA_group_Homo sapiens
-SGK1	NEK6_Homo sapiens
-SNAP23	PKCa_Homo sapiens
-FXYD1	PKA_group_Homo sapiens
-APBB1	MAPK1_Homo sapiens
-APBB1	Abl_Homo sapiens
-CBX4	HIPK2_Homo sapiens
-SUPT5H	CDK9_Homo sapiens
-EIF3F	CDC21_Homo sapiens
-PIK3CD	autocatalysis_Homo sapiens
-PIK3CD	PIK3CD_Homo sapiens
-WASL	ACK_Homo sapiens
-WASL	FAK_Homo sapiens
-EEF2K	AMPKa1_Homo sapiens
-EEF2K	AMPKa2_Homo sapiens
-EEF2K	AMPK_group_Homo sapiens
-EEF2K	MAPK13_Homo sapiens
-EEF2K	CDC2_Homo sapiens
-EEF2K	PKACa_Homo sapiens
-EEF2K	RSK3_Homo sapiens
-EEF2K	p70S6K_group_Homo sapiens
-EEF2K	RSK_group_Homo sapiens
-EEF2K	MAPKAPK2_Homo sapiens
-EEF2K	MAPKAPK3_Homo sapiens
-EEF2K	MAPKAPK5_Homo sapiens
-EEF2K	MAPK11_Homo sapiens
-EEF2K	MAPK12_Homo sapiens
-EEF2K	MAPK14_Homo sapiens
-EEF2K	MAPK8_Homo sapiens
-EEF2K	MAPK9_Homo sapiens
-DNM1L	CDC2_Homo sapiens
-DNM1L	CaMK1a_Homo sapiens
-DNM1L	PKA_group_Homo sapiens
-PIK3C2A	CDC2_Homo sapiens
-STK25	autocatalysis_Homo sapiens
-STK25	YSK1_Homo sapiens
-PITPNM1	CDC2_Homo sapiens
-PITPNM1	MAPK1_Homo sapiens
-DDX3X	CDC2_Homo sapiens
-ACACB	AMPKa2_Homo sapiens
-ACACB	AMPK_group_Homo sapiens
-CLDN4	EphA2_Homo sapiens
-SOCS3	LCK_Homo sapiens
-ARHGAP33	FYN_Homo sapiens
-MAP2K7	MAP3K1_Homo sapiens
-SLC9A3R1	PKCa_Homo sapiens
-SLC9A3R1	GPRK6_Homo sapiens
-TERT	PKB_group_Homo sapiens
-TERT	SRC-type Tyr-kinases_Homo sapiens
-TERT	SRC_Homo sapiens
-CHEK1	PKB_group_Homo sapiens
-CHEK1	CDC2_Homo sapiens
-CHEK1	ATM_Homo sapiens
-CHEK1	ATR_Homo sapiens
-NDC80	NEK2_Homo sapiens
-PSMA7	Abl_Homo sapiens
-PSMA7	ARG_Homo sapiens
-RASGRF2	CDK5_Homo sapiens
-SCAMP3	EGFR_Homo sapiens
-IKBKB	TBK1_Homo sapiens
-IKBKB	NIK_Homo sapiens
-IKBKB	MAP3K7_Homo sapiens
-IKBKB	PKCt_Homo sapiens
-IKBKB	PKCz_Homo sapiens
-IKBKB	IKK_group_Homo sapiens
-IKBKB	IKKb_Homo sapiens
-IKBKB	PDK1_Homo sapiens
-CASK	autocatalysis_Homo sapiens
-PLD2	EGFR_Homo sapiens
-PLD2	PKCa_Homo sapiens
-MYL12B	smMLCK_Homo sapiens
-MYL12B	DAPK3_Homo sapiens
-CASQ2	CK2a1_Homo sapiens
-CASQ2	CK2a2_Homo sapiens
-HGS	EGFR_Homo sapiens
-AURKA	AurA_Homo sapiens
-AURKA	PKA_group_Homo sapiens
-AURKA	PKACa_Homo sapiens
-AURKA	PAK_Homo sapiens
-PPP1R12A	NuaK1_Homo sapiens
-PPP1R12A	CDC2_Homo sapiens
-PPP1R12A	ROCK1_Homo sapiens
-PPP1R12A	CDC42BP_Homo sapiens
-PPP1R12A	DAPK3_Homo sapiens
-PPP1R12A	RAF1_Homo sapiens
-PPP1R12A	DMPK1_Homo sapiens
-PPP1R12A	ILK_Homo sapiens
-PPP1R12A	ROCK2_Homo sapiens
-SYN3	CDC2_Homo sapiens
-SYN3	MAPK3_Homo sapiens
-PER2	CK1e_Homo sapiens
-CHUK	AKT1_Homo sapiens
-CHUK	AKT2_Homo sapiens
-CHUK	NIK_Homo sapiens
-CHUK	PKCt_Homo sapiens
-CHUK	SGK1_Homo sapiens
-FYB	FYN_Homo sapiens
-SCAMP1	EGFR_Homo sapiens
-ARPC1B	PAK1_Homo sapiens
-MDM4	CHK2_Homo sapiens
-MDM4	CHK1_Homo sapiens
-PLSCR1	ABL_Homo sapiens
-PLSCR1	SRC_Homo sapiens
-PLSCR1	PKC_group_Homo sapiens
-PLSCR1	PKCd_Homo sapiens
-AXIN1	CK1_group_Homo sapiens
-AXIN1	GSK3B_Homo sapiens
-NPHP1	PYK2_Homo sapiens
-NPHP1	SRC_Homo sapiens
-MAPK13	MAP2K3_Homo sapiens
-MAPK13	MAP2K4_Homo sapiens
-MAPK13	MAP2K7_Homo sapiens
-MAPK13	MAP2K6_Homo sapiens
-SHOX	CK2a1_Homo sapiens
-TCAP	TTN_Homo sapiens
-SIVA1	ARG_Homo sapiens
-TP73	PLK1_Homo sapiens
-TP73	SRC_Homo sapiens
-TP73	HCK_Homo sapiens
-TP73	CHK1_Homo sapiens
-TP73	Abl_Homo sapiens
-INPPL1	SRC_Homo sapiens
-FANCA	PKB_group_Homo sapiens
-HDAC3	CK2a1_Homo sapiens
-BIRC5	CDC2_Homo sapiens
-BIRC5	CK2a1_Homo sapiens
-BIRC5	AurB_Homo sapiens
-RGS16	EGFR_Homo sapiens
-RGS16	SRC_Homo sapiens
-RGS16	LYN_Homo sapiens
-ARPC5	MAPKAPK2_Homo sapiens
-PDPK1	INSR_Homo sapiens
-PDPK1	RET_Homo sapiens
-PDPK1	SRC_Homo sapiens
-PDPK1	PDK1_Homo sapiens
-PDPK1	autocatalysis_Homo sapiens
-PDPK1	MELK_Homo sapiens
-PDPK1	MAP3K5_Homo sapiens
-CLDN3	PKACa_Homo sapiens
-PJA2	PKA_group_Homo sapiens
-ZNHIT1	MAPK11_Homo sapiens
-ZNHIT1	MAPK14_Homo sapiens
-DAPK3	autocatalysis_Homo sapiens
-DAPK3	DAPK3_Homo sapiens
-DAPK3	ROCK1_Homo sapiens
-DAPK3	DAPK1_Homo sapiens
-TGFB1I1	PYK2_Homo sapiens
-TGFB1I1	FYN_Homo sapiens
-AQP9	PKCz_Homo sapiens
-MAP3K7	MAP3K7_Homo sapiens
-MAP3K7	autocatalysis_Homo sapiens
-RIPK2	autocatalysis_Homo sapiens
-EIF4G3	CaMK1a_Homo sapiens
-WIPF1	PKCt_Homo sapiens
-BCL2L11	MAPK10_Homo sapiens
-BCL2L11	MAPK8_Homo sapiens
-BCL2L11	MAPK9_Homo sapiens
-BCL2L11	MAPK3_Homo sapiens
-BCL2L11	MAPK1_Homo sapiens
-BCL2L11	JNK_group_Homo sapiens
-FOXO3	AKT1_Homo sapiens
-FOXO3	PKB_group_Homo sapiens
-FOXO3	SGK_group_Homo sapiens
-FOXO3	SGK1_Homo sapiens
-FOXO3	AMPK_group_Homo sapiens
-FOXO3	MST1_Homo sapiens
-FOXO3	MAPKAPK5_Homo sapiens
-FOXO3	IKKb_Homo sapiens
-KCNQ2	PKA_group_Homo sapiens
-KCNQ2	PKCa_Homo sapiens
-SMAD6	PRKX_Homo sapiens
-FRS3	TRKB_Homo sapiens
-LAT	ZAP70_Homo sapiens
-RGS14	PKACa_Homo sapiens
-RGS14	PKA_group_Homo sapiens
-PSTPIP1	Abl_Homo sapiens
-SPRY2	SRC_Homo sapiens
-SPRY2	DYRK1A_Homo sapiens
-PRC1	CDC2_Homo sapiens
-PRC1	PLK1_Homo sapiens
-RGS10	PKA_group_Homo sapiens
-BUB1	CDC2_Homo sapiens
-ENSA	PKA_group_Homo sapiens
-KIF1C	CK2a1_Homo sapiens
-KIF1C	CK2a2_Homo sapiens
-KIF1C	CK2_group_Homo sapiens
-TYROBP	SYK_Homo sapiens
-SH3BP5	MAPK12_Homo sapiens
-SH3BP5	MAPK9_Homo sapiens
-PLIN1	PKACa_Homo sapiens
-PRKN	CK1a_Homo sapiens
-ADCY3	CaMK2_group_Homo sapiens
-NUAK1	LKB1_Homo sapiens
-NUAK1	AKT1_Homo sapiens
-NUAK1	PKB_group_Homo sapiens
-PIP5K1C	CSK_Homo sapiens
-PIP5K1C	CDK5_Homo sapiens
-TBC1D4	AKT1_Homo sapiens
-HBP1	MAPK11_Homo sapiens
-DLX3	PKCa_Homo sapiens
-DOK2	HCK_Homo sapiens
-DOK2	LYN_Homo sapiens
-DOK2	SRC_Homo sapiens
-SORBS3	MAPK1_Homo sapiens
-SYNCRIP	FGFR1_Homo sapiens
-BUB1B	PLK1_Homo sapiens
-TLR5	PKD_group_Homo sapiens
-JAK2	JAK2_Homo sapiens
-JAK2	autocatalysis_Homo sapiens
-LPXN	LYN_Homo sapiens
-CTNND1	SRC_Homo sapiens
-CTNND1	FYN_Homo sapiens
-CTNND1	EGFR_Homo sapiens
-CTNND1	GSK3B_Homo sapiens
-USO1	CSNK2B_Homo sapiens
-HIST1H2BK	MST1_Homo sapiens
-PFKFB2	AMPK_group_Homo sapiens
-PFKFB2	AMPKa1_Homo sapiens
-PFKFB2	AMPKa2_Homo sapiens
-PFKFB2	PKACa_Homo sapiens
-PFKFB2	PKB_group_Homo sapiens
-PFKFB2	PKCa_Homo sapiens
-EDF1	PKCa_Homo sapiens
-KCNJ13	PKC_group_Homo sapiens
-KCNJ13	PKA_group_Homo sapiens
-NBN	ATM_Homo sapiens
-MITF	MAPK_group_Homo sapiens
-MITF	GSK3_Homo sapiens
-MITF	RSK3_Homo sapiens
-SDC3	EphB4_Homo sapiens
-ROCK2	SRC_Homo sapiens
-PHF2	PKA_group_Homo sapiens
-RAB11FIP3	CDC2_Homo sapiens
-VAMP4	CK2_group_Homo sapiens
-TACC1	AurC_Homo sapiens
-KATNA1	DYRK2_Homo sapiens
-BANF1	VRK1_Homo sapiens
-BANF1	VRK2_Homo sapiens
-SF3B1	CDK2_Homo sapiens
-SF3B1	DYRK1A_Homo sapiens
-SF3B1	DYRK1B_Homo sapiens
-DAB1	SRC_Homo sapiens
-DAB1	CDK_group_Homo sapiens
-LRP6	CK1_group_Homo sapiens
-LRP6	CDC24_Homo sapiens
-LRP6	GPRK5_Homo sapiens
-LRP6	GSK3B_Homo sapiens
-RPS6KA5	autocatalysis_Homo sapiens
-RPS6KA5	RSK5_Homo sapiens
-RPS6KA5	MAPK1_Homo sapiens
-RPS6KA5	MAPK14_Homo sapiens
-RPS6KA5	MAPK3_Homo sapiens
-TOM1L1	FYN_Homo sapiens
-RPS6KA4	MAP2K1_Homo sapiens
-RPS6KA4	MAPK14_Homo sapiens
-RPS6KA4	MSK2_Homo sapiens
-ADAP1	PKC_group_Homo sapiens
-ADAP1	PKCa_Homo sapiens
-ADAP1	PKCe_Homo sapiens
-STK16	autocatalysis_Homo sapiens
-STAM2	EGFR_Homo sapiens
-RAD17	ATR_Homo sapiens
-RAD17	ATM_Homo sapiens
-CABYR	GSK3B_Homo sapiens
-TRIO	PTK2_Homo sapiens
-STC2	CK2a_Homo sapiens
-SNCG	BARK1_Homo sapiens
-SNCG	CaMK2b_Homo sapiens
-SNCG	CK2a1_Homo sapiens
-SNCG	GPRK5_Homo sapiens
-PDE5A	PKA_group_Homo sapiens
-PDE5A	PKG_group_Homo sapiens
-PDE5A	PKG1_Homo sapiens
-URI1	p70S6K_Homo sapiens
-STK10	LOK_Homo sapiens
-PRKD3	PKC_group_Homo sapiens
-PRKD3	autocatalysis_Homo sapiens
-GFPT2	PKA_group_Homo sapiens
-TPPP	CDK5_Homo sapiens
-TPPP	PKA_group_Homo sapiens
-NFAT5	CDK5_Homo sapiens
-NFAT5	ATM_Homo sapiens
-ZRANB2	ZRANB2_Homo sapiens
-KIF20A	PLK1_Homo sapiens
-KAT7	PLK1_Homo sapiens
-KAT7	CDC2_Homo sapiens
-RASGRP1	PKC_group_Homo sapiens
-EPM2A	AMPK_group_Homo sapiens
-SNAPIN	PKACa_Homo sapiens
-MPZL1	SRC_Homo sapiens
-MAP3K6	MAP3K6_Homo sapiens
-PARN	MAPKAPK2_Homo sapiens
-ABCA1	PKA_group_Homo sapiens
-ABCA1	PKACa_Homo sapiens
-ABCA1	CK2a_Homo sapiens
-TDP2	ALK4_Homo sapiens
-NFATC1	PKCa_Homo sapiens
-NFATC1	PKA_group_Homo sapiens
-OXSR1	Wnk1_Homo sapiens
-DDX58	CK2a1_Homo sapiens
-BAG2	MAPKAPK2_Homo sapiens
-LATS1	NuaK1_Homo sapiens
-LATS1	NuaK2_Homo sapiens
-LATS1	CDC2_Homo sapiens
-LATS1	MST2_Homo sapiens
-SNAI1	GSK3B_Homo sapiens
-SNAI1	PAK1_Homo sapiens
-MBD3	AurA_Homo sapiens
-PTTG1	CDC2_Homo sapiens
-PPP1R17	PKACa_Homo sapiens
-PPP1R17	PKG1_Homo sapiens
-HAND1	PKACa_Homo sapiens
-HAND1	PKCa_Homo sapiens
-HAND1	PKA_group_Homo sapiens
-HAND1	PKC_group_Homo sapiens
-PAK4	PAK4_Homo sapiens
-PAK4	autocatalysis_Homo sapiens
-CHEK2	ATM_Homo sapiens
-CHEK2	PLK1_Homo sapiens
-CHEK2	PLK3_Homo sapiens
-CHEK2	MLTK_Homo sapiens
-CHEK2	CHK2_Homo sapiens
-CHEK2	TTK_Homo sapiens
-CHEK2	autocatalysis_Homo sapiens
-PAH	PKA_group_Homo sapiens
-ABL1	autocatalysis_Homo sapiens
-ABL1	SRC-type Tyr-kinases_Homo sapiens
-ABL1	Abl_Homo sapiens
-ABL1	SRC_Homo sapiens
-ABL1	PAK2_Homo sapiens
-ABL1	TTK_Homo sapiens
-EGFR	PKD_group_Homo sapiens
-EGFR	PKD1_Homo sapiens
-EGFR	PKC_group_Homo sapiens
-EGFR	PKCa_Homo sapiens
-EGFR	PKCd_Homo sapiens
-EGFR	MAPK3_Homo sapiens
-EGFR	MAPK1_Homo sapiens
-EGFR	CaMK2a_Homo sapiens
-EGFR	SRC_Homo sapiens
-EGFR	autocatalysis_Homo sapiens
-EGFR	EGFR_Homo sapiens
-EGFR	CDC2_Homo sapiens
-EGFR	ErbB2_Homo sapiens
-EGFR	JAK2_Homo sapiens
-C1R	CK2a1_Homo sapiens
-C1R	CK2_group_Homo sapiens
-C1R	CK2a_Homo sapiens
-PLAU	PKCa_Homo sapiens
-FOS	MAPK3_Homo sapiens
-FOS	MAPK1_Homo sapiens
-FOS	PKACa_Homo sapiens
-FOS	RSK3_Homo sapiens
-FOS	RSK_group_Homo sapiens
-FOS	RSK2_Homo sapiens
-FOS	MAPK_group_Homo sapiens
-MYC	RAF_Homo sapiens
-MYC	GSK3_Homo sapiens
-MYC	GSK3_group_Homo sapiens
-MYC	GSK3A_Homo sapiens
-MYC	GSK3B_Homo sapiens
-MYC	MAPK1_Homo sapiens
-PRL	PAK2_Homo sapiens
-GAST	SRC_Homo sapiens
-TNF	CLIK1L_Homo sapiens
-TNF	CK2_group_Homo sapiens
-IL2RA	PKC_group_Homo sapiens
-HLA-B	SRC_Homo sapiens
-HLA-A	PRKAR1A_Homo sapiens
-HLA-A	SRC_Homo sapiens
-HLA-A	PKCa_Homo sapiens
-LMNA	PKC_group_Homo sapiens
-LMNA	PKCa_Homo sapiens
-LMNA	CDK_group_Homo sapiens
-FGA	PKA_group_Homo sapiens
-FGA	PKC_group_Homo sapiens
-MBP	PKACa_Homo sapiens
-MBP	PKCa_Homo sapiens
-MBP	MAPK1_Homo sapiens
-MBP	MAPK3_Homo sapiens
-MBP	KIS_Homo sapiens
-SLC4A1	LYN_Homo sapiens
-SLC4A1	SYK_Homo sapiens
-SLC4A1	CK1a_Homo sapiens
-TFRC	PKC_group_Homo sapiens
-TFRC	PKCa_Homo sapiens
-PRH2	GCK_Homo sapiens
-ESR1	MNAT1_Homo sapiens
-ESR1	GSK3B_Homo sapiens
-ESR1	CDK2_Homo sapiens
-ESR1	CDK_group_Homo sapiens
-ESR1	RSK3_Homo sapiens
-ESR1	MAPK_group_Homo sapiens
-ESR1	RSK_group_Homo sapiens
-ESR1	MAPK3_Homo sapiens
-ESR1	MAPK1_Homo sapiens
-ESR1	CDK7_Homo sapiens
-ESR1	RSK2_Homo sapiens
-ESR1	AKT2_Homo sapiens
-ESR1	PKA_group_Homo sapiens
-ESR1	PAK1_Homo sapiens
-ESR1	MAPK14_Homo sapiens
-ESR1	LCK_Homo sapiens
-ESR1	SRC_Homo sapiens
-VTN	CK2a1_Homo sapiens
-VTN	CK2_group_Homo sapiens
-VTN	CK2a_Homo sapiens
-VTN	PKCa_Homo sapiens
-VTN	PKCb_Homo sapiens
-VTN	PKCg_Homo sapiens
-VTN	PKA_group_Homo sapiens
-VTN	PKACa_Homo sapiens
-HMGCR	PKACa_Homo sapiens
-CAT	Abl_Homo sapiens
-CAT	ARG_Homo sapiens
-RAF1	MAPK1_Homo sapiens
-RAF1	PKACa_Homo sapiens
-RAF1	PKA_group_Homo sapiens
-RAF1	PKC_group_Homo sapiens
-RAF1	AKT1_Homo sapiens
-RAF1	autocatalysis_Homo sapiens
-RAF1	RAF1_Homo sapiens
-RAF1	KSR1_Homo sapiens
-RAF1	PAK1_Homo sapiens
-RAF1	PAK2_Homo sapiens
-RAF1	PAK3_Homo sapiens
-RAF1	PAK5_Homo sapiens
-RAF1	RHEB_Homo sapiens
-RAF1	SRC_Homo sapiens
-RAF1	PAK_group_Homo sapiens
-RAF1	JAK2_Homo sapiens
-RAF1	PKCa_Homo sapiens
-RAF1	AMPKa1_Homo sapiens
-ANXA1	ChaK1_Homo sapiens
-ANXA1	EGFR_Homo sapiens
-ANXA1	Abl_Homo sapiens
-ANXA1	SRC_Homo sapiens
-ANXA1	PKC_group_Homo sapiens
-ANXA1	PKCi_Homo sapiens
-ANXA1	PKCa_Homo sapiens
-ANXA1	PKA_group_Homo sapiens
-NR3C1	MAPK1_Homo sapiens
-NR3C1	MAPK8_Homo sapiens
-NR3C1	JNK_group_Homo sapiens
-NR3C1	MAPK_group_Homo sapiens
-NR3C1	DNAPK_Homo sapiens
-TK1	CDK2_Homo sapiens
-MYCN	CK2a1_Homo sapiens
-MYCN	CK2a2_Homo sapiens
-MYCN	CK2_group_Homo sapiens
-MYCN	CK2a_Homo sapiens
-ERBB2	ErbB2_Homo sapiens
-ERBB2	CaMK2a_Homo sapiens
-ERBB2	autocatalysis_Homo sapiens
-ERBB2	EGFR_Homo sapiens
-NTRK1	autocatalysis_Homo sapiens
-NTRK1	TRKA_Homo sapiens
-TP53	HIPK4_Homo sapiens
-TP53	CDK5_Homo sapiens
-TP53	PRPK_Homo sapiens
-TP53	AMPK_group_Homo sapiens
-TP53	NuaK1_Homo sapiens
-TP53	MAPK1_Homo sapiens
-TP53	DNAPK_Homo sapiens
-TP53	ATM_Homo sapiens
-TP53	CK1_group_Homo sapiens
-TP53	CK2a1_Homo sapiens
-TP53	CSNK2B_Homo sapiens
-TP53	TTK_Homo sapiens
-TP53	VRK1_Homo sapiens
-TP53	CHK2_Homo sapiens
-TP53	PLK3_Homo sapiens
-TP53	CHK1_Homo sapiens
-TP53	DAPK1_Homo sapiens
-TP53	CDK7_Homo sapiens
-TP53	GSK3B_Homo sapiens
-TP53	CDK_group_Homo sapiens
-TP53	GSK3_group_Homo sapiens
-TP53	MAPKAPK5_Homo sapiens
-TP53	HIPK2_Homo sapiens
-TP53	PKCg_Homo sapiens
-TP53	DYRK2_Homo sapiens
-TP53	TAF1_Homo sapiens
-TP53	GPRK5_Homo sapiens
-TP53	MAPK_group_Homo sapiens
-TP53	MAPK8_Homo sapiens
-TP53	AurB_Homo sapiens
-TP53	AurA_Homo sapiens
-TP53	CDC2_Homo sapiens
-TP53	PKCa_Homo sapiens
-TP53	PKR_Homo sapiens
-TP53	MAPK14_Homo sapiens
-HSPB1	MAPKAPK2_Homo sapiens
-HSPB1	MAPKAPK3_Homo sapiens
-HSPB1	MAPKAPK5_Homo sapiens
-HSPB1	p70S6Kb_Homo sapiens
-HSPB1	PKD1_Homo sapiens
-APP	CK2a1_Homo sapiens
-APP	CK1_group_Homo sapiens
-APP	CDK5_Homo sapiens
-APP	MAPK10_Homo sapiens
-APP	GSK3B_Homo sapiens
-ITGB3	SRC_Homo sapiens
-ITGB3	PDK1_Homo sapiens
-ITGB3	AKT1_Homo sapiens
-ITGB3	SYK_Homo sapiens
-ITGB2	PKC_group_Homo sapiens
-ITGB2	PKCb_Homo sapiens
-ITGB2	PKCd_Homo sapiens
-ITGB2	PKCa_Homo sapiens
-ITGB2	PKCe_Homo sapiens
-ITGB2	PKCh_Homo sapiens
-HMGN1	PKACa_Homo sapiens
-HMGN1	PKCa_Homo sapiens
-HMGN1	RSK2_Homo sapiens
-HMGN1	MSK2_Homo sapiens
-HMGN1	MSK1_Homo sapiens
-HMGN1	PKA_group_Homo sapiens
-HMGN1	PKC_group_Homo sapiens
-EIF2S1	PKR_Homo sapiens
-EIF2S1	HRI_Homo sapiens
-EIF2S1	PKCd_Homo sapiens
-EIF2S1	PRKRIR_Homo sapiens
-EIF2S1	PEK_Homo sapiens
-HMGN2	PKACa_Homo sapiens
-HMGN2	PKCa_Homo sapiens
-HMGN2	RSK2_Homo sapiens
-HMGN2	PKG_group_Homo sapiens
-RPLP2	BARK1_Homo sapiens
-JUN	PAK2_Homo sapiens
-JUN	MAPK8_Homo sapiens
-JUN	MAPK9_Homo sapiens
-JUN	VRK1_Homo sapiens
-JUN	CK2a1_Homo sapiens
-JUN	CK2_group_Homo sapiens
-JUN	CK2a_Homo sapiens
-JUN	GSK3B_Homo sapiens
-JUN	GSK3_group_Homo sapiens
-JUN	GSK3A_Homo sapiens
-JUN	DNAPK_Homo sapiens
-SSB	CK2a1_Homo sapiens
-SSB	CK2_group_Homo sapiens
-SSB	CK2a_Homo sapiens
-TFAP2A	PKA_group_Homo sapiens
-PRKCB	PKCb_Homo sapiens
-PRKCB	autocatalysis_Homo sapiens
-KRT18	CDC2_Homo sapiens
-KRT18	CAMK_Homo sapiens
-KRT18	PKCe_Homo sapiens
-KRT18	AurA_Homo sapiens
-KRT18	PKCa_Homo sapiens
-KRT18	RSK2_Homo sapiens
-KRT18	CaMK2_group_Homo sapiens
-KRT18	PKC_group_Homo sapiens
-KRT18	CaMK1a_Homo sapiens
-KRT18	p70S6Kb_Homo sapiens
-KRT8	PKC_group_Homo sapiens
-KRT8	MAPK_group_Homo sapiens
-KRT8	MAPK1_Homo sapiens
-KRT8	MAPK14_Homo sapiens
-KRT8	MAPK3_Homo sapiens
-KRT8	MAPK8_Homo sapiens
-KRT8	PKCd_Homo sapiens
-KRT8	CaMK2b_Homo sapiens
-KRT8	CDC2_Homo sapiens
-CD5	PKCa_Homo sapiens
-CD5	PKCb_Homo sapiens
-CD5	PKCg_Homo sapiens
-CD5	FYN_Homo sapiens
-CD5	LCK_Homo sapiens
-CD5	CK2a1_Homo sapiens
-CD5	CK2_group_Homo sapiens
-CD5	CK2a_Homo sapiens
-INSR	INSR_Homo sapiens
-INSR	PKCa_Homo sapiens
-INSR	autocatalysis_Homo sapiens
-INSR	PKC_group_Homo sapiens
-LCK	PKACa_Homo sapiens
-LCK	PKCa_Homo sapiens
-LCK	MAPK3_Homo sapiens
-LCK	MAPK1_Homo sapiens
-LCK	SYK_Homo sapiens
-LCK	autocatalysis_Homo sapiens
-LCK	FCGR3A_Homo sapiens
-LCK	LCK_Homo sapiens
-LCK	CSK_Homo sapiens
-FYN	FYN_Homo sapiens
-FYN	PDGFRb_Homo sapiens
-FYN	autocatalysis_Homo sapiens
-FYN	CSK_Homo sapiens
-GSN	SRC_Homo sapiens
-RB1	CDK_group_Homo sapiens
-RB1	CDK2_Homo sapiens
-RB1	CDK3_Homo sapiens
-RB1	CDK6_Homo sapiens
-RB1	CDK4_Homo sapiens
-PGR	CK2_group_Homo sapiens
-PGR	CDK2_Homo sapiens
-PGR	MAPK_group_Homo sapiens
-PTMA	CK2_group_Homo sapiens
-CDK1	PKR_Homo sapiens
-CDK1	PKMYT1_Homo sapiens
-CDK1	MYT1_Homo sapiens
-CDK1	WEE1_Homo sapiens
-CDK1	LYN_Homo sapiens
-CDK1	CK2_group_Homo sapiens
-CDK1	CDK7_Homo sapiens
-EIF4E	PKC_group_Homo sapiens
-EIF4E	MKNK2_Homo sapiens
-ENO1	SRC_Homo sapiens
-PYGL	PHK_Homo sapiens
-GPI	CK2_group_Homo sapiens
-NPM1	PLK1_Homo sapiens
-NPM1	PLK2_Homo sapiens
-NPM1	CDK2_Homo sapiens
-NPM1	CDK6_Homo sapiens
-NPM1	PKC_group_Homo sapiens
-TH	MAPKAPK2_Homo sapiens
-TH	PKA_group_Homo sapiens
-ASGR2	PKC_group_Homo sapiens
-FES	autocatalysis_Homo sapiens
-FES	FES_Homo sapiens
-CSF1R	autocatalysis_Homo sapiens
-ANXA2	SRC_Homo sapiens
-ANXA2	PKC_group_Homo sapiens
-TUBB	TTBK1_Homo sapiens
-ADRB2	INSR_Homo sapiens
-ADRB2	IGF1R_Homo sapiens
-ADRB2	PKA_group_Homo sapiens
-ADRB2	PKB_group_Homo sapiens
-ADRB2	GRK_group_Homo sapiens
-PFN1	ROCK1_Homo sapiens
-CD3E	LCK_Homo sapiens
-EPRS	CDK5_Homo sapiens
-HSP90AA1	CK2_group_Homo sapiens
-HNRNPC	CK2_group_Homo sapiens
-YES1	autocatalysis_Homo sapiens
-YES1	CSK_Homo sapiens
-LYN	autocatalysis_Homo sapiens
-LYN	LYN_Homo sapiens
-LYN	CSK_Homo sapiens
-LYN	MATK_Homo sapiens
-RET	RET_Homo sapiens
-RET	autocatalysis_Homo sapiens
-TPM2	PIK3CG_Homo sapiens
-GJB1	PKC_group_Homo sapiens
-GJB1	PKA_group_Homo sapiens
-SP1	ATM_Homo sapiens
-SP1	CK2_group_Homo sapiens
-IGF1R	IGF1R_Homo sapiens
-IGF1R	SRC_Homo sapiens
-IGF1R	autocatalysis_Homo sapiens
-NGFR	PRKACB_Homo sapiens
-NGFR	PKA_group_Homo sapiens
-CHRM2	GRK_group_Homo sapiens
-ABCB1	PKC_group_Homo sapiens
-ABCB1	PKA_group_Homo sapiens
-HSP90AB1	CK2_group_Homo sapiens
-MME	CSNK2B_Homo sapiens
-PDHA1	PDK1_Homo sapiens
-PDHA1	PDHK4_Homo sapiens
-PDHA1	PDHK2_Homo sapiens
-PDHA1	PDHK3_Homo sapiens
-PDHA1	PDHK1_Homo sapiens
-PLEK	PKC_group_Homo sapiens
-PTPRC	CK2_group_Homo sapiens
-PTPRC	PKC_group_Homo sapiens
-MET	MET_Homo sapiens
-MET	PKC_group_Homo sapiens
-MET	autocatalysis_Homo sapiens
-HCK	autocatalysis_Homo sapiens
-HCK	HCK_Homo sapiens
-VIM	PKA_group_Homo sapiens
-VIM	PKC_group_Homo sapiens
-VIM	PAK2_Homo sapiens
-VIM	PAK_group_Homo sapiens
-VIM	MAPKAPK2_Homo sapiens
-VIM	CDK5_Homo sapiens
-VIM	ROCK1_Homo sapiens
-VIM	ROCK_group_Homo sapiens
-ADRA2A	PKC_group_Homo sapiens
-FGF2	TEC_Homo sapiens
-FGF2	PKA_group_Homo sapiens
-GSTP1	EGFR_Homo sapiens
-VIL1	SRC_Homo sapiens
-TPM1	PIK3CA_Homo sapiens
-TPM1	DAPK1_Homo sapiens
-CNP	PKC_group_Homo sapiens
-PDGFRB	autocatalysis_Homo sapiens
-PDGFRB	PDGFR_group_Homo sapiens
-HOXB7	CK2_group_Homo sapiens
-HNRNPA1	MKNK2_Homo sapiens
-HNRNPA1	PKA_group_Homo sapiens
-CD3G	PKC_group_Homo sapiens
-FGR	FGR_Homo sapiens
-FGR	SRC_Homo sapiens
-FGR	CSK_Homo sapiens
-ALOX5	MAPKAPK2_Homo sapiens
-ALOX5	PKA_group_Homo sapiens
-GLI3	PKA_group_Homo sapiens
-MYB	CK2_group_Homo sapiens
-MYB	MAPK_group_Homo sapiens
-MYBL2	CDK2_Homo sapiens
-AR	CDK9_Homo sapiens
-AR	PKB_group_Homo sapiens
-AR	CSK_Homo sapiens
-RARA	CDK7_Homo sapiens
-RARA	PKA_group_Homo sapiens
-RRAS	SRC_Homo sapiens
-RRAS	EphB2_Homo sapiens
-ARAF	SRC_Homo sapiens
-BCL2	MAPK_group_Homo sapiens
-PTPRF	FYN_Homo sapiens
-MAPT	GSK3B_Homo sapiens
-MAPT	SGK1_Homo sapiens
-MAPT	PKN1_Homo sapiens
-MAPT	GSK3A_Homo sapiens
-MAPT	MARK1_Homo sapiens
-MAPT	TTBK1_Homo sapiens
-MAPT	CK1_group_Homo sapiens
-MAPT	CDK_group_Homo sapiens
-MAPT	PKA_group_Homo sapiens
-MAPT	PHK_Homo sapiens
-MAPT	BRSK1_Homo sapiens
-MAPT	BRSK2_Homo sapiens
-KIT	autocatalysis_Homo sapiens
-KIT	KIT_Homo sapiens
-KIT	SRC_group_Homo sapiens
-KIT	SRC_Homo sapiens
-CD28	ITK_Homo sapiens
-GHR	JAK2_Homo sapiens
-MAP2	MARK1_Homo sapiens
-SLC2A2	PKA_group_Homo sapiens
-EPB41	EGFR_Homo sapiens
-PYGB	PHK_Homo sapiens
-PYGB	PHK_group_Homo sapiens
-BCR	FES_Homo sapiens
-BCR	HCK_Homo sapiens
-FGFR1	FGFR1_Homo sapiens
-FGFR1	autocatalysis_Homo sapiens
-FGFR1	SHB_Homo sapiens
-TOP2A	PKC_group_Homo sapiens
-TOP2A	CK1_group_Homo sapiens
-TOP2A	PLK3_Homo sapiens
-TOP2A	CK2_group_Homo sapiens
-VDR	PKA_group_Homo sapiens
-VDR	CK2_group_Homo sapiens
-GNAT1	SRC_Homo sapiens
-CDK4	CDK7_Homo sapiens
-SRF	MAPKAPK2_Homo sapiens
-SRF	RSK_group_Homo sapiens
-SRF	DMPK_group_Homo sapiens
-MS4A1	CK2_group_Homo sapiens
-CD79A	LYN_Homo sapiens
-CD79A	FYN_Homo sapiens
-PCNA	EGFR_Homo sapiens
-F5	CK2_group_Homo sapiens
-FCGR2A	SYK_Homo sapiens
-FCGR2A	BLK_Homo sapiens
-ACTN1	PTK2_Homo sapiens
-ACTN1	FAK_Homo sapiens
-CDH1	GSK3B_Homo sapiens
-CDH1	CK2_group_Homo sapiens
-SRC	PKA_group_Homo sapiens
-SRC	CDK5_Homo sapiens
-SRC	CDK_group_Homo sapiens
-SRC	SRC_Homo sapiens
-SRC	autocatalysis_Homo sapiens
-SRC	CSK_Homo sapiens
-SRC	FGR_Homo sapiens
-GP1BB	PKA_group_Homo sapiens
-MYF5	CK2_group_Homo sapiens
-CFTR	PKA_group_Homo sapiens
-CFTR	PKC_group_Homo sapiens
-ITGA4	PKA_group_Homo sapiens
-CEACAM1	SRC_Homo sapiens
-TPT1	PLK1_Homo sapiens
-F3	PKC_group_Homo sapiens
-LCP1	PKA_group_Homo sapiens
-GYS1	GSK3B_Homo sapiens
-PRKAR2A	PRKAR2A_Homo sapiens
-PRKAR2A	PKA_group_Homo sapiens
-GFAP	ROCK_group_Homo sapiens
-GFAP	ROCK1_Homo sapiens
-GFAP	PKC_group_Homo sapiens
-HCLS1	FGR_Homo sapiens
-HCLS1	LYN_Homo sapiens
-HCLS1	SYK_Homo sapiens
-SI	PKA_group_Homo sapiens
-NCF1	CK2_group_Homo sapiens
-NCF1	PKA_group_Homo sapiens
-NCF1	PKB_group_Homo sapiens
-CCNB1	MAPK_group_Homo sapiens
-CCNB1	PLK1_Homo sapiens
-SLC2A4	SGK1_Homo sapiens
-IL2RB	JAK1_Homo sapiens
-IL2RB	LCK_Homo sapiens
-POU2F1	PKA_group_Homo sapiens
-POU2F1	CDK7_Homo sapiens
-ETS1	MAPK_group_Homo sapiens
-JUP	FYN_Homo sapiens
-JUP	FER_Homo sapiens
-JUP	SRC_Homo sapiens
-BRAF	SGK1_Homo sapiens
-BRAF	PKB_group_Homo sapiens
-BRAF	SGK_group_Homo sapiens
-BRAF	autocatalysis_Homo sapiens
-BRAF	PKA_group_Homo sapiens
-BRAF	RHEB_Homo sapiens
-BRAF	PAK1_Homo sapiens
-FABP4	INSR_Homo sapiens
-MYOD1	PKC_group_Homo sapiens
-MYOD1	CDK_group_Homo sapiens
-IFNGR1	JAK1_Homo sapiens
-EZR	EGFR_Homo sapiens
-EZR	LCK_Homo sapiens
-EZR	SRC_Homo sapiens
-EZR	ROCK1_Homo sapiens
-ATF2	PKA_group_Homo sapiens
-ATF2	PLK3_Homo sapiens
-ATF2	VRK1_Homo sapiens
-ATF2	PKC_group_Homo sapiens
-ATF2	ATM_Homo sapiens
-CD19	LYN_Homo sapiens
-VAV1	LCK_Homo sapiens
-NME1	NME1_Homo sapiens
-TCF3	MAPK_group_Homo sapiens
-DSP	PKA_group_Homo sapiens
-RPA2	ATM_Homo sapiens
-MUC1	GSK3B_Homo sapiens
-MUC1	CSK_Homo sapiens
-MUC1	EGFR_Homo sapiens
-MUC1	SRC_Homo sapiens
-MUC1	ZAP70_Homo sapiens
-GATA1	PKB_group_Homo sapiens
-NPR1	PKA_group_Homo sapiens
-CD44	PKC_group_Homo sapiens
-H2AFX	ATM_Homo sapiens
-H2AFX	ATR_Homo sapiens
-CREB1	ATM_Homo sapiens
-CREB1	ATR_Homo sapiens
-CREB1	GSK3B_Homo sapiens
-CREB1	AKT1_Homo sapiens
-CREB1	RPS6KA2_Homo sapiens
-CREB1	SGK1_Homo sapiens
-CREB1	TSSK4_Homo sapiens
-CREB1	CaMK2_group_Homo sapiens
-CREB1	RSK_group_Homo sapiens
-CREB1	SGK_group_Homo sapiens
-CREB1	DYRK3_Homo sapiens
-CREB1	MAPKAPK2_Homo sapiens
-CREB1	CaMK4_Homo sapiens
-CREB1	HIPK2_Homo sapiens
-PDGFRA	autocatalysis_Homo sapiens
-PECAM1	FER_Homo sapiens
-CTLA4	JAK2_Homo sapiens
-CTLA4	TXK_Homo sapiens
-CTLA4	FYN_Homo sapiens
-CTLA4	LCK_Homo sapiens
-EPB42	PKA_group_Homo sapiens
-FER	FER_Homo sapiens
-FER	autocatalysis_Homo sapiens
-PLCG2	BTK_Homo sapiens
-PLCG2	LCK_Homo sapiens
-PLCG2	SRC_Homo sapiens
-PLCG2	FYN_Homo sapiens
-PLCG2	HCK_Homo sapiens
-PLCG2	LYN_Homo sapiens
-STMN1	PAK1_Homo sapiens
-STMN1	MAPK_group_Homo sapiens
-STMN1	CDK_group_Homo sapiens
-STMN1	PKA_group_Homo sapiens
-HMGA1	HIPK2_Homo sapiens
-HMGA1	CDC2_Homo sapiens
-HMGA1	CK2_group_Homo sapiens
-HMGA1	CK_Homo sapiens
-IFNAR1	TYK2_Homo sapiens
-PRKCA	autocatalysis_Homo sapiens
-PRKCA	SYK_Homo sapiens
-GJA1	SRC_Homo sapiens
-GJA1	CK1_group_Homo sapiens
-UBTF	CDK4_Homo sapiens
-HOXB6	CSNK2B_Homo sapiens
-TAL1	PKA_group_Homo sapiens
-SYN1	PAK2_Homo sapiens
-SYN1	KIS_Homo sapiens
-SYN1	CDK_group_Homo sapiens
-SYN1	PAK1_Homo sapiens
-SYN1	PAK3_Homo sapiens
-SYN1	PAK_group_Homo sapiens
-CAPN2	PKA_group_Homo sapiens
-DES	ROCK_group_Homo sapiens
-DES	ROCK1_Homo sapiens
-CEBPB	MAPK_group_Homo sapiens
-CEBPB	PKA_group_Homo sapiens
-TPH1	PKA_group_Homo sapiens
-CTPS1	PKA_group_Homo sapiens
-DDX5	PKC_group_Homo sapiens
-PFKL	PKA_group_Homo sapiens
-IGFBP3	CK2_group_Homo sapiens
-FLT1	autocatalysis_Homo sapiens
-FLT1	FLT1_Homo sapiens
-PTPN1	AKT1_Homo sapiens
-PTPN1	PKB_group_Homo sapiens
-PTPN1	CLK1_Homo sapiens
-PTPN1	CLK2_Homo sapiens
-PTPN1	EGFR_Homo sapiens
-PTPN1	INSR_Homo sapiens
-PTPN1	PKC_group_Homo sapiens
-PTPN1	CDK_group_Homo sapiens
-EGR1	CK2_group_Homo sapiens
-VCL	SRC_Homo sapiens
-PTPRA	SRC_Homo sapiens
-GABRB1	PKC_group_Homo sapiens
-GABRG2	PKC_group_Homo sapiens
-PGAM1	PAK1_Homo sapiens
-ATF1	CK2_group_Homo sapiens
-ATF1	CDK3_Homo sapiens
-ATF1	HIPK2_Homo sapiens
-LIG1	CK2_group_Homo sapiens
-PAM	PKC_group_Homo sapiens
-CDH2	SRC_Homo sapiens
-GNAZ	PKC_group_Homo sapiens
-MYL12A	ROCK1_Homo sapiens
-PLCG1	EGFR_Homo sapiens
-PLCG1	SYK_Homo sapiens
-PLCG1	HCK_Homo sapiens
-PLCG1	LYN_Homo sapiens
-PLCG1	ITK_Homo sapiens
-PLCG1	TXK_Homo sapiens
-PLCG1	RET_Homo sapiens
-PLCG1	SRC_Homo sapiens
-PLCG1	PKA_group_Homo sapiens
-EPOR	JAK2_Homo sapiens
-ELK1	TAOK2_Homo sapiens
-ELK1	PRP4_Homo sapiens
-TNNI3	PKA_group_Homo sapiens
-TNNI3	PAK3_Homo sapiens
-EIF2AK2	JAK1_Homo sapiens
-EIF2AK2	autocatalysis_Homo sapiens
-WT1	PKA_group_Homo sapiens
-SLC9A1	RSK_group_Homo sapiens
-RXRA	MAPK_group_Homo sapiens
-RXRA	MAP2K4_Homo sapiens
-NFKB1	PKA_group_Homo sapiens
-NFKB1	IKK_group_Homo sapiens
-ATP2B1	PKA_group_Homo sapiens
-CD33	SRC_Homo sapiens
-RAB4A	CDK_group_Homo sapiens
-LMNB1	CDK_group_Homo sapiens
-LMNB1	PKC_group_Homo sapiens
-BCL3	GSK3_Homo sapiens
-MAK	autocatalysis_Homo sapiens
-HNF1A	DYRK1B_Homo sapiens
-MAG	FYN_Homo sapiens
-RASA1	PDGFR_group_Homo sapiens
-RASA1	EGFR_Homo sapiens
-RASA1	LCK_Homo sapiens
-CDK11B	CDK7_Homo sapiens
-FLNA	RSK_group_Homo sapiens
-FLNA	PAK1_Homo sapiens
-S1PR1	AKT1_Homo sapiens
-S1PR1	PKB_group_Homo sapiens
-SAT1	CK2_group_Homo sapiens
-TAF1	autocatalysis_Homo sapiens
-FGFR2	autocatalysis_Homo sapiens
-KCNA3	SRC_Homo sapiens
-UBA1	CK2_group_Homo sapiens
-NME2	NME2_Homo sapiens
-FGFR4	autocatalysis_Homo sapiens
-FGFR4	FGFR4_Homo sapiens
-FGFR3	FGFR3_Homo sapiens
-FGFR3	autocatalysis_Homo sapiens
-CBL	INSR_Homo sapiens
-CBL	SYK_Homo sapiens
-CBL	EGFR_Homo sapiens
-CBL	SRC_Homo sapiens
-CBL	FYN_Homo sapiens
-CBL	HCK_Homo sapiens
-NR4A1	PKB_group_Homo sapiens
-SFPQ	MKNK2_Homo sapiens
-RPS6KB1	PDK1_Homo sapiens
-RPS6KB1	PIK3CA_Homo sapiens
-RPS6KB1	p70S6K_Homo sapiens
-JAK1	JAK3_Homo sapiens
-CFL1	LIMK1_Homo sapiens
-CFL1	LIMK2_Homo sapiens
-CFL1	NRK_Homo sapiens
-CFL1	TESK1_Homo sapiens
-CFL1	TESK2_Homo sapiens
-EIF4B	p70S6K_Homo sapiens
-ATP2B4	SRC_group_Homo sapiens
-ITPKA	PKC_group_Homo sapiens
-CCND1	PKA_group_Homo sapiens
-CCND1	GSK3B_Homo sapiens
-ACP1	FYN_Homo sapiens
-ACP1	LCK_Homo sapiens
-MYL9	ROCK2_Homo sapiens
-MYL9	DAPK3_Homo sapiens
-MYL9	CDC42BP_Homo sapiens
-MYL9	PAK1_Homo sapiens
-MYL9	DAPK2_Homo sapiens
-MYL9	PAK2_Homo sapiens
-MYL9	EGFR_Homo sapiens
-CCNE1	GSK3_Homo sapiens
-CCNE1	GSK3B_Homo sapiens
-CCNE1	CDK2_Homo sapiens
-POLR2A	CDK9_Homo sapiens
-CDK2	WEE1_Homo sapiens
-CDK2	CCRK_Homo sapiens
-APC	CK1_group_Homo sapiens
-APC	GSK3B_Homo sapiens
-APC	PKA_group_Homo sapiens
-GRK2	MAPK_group_Homo sapiens
-GRK2	PKA_group_Homo sapiens
-MCM3	DAPK1_Homo sapiens
-MCM3	ATM_Homo sapiens
-PSMA3	CK2_group_Homo sapiens
-NFKBIA	IKBKG_Homo sapiens
-NFKBIA	CK2_group_Homo sapiens
-NFKBIA	IKK_group_Homo sapiens
-NFKBIA	TBK1_Homo sapiens
-NFKBIA	Tyr-kinases_Homo sapiens
-NFKBIA	LCK_Homo sapiens
-NFKBIA	SRC_Homo sapiens
-MSN	ROCK2_Homo sapiens
-MSN	PKA_group_Homo sapiens
-MSN	ROCK_group_Homo sapiens
-MSN	LOK_Homo sapiens
-MSN	LRRK2_Homo sapiens
-MSN	ROCK1_Homo sapiens
-PAX6	HIPK2_Homo sapiens
-PTBP1	PKA_group_Homo sapiens
-ZFP36	MAPKAPK2_Homo sapiens
-PLN	PKA_group_Homo sapiens
-PLN	CCDPK_Homo sapiens
-STOM	PKA_group_Homo sapiens
-YWHAQ	CK1_group_Homo sapiens
-MAPK3	MAP2K1_Homo sapiens
-MAPK3	MAP2K2_Homo sapiens
-MAPK3	MAP2K_group_Homo sapiens
-MAPK3	autocatalysis_Homo sapiens
-MARK3	LKB1_Homo sapiens
-APEX1	CK2_group_Homo sapiens
-CAD	PKA_group_Homo sapiens
-MAP4	MARK1_Homo sapiens
-MAP4	MARK_group_Homo sapiens
-CANX	CK2_group_Homo sapiens
-CANX	PKC_group_Homo sapiens
-PIK3R1	INSR_Homo sapiens
-PIK3R1	SRC_Homo sapiens
-PIK3R1	PIK3CA_Homo sapiens
-PIK3R1	LCK_Homo sapiens
-MAPK1	SGK1_Homo sapiens
-MAPK1	RAF1_Homo sapiens
-MAPK1	MAP2K1_Homo sapiens
-MAPK1	MAP2K2_Homo sapiens
-MAPK1	MAP2K_group_Homo sapiens
-MAPK1	RET_Homo sapiens
-MAPK1	autocatalysis_Homo sapiens
-RBL1	CDK2_Homo sapiens
-RBL1	CDK4_Homo sapiens
-EPHA2	autocatalysis_Homo sapiens
-EPHA3	autocatalysis_Homo sapiens
-EPHA3	EphA3_Homo sapiens
-EPHA8	EphA8_Homo sapiens
-PTPN6	LCK_Homo sapiens
-PTPN6	SRC_Homo sapiens
-PTPN6	INSR_Homo sapiens
-PTPN6	LYN_Homo sapiens
-SHC1	FLT4_Homo sapiens
-SHC1	ZAP70_Homo sapiens
-SHC1	SYK_Homo sapiens
-SHC1	SRC_Homo sapiens
-SHC1	FYN_Homo sapiens
-SHC1	INSR_Homo sapiens
-SHC1	LCK_Homo sapiens
-CASP1	PAK1_Homo sapiens
-NOS3	CDK5_Homo sapiens
-NOS3	PKB_group_Homo sapiens
-NOS3	PKA_group_Homo sapiens
-PML	HIPK2_Homo sapiens
-TYK2	JAK1_Homo sapiens
-MARCKS	PKC_group_Homo sapiens
-MARCKS	PKN1_Homo sapiens
-AQP1	PKC_group_Homo sapiens
-CDC27	PLK1_Homo sapiens
-WEE1	PLK1_Homo sapiens
-WEE1	WEE1_Homo sapiens
-WEE1	BRSK1_Homo sapiens
-WEE1	BRSK2_Homo sapiens
-MIP	PKA_group_Homo sapiens
-CDC25A	CHK1_Homo sapiens
-CDC25A	NEK11_Homo sapiens
-CDC25A	PIM1_Homo sapiens
-CDC25A	CHK2_Homo sapiens
-CDC25A	PLK3_Homo sapiens
-CDC25B	MELK_Homo sapiens
-CDC25B	CK2_group_Homo sapiens
-CDC25B	CHK1_Homo sapiens
-CDC25B	MAPKAPK2_Homo sapiens
-CDC25B	BRSK1_Homo sapiens
-CDC25C	PLK3_Homo sapiens
-CDC25C	PLK1_Homo sapiens
-CDC25C	BRSK1_Homo sapiens
-CDC25C	MARK3_Homo sapiens
-CDC25C	PKN1_Homo sapiens
-CDC25C	CHK2_Homo sapiens
-BDKRB2	SRC_Homo sapiens
-BDKRB2	PKC_group_Homo sapiens
-NMT1	FYN_Homo sapiens
-NMT1	LYN_Homo sapiens
-HLA-A	PKA_group_Homo sapiens
-HLA-A	PKC_group_Homo sapiens
-AXL	autocatalysis_Homo sapiens
-AXL	AXL_Homo sapiens
-GNA15	PKC_group_Homo sapiens
-MAPK4	PAK1_Homo sapiens
-MAPK4	PAK2_Homo sapiens
-MAPK4	PAK3_Homo sapiens
-MAPK4	MAPK4_Homo sapiens
-PRKAR2B	PRKAR2B_Homo sapiens
-PRKAR2B	PKA_group_Homo sapiens
-PRKAR2B	PKB_group_Homo sapiens
-AKT1	PDK1_Homo sapiens
-AKT1	SRC_Homo sapiens
-AKT1	RHEBL1_Homo sapiens
-AKT1	ILK_Homo sapiens
-YWHAB	PDKC_Homo sapiens
-FCGR2B	LYN_Homo sapiens
-FCGR2B	BLK_Homo sapiens
-FCGR2C	SYK_Homo sapiens
-L1CAM	RPS6KA2_Homo sapiens
-L1CAM	CK2_group_Homo sapiens
-ARRB2	CK2_group_Homo sapiens
-MC4R	GRK_group_Homo sapiens
-MC4R	PKA_group_Homo sapiens
-CSF2RB	PKA_group_Homo sapiens
-CIITA	PKA_group_Homo sapiens
-CDH5	SRC_Homo sapiens
-LSP1	MAPKAPK2_Homo sapiens
-HIST1H2BB	MST1_Homo sapiens
-MCM4	CDK2_Homo sapiens
-MCM4	CHK1_Homo sapiens
-SDC2	PKC_group_Homo sapiens
-GRK5	autocatalysis_Homo sapiens
-CTNNB1	CSNK2B_Homo sapiens
-CTNNB1	HIPK2_Homo sapiens
-CTNNB1	GSK3B_Homo sapiens
-CTNNB1	CK1_group_Homo sapiens
-CTNNB1	CSK_Homo sapiens
-CTNNB1	SRC_Homo sapiens
-CTNNB1	CK2_group_Homo sapiens
-CTNNB1	FYN_Homo sapiens
-CTNNB1	FER_Homo sapiens
-CTNNB1	CDK5_Homo sapiens
-PTPN7	PKA_group_Homo sapiens
-NF2	PAK_Homo sapiens
-NF2	PAK1_Homo sapiens
-NF2	PKA_group_Homo sapiens
-NF2	PAK2_Homo sapiens
-RDX	ROCK1_Homo sapiens
-RDX	ROCK_group_Homo sapiens
-SPR	CCDPK_Homo sapiens
-HRH1	PKA_group_Homo sapiens
-PTGER4	PKA_group_Homo sapiens
-PTGER4	PKC_group_Homo sapiens
-IRS1	CSNK2B_Homo sapiens
-IRS1	CK2_group_Homo sapiens
-IRS1	PLK1_Homo sapiens
-IRS1	IKK_group_Homo sapiens
-IRS1	INSR_Homo sapiens
-IRS1	JAK1_Homo sapiens
-IRS1	AMPK_group_Homo sapiens
-IRS1	SIK_Homo sapiens
-IRS1	IGF1R_Homo sapiens
-MYH9	PKC_group_Homo sapiens
-ADD1	PKA_group_Homo sapiens
-ADD1	ROCK2_Homo sapiens
-ADD1	ROCK_group_Homo sapiens
-ADD1	ROCK1_Homo sapiens
-ADD1	PKC_group_Homo sapiens
-ADD2	PKA_group_Homo sapiens
-ADD2	PKC_group_Homo sapiens
-DDIT3	CK2_group_Homo sapiens
-DDIT3	p38_group_Homo sapiens
-KRT20	MAPKAPK2_Homo sapiens
-FLT4	SRC_Homo sapiens
-FLT4	autocatalysis_Homo sapiens
-KDR	autocatalysis_Homo sapiens
-KDR	KDR_Homo sapiens
-MAP2K2	MAP2K2_Homo sapiens
-MAP2K2	RAF_Homo sapiens
-MAP2K2	MAP3K8_Homo sapiens
-CHRNA7	SRC_Homo sapiens
-PGM1	PAK1_Homo sapiens
-PPP1CC	NEK2_Homo sapiens
-FLT3	autocatalysis_Homo sapiens
-FLT3	FLT3_Homo sapiens
-SERPINF1	PKA_group_Homo sapiens
-TGFBR2	TGFbR2_Homo sapiens
-SNCA	DYRK1A_Homo sapiens
-SNCA	SRC_group_Homo sapiens
-SNCA	FYN_Homo sapiens
-SNCA	SYK_Homo sapiens
-SNCA	FGR_Homo sapiens
-SNCA	LYN_Homo sapiens
-SNCA	BARK1_Homo sapiens
-BRCA1	PKB_group_Homo sapiens
-BRCA1	CHK2_Homo sapiens
-BRCA1	ATR_Homo sapiens
-BRCA1	ATM_Homo sapiens
-BRCA1	CDK2_Homo sapiens
-COIL	VRK1_Homo sapiens
-HSPA9	TTK_Homo sapiens
-CDKN1A	MAPK_group_Homo sapiens
-CDKN1A	MAP3K5_Homo sapiens
-CDKN1A	CDK2_Homo sapiens
-CDKN1A	PKA_group_Homo sapiens
-CDKN1A	PKB_group_Homo sapiens
-CDKN1A	AKT1_Homo sapiens
-CDKN1A	PIM1_Homo sapiens
-CDKN1A	PIM2_Homo sapiens
-CDKN1A	DAPK3_Homo sapiens
-CDKN1A	PKC_group_Homo sapiens
-CDKN1A	DYRK1B_Homo sapiens
-ANP32A	CK2_group_Homo sapiens
-FEN1	CDK2_Homo sapiens
-CUX1	PKA_group_Homo sapiens
-CD79B	FYN_Homo sapiens
-CD79B	LCK_Homo sapiens
-CD79B	LYN_Homo sapiens
-RPL13A	DAPK3_Homo sapiens
-STAT3	FER_Homo sapiens
-STAT3	JAK2_Homo sapiens
-STAT3	ALK_Homo sapiens
-STAT3	FGFR3_Homo sapiens
-STAT3	FGFR4_Homo sapiens
-STAT3	HCK_Homo sapiens
-STAT3	JAK1_Homo sapiens
-STAT3	SRC_Homo sapiens
-STAT3	DYRK2_Homo sapiens
-STAT3	NLK_Homo sapiens
-STAT3	NEK6_Homo sapiens
-STAT3	IRAK1_Homo sapiens
-OPRD1	PKC_group_Homo sapiens
-ETV5	PKA_group_Homo sapiens
-CASR	PKC_group_Homo sapiens
-AQP2	PKA_group_Homo sapiens
-CETN2	PKA_group_Homo sapiens
-HNF4A	AMPK_group_Homo sapiens
-PPP1R2	ATM_Homo sapiens
-PPP1R2	GSK3B_Homo sapiens
-PPP1R2	CDK5_Homo sapiens
-PPP1R2	CK2_group_Homo sapiens
-CSK	PKA_group_Homo sapiens
-MAP3K8	PKB_group_Homo sapiens
-CCR2	JAK2_Homo sapiens
-PRKCI	SRC_Homo sapiens
-ELK3	JNK_group_Homo sapiens
-STAT1	JAK1_Homo sapiens
-STAT1	JAK2_Homo sapiens
-STAT1	TYK2_Homo sapiens
-STAT1	SRC_Homo sapiens
-STAT1	EGFR_Homo sapiens
-STAT1	FGFR3_Homo sapiens
-STAT1	FGFR4_Homo sapiens
-STAT1	KIT_Homo sapiens
-STAT1	LCK_Homo sapiens
-STAT6	JAK_group_Homo sapiens
-STAT5A	JAK2_Homo sapiens
-STAT5A	SRC_Homo sapiens
-GRIA1	PKA_group_Homo sapiens
-PIK3CB	autocatalysis_Homo sapiens
-PIK3CB	PIK3CB_Homo sapiens
-MTOR	autocatalysis_Homo sapiens
-MTOR	PKB_group_Homo sapiens
-MTOR	p70S6K_Homo sapiens
-EPS15	EGFR_Homo sapiens
-TEC	autocatalysis_Homo sapiens
-TEC	TEC_Homo sapiens
-TEC	BTK_Homo sapiens
-TEC	ITK_Homo sapiens
-TXK	autocatalysis_Homo sapiens
-TXK	TXK_Homo sapiens
-TXK	FYN_Homo sapiens
-TXK	SRC_Homo sapiens
-ABL2	autocatalysis_Homo sapiens
-LIFR	MAPK_group_Homo sapiens
-WAS	FYN_Homo sapiens
-WAS	HCK_Homo sapiens
-WAS	BTK_Homo sapiens
-HTT	PKB_group_Homo sapiens
-HTT	SGK_group_Homo sapiens
-HTT	CDK5_Homo sapiens
-SLC1A3	SGK1_Homo sapiens
-ZAP70	LCK_Homo sapiens
-ZAP70	ZAP70_Homo sapiens
-ZAP70	autocatalysis_Homo sapiens
-SYK	LYN_Homo sapiens
-SYK	SYK_Homo sapiens
-SYK	autocatalysis_Homo sapiens
-MAPK8	MAP2K7_Homo sapiens
-MAPK8	MAP2K4_Homo sapiens
-MAPK8	RET_Homo sapiens
-MAPK9	MAP2K7_Homo sapiens
-MAPK9	MAP2K4_Homo sapiens
-MAPK9	RET_Homo sapiens
-MAPK9	MAP2K_group_Homo sapiens
-MAP2K4	PKB_group_Homo sapiens
-MAP2K4	MAP3K_group_Homo sapiens
-MAP2K4	MAP2K4_Homo sapiens
-MAP2K4	MAP3K5_Homo sapiens
-PHKA1	PHKA1_Homo sapiens
-PHKA1	PHK_group_Homo sapiens
-CRK	EGFR_Homo sapiens
-CRK	IGF1R_Homo sapiens
-CDKN1B	PKB_group_Homo sapiens
-CDKN1B	KIS_Homo sapiens
-CDKN1B	SRC_Homo sapiens
-CDKN1B	ABL_Homo sapiens
-CDKN1B	LYN_Homo sapiens
-CDKN1B	AKT1_Homo sapiens
-CDKN1B	CDK2_Homo sapiens
-CDKN1B	RSK_group_Homo sapiens
-MAP2K3	MAP2K3_Homo sapiens
-YAP1	LATS1_Homo sapiens
-YAP1	LATS2_Homo sapiens
-YAP1	PKB_group_Homo sapiens
-YAP1	CK1_group_Homo sapiens
-PLA2G4A	MAPK_group_Homo sapiens
-PLA2G4A	MAPKAPK5_Homo sapiens
-RAP1GAP	PKA_group_Homo sapiens
-GABRB2	PKC_group_Homo sapiens
-KCNJ1	SGK1_Homo sapiens
-KCNJ1	SGK_group_Homo sapiens
-GRIA4	PKC_group_Homo sapiens
-GRIA4	PKA_group_Homo sapiens
-SOX9	PKA_group_Homo sapiens
-SOX9	ROCK1_Homo sapiens
-NES	CDK_group_Homo sapiens
-PIK3CG	autocatalysis_Homo sapiens
-PIK3CG	PIK3CG_Homo sapiens
-PXN	FAK_Homo sapiens
-PXN	PTK2_Homo sapiens
-PXN	SRC_Homo sapiens
-PXN	CDK5_Homo sapiens
-NR2C2	MAPK_group_Homo sapiens
-MAPKAPK2	MAPK_group_Homo sapiens
-MAPKAPK2	MAPKAPK2_Homo sapiens
-ARRB1	SRC_Homo sapiens
-AMPH	CDK_group_Homo sapiens
-AMPH	DYRK1A_Homo sapiens
-CDC34	CSNK2B_Homo sapiens
-CDC34	CK2_group_Homo sapiens
-UBE2A	CDK2_Homo sapiens
-CSNK1E	CK1_group_Homo sapiens
-STAR	PKA_group_Homo sapiens
-CEBPA	GSK3B_Homo sapiens
-MCM2	CDC7_Homo sapiens
-MCM2	ATR_Homo sapiens
-NUMB	AAK1_Homo sapiens
-CLK2	autocatalysis_Homo sapiens
-PSEN1	PKA_group_Homo sapiens
-PSEN1	PKC_group_Homo sapiens
-PSEN1	GSK3B_Homo sapiens
-PSEN1	CDK_group_Homo sapiens
-PSEN1	CDK5_Homo sapiens
-FHIT	SRC_Homo sapiens
-RGS19	CK2_group_Homo sapiens
-RGS19	PKC_group_Homo sapiens
-PSEN2	CK1_group_Homo sapiens
-PSEN2	CK2_group_Homo sapiens
-TSC2	AKT1_Homo sapiens
-TSC2	PKB_group_Homo sapiens
-TSC2	MAPKAPK2_Homo sapiens
-TSC2	AMPK_group_Homo sapiens
-TSC2	RSK_group_Homo sapiens
-GSK3A	SGK1_Homo sapiens
-GSK3A	SGK3_Homo sapiens
-GSK3A	PKA_group_Homo sapiens
-GSK3A	PKB_group_Homo sapiens
-GSK3A	AKT1_Homo sapiens
-GSK3A	PKC_group_Homo sapiens
-GSK3A	GSK3A_Homo sapiens
-GSK3B	AKT1_Homo sapiens
-GSK3B	SGK3_Homo sapiens
-GSK3B	PKA_group_Homo sapiens
-GSK3B	RSK_group_Homo sapiens
-GSK3B	SGK_group_Homo sapiens
-GSK3B	MAP2K1_Homo sapiens
-LIG4	ATM_Homo sapiens
-EMD	PKA_group_Homo sapiens
-ETV1	MAPKAPK2_Homo sapiens
-VASP	PKA_group_Homo sapiens
-CDK7	CDK7_Homo sapiens
-CDK7	CDK2_Homo sapiens
-CDK9	CDK9_Homo sapiens
-CDK9	PKA_group_Homo sapiens
-BCAM	GSK3_Homo sapiens
-BCAM	PKA_group_Homo sapiens
-DUSP3	SYK_Homo sapiens
-DUSP3	ZAP70_Homo sapiens
-BRCA2	PLK1_Homo sapiens
-BRCA2	CDK2_Homo sapiens
-IRAK1	IRAK1_Homo sapiens
-IRAK1	PKB_group_Homo sapiens
-IRAK1	IRAK4_Homo sapiens
-CAV2	SRC_Homo sapiens
-CCR5	BARK1_Homo sapiens
-CCR5	GRK_group_Homo sapiens
-STAT5B	SRC_Homo sapiens
-STAT5B	HCK_Homo sapiens
-STAT5B	JAK_Homo sapiens
-STAT5B	EGFR_Homo sapiens
-XK	PKC_group_Homo sapiens
-XK	CK2_group_Homo sapiens
-RPS6KA3	autocatalysis_Homo sapiens
-RPS6KA3	FGFR_group_Homo sapiens
-RPS6KA3	FGFR1_Homo sapiens
-BMX	PTK2_Homo sapiens
-BMX	autocatalysis_Homo sapiens
-BMX	ITK_Homo sapiens
-BMX	TEC_Homo sapiens
-BMX	BTK_Homo sapiens
-BMX	SRC_Homo sapiens
-CNN1	FYN_Homo sapiens
-CCNH	CDK8_Homo sapiens
-CCNH	CK2_group_Homo sapiens
-NEK2	autocatalysis_Homo sapiens
-MYOM1	PKA_group_Homo sapiens
-KPNA2	AMPK_group_Homo sapiens
-JAK3	autocatalysis_Homo sapiens
-JAK3	JAK3_Homo sapiens
-MAP2K6	MAP3K_Homo sapiens
-ARHGDIA	PAK1_Homo sapiens
-STAT2	JAK1_Homo sapiens
-STAT2	JAK_group_Homo sapiens
-GTF2A1	TAF1_Homo sapiens
-GTF2A1	CK2_group_Homo sapiens
-KIF11	CDK_group_Homo sapiens
-KIF11	NEK6_Homo sapiens
-VAV2	EGFR_Homo sapiens
-EFNB2	EphB2_Homo sapiens
-THOP1	PKA_group_Homo sapiens
-PDX1	HIPK2_Homo sapiens
-BLVRA	INSR_Homo sapiens
-PLK1	LOK_Homo sapiens
-DAPK1	RSK_group_Homo sapiens
-DAPK1	autocatalysis_Homo sapiens
-DAPK1	DAPK1_Homo sapiens
-DAPK1	DAPK_group_Homo sapiens
-ACLY	GSK3B_Homo sapiens
-ACLY	PKA_group_Homo sapiens
-LIMK1	LIMK1_Homo sapiens
-LIMK1	MAPKAPK2_Homo sapiens
-LIMK1	PAK1_Homo sapiens
-LIMK1	ROCK_group_Homo sapiens
-LIMK1	MRCKa_Homo sapiens
-LIMK1	ROCK1_Homo sapiens
-LIMK2	ROCK1_Homo sapiens
-LIMK2	CDC42BP_Homo sapiens
-LIMK2	ROCK_group_Homo sapiens
-LIMK2	MRCKa_Homo sapiens
-MAPK12	MAP2K3_Homo sapiens
-MAPK12	MAP2K6_Homo sapiens
-MAPK12	MAP2K4_Homo sapiens
-MAPK10	MAP2K4_Homo sapiens
-MAPK10	MAP2K_group_Homo sapiens
-MAPK10	MAP2K7_Homo sapiens
-RCAN1	GSK3B_Homo sapiens
-RCAN1	MAPK_group_Homo sapiens
-SUB1	CK2_group_Homo sapiens
-BLM	ATM_Homo sapiens
-HIRA	CDK2_Homo sapiens
-ATXN1	PKB_group_Homo sapiens
-TERF1	ATM_Homo sapiens
-PRKAA2	LKB1_Homo sapiens
-PRKAA2	CaMKK2_Homo sapiens
-PRKAA2	AMPK_group_Homo sapiens
-EPHB3	autocatalysis_Homo sapiens
-EPHB3	EphB3_Homo sapiens
-EPHA4	EphA4_Homo sapiens
-PTPN5	PKA_group_Homo sapiens
-PTPN5	MAPK_group_Homo sapiens
-EIF5	CSNK2B_Homo sapiens
-RRAD	CK2_group_Homo sapiens
-AQP4	CK2_group_Homo sapiens
-CASP9	MAP2K1_Homo sapiens
-CASP9	MAP2K2_Homo sapiens
-CASP9	PKB_group_Homo sapiens
-CASP6	NuaK1_Homo sapiens
-CASP6	AMPK_group_Homo sapiens
-BID	CSNK2B_Homo sapiens
-BID	CK1_group_Homo sapiens
-BID	CK2_group_Homo sapiens
-MAZ	CK2_group_Homo sapiens
-HDAC4	CaMK4_Homo sapiens
-EIF6	CK1_group_Homo sapiens
-EIF6	PKC_group_Homo sapiens
-BCAR1	SRC_Homo sapiens
-BCAR1	FGFR1_Homo sapiens
-BCAR1	PTK2_Homo sapiens
-SIK1	LKB1_Homo sapiens
-SIK1	autocatalysis_Homo sapiens
-FOXL2	PAK1_Homo sapiens
-PTEN	ROCK1_Homo sapiens
-PTEN	FRK_Homo sapiens
-PTEN	LKB1_Homo sapiens
-PTEN	CK2_group_Homo sapiens
-CDC42	SRC_Homo sapiens
-DSTN	TESK2_Homo sapiens
-GMFB	PKA_group_Homo sapiens
-GMFB	RSK_group_Homo sapiens
-CXCR4	PKC_group_Homo sapiens
-POLR2F	CK2_group_Homo sapiens
-RAP1B	PKA_group_Homo sapiens
-MAX	CK2_group_Homo sapiens
-RHOA	PKA_group_Homo sapiens
-PKIA	EGFR_Homo sapiens
-HNRNPK	SRC_Homo sapiens
-PPP1CA	CDK_group_Homo sapiens
-RPS6	PAK2_Homo sapiens
-RPS6	p70S6K_group_Homo sapiens
-RPS6	RSK_group_Homo sapiens
-RPS6	p70S6K_Homo sapiens
-RPS6	PASK_Homo sapiens
-HIST4H4	PAK2_Homo sapiens
-HIST1H2BI	PKA_group_Homo sapiens
-RAP1A	PKA_group_Homo sapiens
-GRB2	SRC_Homo sapiens
-GRB2	EGFR_Homo sapiens
-RAC1	PKB_group_Homo sapiens
-AP2B1	SRC_Homo sapiens
-YWHAZ	PKA_group_Homo sapiens
-YWHAZ	PKB_group_Homo sapiens
-YWHAZ	AKT1_Homo sapiens
-YWHAZ	MAPKAPK2_Homo sapiens
-YWHAZ	CK1_group_Homo sapiens
-RACK1	SRC_Homo sapiens
-YBX1	AKT1_Homo sapiens
-CSNK2B	autocatalysis_Homo sapiens
-CSNK2B	CSNK2B_Homo sapiens
-CSNK2B	CK2_group_Homo sapiens
-CSNK2B	CDK_group_Homo sapiens
-EEF1A1	PASK_Homo sapiens
-EEF1A1	PKC_group_Homo sapiens
-TUBA4A	SYK_Homo sapiens
-CSNK2A1	CDK_group_Homo sapiens
-HIST1H3J	VRK1_Homo sapiens
-HIST1H3J	PKC_group_Homo sapiens
-HIST1H3J	DAPK3_Homo sapiens
-HIST1H3J	MAPK_group_Homo sapiens
-SH3BP2	SYK_Homo sapiens
-SIRPA	JAK2_Homo sapiens
-GTF2I	JAK2_Homo sapiens
-GTF2I	SRC_Homo sapiens
-GTF2I	BTK_Homo sapiens
-ASIC1	PKA_group_Homo sapiens
-PRKDC	autocatalysis_Homo sapiens
-MAP3K9	autocatalysis_Homo sapiens
-SMAD3	CDK2_Homo sapiens
-SMAD3	CDK4_Homo sapiens
-SMAD3	GSK3_Homo sapiens
-SMAD3	MAPK_group_Homo sapiens
-SMAD3	CK1_group_Homo sapiens
-SMAD3	MAP3K7_Homo sapiens
-H3F3B	PKC_group_Homo sapiens
-DAB2	PKC_group_Homo sapiens
-PKD1	PRKX_Homo sapiens
-XIAP	PKB_group_Homo sapiens
-XIAP	AKT1_Homo sapiens
-XIAP	AKT2_Homo sapiens
-FOXO4	AKT1_Homo sapiens
-FOXO4	PKB_group_Homo sapiens
-CDK5	FYN_Homo sapiens
-CDK5	CK1_group_Homo sapiens
-CDK16	PKA_group_Homo sapiens
-CDK16	CDK_group_Homo sapiens
-CLTC	SRC_Homo sapiens
-HSF1	MAPKAPK2_Homo sapiens
-HSF1	CK2_group_Homo sapiens
-HSF1	GSK3A_Homo sapiens
-HSF1	MAPK_group_Homo sapiens
-HSF1	JNK_group_Homo sapiens
-MDM2	SGK1_Homo sapiens
-MDM2	PKB_group_Homo sapiens
-MDM2	DAPK3_Homo sapiens
-MDM2	ATM_Homo sapiens
-MDM2	ATR_Homo sapiens
-E2F1	ATM_Homo sapiens
-E2F1	ATR_Homo sapiens
-E2F1	CHK2_Homo sapiens
-E2F1	GTF2H1_Homo sapiens
-RUNX1	HIPK2_Homo sapiens
-MYT1	PLK1_Homo sapiens
-EWSR1	PKC_group_Homo sapiens
-SPIB	CK2_group_Homo sapiens
-PLCB3	PKA_group_Homo sapiens
-TAGLN	PKC_group_Homo sapiens
-MEF2A	NLK_Homo sapiens
-MEF2A	CDK5_Homo sapiens
-MEF2A	MAPK_group_Homo sapiens
-PRKCE	autocatalysis_Homo sapiens
-MAP2K1	MAP2K_group_Homo sapiens
-MAP2K1	RAF_Homo sapiens
-MAP2K1	RAF1_Homo sapiens
-MAP2K1	MAP3K_group_Homo sapiens
-MAP2K1	MAP3K8_Homo sapiens
-MAP2K1	CDK_group_Homo sapiens
-MAP2K1	PAK1_Homo sapiens
-MAP2K1	MAP2K1_Homo sapiens
-TEK	autocatalysis_Homo sapiens
-TEK	TIE2_Homo sapiens
-CAV1	SRC_Homo sapiens
-CAV1	CK2_group_Homo sapiens
-PTS	PKG_group_Homo sapiens
-RELA	CK2_group_Homo sapiens
-RELA	IKK_group_Homo sapiens
-NOTCH2	GSK3B_Homo sapiens
-PRKCQ	LCK_Homo sapiens
-PRKCQ	autocatalysis_Homo sapiens
-MST1R	RON_Homo sapiens
-MST1R	PKB_group_Homo sapiens
-YWHAH	PDKC_Homo sapiens
-DNM1	SRC_Homo sapiens
-DNM1	CDK_group_Homo sapiens
-DNM1	DYRK1A_Homo sapiens
-PTPN12	PKA_group_Homo sapiens
-PTPN12	PKC_group_Homo sapiens
-PTK2	PTK2_Homo sapiens
-PTK2	autocatalysis_Homo sapiens
-PTK2	FAK_Homo sapiens
-PTK2	SRC_Homo sapiens
-PTK2	RET_Homo sapiens
-PTK2	INSR_Homo sapiens
-PTK2	ROCK1_Homo sapiens
-LIPE	PKA_group_Homo sapiens
-LIPE	AMPK_group_Homo sapiens
-GRIN1	PKC_group_Homo sapiens
-PRKCD	LYN_Homo sapiens
-PRKCD	autocatalysis_Homo sapiens
-PRKCD	LCK_Homo sapiens
-SLC18A2	CK1_group_Homo sapiens
-SLC18A2	CK2_group_Homo sapiens
-BTK	autocatalysis_Homo sapiens
-BTK	BTK_Homo sapiens
-BTK	ITK_Homo sapiens
-BTK	TEC_Homo sapiens
-BTK	LYN_Homo sapiens
-BTK	SYK_Homo sapiens
-GFPT1	PKA_group_Homo sapiens
-MEF2C	CK2_group_Homo sapiens
-MEF2C	MAPK_group_Homo sapiens
-MEF2C	CDK5_Homo sapiens
-APLP2	PKC_group_Homo sapiens
-PDE4B	PKA_group_Homo sapiens
-ZFP36L1	PKB_group_Homo sapiens
-BCL2L1	PLK3_Homo sapiens
-MCL1	GSK3A_Homo sapiens
-MCL1	GSK3B_Homo sapiens
-MCL1	MAPK_group_Homo sapiens
-KLC1	AMPK_group_Homo sapiens
-PPARA	MAPK_group_Homo sapiens
-TNK2	SRC_Homo sapiens
-TNK2	FYN_Homo sapiens
-LRP1	SRC_Homo sapiens
-LRP1	PKA_group_Homo sapiens
-FOXM1	PLK1_Homo sapiens
-CACNB2	PKA_group_Homo sapiens
-DDR1	autocatalysis_Homo sapiens
-DDR1	DDR1_Homo sapiens
-DMTN	PKA_group_Homo sapiens
-ITK	autocatalysis_Homo sapiens
-ITK	BTK_Homo sapiens
-ITK	ITK_Homo sapiens
-ITK	LCK_Homo sapiens
-RBL2	CDK4_Homo sapiens
-RBL2	CDK6_Homo sapiens
-RBL2	CDK_group_Homo sapiens
-RBL2	CDK2_Homo sapiens
-EP300	AMPK_group_Homo sapiens
-EP300	CaM-KI_group_Homo sapiens
-EP300	PKB_group_Homo sapiens
-AHNAK	PKB_group_Homo sapiens
-FOXO1	SGK1_Homo sapiens
-FOXO1	AKT1_Homo sapiens
-FOXO1	SGK_group_Homo sapiens
-FOXO1	PAK1_Homo sapiens
-FOXO1	PKB_group_Homo sapiens
-FOXO1	CK1_group_Homo sapiens
-FOXO1	GSK3B_Homo sapiens
-FOXO1	DYRK1A_Homo sapiens
-CETN1	PKA_group_Homo sapiens
-AKAP13	PKA_group_Homo sapiens
-KCNH2	PKA_group_Homo sapiens
-MERTK	autocatalysis_Homo sapiens
-GRIN2A	CDK_group_Homo sapiens
-TP53BP1	ATM_Homo sapiens
-TRAF2	PKC_group_Homo sapiens
-NFATC3	CK1_group_Homo sapiens
-PPP1R8	CK2_group_Homo sapiens
-PPP1R8	PKA_group_Homo sapiens
-PPP1R8	LYN_Homo sapiens
-GRIK2	PKA_group_Homo sapiens
-STK4	autocatalysis_Homo sapiens
-STK4	MST1_Homo sapiens
-FLII	SGK3_Homo sapiens
-ACACA	CaM-KI_group_Homo sapiens
-ACACA	CK2_group_Homo sapiens
-ACACA	AMPK_group_Homo sapiens
-LCP2	ZAP70_Homo sapiens
-LCP2	SYK_Homo sapiens
-LCP2	TXK_Homo sapiens
-LCP2	MAP4K1_Homo sapiens
-LCP2	LCK_Homo sapiens
-PRKAA1	AMPK_group_Homo sapiens
-PRKAA1	LKB1_Homo sapiens
-EIF2B5	GSK3B_Homo sapiens
-EIF2B5	GSK3A_Homo sapiens
-HNRNPA0	MAPKAPK2_Homo sapiens
-PAK1	PAK1_Homo sapiens
-PAK1	CDK_group_Homo sapiens
-PAK1	autocatalysis_Homo sapiens
-FADD	HIPK3_Homo sapiens
-PAK2	PAK2_Homo sapiens
-PAK2	SRC_Homo sapiens
-GRIN2B	FYN_Homo sapiens
-GRIN2B	SRC_Homo sapiens
-GRM1	PKC_group_Homo sapiens
-IL15RA	SYK_Homo sapiens
-TRIM28	ATM_Homo sapiens
-NR5A1	CDK7_Homo sapiens
-SLAMF1	FYN_Homo sapiens
-ATM	autocatalysis_Homo sapiens
-ATM	ATM_Homo sapiens
-GRB10	TEC_Homo sapiens
-GRB10	FYN_Homo sapiens
-GRB10	SRC_Homo sapiens
-KLF1	CK2_group_Homo sapiens
-CTBP1	HIPK2_Homo sapiens
-PDE3B	PKA_group_Homo sapiens
-ILK	ILK_Homo sapiens
-SNTA1	MAPK_group_Homo sapiens
-ADAM15	HCK_Homo sapiens
-ADAM15	LCK_Homo sapiens
-ADAM15	SRC_group_Homo sapiens
-ADAM15	SRC_Homo sapiens
-GAB1	INSR_Homo sapiens
-GAB1	EGFR_Homo sapiens
-GAB1	MET_Homo sapiens
-PPP1R1A	PKA_group_Homo sapiens
-PIN1	PKA_group_Homo sapiens
-PIN1	PLK1_Homo sapiens
-PIN1	DAPK1_Homo sapiens
-ATR	RAD17_Homo sapiens
-EIF4EBP1	ATM_Homo sapiens
-EIF4EBP1	RORC_Homo sapiens
-EIF4EBP1	RHEBL1_Homo sapiens
-HDAC1	CK2_group_Homo sapiens
-CAMK2B	autocatalysis_Homo sapiens
-CAMK2G	autocatalysis_Homo sapiens
-CAMK2D	autocatalysis_Homo sapiens
-IRF5	TBK1_Homo sapiens
-DYRK1A	autocatalysis_Homo sapiens
-DYRK1A	DYRK1A_Homo sapiens
-IL10RA	JAK1_Homo sapiens
-RIN1	PKD1_Homo sapiens
-NACA	ILK_Homo sapiens
-SPTAN1	SRC_Homo sapiens
-PTK6	autocatalysis_Homo sapiens
-KLF5	PKC_group_Homo sapiens
-RAPGEF1	HCK_Homo sapiens
-RAPGEF1	SRC_Homo sapiens
-CAMK1	CaMKK1_Homo sapiens
-CAMK1	CaM-KI_group_Homo sapiens
-HNRNPD	GSK3B_Homo sapiens
-HNRNPD	PKA_group_Homo sapiens
-DAG1	SRC_Homo sapiens
-WRN	ATM_Homo sapiens
-DPYSL3	GSK3_Homo sapiens
-DPYSL3	DYRK2_Homo sapiens
-NPAT	CDK2_Homo sapiens
-CTTN	SRC_Homo sapiens
-CTTN	FER_Homo sapiens
-CTTN	FGFR1_Homo sapiens
-PTK2B	autocatalysis_Homo sapiens
-PTK2B	SYK_Homo sapiens
-PTK2B	PYK2_Homo sapiens
-PTK2B	SRC_Homo sapiens
-PTK2B	LYN_Homo sapiens
-PTK2B	PTPN11_Homo sapiens
-GNA13	PKA_group_Homo sapiens
-BECN1	DAPK1_Homo sapiens
-HES1	PKC_group_Homo sapiens
-NFE2L1	PKA_group_Homo sapiens
-ITPR1	FYN_Homo sapiens
-IRF3	TBK1_Homo sapiens
-MELK	autocatalysis_Homo sapiens
-MELK	LKB1_Homo sapiens
-SMC1A	ATM_Homo sapiens
-USP10	ATM_Homo sapiens
-KCNB1	SRC_Homo sapiens
-STAT4	JAK_group_Homo sapiens
-STAT4	MAP2K6_Homo sapiens
-MEF2D	PKA_group_Homo sapiens
-LASP1	PRKAR2B_Homo sapiens
-LASP1	PKA_group_Homo sapiens
-LASP1	CDK7_Homo sapiens
-MYBPC3	PKA_group_Homo sapiens
-NFATC4	RSK_group_Homo sapiens
-NOLC1	PKA_group_Homo sapiens
-NR1I3	PKC_group_Homo sapiens
-ACAP1	PKB_group_Homo sapiens
-CDK5R1	CDK5_Homo sapiens
-NCF4	PKC_group_Homo sapiens
-PDK1	PDK1_Homo sapiens
-PEA15	PKC_group_Homo sapiens
-PEA15	PKB_group_Homo sapiens
-PRKD1	SRC_Homo sapiens
-PRKD1	PKD1_Homo sapiens
-PRKD1	PKC_group_Homo sapiens
-PRKD1	PKCe_Homo sapiens
-PRKD1	autocatalysis_Homo sapiens
-STK38	autocatalysis_Homo sapiens
-STK38	NDR1_Homo sapiens
-ERBB4	autocatalysis_Homo sapiens
-RPS6KA2	RPS6KA2_Homo sapiens
-CNN3	FYN_Homo sapiens
-RPS6KA1	RSK_group_Homo sapiens
-RPS6KA1	MAPK_group_Homo sapiens
-RPS6KA1	autocatalysis_Homo sapiens
-CYTH1	PKC_group_Homo sapiens
-TESK1	TESK1_Homo sapiens
-SF1	PKG_group_Homo sapiens
-TRIP6	SRC_Homo sapiens
-CEBPE	MAPK_group_Homo sapiens
-MYLK	PKA_group_Homo sapiens
-MYLK	MAPK_group_Homo sapiens
-MYLK	PAK1_Homo sapiens
-MYLK	SRC_Homo sapiens
-MYLK	PAK2_Homo sapiens
-MAPK11	MAP2K3_Homo sapiens
-MAPK11	MAP2K4_Homo sapiens
-SMAD2	BMPR1B_Homo sapiens
-SMAD2	TGFbR1_Homo sapiens
-SMAD1	TNIK_Homo sapiens
-SMAD1	BMPR1B_Homo sapiens
-STK11	autocatalysis_Homo sapiens
-STK11	LKB1_Homo sapiens
-STK11	ATM_Homo sapiens
-STK11	PKA_group_Homo sapiens
-STK11	RSK_group_Homo sapiens
-STXBP2	CDK5_Homo sapiens
-GRK1	PKA_group_Homo sapiens
-VPS72	CK2_group_Homo sapiens
-VPS72	PKC_group_Homo sapiens
-NFE2L2	PKC_group_Homo sapiens
-PKN1	PKN1_Homo sapiens
-PKN2	PDK1_Homo sapiens
-MAPK14	MAP2K3_Homo sapiens
-MAPK14	autocatalysis_Homo sapiens
-MAPK14	MAP2K6_Homo sapiens
-MAPK14	MAP2K_group_Homo sapiens
-MAPK14	RET_Homo sapiens
-MAPK14	ZAP70_Homo sapiens
-CDC37	CK2_group_Homo sapiens
-DPYSL2	FYN_Homo sapiens
-DPYSL2	GSK3B_Homo sapiens
-DPYSL2	ROCK_group_Homo sapiens
-DPYSL2	ROCK2_Homo sapiens
-DPYSL2	ROCK1_Homo sapiens
-CAMK4	autocatalysis_Homo sapiens
-CAMK4	CaMKK1_Homo sapiens
-MAP3K11	autocatalysis_Homo sapiens
-MAP3K11	MAP4K1_Homo sapiens
-MAP3K11	PKB_group_Homo sapiens
-AANAT	PKA_group_Homo sapiens
-STX1A	CK2_group_Homo sapiens
-STX1A	DAPK1_Homo sapiens
-STX1A	DAPK_group_Homo sapiens
-OCLN	PKC_group_Homo sapiens
-OCLN	CSNK2B_Homo sapiens
-OCLN	CK2_group_Homo sapiens
-SMN2	PKA_group_Homo sapiens
-FSCN1	PKC_group_Homo sapiens
-MAPK6	PAK1_Homo sapiens
-MAPK6	MAPK_group_Homo sapiens
-HIF1A	CK1_group_Homo sapiens
-HIF1A	PLK3_Homo sapiens
-IFI16	CK2_group_Homo sapiens
-PHKG1	PHK_group_Homo sapiens
-MEP1B	PKC_group_Homo sapiens
-PPP1R3A	PKA_group_Homo sapiens
-DDR2	SRC_Homo sapiens
-PFKFB3	AMPK_group_Homo sapiens
-KIZ	PLK1_Homo sapiens
-ERCC6L	PLK1_Homo sapiens
-CCDC88A	AKT1_Homo sapiens
-PDCD4	PKB_group_Homo sapiens
-CRTC2	AMPK_group_Homo sapiens
-CRTC2	MARK2_Homo sapiens
-CEP55	PLK1_Homo sapiens
-CDCA8	TTK_Homo sapiens
-SGO1	NEK2_Homo sapiens
-CDC42BPA	autocatalysis_Homo sapiens
-FBXO31	ATM_Homo sapiens
-RCSD1	MAPKAPK2_Homo sapiens
-RCSD1	MAPKAPK3_Homo sapiens
-PKN3	PKN3_Homo sapiens
-RFWD3	ATM_Homo sapiens
-ULK3	autocatalysis_Homo sapiens
-PACS1	CK2_group_Homo sapiens
-HIST2H3D	PKC_group_Homo sapiens
-CENPU	PLK1_Homo sapiens
-MARK2	LKB1_Homo sapiens
-RAB11FIP2	MARK2_Homo sapiens
-STRADA	LKB1_Homo sapiens
-NEK8	NEK8_Homo sapiens
-USP37	CDK2_Homo sapiens
-NOXA1	PKA_group_Homo sapiens
-CD163	CSNK2B_Homo sapiens
-ZC3HC1	ALK_Homo sapiens
-SKAP1	FYN_Homo sapiens
-TMEM173	TBK1_Homo sapiens
-CAMK1D	CaMKK1_Homo sapiens
-SIAH1	ATM_Homo sapiens
-FUNDC1	SRC_Homo sapiens
-APLF	ATM_Homo sapiens
-MAPKAPK5	MAPK4_Homo sapiens
-BRSK2	LKB1_Homo sapiens
-NIM1K	autocatalysis_Homo sapiens
-MYOCD	GSK3B_Homo sapiens
-RPTOR	RSK_group_Homo sapiens
-RPTOR	AMPK_group_Homo sapiens
-ARHGAP24	ROCK1_Homo sapiens
-AFAP1	SRC_Homo sapiens
-TAB3	MAPKAPK2_Homo sapiens
-TAB3	MAPKAPK3_Homo sapiens
-CAMKK1	PKA_group_Homo sapiens
-NEDD1	PLK1_Homo sapiens
-MAFA	GSK3_Homo sapiens
-PPP1R14C	ILK_Homo sapiens
-NEK9	NEK9_Homo sapiens
-BRSK1	LKB1_Homo sapiens
-NEK7	NEK9_Homo sapiens
-GRK7	PKA_group_Homo sapiens
-HDAC7	MARK_group_Homo sapiens
-HDAC7	PKD1_Homo sapiens
-PDCD6IP	SRC_Homo sapiens
-BLNK	SYK_Homo sapiens
-ATRIP	CDK2_Homo sapiens
-ELMO1	HCK_Homo sapiens
-WASF1	SRC_Homo sapiens
-NDRG1	SGK_group_Homo sapiens
-NDRG1	SGK1_Homo sapiens
-DYRK2	ATM_Homo sapiens
-SORL1	ROCK2_Homo sapiens
-NRGN	PKC_group_Homo sapiens
-RYR2	PKA_group_Homo sapiens
-RYR2	CaMK2D_Homo sapiens
-HDAC2	CK2_group_Homo sapiens
-SYN2	PKA_group_Homo sapiens
-CREBBP	PKC_group_Homo sapiens
-RAD50	ATM_Homo sapiens
-ARHGEF1	JAK2_Homo sapiens
-MAP4K1	MAP4K1_Homo sapiens
-MAP4K1	LYN_Homo sapiens
-MAP4K1	SYK_Homo sapiens
-BAD	PIM1_Homo sapiens
-BAD	PIM2_Homo sapiens
-BAD	PIM3_Homo sapiens
-BAD	RPS6KA2_Homo sapiens
-BAD	PKA_group_Homo sapiens
-BAD	RSK_group_Homo sapiens
-BAD	PKB_group_Homo sapiens
-BAD	PAK1_Homo sapiens
-ARHGEF2	PAK4_Homo sapiens
-ARHGEF2	PAK1_Homo sapiens
-IRF7	TBK1_Homo sapiens
-CUL5	PKA_group_Homo sapiens
-STMN2	MAPK_group_Homo sapiens
-FBXW7	SGK1_Homo sapiens
-CNKSR1	NME1_Homo sapiens
-FBXW5	PLK4_Homo sapiens
-PPP1R14A	DAPK3_Homo sapiens
-PPP1R14A	PKA_group_Homo sapiens
-AKT1S1	AKT1_Homo sapiens
-AKT1S1	AKT2_Homo sapiens
-AKT1S1	PKB_group_Homo sapiens
-SPSB1	MET_Homo sapiens
-PPP1R14B	ILK_Homo sapiens
-OPTN	TBK1_Homo sapiens
-AP2M1	AAK1_Homo sapiens
-SIRT1	DYRK1A_Homo sapiens
-SIRT1	DYRK3_Homo sapiens
-BICD1	GSK3B_Homo sapiens
-AURKB	autocatalysis_Homo sapiens
-ITCH	SGK3_Homo sapiens
-ITCH	FYN_Homo sapiens
-MARK4	MARK4_Homo sapiens
-MARK4	LKB1_Homo sapiens
-SIGLEC10	JAK3_Homo sapiens
-SIGLEC10	ITK_Homo sapiens
-NEDD4L	SGK1_Homo sapiens
-NEDD4L	PKA_group_Homo sapiens
-NEDD4L	SGK_group_Homo sapiens
-PASK	autocatalysis_Homo sapiens
-PASK	PASK_Homo sapiens
-CAMKK2	DAPK_group_Homo sapiens
-CAMKK2	DAPK1_Homo sapiens
-CCNL2	DYRK1A_Homo sapiens
-PPP1R9B	PKA_group_Homo sapiens
-DCLRE1C	ATM_Homo sapiens
-RUFY1	BMX_Homo sapiens
-UHRF1	PKA_group_Homo sapiens
-CSF3R	HCK_Homo sapiens
-CYTH2	PKC_group_Homo sapiens
-TBCB	PAK1_Homo sapiens
-MAP3K14	MAP3K8_Homo sapiens
-CDX2	GSK3B_Homo sapiens
-RAD9A	ATM_Homo sapiens
-RAD9A	TLK1_Homo sapiens
-PKMYT1	PLK1_Homo sapiens
-MAP3K5	PIM1_Homo sapiens
-MAP3K5	PKB_group_Homo sapiens
-MAP3K5	AKT1_Homo sapiens
-MAP3K5	autocatalysis_Homo sapiens
-MAP3K5	MAP3K6_Homo sapiens
-MAP3K5	MAP3K5_Homo sapiens
-DOK1	LCK_Homo sapiens
-DOK1	INSR_Homo sapiens
-DOK1	RET_Homo sapiens
-RBBP8	ATM_Homo sapiens
-CDC6	CDK2_Homo sapiens
-MAP3K3	SGK1_Homo sapiens
-MAP3K3	SGK_group_Homo sapiens
-MAP3K3	MAP3K3_Homo sapiens
-PTPN18	TEC_Homo sapiens
-SH3GL1	SRC_Homo sapiens
-SH3GL1	FAK_Homo sapiens
-VRK1	PLK3_Homo sapiens
-NABP2	ATM_Homo sapiens
-CORO1B	PKC_group_Homo sapiens
-MKNK1	PAK2_Homo sapiens
-CEP250	NEK2_Homo sapiens
-TRPM6	autocatalysis_Homo sapiens
-AP1M1	AAK1_Homo sapiens
-FANCD2	ATM_Homo sapiens
-FANCD2	MRE11A_Homo sapiens
-HDAC8	PKA_group_Homo sapiens
-POLDIP3	p70S6K_Homo sapiens
-PPP1R12C	CDC42BP_Homo sapiens
-PRKD2	PKC_group_Homo sapiens
-PRKD2	autocatalysis_Homo sapiens
-PRKD2	PKD2_Homo sapiens
-WWTR1	LATS2_Homo sapiens
-NUAK2	LKB1_Homo sapiens
-RACGAP1	PLK1_Homo sapiens
-SIK2	LKB1_Homo sapiens
-ANAPC1	PLK1_Homo sapiens
-MED28	LCK_Homo sapiens
-TAOK3	SLK_Homo sapiens
-TAOK3	ATM_Homo sapiens
-WNK1	PKB_group_Homo sapiens
-DEF6	LCK_Homo sapiens
-CDCP1	SRC_Homo sapiens
-TRPV4	LYN_Homo sapiens
-TRPV4	PKC_group_Homo sapiens
-CENPJ	PLK2_Homo sapiens
-CENPJ	PLK4_Homo sapiens
-NEK6	NEK9_Homo sapiens
-ZFYVE28	MAP2K_Homo sapiens
-PLCB1	PKC_group_Homo sapiens
-TCF7L2	CK2_group_Homo sapiens
-KIF13B	MARK2_Homo sapiens
-PAK6	MAP2K6_Homo sapiens
-SNRK	LKB1_Homo sapiens
-ARHGAP35	SRC_Homo sapiens
-TOPORS	PLK1_Homo sapiens
-NDFIP2	SRC_Homo sapiens
-PARVA	MAP2K1_Homo sapiens
-ASF1B	TLK2_Homo sapiens
-PAG1	FYN_Homo sapiens
-PPP1R14D	PKA_group_Homo sapiens
-MAP3K20	autocatalysis_Homo sapiens
-WWOX	SRC_Homo sapiens
-MARK1	LKB1_Homo sapiens
-MARK1	TAOK1_Homo sapiens
-ZBTB4	HIPK2_Homo sapiens
-PAK5	PAK5_Homo sapiens
-STK26	autocatalysis_Homo sapiens
-NLK	autocatalysis_Homo sapiens
-RNF7	CSNK2B_Homo sapiens
-RNF7	CK2_group_Homo sapiens
-PPARGC1A	p38_group_Homo sapiens
-TRPC4	FYN_Homo sapiens
-METTL1	AKT1_Homo sapiens
-PPP1R1B	CDK5_Homo sapiens
-PPP1R1B	CDK_group_Homo sapiens
-ADD3	PKC_group_Homo sapiens
-STAP2	SRC_Homo sapiens
-STAP2	JAK2_Homo sapiens
-SUN2	PKA_group_Homo sapiens
-TBK1	autocatalysis_Homo sapiens
-DAPK2	autocatalysis_Homo sapiens
-DAPK2	DAPK2_Homo sapiens
-LEF1	NLK_Homo sapiens
-DBNL	ZAP70_Homo sapiens
-CDC23	PLK1_Homo sapiens
-ANAPC7	PLK1_Homo sapiens
-ANAPC4	PLK1_Homo sapiens
-HSPB8	PKC_group_Homo sapiens
-TNIK	TNIK_Homo sapiens
-APPL1	PKA_group_Homo sapiens
-TLK1	CHK1_Homo sapiens
-ACIN1	SRPK2_Homo sapiens
-FZR1	CDK_group_Homo sapiens
-MYO6	PAK3_Homo sapiens
-ALK	autocatalysis_Homo sapiens
-ALK	ALK_Homo sapiens
-DAPP1	LCK_Homo sapiens
-DAPP1	LYN_Homo sapiens
-DAPP1	SRC_Homo sapiens
-NDRG2	SGK_group_Homo sapiens
-GTF2A1L	CK2_group_Homo sapiens
-FAF1	CK2_group_Homo sapiens
-MAPK8IP3	ROCK1_Homo sapiens
-CEP164	ATR_Homo sapiens
-CEP164	ATM_Homo sapiens
-ICK	CDK7_Homo sapiens
-ICK	ICK_Homo sapiens
-EXO1	ATR_Homo sapiens
-GAB2	PKB_group_Homo sapiens
-GAB2	ZAP70_Homo sapiens
-MAPK8IP1	JNK_group_Homo sapiens
-HDAC5	AMPK_group_Homo sapiens
-HDAC5	PKC_group_Homo sapiens
-SH2B3	LCK_Homo sapiens
-SH2B3	ZAP70_Homo sapiens
-PIN4	CK2_group_Homo sapiens
-AKT3	PDK1_Homo sapiens
-NUDC	PLK1_Homo sapiens
-CFL2	LIMK1_Homo sapiens
-ASF1A	TLK2_Homo sapiens
-STK38L	autocatalysis_Homo sapiens
-STK38L	NDR2_Homo sapiens
-STK38L	MST3_Homo sapiens
-NINL	PLK1_Homo sapiens
-PIKFYVE	PKB_group_Homo sapiens
-SIK3	LKB1_Homo sapiens
-CARHSP1	SGK_group_Homo sapiens
-KCNIP3	CK1_group_Homo sapiens
-SH3GLB1	CDK5_Homo sapiens
-DYRK1B	autocatalysis_Homo sapiens
-DYRK1B	DYRK1B_Homo sapiens
-IRS2	IKK_group_Homo sapiens
-IRS2	INSR_Homo sapiens
-TBL2	ATM_Homo sapiens
-RIPK3	autocatalysis_Homo sapiens
-CTDP1	CSNK2B_Homo sapiens
-CTDP1	CK2_group_Homo sapiens
-COL4A3BP	PKD_group_Homo sapiens
-STK24	PKA_group_Homo sapiens
-STK24	autocatalysis_Homo sapiens
-IKBKG	ATM_Homo sapiens
-ROBO1	ABL_Homo sapiens
-NCOA3	CK1_group_Homo sapiens
-SLC4A4	PKA_group_Homo sapiens
+PKA_group_Homo sapiens	SGK1	11096081
+PKA_group_Homo sapiens	FXYD1	16155364;10556585
+PKA_group_Homo sapiens	DNM1L	17553808
+PKA_group_Homo sapiens	AURKA	11039908;16083426
+PKA_group_Homo sapiens	PJA2	21423175
+PKA_group_Homo sapiens	KCNQ2	9872318
+PKA_group_Homo sapiens	RGS14	12534294
+PKA_group_Homo sapiens	RGS10	11443111
+PKA_group_Homo sapiens	ENSA	17924679;18973346
+PKA_group_Homo sapiens	KCNJ13	18976636
+PKA_group_Homo sapiens	PHF2	21532585
+PKA_group_Homo sapiens	PDE5A	2168396;16690614;12359732;11723116
+PKA_group_Homo sapiens	GFPT2	15133036
+PKA_group_Homo sapiens	TPPP	17693641;18220336;18669648
+PKA_group_Homo sapiens	ABCA1	12196520
+PKA_group_Homo sapiens	NFATC1	9072970
+PKA_group_Homo sapiens	HAND1	14636580
+PKA_group_Homo sapiens	PAH	12185072
+PKA_group_Homo sapiens	FGA	6255944
+PKA_group_Homo sapiens	ESR1	16741565;18984578;9891036
+PKA_group_Homo sapiens	VTN	1696913;2448300
+PKA_group_Homo sapiens	RAF1	11971957;8349614;10801873;18691976
+PKA_group_Homo sapiens	ANXA1	2457390
+PKA_group_Homo sapiens	HMGN1	11438671
+PKA_group_Homo sapiens	TFAP2A	18669648
+PKA_group_Homo sapiens	TH	1680128
+PKA_group_Homo sapiens	ADRB2	8083204;11146000
+PKA_group_Homo sapiens	GJB1	8390988
+PKA_group_Homo sapiens	NGFR	12682012
+PKA_group_Homo sapiens	ABCB1	8132598
+PKA_group_Homo sapiens	VIM	14762106
+PKA_group_Homo sapiens	FGF2	2541433
+PKA_group_Homo sapiens	HNRNPA1	8451194
+PKA_group_Homo sapiens	ALOX5	11844797;10779545
+PKA_group_Homo sapiens	GLI3	10693759
+PKA_group_Homo sapiens	RARA	20215566
+PKA_group_Homo sapiens	MAPT	9832145;12387894;12435421;16443603;19451179
+PKA_group_Homo sapiens	SLC2A2	8626492
+PKA_group_Homo sapiens	VDR	15474498
+PKA_group_Homo sapiens	SRC	18088087;17192257;17081983;11804588
+PKA_group_Homo sapiens	GP1BB	18088087;2504723
+PKA_group_Homo sapiens	CFTR	1377674;9385646;22119790
+PKA_group_Homo sapiens	ITGA4	11533025
+PKA_group_Homo sapiens	LCP1	10446213
+PKA_group_Homo sapiens	PRKAR2A	11263724;17081983;18318008;18669648;19690332
+PKA_group_Homo sapiens	SI	8521865
+PKA_group_Homo sapiens	NCF1	7520867;8626435
+PKA_group_Homo sapiens	POU2F1	18669648;1684878;9368058
+PKA_group_Homo sapiens	BRAF	11510412;10869359
+PKA_group_Homo sapiens	ATF2	15105425;1661585
+PKA_group_Homo sapiens	DSP	18669648;7525582
+PKA_group_Homo sapiens	NPR1	9528788
+PKA_group_Homo sapiens	EPB42	8499466
+PKA_group_Homo sapiens	STMN1	11415983;17081983;17287340;17924679;18669648;10913145
+PKA_group_Homo sapiens	TAL1	9111058
+PKA_group_Homo sapiens	CAPN2	11909964
+PKA_group_Homo sapiens	CEBPB	9374525
+PKA_group_Homo sapiens	TPH1	9109552
+PKA_group_Homo sapiens	CTPS1	17463002;17189248
+PKA_group_Homo sapiens	PFKL	8670219
+PKA_group_Homo sapiens	PLCG1	1370476
+PKA_group_Homo sapiens	TNNI3	2226863;9346285;15514163;8543035
+PKA_group_Homo sapiens	WT1	11237525
+PKA_group_Homo sapiens	NFKB1	15642694;12947093
+PKA_group_Homo sapiens	ATP2B1	2548572
+PKA_group_Homo sapiens	CCND1	8058338
+PKA_group_Homo sapiens	APC	11050185
+PKA_group_Homo sapiens	GRK2	11278469
+PKA_group_Homo sapiens	MSN	9856983;15634677;19255442;9516463;17447891
+PKA_group_Homo sapiens	PTBP1	18669648;12851456
+PKA_group_Homo sapiens	PLN	11854448;9468536;15598648
+PKA_group_Homo sapiens	STOM	8373790
+PKA_group_Homo sapiens	CAD	18669648;17485345;14991569;17206380
+PKA_group_Homo sapiens	NOS3	12171920
+PKA_group_Homo sapiens	MIP	2176601
+PKA_group_Homo sapiens	HLA-A	6333425
+PKA_group_Homo sapiens	PRKAR2B	15822905;7479855
+PKA_group_Homo sapiens	MC4R	12639913
+PKA_group_Homo sapiens	CSF2RB	16437163;10949031
+PKA_group_Homo sapiens	CIITA	11416140
+PKA_group_Homo sapiens	PTPN7	18088087;10559944
+PKA_group_Homo sapiens	NF2	17081983;18669648;11782491;14981079;11719502;15378014
+PKA_group_Homo sapiens	HRH1	15107581;10101032
+PKA_group_Homo sapiens	PTGER4	11597569
+PKA_group_Homo sapiens	ADD1	8810272
+PKA_group_Homo sapiens	ADD2	8810272
+PKA_group_Homo sapiens	SERPINF1	15374885
+PKA_group_Homo sapiens	CDKN1A	10753973;11463845;12431783;16982699;20307683
+PKA_group_Homo sapiens	CUX1	16574653
+PKA_group_Homo sapiens	ETV5	11682477
+PKA_group_Homo sapiens	AQP2	18434387;10710543;12194985
+PKA_group_Homo sapiens	CETN2	11279195
+PKA_group_Homo sapiens	CSK	11181701
+PKA_group_Homo sapiens	GRIA1	18305116;16330149;8663994
+PKA_group_Homo sapiens	RAP1GAP	1406653
+PKA_group_Homo sapiens	GRIA4	10366608
+PKA_group_Homo sapiens	SOX9	15889150;10805756
+PKA_group_Homo sapiens	STAR	10548884
+PKA_group_Homo sapiens	PSEN1	14576165
+PKA_group_Homo sapiens	GSK3A	17192257;11749387;11035810;11340086;11563975;11577096;11884598
+PKA_group_Homo sapiens	GSK3B	18669648;17192257;11035810;16039586
+PKA_group_Homo sapiens	EMD	16972941;17081983;18220336;18669648;18691976;19369195;19690332
+PKA_group_Homo sapiens	VASP	7925440;9685341;14679200;8182057;16197368;18559661
+PKA_group_Homo sapiens	CDK9	10958691;18691976;19369195
+PKA_group_Homo sapiens	BCAM	15975931
+PKA_group_Homo sapiens	MYOM1	9029142
+PKA_group_Homo sapiens	THOP1	10969067
+PKA_group_Homo sapiens	ACLY	15302935;17081983;17924679;18088087;18669648;18691976;19369195;10653665
+PKA_group_Homo sapiens	PTPN5	21777200
+PKA_group_Homo sapiens	GMFB	9030586
+PKA_group_Homo sapiens	RAP1B	1551424;1696481
+PKA_group_Homo sapiens	RHOA	12654918
+PKA_group_Homo sapiens	HIST1H2BI	1137958
+PKA_group_Homo sapiens	RAP1A	9867809
+PKA_group_Homo sapiens	YWHAZ	11956222;12865427;15883165;16376338;12861023
+PKA_group_Homo sapiens	ASIC1	12578970
+PKA_group_Homo sapiens	CDK16	12154078
+PKA_group_Homo sapiens	PLCB3	15302935;9660757;10893237;11278298
+PKA_group_Homo sapiens	PTPN12	7520867;7909431
+PKA_group_Homo sapiens	LIPE	9417067;16188906;3345839
+PKA_group_Homo sapiens	GFPT1	9836513;10806197
+PKA_group_Homo sapiens	PDE4B	18220336;12441002
+PKA_group_Homo sapiens	LRP1	11158305
+PKA_group_Homo sapiens	CACNB2	10441130
+PKA_group_Homo sapiens	DMTN	7615546;16472756
+PKA_group_Homo sapiens	CETN1	11279195
+PKA_group_Homo sapiens	AKAP13	17081983;15229649
+PKA_group_Homo sapiens	KCNH2	11953308
+PKA_group_Homo sapiens	PPP1R8	18669648;9407077
+PKA_group_Homo sapiens	GRIK2	8382377
+PKA_group_Homo sapiens	PDE3B	8163498;17255105;8626720
+PKA_group_Homo sapiens	PPP1R1A	11564868
+PKA_group_Homo sapiens	PIN1	11723108
+PKA_group_Homo sapiens	HNRNPD	17287340;12819195
+PKA_group_Homo sapiens	GNA13	12399457
+PKA_group_Homo sapiens	NFE2L1	15308669
+PKA_group_Homo sapiens	MEF2D	18669648
+PKA_group_Homo sapiens	LASP1	18669648;18088087;12571245
+PKA_group_Homo sapiens	MYBPC3	18802026;20151718
+PKA_group_Homo sapiens	NOLC1	12167624
+PKA_group_Homo sapiens	MYLK	11964068
+PKA_group_Homo sapiens	STK11	18854309
+PKA_group_Homo sapiens	GRK1	15946941
+PKA_group_Homo sapiens	AANAT	11336675
+PKA_group_Homo sapiens	SMN2	17081983;19369195;21609790
+PKA_group_Homo sapiens	PPP1R3A	10648825;2152882
+PKA_group_Homo sapiens	NOXA1	17913709
+PKA_group_Homo sapiens	CAMKK1	10187789
+PKA_group_Homo sapiens	GRK7	15946941
+PKA_group_Homo sapiens	RYR2	15790957;16407108
+PKA_group_Homo sapiens	SYN2	10571231
+PKA_group_Homo sapiens	BAD	15972258;15037618;15226424;14678993;10558990;10837486
+PKA_group_Homo sapiens	CUL5	10898738
+PKA_group_Homo sapiens	PPP1R14A	15665049;15184667;11287002;15003508;12604330;12030846
+PKA_group_Homo sapiens	NEDD4L	18669648;15328345;16716084;12911626
+PKA_group_Homo sapiens	PPP1R9B	12417592
+PKA_group_Homo sapiens	UHRF1	15178447
+PKA_group_Homo sapiens	HDAC8	14701748
+PKA_group_Homo sapiens	PPP1R14D	12974676
+PKA_group_Homo sapiens	SUN2	12239280
+PKA_group_Homo sapiens	APPL1	17765681
+PKA_group_Homo sapiens	STK24	10644707
+PKA_group_Homo sapiens	SLC4A4	12730338
+autocatalysis_Homo sapiens	PIK3CD	10064595;19369195
+autocatalysis_Homo sapiens	STK25	15037601;19369195
+autocatalysis_Homo sapiens	CASK	18423203
+autocatalysis_Homo sapiens	PDPK1	10455013;11481331;15302935;16807684;18669648;18691976;19369195;19413330;19690332
+autocatalysis_Homo sapiens	DAPK3	18239682
+autocatalysis_Homo sapiens	MAP3K7	10838074;16845370;17079228
+autocatalysis_Homo sapiens	RIPK2	16824733;17525332;18691976;19369195
+autocatalysis_Homo sapiens	JAK2	16174768
+autocatalysis_Homo sapiens	RPS6KA5	15568999
+autocatalysis_Homo sapiens	STK16	18184589
+autocatalysis_Homo sapiens	PRKD3	18220336;18691976
+autocatalysis_Homo sapiens	PAK4	17081983;17192257;18669648;18691976;19369195;19690332
+autocatalysis_Homo sapiens	CHEK2	18644861
+autocatalysis_Homo sapiens	ABL1	18775435
+autocatalysis_Homo sapiens	EGFR	15951569;17081983;17389395;18669648;19534553;19563760
+autocatalysis_Homo sapiens	RAF1	8349614
+autocatalysis_Homo sapiens	ERBB2	17081983;17389395;17554007
+autocatalysis_Homo sapiens	NTRK1	8155326;15488758
+autocatalysis_Homo sapiens	PRKCB	17115692
+autocatalysis_Homo sapiens	INSR	3166375;18083107
+autocatalysis_Homo sapiens	LCK	8139546;15592455;17192257
+autocatalysis_Homo sapiens	FYN	17192257;18083107;18088087;19690332
+autocatalysis_Homo sapiens	FES	7687763;15485904;18046454;18775312;19369195;19382747
+autocatalysis_Homo sapiens	CSF1R	20489731
+autocatalysis_Homo sapiens	YES1	15951569;16094384;17081983;17192257;18083107;18088087;18669648;18691976;19369195;19534553
+autocatalysis_Homo sapiens	LYN	7935444;18070987;18083107;18088087;18691976;19534553
+autocatalysis_Homo sapiens	RET	14711813
+autocatalysis_Homo sapiens	IGF1R	11694888;18083107;18501599;18691976;19041240
+autocatalysis_Homo sapiens	MET	12475979;18083107;19369195;19534553
+autocatalysis_Homo sapiens	HCK	11896602;19369195
+autocatalysis_Homo sapiens	PDGFRB	10821867
+autocatalysis_Homo sapiens	KIT	9038210;12824176;19265199;21030588
+autocatalysis_Homo sapiens	FGFR1	8622701;16507368;19224897
+autocatalysis_Homo sapiens	SRC	6273838;17192257;18088087;18936167
+autocatalysis_Homo sapiens	BRAF	1508179;18220336
+autocatalysis_Homo sapiens	PDGFRA	8943348;11095946
+autocatalysis_Homo sapiens	FER	17192257;18083107;18691976;19369195
+autocatalysis_Homo sapiens	PRKCA	17192257
+autocatalysis_Homo sapiens	FLT1	9299537
+autocatalysis_Homo sapiens	EIF2AK2	11337501;16179258
+autocatalysis_Homo sapiens	MAK	21986944
+autocatalysis_Homo sapiens	TAF1	8625415
+autocatalysis_Homo sapiens	FGFR2	19060208;19410646
+autocatalysis_Homo sapiens	FGFR4	18670643
+autocatalysis_Homo sapiens	FGFR3	11294897
+autocatalysis_Homo sapiens	MAPK3	19060905
+autocatalysis_Homo sapiens	MAPK1	19060905
+autocatalysis_Homo sapiens	EPHA2	15951569;17192257;18083107;18691976;19369195;19534553
+autocatalysis_Homo sapiens	EPHA3	18547520
+autocatalysis_Homo sapiens	AXL	18346204
+autocatalysis_Homo sapiens	GRK5	18669648;19690332
+autocatalysis_Homo sapiens	FLT4	16076871;18083107;20431062
+autocatalysis_Homo sapiens	KDR	15962004;18936167;19136612
+autocatalysis_Homo sapiens	FLT3	16684964;19477218;21262971
+autocatalysis_Homo sapiens	PIK3CB	12502714
+autocatalysis_Homo sapiens	MTOR	21576368
+autocatalysis_Homo sapiens	TEC	12573241;19369195
+autocatalysis_Homo sapiens	TXK	12081135
+autocatalysis_Homo sapiens	ABL2	12748290
+autocatalysis_Homo sapiens	ZAP70	12522270;15592455;16094384;17192257;19690332
+autocatalysis_Homo sapiens	SYK	21469132
+autocatalysis_Homo sapiens	PIK3CG	12502714
+autocatalysis_Homo sapiens	CLK2	18691976
+autocatalysis_Homo sapiens	RPS6KA3	18691976;19369195
+autocatalysis_Homo sapiens	BMX	12573241
+autocatalysis_Homo sapiens	NEK2	17197699
+autocatalysis_Homo sapiens	JAK3	15121872;15592455;19369195
+autocatalysis_Homo sapiens	DAPK1	11579085;15729359;17056602
+autocatalysis_Homo sapiens	EPHB3	19369195
+autocatalysis_Homo sapiens	SIK1	18348280
+autocatalysis_Homo sapiens	CSNK2B	17081983;18691976;19369195
+autocatalysis_Homo sapiens	PRKDC	12186630;12231622;16565220
+autocatalysis_Homo sapiens	MAP3K9	15610029
+autocatalysis_Homo sapiens	PRKCE	11964154;18691976
+autocatalysis_Homo sapiens	TEK	11513602
+autocatalysis_Homo sapiens	PRKCQ	16252004
+autocatalysis_Homo sapiens	PTK2	12387730;15561106;17081983;17192257;17395594;17431114;18006843;18083107;19339212;19369195;20439989
+autocatalysis_Homo sapiens	PRKCD	17603046;18691976;19369195
+autocatalysis_Homo sapiens	BTK	8630736;9012831;12573241;17932028;19369195
+autocatalysis_Homo sapiens	DDR1	9659899
+autocatalysis_Homo sapiens	ITK	12573241
+autocatalysis_Homo sapiens	MERTK	8702477
+autocatalysis_Homo sapiens	STK4	15109305
+autocatalysis_Homo sapiens	PAK1	10551809;10995762
+autocatalysis_Homo sapiens	ATM	16858402;17525332
+autocatalysis_Homo sapiens	CAMK2B	16690701
+autocatalysis_Homo sapiens	CAMK2G	16690701;17081983;18669648;19369195
+autocatalysis_Homo sapiens	CAMK2D	16690701;19369195
+autocatalysis_Homo sapiens	DYRK1A	15592455;17192257;17389395;18088087;18691976;19413330;19534553;19690332
+autocatalysis_Homo sapiens	PTK6	18691976
+autocatalysis_Homo sapiens	PTK2B	11493697;15166227;17329398;19207108;20028775;20381867;20521079
+autocatalysis_Homo sapiens	MELK	16216881
+autocatalysis_Homo sapiens	PRKD1	18669648;19369195
+autocatalysis_Homo sapiens	STK38	12493777
+autocatalysis_Homo sapiens	ERBB4	18721752
+autocatalysis_Homo sapiens	RPS6KA1	9430688;17192257;18669648;18691976;19369195;19690332
+autocatalysis_Homo sapiens	STK11	11430832
+autocatalysis_Homo sapiens	MAPK14	7535770;16083285;17081983;17192257;18669648;18691976;19369195;19690332
+autocatalysis_Homo sapiens	CAMK4	8702940
+autocatalysis_Homo sapiens	MAP3K11	11053428
+autocatalysis_Homo sapiens	CDC42BPA	11283256
+autocatalysis_Homo sapiens	ULK3	20643644
+autocatalysis_Homo sapiens	NIM1K	15733851
+autocatalysis_Homo sapiens	AURKB	14722118;16565220;18220336;18691976
+autocatalysis_Homo sapiens	PASK	11459942
+autocatalysis_Homo sapiens	MAP3K5	17937911
+autocatalysis_Homo sapiens	TRPM6	18258429
+autocatalysis_Homo sapiens	PRKD2	11062248;12058027;18691976;19369195
+autocatalysis_Homo sapiens	MAP3K20	15342622
+autocatalysis_Homo sapiens	STK26	18691976;19369195
+autocatalysis_Homo sapiens	NLK	19369195;19690332
+autocatalysis_Homo sapiens	TBK1	11839743;19369195
+autocatalysis_Homo sapiens	DAPK2	11230133
+autocatalysis_Homo sapiens	ALK	15592455;18083107
+autocatalysis_Homo sapiens	STK38L	15037617
+autocatalysis_Homo sapiens	DYRK1B	18220336
+autocatalysis_Homo sapiens	RIPK3	11734559;19524512
+autocatalysis_Homo sapiens	STK24	17046825;19604147;19690332;20124694
+SRC_Homo sapiens	ANXA2P2	19534553
+SRC_Homo sapiens	TERT	12808100
+SRC_Homo sapiens	PLSCR1	11390389;12871937
+SRC_Homo sapiens	NPHP1	21357692
+SRC_Homo sapiens	TP73	17535448
+SRC_Homo sapiens	INPPL1	11349134;12235291;12522270;15592455;15951569;17081983;17389395;18083107;19534553;19901323
+SRC_Homo sapiens	RGS16	11602604;12588871
+SRC_Homo sapiens	PDPK1	16314505;15302935;12738763;114813311;14585963
+SRC_Homo sapiens	SPRY2	12815057;12593795;16000370;15637081;15564375
+SRC_Homo sapiens	DOK2	10428862
+SRC_Homo sapiens	CTNND1	11382764;17016520
+SRC_Homo sapiens	ROCK2	18559669;20826462
+SRC_Homo sapiens	DAB1	11279201;10959835
+SRC_Homo sapiens	MPZL1	18083107;10681522;11751924
+SRC_Homo sapiens	ABL1	11781820;18691976;16497976;19901323
+SRC_Homo sapiens	EGFR	18083107;11983694;10075741;16729043
+SRC_Homo sapiens	GAST	8578591
+SRC_Homo sapiens	HLA-B	6304688
+SRC_Homo sapiens	HLA-A	6304688;6333425
+SRC_Homo sapiens	ESR1	16741565;7539106
+SRC_Homo sapiens	RAF1	17097642
+SRC_Homo sapiens	ANXA1	2457390
+SRC_Homo sapiens	ITGB3	18088087;8631894;18398066;15699036;11723131
+SRC_Homo sapiens	GSN	10210201
+SRC_Homo sapiens	ENO1	18083107;15592455;8578591
+SRC_Homo sapiens	ANXA2	15302870;17287340;17389395;18083107;2456953
+SRC_Homo sapiens	IGF1R	8940173;17016520
+SRC_Homo sapiens	VIL1	15342783
+SRC_Homo sapiens	FGR	19369195
+SRC_Homo sapiens	RRAS	11682467;10570155
+SRC_Homo sapiens	ARAF	9020159
+SRC_Homo sapiens	KIT	12878163
+SRC_Homo sapiens	GNAT1	11032890
+SRC_Homo sapiens	SRC	12753909
+SRC_Homo sapiens	CEACAM1	9867848
+SRC_Homo sapiens	JUP	14517306
+SRC_Homo sapiens	EZR	15623525
+SRC_Homo sapiens	MUC1	18083107;14521915;11483589;11152665
+SRC_Homo sapiens	PLCG2	15144186;11507089;12181444;11606584
+SRC_Homo sapiens	GJA1	11514593;19901323
+SRC_Homo sapiens	VCL	15229287
+SRC_Homo sapiens	PTPRA	11923305;7518772;17389395;16497976;17016520;18578522;20068231
+SRC_Homo sapiens	CDH2	16371504
+SRC_Homo sapiens	PLCG1	8885868;8657103;1689310;7682059;17389395;16497976;17016520;20068231
+SRC_Homo sapiens	CD33	10206955;10887109
+SRC_Homo sapiens	KCNA3	11812778
+SRC_Homo sapiens	CBL	14739300
+SRC_Homo sapiens	NFKBIA	12432072;8797825;9792645
+SRC_Homo sapiens	PIK3R1	15592455;8385099
+SRC_Homo sapiens	PTPN6	18083107;14757045;7512963;12468540;8692915;8114715;14699166
+SRC_Homo sapiens	SHC1	9685404;15688026;17389395;16497976;17016520;19901323;20068231
+SRC_Homo sapiens	BDKRB2	16226010
+SRC_Homo sapiens	AKT1	11445557
+SRC_Homo sapiens	CDH5	16027153
+SRC_Homo sapiens	CTNNB1	11279024
+SRC_Homo sapiens	FLT4	20431062
+SRC_Homo sapiens	CHRNA7	16251431
+SRC_Homo sapiens	STAT3	11940572;11294897;10918587;12244095;11350938;12626508;8626374;12576423;14551213;17389395;16497976;17016520;19901323
+SRC_Homo sapiens	PRKCI	11713277;11891849
+SRC_Homo sapiens	STAT1	10748192;15322115;7592750;14978237;11438544
+SRC_Homo sapiens	STAT5A	18083107;17081983;11641791
+SRC_Homo sapiens	TXK	11353545
+SRC_Homo sapiens	CDKN1B	18454177;17254967
+SRC_Homo sapiens	PXN	16254239;11695992
+SRC_Homo sapiens	ARRB1	17456469
+SRC_Homo sapiens	FHIT	15835917;15007172
+SRC_Homo sapiens	CAV2	12091389;15504032;17081983;18669648;20068231
+SRC_Homo sapiens	STAT5B	12621061
+SRC_Homo sapiens	BMX	10688651
+SRC_Homo sapiens	BCAR1	12972425
+SRC_Homo sapiens	CDC42	14506284
+SRC_Homo sapiens	HNRNPK	12052863
+SRC_Homo sapiens	GRB2	9016807
+SRC_Homo sapiens	AP2B1	15592455;17456551;18083107;18938240
+SRC_Homo sapiens	RACK1	12400005
+SRC_Homo sapiens	GTF2I	9837922;9012831;11373296;11313464;11934902
+SRC_Homo sapiens	CLTC	12237126
+SRC_Homo sapiens	CAV1	8632005;17389395;17016520;18707149;18578522;18083107;14992595;12921535
+SRC_Homo sapiens	DNM1	9880482
+SRC_Homo sapiens	PTK2	7529876
+SRC_Homo sapiens	TNK2	15308621;16472662;17389395;19369195;20333297;20623637;20979614;21169560;21309750
+SRC_Homo sapiens	LRP1	12789267;11854294
+SRC_Homo sapiens	PAK2	12215529
+SRC_Homo sapiens	GRIN2B	11024032;11483655
+SRC_Homo sapiens	GRB10	10871840
+SRC_Homo sapiens	ADAM15	11741929
+SRC_Homo sapiens	SPTAN1	11971983
+SRC_Homo sapiens	RAPGEF1	10318861;12734187;15320955;14551197
+SRC_Homo sapiens	DAG1	11495720;12795607;20512930
+SRC_Homo sapiens	CTTN	12522270;17287340;17389395;18088087;19413330;19534553;19690332;9748248;10921917;18669648;18491316;16497976;17016520;18707149;20068231
+SRC_Homo sapiens	PTK2B	12522270;17192257;18083107;19369195;19534553
+SRC_Homo sapiens	KCNB1	12615930
+SRC_Homo sapiens	PRKD1	17804414
+SRC_Homo sapiens	TRIP6	15988003;17591779
+SRC_Homo sapiens	MYLK	11113114;12408982
+SRC_Homo sapiens	DDR2	18083107
+SRC_Homo sapiens	FUNDC1	22267086
+SRC_Homo sapiens	AFAP1	9655255
+SRC_Homo sapiens	PDCD6IP	15557335
+SRC_Homo sapiens	WASF1	16317717
+SRC_Homo sapiens	SH3GL1	16054026
+SRC_Homo sapiens	CDCP1	14739293
+SRC_Homo sapiens	ARHGAP35	18083107;15592455;11309200;9819392;16497976;17016520;19901323;20068231
+SRC_Homo sapiens	NDFIP2	20534535
+SRC_Homo sapiens	WWOX	15070730
+SRC_Homo sapiens	STAP2	12540842
+SRC_Homo sapiens	DAPP1	10880360;17389395;19901323
+PKC_group_Homo sapiens	PLSCR1	10770950
+PKC_group_Homo sapiens	KCNJ13	18976636
+PKC_group_Homo sapiens	ADAP1	12893243
+PKC_group_Homo sapiens	PRKD3	18691976
+PKC_group_Homo sapiens	RASGRP1	15657177;15899849
+PKC_group_Homo sapiens	HAND1	14636580
+PKC_group_Homo sapiens	EGFR	3379075;15302935;1860884;6090944;10523301
+PKC_group_Homo sapiens	IL2RA	2941417
+PKC_group_Homo sapiens	LMNA	8477740
+PKC_group_Homo sapiens	FGA	1956339
+PKC_group_Homo sapiens	TFRC	18669648;3119581;3013873
+PKC_group_Homo sapiens	RAF1	8349614;10576742;10801873;11756411;15047712;16630891;18691976;18669648;18220336;12801936;11971957
+PKC_group_Homo sapiens	ANXA1	1956339
+PKC_group_Homo sapiens	ITGB2	11700305
+PKC_group_Homo sapiens	HMGN1	11438671
+PKC_group_Homo sapiens	KRT18	7523419;1374067
+PKC_group_Homo sapiens	KRT8	1374067
+PKC_group_Homo sapiens	INSR	8454604;1956339;2110001
+PKC_group_Homo sapiens	EIF4E	7665584;7782323;11154262
+PKC_group_Homo sapiens	NPM1	1446684
+PKC_group_Homo sapiens	ASGR2	1924301
+PKC_group_Homo sapiens	ANXA2	18412141;2174397;2946940
+PKC_group_Homo sapiens	GJB1	8390988
+PKC_group_Homo sapiens	ABCB1	18669648;8095261
+PKC_group_Homo sapiens	PLEK	7559487;8615792
+PKC_group_Homo sapiens	PTPRC	9111075;10066810
+PKC_group_Homo sapiens	MET	7925482;8294430;15075332
+PKC_group_Homo sapiens	VIM	14762106
+PKC_group_Homo sapiens	ADRA2A	11732925
+PKC_group_Homo sapiens	CNP	10646504
+PKC_group_Homo sapiens	CD3G	3112151
+PKC_group_Homo sapiens	TOP2A	17081983;7499337
+PKC_group_Homo sapiens	CFTR	1377674;22119790
+PKC_group_Homo sapiens	F3	12920028;15039423
+PKC_group_Homo sapiens	GFAP	12177195;2155236;12686604;9099667
+PKC_group_Homo sapiens	MYOD1	11025438
+PKC_group_Homo sapiens	ATF2	1661585
+PKC_group_Homo sapiens	CD44	12032545
+PKC_group_Homo sapiens	DDX5	7525583
+PKC_group_Homo sapiens	PTPN1	8491187
+PKC_group_Homo sapiens	GABRB1	1321150
+PKC_group_Homo sapiens	GABRG2	1321150;17875639
+PKC_group_Homo sapiens	PAM	18669648;8530412
+PKC_group_Homo sapiens	GNAZ	8429024;10531372;9166747
+PKC_group_Homo sapiens	LMNB1	8463284
+PKC_group_Homo sapiens	ITPKA	9374536;9155020
+PKC_group_Homo sapiens	CANX	18669648;18088087;17081983;16083285;9642293
+PKC_group_Homo sapiens	MARCKS	8557118;17081983;18187866;11162562;16116087;1650359
+PKC_group_Homo sapiens	AQP1	17522053
+PKC_group_Homo sapiens	BDKRB2	11517230
+PKC_group_Homo sapiens	HLA-A	2941417
+PKC_group_Homo sapiens	GNA15	12647293
+PKC_group_Homo sapiens	SDC2	9244383
+PKC_group_Homo sapiens	PTGER4	11597569
+PKC_group_Homo sapiens	MYH9	9545325;1899200
+PKC_group_Homo sapiens	ADD1	8810272;17081983
+PKC_group_Homo sapiens	ADD2	8810272
+PKC_group_Homo sapiens	CDKN1A	10753973
+PKC_group_Homo sapiens	OPRD1	11085981
+PKC_group_Homo sapiens	CASR	12409307;9694886
+PKC_group_Homo sapiens	GABRB2	1334482
+PKC_group_Homo sapiens	GRIA4	10366608
+PKC_group_Homo sapiens	PSEN1	14576165
+PKC_group_Homo sapiens	RGS19	10993892
+PKC_group_Homo sapiens	GSK3A	17192257;11749387;11035810;11340086;11563975;11577096;11884598
+PKC_group_Homo sapiens	XK	9647734
+PKC_group_Homo sapiens	EIF6	14654845;19007248
+PKC_group_Homo sapiens	CXCR4	19116316;20048153
+PKC_group_Homo sapiens	EEF1A1	7890750
+PKC_group_Homo sapiens	HIST1H3J	20228790
+PKC_group_Homo sapiens	H3F3B	20228790
+PKC_group_Homo sapiens	DAB2	11812785;10542228
+PKC_group_Homo sapiens	EWSR1	934118
+PKC_group_Homo sapiens	TAGLN	11053353
+PKC_group_Homo sapiens	PTPN12	7520867;7909431
+PKC_group_Homo sapiens	GRIN1	8316301
+PKC_group_Homo sapiens	APLP2	9109675
+PKC_group_Homo sapiens	TRAF2	19150425
+PKC_group_Homo sapiens	GRM1	10823959
+PKC_group_Homo sapiens	KLF5	12682370
+PKC_group_Homo sapiens	HES1	9389649
+PKC_group_Homo sapiens	NR1I3	19858220
+PKC_group_Homo sapiens	NCF4	15035643;9804763
+PKC_group_Homo sapiens	PEA15	9721757
+PKC_group_Homo sapiens	PRKD1	10867018
+PKC_group_Homo sapiens	CYTH1	11438522
+PKC_group_Homo sapiens	VPS72	7702631
+PKC_group_Homo sapiens	NFE2L2	12198130
+PKC_group_Homo sapiens	OCLN	11502742
+PKC_group_Homo sapiens	FSCN1	8647875;8999969
+PKC_group_Homo sapiens	MEP1B	12941954
+PKC_group_Homo sapiens	HIST2H3D	20228790
+PKC_group_Homo sapiens	NRGN	8080473
+PKC_group_Homo sapiens	CREBBP	11463380
+PKC_group_Homo sapiens	CYTH2	10531036
+PKC_group_Homo sapiens	CORO1B	16027158
+PKC_group_Homo sapiens	PRKD2	12058027;18691976;19369195
+PKC_group_Homo sapiens	TRPV4	20043876
+PKC_group_Homo sapiens	PLCB1	11278470
+PKC_group_Homo sapiens	ADD3	18669648;11895774
+PKC_group_Homo sapiens	HSPB8	11342557
+PKC_group_Homo sapiens	HDAC5	20188095
+CK2_group_Homo sapiens	KIF1C	18669648;17081983;10559254
+CK2_group_Homo sapiens	VAMP4	18669648;17081983;14608369
+CK2_group_Homo sapiens	C1R	8635594
+CK2_group_Homo sapiens	TNF	8597870
+CK2_group_Homo sapiens	VTN	9733784
+CK2_group_Homo sapiens	MYCN	1425701
+CK2_group_Homo sapiens	JUN	11075956;1516134
+CK2_group_Homo sapiens	SSB	16083285;17081983;17287340;18669648;10715123;15485924;9054510
+CK2_group_Homo sapiens	CD5	9834084
+CK2_group_Homo sapiens	PGR	7983041
+CK2_group_Homo sapiens	PTMA	9099694;1426245
+CK2_group_Homo sapiens	CDK1	1400350
+CK2_group_Homo sapiens	GPI	11004567
+CK2_group_Homo sapiens	HSP90AA1	17287340;18088087;17081983;15822905;2492519
+CK2_group_Homo sapiens	HNRNPC	18669648;17287340;17081983;15302935;12564933;15687492
+CK2_group_Homo sapiens	SP1	9153193
+CK2_group_Homo sapiens	HSP90AB1	17081983;16964243;18088087;17287340;1956339;2492519
+CK2_group_Homo sapiens	PTPRC	10066810
+CK2_group_Homo sapiens	HOXB7	11290787
+CK2_group_Homo sapiens	MYB	7735324;11313925
+CK2_group_Homo sapiens	TOP2A	18669648;17081983;9804834;7499337
+CK2_group_Homo sapiens	VDR	8384219;8622969
+CK2_group_Homo sapiens	MS4A1	7678037
+CK2_group_Homo sapiens	F5	9525959
+CK2_group_Homo sapiens	CDH1	10671552
+CK2_group_Homo sapiens	MYF5	9461343
+CK2_group_Homo sapiens	NCF1	11485312
+CK2_group_Homo sapiens	HMGA1	17525332;16083285;15302935;2806554
+CK2_group_Homo sapiens	IGFBP3	10650937
+CK2_group_Homo sapiens	EGR1	8662759
+CK2_group_Homo sapiens	ATF1	18669648;9685505
+CK2_group_Homo sapiens	LIG1	18669648;16964243;17081983;10523317
+CK2_group_Homo sapiens	SAT1	8954982
+CK2_group_Homo sapiens	UBA1	18669648;8663123
+CK2_group_Homo sapiens	PSMA3	17287340;8619999
+CK2_group_Homo sapiens	NFKBIA	7796813;16007147;8657102;12138192;12403772;9214631;10398585;10882136;10723127
+CK2_group_Homo sapiens	APEX1	10023679
+CK2_group_Homo sapiens	CANX	18669648;18088087;17081983;9642293
+CK2_group_Homo sapiens	CDC25B	12527891
+CK2_group_Homo sapiens	L1CAM	18669648;8592152
+CK2_group_Homo sapiens	ARRB2	11877451
+CK2_group_Homo sapiens	CTNNB1	12432063
+CK2_group_Homo sapiens	IRS1	8349691;15849359
+CK2_group_Homo sapiens	DDIT3	12876286
+CK2_group_Homo sapiens	ANP32A	17287340;15287743
+CK2_group_Homo sapiens	PPP1R2	15302935;8288648
+CK2_group_Homo sapiens	CDC34	11546811
+CK2_group_Homo sapiens	RGS19	10993892;10760275
+CK2_group_Homo sapiens	PSEN2	8972483
+CK2_group_Homo sapiens	XK	9647734
+CK2_group_Homo sapiens	CCNH	18669648;17081983;12140753
+CK2_group_Homo sapiens	GTF2A1	11278496
+CK2_group_Homo sapiens	SUB1	18669648;7809103
+CK2_group_Homo sapiens	RRAD	9677319
+CK2_group_Homo sapiens	AQP4	11742978
+CK2_group_Homo sapiens	BID	11583622
+CK2_group_Homo sapiens	MAZ	10448092
+CK2_group_Homo sapiens	PTEN	12077256;16107342;12297295;11035045
+CK2_group_Homo sapiens	POLR2F	11486042
+CK2_group_Homo sapiens	MAX	17081983;7735324;8247525
+CK2_group_Homo sapiens	CSNK2B	17081983;1939094
+CK2_group_Homo sapiens	HSF1	15302935;12659875
+CK2_group_Homo sapiens	SPIB	10618498
+CK2_group_Homo sapiens	CAV1	8058322
+CK2_group_Homo sapiens	RELA	10938077
+CK2_group_Homo sapiens	SLC18A2	18088087;9045708
+CK2_group_Homo sapiens	MEF2C	8663403
+CK2_group_Homo sapiens	PPP1R8	9407077
+CK2_group_Homo sapiens	ACACA	18669648;17081983;15302935;2900140
+CK2_group_Homo sapiens	KLF1	9722526
+CK2_group_Homo sapiens	HDAC1	18669648;17287340;17081983;11602581
+CK2_group_Homo sapiens	VPS72	7702631
+CK2_group_Homo sapiens	CDC37	15082798;12930845
+CK2_group_Homo sapiens	STX1A	15822905;10844023;9930733
+CK2_group_Homo sapiens	OCLN	12804768
+CK2_group_Homo sapiens	IFI16	11115400
+CK2_group_Homo sapiens	PACS1	14633983
+CK2_group_Homo sapiens	HDAC2	18669648;17081983;12082111
+CK2_group_Homo sapiens	TCF7L2	11711551
+CK2_group_Homo sapiens	RNF7	12748192
+CK2_group_Homo sapiens	GTF2A1L	12107178
+CK2_group_Homo sapiens	FAF1	12832043;11378439
+CK2_group_Homo sapiens	PIN4	12860119
+CK2_group_Homo sapiens	CTDP1	12591939
+PKB_group_Homo sapiens	TERT	10224060
+PKB_group_Homo sapiens	CHEK1	18669648;12062056
+PKB_group_Homo sapiens	FANCA	11855836
+PKB_group_Homo sapiens	FOXO3	10102273;11154281
+PKB_group_Homo sapiens	NUAK1	15060171;12409306
+PKB_group_Homo sapiens	PFKFB2	18669648;18220336;12853467
+PKB_group_Homo sapiens	ADRB2	8083204;11146000;11809767
+PKB_group_Homo sapiens	AR	11404460
+PKB_group_Homo sapiens	NCF1	12734380;7520867;8626435
+PKB_group_Homo sapiens	BRAF	18669648;18220336;17192257;11410590;10869359
+PKB_group_Homo sapiens	GATA1	16107690
+PKB_group_Homo sapiens	PTPN1	10480872;11579209;17081983;18691976
+PKB_group_Homo sapiens	S1PR1	11583630
+PKB_group_Homo sapiens	NR4A1	18669648;11274386
+PKB_group_Homo sapiens	NOS3	12171920
+PKB_group_Homo sapiens	PRKAR2B	15822905;7479855
+PKB_group_Homo sapiens	BRCA1	10542266
+PKB_group_Homo sapiens	CDKN1A	10753973;11463845;12431783;16982699;20307683;11756412;17855660;15001356
+PKB_group_Homo sapiens	MAP3K8	12138205
+PKB_group_Homo sapiens	MTOR	10910062;15905173
+PKB_group_Homo sapiens	HTT	18088087;15843398;14725621;12062094
+PKB_group_Homo sapiens	MAP2K4	11707464
+PKB_group_Homo sapiens	CDKN1B	12482975;14504289;15735731;12042314;15302935;16780593;12093740
+PKB_group_Homo sapiens	YAP1	18669648;12535517
+PKB_group_Homo sapiens	TSC2	12438239;15342917;12150915
+PKB_group_Homo sapiens	GSK3A	17192257;11749387;11035810;11340086;11563975;11577096;11884598;19369195;19413330
+PKB_group_Homo sapiens	IRAK1	11976320
+PKB_group_Homo sapiens	ATXN1	12741986;12757707
+PKB_group_Homo sapiens	CASP9	9812896
+PKB_group_Homo sapiens	RAC1	18669648;10617634
+PKB_group_Homo sapiens	YWHAZ	11956222;12865427;15883165;16376338;12861023
+PKB_group_Homo sapiens	XIAP	14645242;17698078
+PKB_group_Homo sapiens	FOXO4	11689711;15538382
+PKB_group_Homo sapiens	MDM2	11504915;15001356
+PKB_group_Homo sapiens	MST1R	12919677;14505491
+PKB_group_Homo sapiens	ZFP36L1	15538381
+PKB_group_Homo sapiens	EP300	11116148
+PKB_group_Homo sapiens	AHNAK	17081983;15302935;11535620
+PKB_group_Homo sapiens	FOXO1	10358014;11410590;10358075;11980723
+PKB_group_Homo sapiens	ACAP1	16256741
+PKB_group_Homo sapiens	PEA15	9721757;12808093
+PKB_group_Homo sapiens	MAP3K11	12458207
+PKB_group_Homo sapiens	PDCD4	16357133;17053147
+PKB_group_Homo sapiens	BAD	10926925;18220336;18669648;19690332
+PKB_group_Homo sapiens	AKT1S1	12524439;17081983;18669648;19413330;19690332;18220336;17130464;17277771
+PKB_group_Homo sapiens	MAP3K5	14500571;11154276
+PKB_group_Homo sapiens	WNK1	14611643
+PKB_group_Homo sapiens	GAB2	11782427
+PKB_group_Homo sapiens	PIKFYVE	18669648;15546921
+ATM_Homo sapiens	CHEK1	11390642;12446774;12588868;12660173;12676583;12676962;14657349;15707391;15870257;17525332;18691976;18669648;11252893
+ATM_Homo sapiens	NBN	15279770;10839544
+ATM_Homo sapiens	RAD17	10608806
+ATM_Homo sapiens	NFAT5	15173573
+ATM_Homo sapiens	CHEK2	12493754;10973490
+ATM_Homo sapiens	TP53	10446957;11875057
+ATM_Homo sapiens	SP1	18171990;18619531
+ATM_Homo sapiens	ATF2	15916964
+ATM_Homo sapiens	RPA2	14872059;9139719;9295339
+ATM_Homo sapiens	H2AFX	9488723;10477747;10734083;10959836;11673449;12419185;12607005;12660252;12697768;14627815;15059890;15489221;15613478;17525332;11571274
+ATM_Homo sapiens	CREB1	17525332;15073328
+ATM_Homo sapiens	MCM3	15210935
+ATM_Homo sapiens	BRCA1	17525332;10550055
+ATM_Homo sapiens	PPP1R2	18250156
+ATM_Homo sapiens	LIG4	10608806
+ATM_Homo sapiens	BLM	11375976
+ATM_Homo sapiens	TERF1	11375976
+ATM_Homo sapiens	MDM2	11331603
+ATM_Homo sapiens	E2F1	11459832
+ATM_Homo sapiens	TP53BP1	12697768
+ATM_Homo sapiens	TRIM28	16862143;17178852;17525332;17942393;20424263
+ATM_Homo sapiens	ATM	17525332;15302935;12556884
+ATM_Homo sapiens	EIF4EBP1	10713094
+ATM_Homo sapiens	WRN	17525332;10839545;11252893
+ATM_Homo sapiens	SMC1A	11877377;15302935;17525332;18669648;19690332;22067460
+ATM_Homo sapiens	USP10	20096447
+ATM_Homo sapiens	STK11	12234250
+ATM_Homo sapiens	FBXO31	19412162
+ATM_Homo sapiens	RFWD3	20173098
+ATM_Homo sapiens	SIAH1	18536714
+ATM_Homo sapiens	APLF	17507382
+ATM_Homo sapiens	DYRK2	19965871
+ATM_Homo sapiens	RAD50	18669648;17525332;17081983;15302935;17570479
+ATM_Homo sapiens	DCLRE1C	15468306;15723659
+ATM_Homo sapiens	RAD9A	18669648;11278446
+ATM_Homo sapiens	RBBP8	10910365
+ATM_Homo sapiens	NABP2	18449195
+ATM_Homo sapiens	FANCD2	12086603
+ATM_Homo sapiens	TAOK3	17396146;17525332;18669648;18691976;19369195;19690332
+ATM_Homo sapiens	CEP164	18283122
+ATM_Homo sapiens	TBL2	17525332
+ATM_Homo sapiens	IKBKG	16497931
+FYN_Homo sapiens	CD300LB	16920917;17928527
+FYN_Homo sapiens	ARHGAP33	16777849
+FYN_Homo sapiens	FYB	10409671;10570256
+FYN_Homo sapiens	TGFB1I1	10838081
+FYN_Homo sapiens	CTNND1	17194753
+FYN_Homo sapiens	TOM1L1	11711534
+FYN_Homo sapiens	CD5	11298344;15144186
+FYN_Homo sapiens	FYN	9425276
+FYN_Homo sapiens	PTPRF	12496362
+FYN_Homo sapiens	CD79A	9531288
+FYN_Homo sapiens	JUP	14517306
+FYN_Homo sapiens	CTLA4	9973379
+FYN_Homo sapiens	PLCG2	12181444;7682059;15144186
+FYN_Homo sapiens	MAG	7525550
+FYN_Homo sapiens	CBL	15922744;12604776;10934191;9890970;9525940;11994282;11239464;10092522;10799548;15556646
+FYN_Homo sapiens	ACP1	9038134;17016520
+FYN_Homo sapiens	SHC1	12237775;11075717;10764799;9121430;9446569;10816433;10896916;10921922;9741627;9710204;10482988;18669648;17389395;19651622;16497976;19664994;17016520;19901323;18452278;18578522;20230923;20068231
+FYN_Homo sapiens	NMT1	11594778
+FYN_Homo sapiens	CTNNB1	12640114;20026641
+FYN_Homo sapiens	SNCA	12893833;12096713;11162638;11744621
+FYN_Homo sapiens	CD79B	9531288
+FYN_Homo sapiens	TXK	11353545;12081135
+FYN_Homo sapiens	WAS	12235133;14707117;15592455;18083107;18088087;19690332
+FYN_Homo sapiens	CNN1	15206927
+FYN_Homo sapiens	CDK5	18083107;18691976;19369195;19413330;19534553;19690332;12372285;16497976;19901323;20068231
+FYN_Homo sapiens	TNK2	14506255;17389395
+FYN_Homo sapiens	GRIN2B	11024032
+FYN_Homo sapiens	SLAMF1	18083107;11806999
+FYN_Homo sapiens	GRB10	10871840
+FYN_Homo sapiens	ITPR1	14761954
+FYN_Homo sapiens	CNN3	15206927
+FYN_Homo sapiens	DPYSL2	19652227;19690332
+FYN_Homo sapiens	SKAP1	19690332
+FYN_Homo sapiens	ITCH	16387660;17053785
+FYN_Homo sapiens	PAG1	10790433;18070987;18083107;19690332
+FYN_Homo sapiens	TRPC4	16144838
+MAPK_group_Homo sapiens	MITF	10673502
+MAPK_group_Homo sapiens	FOS	8248197
+MAPK_group_Homo sapiens	ESR1	20043841;16741565;18984578;15528270;9528769;12118371;12093745;7838153;7491495;15059947;16076840;15461668;10949034
+MAPK_group_Homo sapiens	NR3C1	18669648;12351702;9199329
+MAPK_group_Homo sapiens	TP53	11409876
+MAPK_group_Homo sapiens	KRT8	11781324;11788583;18691976;19007248
+MAPK_group_Homo sapiens	PGR	8702648;11110801;18202149
+MAPK_group_Homo sapiens	MYB	8960373
+MAPK_group_Homo sapiens	BCL2	10567572
+MAPK_group_Homo sapiens	CCNB1	12447691;11242082
+MAPK_group_Homo sapiens	ETS1	8761310;12048211
+MAPK_group_Homo sapiens	TCF3	14592976
+MAPK_group_Homo sapiens	STMN1	17287340;16964243;17081983;16094384;16083285;8325880;8245003;9731215
+MAPK_group_Homo sapiens	CEBPB	16009338;8384717;12213825
+MAPK_group_Homo sapiens	RXRA	12048211
+MAPK_group_Homo sapiens	GRK2	18088087;10727525
+MAPK_group_Homo sapiens	CDKN1A	12058028;19364816;11779850
+MAPK_group_Homo sapiens	LIFR	7777512
+MAPK_group_Homo sapiens	PLA2G4A	17081983;10978317;9468497;8381049
+MAPK_group_Homo sapiens	NR2C2	19690332
+MAPK_group_Homo sapiens	MAPKAPK2	8846784
+MAPK_group_Homo sapiens	RCAN1	12063245
+MAPK_group_Homo sapiens	PTPN5	21777200
+MAPK_group_Homo sapiens	HIST1H3J	11278789;12082625
+MAPK_group_Homo sapiens	SMAD3	15241418;16156666;19218245
+MAPK_group_Homo sapiens	HSF1	18669648;17081983;15302935;8940068
+MAPK_group_Homo sapiens	MEF2A	9858528
+MAPK_group_Homo sapiens	MEF2C	9069290;9384584
+MAPK_group_Homo sapiens	MCL1	12223490;15241487;18220336
+MAPK_group_Homo sapiens	PPARA	10187842
+MAPK_group_Homo sapiens	SNTA1	18669648;17081983;10212242
+MAPK_group_Homo sapiens	RPS6KA1	18669648;17192257;17081983;9430688
+MAPK_group_Homo sapiens	CEBPE	9032264
+MAPK_group_Homo sapiens	MYLK	11964068
+MAPK_group_Homo sapiens	MAPK6	18669648;1741894;8621539
+MAPK_group_Homo sapiens	STMN2	11718727
+GSK3B_Homo sapiens	AXIN1	10581160
+GSK3B_Homo sapiens	CTNND1	12885254;18212344;20166139
+GSK3B_Homo sapiens	LRP6	16365045
+GSK3B_Homo sapiens	CABYR	15752768
+GSK3B_Homo sapiens	SNAI1	15647282
+GSK3B_Homo sapiens	MYC	18669648;17081983;15150404;11018017;14563837
+GSK3B_Homo sapiens	ESR1	18984578;16076840
+GSK3B_Homo sapiens	TP53	11483158;12064478
+GSK3B_Homo sapiens	APP	8764598;10936190;15178331
+GSK3B_Homo sapiens	JUN	1846781;18669648;19413330
+GSK3B_Homo sapiens	MAPT	9832145;12387897;18510355
+GSK3B_Homo sapiens	CDH1	10671552
+GSK3B_Homo sapiens	GYS1	6772446;11427888;18669648
+GSK3B_Homo sapiens	MUC1	9819408
+GSK3B_Homo sapiens	CREB1	12162494
+GSK3B_Homo sapiens	CCND1	9832503;10910956
+GSK3B_Homo sapiens	CCNE1	8861947;14536078;18691976
+GSK3B_Homo sapiens	APC	15327768
+GSK3B_Homo sapiens	CTNNB1	12000790;12114015;11818547
+GSK3B_Homo sapiens	PPP1R2	15302935;12761178;11320080
+GSK3B_Homo sapiens	CEBPA	10567568
+GSK3B_Homo sapiens	PSEN1	11104755
+GSK3B_Homo sapiens	ACLY	10653665;20058876
+GSK3B_Homo sapiens	RCAN1	12063245;19651622;20068231
+GSK3B_Homo sapiens	NOTCH2	12794074
+GSK3B_Homo sapiens	MCL1	17463001;16543145
+GSK3B_Homo sapiens	FOXO1	11980723
+GSK3B_Homo sapiens	EIF2B5	12133000
+GSK3B_Homo sapiens	HNRNPD	12819195;11903055;18669648;19413330;19415658;17287340;18212344;19651622;18452278;18691976;20068230;20166139;20068231;17081983
+GSK3B_Homo sapiens	DPYSL2	15652488;18669648;19413330;18491316;19651622;16964243;15466863
+GSK3B_Homo sapiens	MYOCD	16141410
+GSK3B_Homo sapiens	BICD1	17139249
+GSK3B_Homo sapiens	CDX2	16027724
+PLK1_Homo sapiens	TP73	18174154;18418051
+PLK1_Homo sapiens	PRC1	17351640;19369195
+PLK1_Homo sapiens	BUB1B	17785528
+PLK1_Homo sapiens	KIF20A	12939256;16565220;18669648;19007248
+PLK1_Homo sapiens	KAT7	17525332;18250300;18669648;19007248;19413330;19690332
+PLK1_Homo sapiens	CHEK2	10973490;12024051;12493754
+PLK1_Homo sapiens	NPM1	15190079;17081983;19413330;20352051
+PLK1_Homo sapiens	TPT1	12167714;18669648;17287340;20068231
+PLK1_Homo sapiens	CCNB1	12447691;11242082
+PLK1_Homo sapiens	CDC27	14657031
+PLK1_Homo sapiens	WEE1	16085715;15070733
+PLK1_Homo sapiens	CDC25C	11897663;14968113
+PLK1_Homo sapiens	IRS1	8349691;15849359
+PLK1_Homo sapiens	BRCA2	12815053
+PLK1_Homo sapiens	MYT1	12738781
+PLK1_Homo sapiens	FOXM1	19160488
+PLK1_Homo sapiens	PIN1	16118204
+PLK1_Homo sapiens	KIZ	16980960
+PLK1_Homo sapiens	ERCC6L	17218258
+PLK1_Homo sapiens	CEP55	16198290;18669648;19413330;19691289;19664994;16964243;20068231
+PLK1_Homo sapiens	CENPU	17081991
+PLK1_Homo sapiens	NEDD1	19509060
+PLK1_Homo sapiens	PKMYT1	12738781
+PLK1_Homo sapiens	RACGAP1	19468300
+PLK1_Homo sapiens	ANAPC1	22067460;18669648;14657031
+PLK1_Homo sapiens	TOPORS	19473992
+PLK1_Homo sapiens	CDC23	22067460;18669648;14657031
+PLK1_Homo sapiens	ANAPC7	14657031
+PLK1_Homo sapiens	ANAPC4	22067460;18669648;14657031
+PLK1_Homo sapiens	NUDC	12852857
+PLK1_Homo sapiens	NINL	12852856
+LCK_Homo sapiens	SOCS3	12783885
+LCK_Homo sapiens	ESR1	16741565;7539106
+LCK_Homo sapiens	CD5	15659558;15144186;12522270;11298344
+LCK_Homo sapiens	LCK	8945479;8258691;8405050;15144186;18578522;17192257;15659558;15592455;3265417
+LCK_Homo sapiens	CD3E	11855827
+LCK_Homo sapiens	IL2RB	2047859;10214954
+LCK_Homo sapiens	EZR	1382070;12560083
+LCK_Homo sapiens	VAV1	10669745;16285729
+LCK_Homo sapiens	CTLA4	9973379
+LCK_Homo sapiens	PLCG2	15144186;11507089;12181444;11606584
+LCK_Homo sapiens	RASA1	1850098
+LCK_Homo sapiens	ACP1	9038134;17016520
+LCK_Homo sapiens	NFKBIA	12432072;8797825;9792645
+LCK_Homo sapiens	PIK3R1	9461588
+LCK_Homo sapiens	PTPN6	18083107;14757045;7512963;12468540;8692915;8114715;14699166;16497976
+LCK_Homo sapiens	SHC1	12237775;11075717;10764799;9121430;9446569;10816433;10896916;10921922;9741627;9710204;10482988;18669648;17389395;19651622;16497976;19664994;17016520;19901323;18452278;18578522;20230923;20068231
+LCK_Homo sapiens	CD79B	8077654
+LCK_Homo sapiens	STAT1	7657660;11294897;10918587;15322115;7543024;11839738;12817007;7690989;12637327
+LCK_Homo sapiens	ZAP70	10318843
+LCK_Homo sapiens	PRKCQ	10652356
+LCK_Homo sapiens	PRKCD	11381116;18691976;17389395;16497976;17016520
+LCK_Homo sapiens	ITK	17192257;15144186;12842872;9312162;19690332
+LCK_Homo sapiens	LCP2	8702662
+LCK_Homo sapiens	ADAM15	11741929
+LCK_Homo sapiens	DOK1	10799545
+LCK_Homo sapiens	MED28	16899217
+LCK_Homo sapiens	DEF6	12923183
+LCK_Homo sapiens	DAPP1	10880360;17389395;19901323;18083107
+LCK_Homo sapiens	SH2B3	9169414
+EGFR_Homo sapiens	SCAMP3	9658162;15144186
+EGFR_Homo sapiens	PLD2	9837959
+EGFR_Homo sapiens	HGS	12953068;17016520
+EGFR_Homo sapiens	SCAMP1	9658162
+EGFR_Homo sapiens	RGS16	11602604;12588871
+EGFR_Homo sapiens	CTNND1	14996911;17389395;17016520;20068231
+EGFR_Homo sapiens	STAM2	11687594;10993906;17389395;19901323
+EGFR_Homo sapiens	EGFR	8845374;16799092
+EGFR_Homo sapiens	ANXA1	2457390;17081983
+EGFR_Homo sapiens	ERBB2	12354693;1706616;17426253;17389395
+EGFR_Homo sapiens	GSTP1	19254954
+EGFR_Homo sapiens	EPB41	1647028;2171679
+EGFR_Homo sapiens	PCNA	17115032
+EGFR_Homo sapiens	EZR	1382070;12560083
+EGFR_Homo sapiens	MUC1	11152665;11483589;14521915;17545600;18083107
+EGFR_Homo sapiens	PTPN1	11506178;9355745;11106648;8999839
+EGFR_Homo sapiens	PLCG1	12601080;1689310;19901323
+EGFR_Homo sapiens	RASA1	1850098
+EGFR_Homo sapiens	CBL	11994282;11239464;15556646;17389395;16497976
+EGFR_Homo sapiens	MYL9	8578591
+EGFR_Homo sapiens	STAT1	7657660;11294897;10918587;15322115;7543024;11839738;12817007;7690989;12637327
+EGFR_Homo sapiens	EPS15	15951569;17389395;19534553;19690332;10953014;17016520
+EGFR_Homo sapiens	CRK	12198159;11956190;9642287;8875975;9480911;17016520;20068231
+EGFR_Homo sapiens	STAT5B	11751923;17016520
+EGFR_Homo sapiens	VAV2	12454019;17389395;17016520;19001501;19007248
+EGFR_Homo sapiens	PKIA	1956339;2434500
+EGFR_Homo sapiens	GRB2	11726515
+EGFR_Homo sapiens	GAB1	10978177;9890893;10734310
+CDK_group_Homo sapiens	DAB1	12077184
+CDK_group_Homo sapiens	LMNA	18669648;16964243;17081983;7915280
+CDK_group_Homo sapiens	ESR1	20043841;16741565;18984578;8308015;10428798;10949034;16076840
+CDK_group_Homo sapiens	TP53	9372954;11483158
+CDK_group_Homo sapiens	RB1	18669648;18220336;1756735
+CDK_group_Homo sapiens	MAPT	12226093
+CDK_group_Homo sapiens	SRC	17192257;10544291
+CDK_group_Homo sapiens	MYOD1	9710583;14749395
+CDK_group_Homo sapiens	STMN1	17287340;16964243;17081983;8325881;8325880;8245003;9731215
+CDK_group_Homo sapiens	SYN1	15822905;8702879
+CDK_group_Homo sapiens	PTPN1	8491187
+CDK_group_Homo sapiens	RAB4A	1425574
+CDK_group_Homo sapiens	LMNB1	17287340;16964243;17081983;2188730
+CDK_group_Homo sapiens	NES	18669648;12832492
+CDK_group_Homo sapiens	AMPH	11113134
+CDK_group_Homo sapiens	PSEN1	12056836
+CDK_group_Homo sapiens	KIF11	8548803;9235942
+CDK_group_Homo sapiens	PPP1CA	18669648;18088087;10880350;12202491;9122166
+CDK_group_Homo sapiens	CSNK2B	17081983;12551973;1939094;7578274
+CDK_group_Homo sapiens	CSNK2A1	7592773
+CDK_group_Homo sapiens	CDK16	12084709
+CDK_group_Homo sapiens	MAP2K1	12609978;11684694
+CDK_group_Homo sapiens	DNM1	18088087;15302935;12855954
+CDK_group_Homo sapiens	RBL2	11157749
+CDK_group_Homo sapiens	GRIN2A	11675505
+CDK_group_Homo sapiens	PAK1	18669648;16964243;11604394;15542607
+CDK_group_Homo sapiens	PPP1R1B	10604473
+CDK_group_Homo sapiens	FZR1	18669648;12560341
+PKCa_Homo sapiens	SNAP23	12930825;20068231
+PKCa_Homo sapiens	SLC9A3R1	12881487
+PKCa_Homo sapiens	PLD2	15979581
+PKCa_Homo sapiens	KCNQ2	12754513
+PKCa_Homo sapiens	DLX3	11343707
+PKCa_Homo sapiens	PFKFB2	1322130;18669648
+PKCa_Homo sapiens	EDF1	10816571
+PKCa_Homo sapiens	ADAP1	12893243
+PKCa_Homo sapiens	NFATC1	9072970
+PKCa_Homo sapiens	HAND1	14636580
+PKCa_Homo sapiens	EGFR	3379075;15302935;1860884;6090944
+PKCa_Homo sapiens	PLAU	9765311
+PKCa_Homo sapiens	HLA-A	2941417
+PKCa_Homo sapiens	LMNA	7925482;16565220;18669648;19413330;19415658;17924679;19664995;18212344;19651622;19691289;16964243;18767875;20068231
+PKCa_Homo sapiens	MBP	2413024
+PKCa_Homo sapiens	TFRC	18669648;3119581;3013873
+PKCa_Homo sapiens	VTN	9030777
+PKCa_Homo sapiens	RAF1	8321321
+PKCa_Homo sapiens	ANXA1	2457390
+PKCa_Homo sapiens	TP53	9571186
+PKCa_Homo sapiens	ITGB2	11700305
+PKCa_Homo sapiens	HMGN1	11438671;12773393;17924679;20166139
+PKCa_Homo sapiens	HMGN2	11438671
+PKCa_Homo sapiens	KRT18	7523419;1374067;18669648;17924679;19007248;20068231
+PKCa_Homo sapiens	CD5	11123317
+PKCa_Homo sapiens	INSR	7926007
+PKCa_Homo sapiens	LCK	8506364
+PAK1_Homo sapiens	ARPC1B	14749719
+PAK1_Homo sapiens	SNAI1	15833848
+PAK1_Homo sapiens	ESR1	17627277;16452229;16741565;15193262;12374744
+PAK1_Homo sapiens	RAF1	11733498;15849194;18465753;21917714;9234708;10205168;9823899;12551923;12719581;11376654;10801448
+PAK1_Homo sapiens	BRAF	18669648;17192257;15710605
+PAK1_Homo sapiens	STMN1	17287340;16964243;17081983;8245003;10913145;7925472
+PAK1_Homo sapiens	SYN1	12237306
+PAK1_Homo sapiens	PGAM1	12189148
+PAK1_Homo sapiens	FLNA	18669648;18088087;15024089;12198493
+PAK1_Homo sapiens	MYL9	11942626;17287340;18669648;18854160;21072057;21408167;21457715
+PAK1_Homo sapiens	CASP1	15561713
+PAK1_Homo sapiens	MAPK4	18669648;21177870
+PAK1_Homo sapiens	NF2	11719502;18669648;19651622;19691289;20068231
+PAK1_Homo sapiens	PGM1	15378030
+PAK1_Homo sapiens	ARHGDIA	15225553
+PAK1_Homo sapiens	LIMK1	10559936;10652353;15660133;11340065
+PAK1_Homo sapiens	FOXL2	12560069
+PAK1_Homo sapiens	MAP2K1	7873542;14993270;16129686;9351825;12876277
+PAK1_Homo sapiens	FOXO1	10358014;12560069
+PAK1_Homo sapiens	PAK1	10805734;9032240
+PAK1_Homo sapiens	MYLK	10092231
+PAK1_Homo sapiens	MAPK6	18669648;19369195;21177870
+PAK1_Homo sapiens	BAD	18669648;18220336;16044149;15037618;11577096;11020382;10558990;10611223
+PAK1_Homo sapiens	ARHGEF2	14970201;17488622;18669648;19690332
+PAK1_Homo sapiens	TBCB	15831477
+LYN_Homo sapiens	RGS16	12588871;11602604
+LYN_Homo sapiens	DOK2	10428862
+LYN_Homo sapiens	LPXN	17640867;20543562
+LYN_Homo sapiens	SLC4A1	1998697;2065070;10942405
+LYN_Homo sapiens	CDK1	8084605;18669648;19413330;19415658;18691976;19651622;16497976;17016520;19901323;18452278;20068231;20058876;10564259
+LYN_Homo sapiens	LYN	9171348;18691976;18088087;19901323;20068231;17081983;8530369
+LYN_Homo sapiens	CD79A	9531288
+LYN_Homo sapiens	HCLS1	10066823
+LYN_Homo sapiens	CD19	10933394
+LYN_Homo sapiens	PLCG2	12181444;7682059;15144186
+LYN_Homo sapiens	PLCG1	8657103;1689310;7682059;15144186;17389395;16497976;17016520;20068231
+LYN_Homo sapiens	PTPN6	12468540;8114715;8692915;10488096;10574931;18083107;19690332
+LYN_Homo sapiens	NMT1	11594778
+LYN_Homo sapiens	FCGR2B	8756631
+LYN_Homo sapiens	SNCA	12096713;11744621;11162638
+LYN_Homo sapiens	CD79B	9531288
+LYN_Homo sapiens	SYK	9820500
+LYN_Homo sapiens	CDKN1B	16195327;17254966
+LYN_Homo sapiens	PRKCD	10945993;7575560
+LYN_Homo sapiens	BTK	8630736;9012831;18083107;19369195;11226282;11598012;8629002
+LYN_Homo sapiens	PPP1R8	11104670
+LYN_Homo sapiens	PTK2B	12522270;17192257;18083107;19369195;19534553
+LYN_Homo sapiens	MAP4K1	11514608
+LYN_Homo sapiens	TRPV4	12538589
+LYN_Homo sapiens	DAPP1	10880360;17389395;19901323
+CK1_group_Homo sapiens	AXIN1	17318175
+CK1_group_Homo sapiens	LRP6	16513652
+CK1_group_Homo sapiens	TP53	10606744;10951572;16704422
+CK1_group_Homo sapiens	APP	11877420
+CK1_group_Homo sapiens	MAPT	14761950;15302935;15822905;16923168;18220336;19413330;19451179;19690332;21327254
+CK1_group_Homo sapiens	TOP2A	15302935;16565220;17081983;17287340;18669648;19007248;19043076;19413330
+CK1_group_Homo sapiens	GJA1	12270943
+CK1_group_Homo sapiens	APC	11487578
+CK1_group_Homo sapiens	YWHAQ	18669648;17081983;9360956;16045749
+CK1_group_Homo sapiens	CTNNB1	12000790
+CK1_group_Homo sapiens	YAP1	20048001
+CK1_group_Homo sapiens	CSNK1E	10542239
+CK1_group_Homo sapiens	PSEN2	8972483
+CK1_group_Homo sapiens	BID	11583622
+CK1_group_Homo sapiens	EIF6	12917340;21084295
+CK1_group_Homo sapiens	YWHAZ	9360956;17081983;18691976
+CK1_group_Homo sapiens	SMAD3	18794808
+CK1_group_Homo sapiens	CDK5	10500146
+CK1_group_Homo sapiens	SLC18A2	18088087;9045708
+CK1_group_Homo sapiens	FOXO1	11980723
+CK1_group_Homo sapiens	NFATC3	9630228
+CK1_group_Homo sapiens	HIF1A	20699359
+CK1_group_Homo sapiens	KCNIP3	12837631
+CK1_group_Homo sapiens	NCOA3	19339517
+CDK2_Homo sapiens	SF3B1	17081983;12105215
+CDK2_Homo sapiens	ESR1	10428798
+CDK2_Homo sapiens	TK1	9575153
+CDK2_Homo sapiens	RB1	10499802
+CDK2_Homo sapiens	PGR	18088087;9171245;11110801
+CDK2_Homo sapiens	NPM1	16565220;17287340;18220336;18318008;18669648;18691976;19007248;19367720;19369195;19413330;19690332
+CDK2_Homo sapiens	MYBL2	10095772
+CDK2_Homo sapiens	CCNE1	8861947;14536078
+CDK2_Homo sapiens	RBL1	11884610;19690332
+CDK2_Homo sapiens	MCM4	18669648;17081983;12714602
+CDK2_Homo sapiens	BRCA1	10373534;10550055
+CDK2_Homo sapiens	CDKN1A	16964243;12058028;15964852;12730199
+CDK2_Homo sapiens	FEN1	20729856
+CDK2_Homo sapiens	CDKN1B	15735731;12042314;10831586;12700233
+CDK2_Homo sapiens	UBE2A	11953320
+CDK2_Homo sapiens	CDK7	9832506;11113184;15530371;17192257;18220336;18669648;18691976;19369195;19690332;9725911
+CDK2_Homo sapiens	BRCA2	15800615
+CDK2_Homo sapiens	HIRA	11238922;19413330
+CDK2_Homo sapiens	SMAD3	15241418;19413330
+CDK2_Homo sapiens	RBL2	11157749
+CDK2_Homo sapiens	NPAT	10995387
+CDK2_Homo sapiens	USP37	21596315
+CDK2_Homo sapiens	ATRIP	18669648;17638878
+CDK2_Homo sapiens	CDC6	10339564;9889196
+MAPKAPK2_Homo sapiens	EEF2K	12171600
+MAPKAPK2_Homo sapiens	ARPC5	12829704;20068231
+MAPKAPK2_Homo sapiens	PARN	16964243;18669648;19690332;20932473
+MAPKAPK2_Homo sapiens	BAG2	15271996;19651622;20068231
+MAPKAPK2_Homo sapiens	HSPB1	1332886;8774846;10383393;16565220;16964243;17081983;18088087;18669648;18691976;19007248;19562805;18212344;19651622;19664994;18767875;20230923;20166139;20068231;20058876;11383510;12096113;15302935
+MAPKAPK2_Homo sapiens	TH	6150037;11359875;7901013
+MAPKAPK2_Homo sapiens	VIM	18669648;18220336;17287340;11895474;12761892
+MAPKAPK2_Homo sapiens	ALOX5	11844797;18978352;10779545
+MAPKAPK2_Homo sapiens	SRF	18669648;11859076;1547771;10318869
+MAPKAPK2_Homo sapiens	CREB1	9528766;11969286;9829964;7958915;9687510;15733869;12356771;8887554;11698596
+MAPKAPK2_Homo sapiens	ZFP36	14688255
+MAPKAPK2_Homo sapiens	CDC25B	12400006;15629715
+MAPKAPK2_Homo sapiens	LSP1	8995217
+MAPKAPK2_Homo sapiens	KRT20	16608857
+MAPKAPK2_Homo sapiens	MAPKAPK2	8846784
+MAPKAPK2_Homo sapiens	TSC2	12582162
+MAPKAPK2_Homo sapiens	ETV1	11551945
+MAPKAPK2_Homo sapiens	LIMK1	16456544
+MAPKAPK2_Homo sapiens	YWHAZ	12861023
+MAPKAPK2_Homo sapiens	HSF1	16278218
+MAPKAPK2_Homo sapiens	HNRNPA0	17287340;20932473
+MAPKAPK2_Homo sapiens	RCSD1	15850461;19367720;19690332
+MAPKAPK2_Homo sapiens	TAB3	18021073
+AKT1_Homo sapiens	CHUK	10485710;19088076
+AKT1_Homo sapiens	FOXO3	10102273;11154281
+AKT1_Homo sapiens	NUAK1	12409306
+AKT1_Homo sapiens	TBC1D4	11994271;16083285;16964243;17081983;18220336;18669648;19413330;19690332
+AKT1_Homo sapiens	RAF1	8349614;10576742;10801873;11756411;15047712;16630891;18691976
+AKT1_Homo sapiens	ITGB3	10896934
+AKT1_Homo sapiens	CREB1	7608156;8065343;9770464;9829964;15733869
+AKT1_Homo sapiens	PTPN1	10480872;11579209;17081983;18691976
+AKT1_Homo sapiens	S1PR1	11583630
+AKT1_Homo sapiens	CDKN1A	10753973;11463845;12431783;16982699;20307683;11756412
+AKT1_Homo sapiens	CDKN1B	12244301;12244303;18593906
+AKT1_Homo sapiens	TSC2	12150915;12438239;15342917;16636147;18707149
+AKT1_Homo sapiens	GSK3A	17192257;11749387;11035810;11340086;11563975;11577096;11884598;19369195;19413330
+AKT1_Homo sapiens	GSK3B	8250835;12054501;17192257;18691976;19369195
+AKT1_Homo sapiens	YWHAZ	11956222;12865427;15883165;16376338
+AKT1_Homo sapiens	YBX1	15806160
+AKT1_Homo sapiens	XIAP	14645242
+AKT1_Homo sapiens	FOXO4	16272144
+AKT1_Homo sapiens	FOXO1	10358075;10358014;11410590;11980723
+AKT1_Homo sapiens	CCDC88A	16139227
+AKT1_Homo sapiens	AKT1S1	12524439;17081983;18669648;19413330;19690332;14973226;19651622;20068231
+AKT1_Homo sapiens	MAP3K5	14500571;11154276
+AKT1_Homo sapiens	METTL1	15861136
+SYK_Homo sapiens	TYROBP	18083107;9490415
+SYK_Homo sapiens	SLC4A1	1998697;2065070;10942405
+SYK_Homo sapiens	ITGB3	18088087;8631894
+SYK_Homo sapiens	LCK	8798764;16497976;19664994
+SYK_Homo sapiens	FCGR2A	8756631
+SYK_Homo sapiens	HCLS1	8578591;9104825
+SYK_Homo sapiens	PRKCA	17192257;12881490;20068231
+SYK_Homo sapiens	PLCG1	8657103;15592455;17081983;17389395;19534553;19690332;16038803;15144186;12601080;1708307;1689310;7682059;16497976;17016520;20068231
+SYK_Homo sapiens	CBL	12522270;15922744;9102067;10829062;9525940;11997497
+SYK_Homo sapiens	SHC1	15592455;11687594;10891441;9121430;11075717;9927207;9710204;9685404;15688026;17389395;16497976;17016520;19901323;20068231
+SYK_Homo sapiens	FCGR2C	8756631
+SYK_Homo sapiens	SNCA	12893833;12096713;11162638;11744621
+SYK_Homo sapiens	SYK	9820500
+SYK_Homo sapiens	DUSP3	12447358
+SYK_Homo sapiens	TUBA4A	8617742
+SYK_Homo sapiens	SH3BP2	12709437
+SYK_Homo sapiens	BTK	8630736;9012831;18083107;19369195;11226282;11598012;8629002
+SYK_Homo sapiens	LCP2	8892604;8702662;12817019;9047237;15388330
+SYK_Homo sapiens	IL15RA	11714793
+SYK_Homo sapiens	PTK2B	9560226;8816475;15105428
+SYK_Homo sapiens	BLNK	12456653
+SYK_Homo sapiens	MAP4K1	17192257;11487585;11514608
+CDK5_Homo sapiens	RASGRF2	15128856
+CDK5_Homo sapiens	PIP5K1C	15738269
+CDK5_Homo sapiens	TPPP	15822905;17693641;18669648
+CDK5_Homo sapiens	NFAT5	21209322
+CDK5_Homo sapiens	TP53	10570149;11554766;15701641;15866171;17108107;17591690;17967874;21317932
+CDK5_Homo sapiens	APP	8131745;11877420
+CDK5_Homo sapiens	EPRS	17287340;17924679;18220336;18669648;18691976;19369195;19413330;19690332;21220307
+CDK5_Homo sapiens	VIM	16565220;16964243;17081983;17287340;17924679;18669648;18691976;19007248;19369195;19413330;19690332;21465480
+CDK5_Homo sapiens	SRC	17192257;18691976;19369195;21442427;10544291
+CDK5_Homo sapiens	NOS3	20213743
+CDK5_Homo sapiens	CTNNB1	17009320
+CDK5_Homo sapiens	PPP1R2	15302935;12761178;11320080
+CDK5_Homo sapiens	HTT	17611284;18691976
+CDK5_Homo sapiens	PXN	18042622
+CDK5_Homo sapiens	PSEN1	12056836
+CDK5_Homo sapiens	MEF2A	12586839;12691662;16371476;16484498
+CDK5_Homo sapiens	MEF2C	15340086
+CDK5_Homo sapiens	CDK5R1	17121855;18326489
+CDK5_Homo sapiens	STXBP2	17716669
+CDK5_Homo sapiens	PPP1R1B	10604473
+CDK5_Homo sapiens	SH3GLB1	21499257
+AMPK_group_Homo sapiens	EEF2K	14709557
+AMPK_group_Homo sapiens	ACACB	12488245
+AMPK_group_Homo sapiens	FOXO3	17711846
+AMPK_group_Homo sapiens	PFKFB2	11069105;17924679;18669648;19413330;19690332
+AMPK_group_Homo sapiens	EPM2A	21728993
+AMPK_group_Homo sapiens	TP53	10570149;11554766;15701641;15866171;17108107;17591690;17967874;21317932
+AMPK_group_Homo sapiens	IRS1	12624099
+AMPK_group_Homo sapiens	HNF4A	12740371
+AMPK_group_Homo sapiens	TSC2	14651849
+AMPK_group_Homo sapiens	KPNA2	15342649
+AMPK_group_Homo sapiens	PRKAA2	10642499
+AMPK_group_Homo sapiens	CASP6	15273717
+AMPK_group_Homo sapiens	LIPE	15308678;2537200;16188906;15033481
+AMPK_group_Homo sapiens	KLC1	18669648;20074060
+AMPK_group_Homo sapiens	EP300	11518699
+AMPK_group_Homo sapiens	ACACA	18669648;2900138;15371448;17276402;18303014;19176702;11052978
+AMPK_group_Homo sapiens	PRKAA1	8910387;19376078;15980064;14985505;14511394;14614828
+AMPK_group_Homo sapiens	PFKFB3	12065600;18669648;19690332
+AMPK_group_Homo sapiens	CRTC2	15454081;16817901;18626018
+AMPK_group_Homo sapiens	RPTOR	18220336;18439900;18669648;18722121;19369195;19413330
+AMPK_group_Homo sapiens	HDAC5	11114197;18184930;18332134
+CDC2_Homo sapiens	EEF2K	11500363;18337751
+CDC2_Homo sapiens	DNM1L	17924679;18088087;18187866;18669648;18838687;19413330;19690332
+CDC2_Homo sapiens	PIK3C2A	18669648;12719431
+CDC2_Homo sapiens	PITPNM1	15125835
+CDC2_Homo sapiens	DDX3X	16280325
+CDC2_Homo sapiens	CHEK1	18669648;16629900
+CDC2_Homo sapiens	PPP1R12A	18477460;18669648
+CDC2_Homo sapiens	SYN3	14732590
+CDC2_Homo sapiens	BIRC5	11069302;16565220;18691976;11861764
+CDC2_Homo sapiens	PRC1	9885575;17351640;17438553
+CDC2_Homo sapiens	BUB1	16760428
+CDC2_Homo sapiens	RAB11FIP3	22401586
+CDC2_Homo sapiens	KAT7	18250300;18669648;19413330;19690332
+CDC2_Homo sapiens	LATS1	15688006;12372621
+CDC2_Homo sapiens	PTTG1	18669648;16964243;15302935;10656688
+CDC2_Homo sapiens	EGFR	18669648;15302935;8360196
+CDC2_Homo sapiens	TP53	10884347;14702041;17287340;19413330
+CDC2_Homo sapiens	KRT18	9524113;15368451;16083285;18669648;19007248
+CDC2_Homo sapiens	KRT8	18669648;9054461;9524113
+CDC2_Homo sapiens	HMGA1	17081983;17924679;17960875;18669648;19413330
+ROCK1_Homo sapiens	PPP1R12A	11719507;15723050;17525332;19701943;19997641;18669648;12919947;11384979;12600888;10601309;11931630;12220642;18077418;18767875;18212344
+ROCK1_Homo sapiens	DAPK3	15611134;16325270;17158456;18239682
+ROCK1_Homo sapiens	PFN1	18573880
+ROCK1_Homo sapiens	VIM	9565595;18669648;19007248;20166139;20068231
+ROCK1_Homo sapiens	GFAP	12177195;12686604;9099667
+ROCK1_Homo sapiens	EZR	14504278;15843435;15531580;19386264;19255442;10970850;11387207
+ROCK1_Homo sapiens	DES	10574968
+ROCK1_Homo sapiens	MYL12A	12185584
+ROCK1_Homo sapiens	MSN	9516463;9856983
+ROCK1_Homo sapiens	RDX	9456324;20068231
+ROCK1_Homo sapiens	ADD1	10209029
+ROCK1_Homo sapiens	SOX9	15889150;11120880;10805756;20039424
+ROCK1_Homo sapiens	LIMK1	10652353;11340065;10559936;15660133
+ROCK1_Homo sapiens	LIMK2	11018042;11340065
+ROCK1_Homo sapiens	PTEN	15793569
+ROCK1_Homo sapiens	PTK2	16760434
+ROCK1_Homo sapiens	DPYSL2	10818093
+ROCK1_Homo sapiens	ARHGAP24	16862148
+ROCK1_Homo sapiens	MAPK8IP3	19036714
+RSK_group_Homo sapiens	EEF2K	14709557;11500364
+RSK_group_Homo sapiens	FOS	1545828;8248197;11585927;9920881
+RSK_group_Homo sapiens	ESR1	20043841;16741565;18984578;15528270;9528769;12118371;12093745;7838153;7491495;15059947;16076840;15461668;10949034
+RSK_group_Homo sapiens	SRF	8413226
+RSK_group_Homo sapiens	CREB1	9528766;11969286;9829964;7958915;9687510;15733869;12356771;8887554;11698596
+RSK_group_Homo sapiens	SLC9A1	18669648;18088087;10400637
+RSK_group_Homo sapiens	FLNA	18669648;18088087;15024089;12198493
+RSK_group_Homo sapiens	CDKN1B	12042314;14504289
+RSK_group_Homo sapiens	TSC2	15342917
+RSK_group_Homo sapiens	GSK3B	18669648;17192257;11035810;16039586
+RSK_group_Homo sapiens	DAPK1	16213824
+RSK_group_Homo sapiens	GMFB	9030586
+RSK_group_Homo sapiens	RPS6	18669648;17287340;17081983;16083285;3461469;15358595;15471950;17360704
+RSK_group_Homo sapiens	NFATC4	15657420
+RSK_group_Homo sapiens	RPS6KA1	17192257;7642538;10480933
+RSK_group_Homo sapiens	STK11	11297520
+RSK_group_Homo sapiens	RPTOR	18669648;18220336;19276368;18722121
+RSK_group_Homo sapiens	BAD	15972258;15037618;15226424;14678993;10558990;10837486
+LKB1_Homo sapiens	NUAK1	14976552;19369195;20354225
+LKB1_Homo sapiens	MARK3	14976552;17192257;19369195
+LKB1_Homo sapiens	PRKAA2	15980064
+LKB1_Homo sapiens	SIK1	14976552;18348280
+LKB1_Homo sapiens	PTEN	10866658;11035045;18321849
+LKB1_Homo sapiens	PRKAA1	8910387;19376078;15980064;14985505;14511394;14614828
+LKB1_Homo sapiens	MELK	14976552
+LKB1_Homo sapiens	STK11	11430832;11668633
+LKB1_Homo sapiens	MARK2	14976552;17192257;19369195
+LKB1_Homo sapiens	STRADA	12805220
+LKB1_Homo sapiens	BRSK2	14976552;18339622
+LKB1_Homo sapiens	BRSK1	14976552;18339622
+LKB1_Homo sapiens	MARK4	14976552;17192257
+LKB1_Homo sapiens	NUAK2	14976552
+LKB1_Homo sapiens	SIK2	14976552
+LKB1_Homo sapiens	SNRK	15733851
+LKB1_Homo sapiens	MARK1	14976552;14517247;18691976
+LKB1_Homo sapiens	SIK3	14976552;19369195
+PKACa_Homo sapiens	EEF2K	11500364;14709557;15024086;11171059
+PKACa_Homo sapiens	AURKA	11039908
+PKACa_Homo sapiens	CLDN3	15905176
+PKACa_Homo sapiens	RGS14	12534294
+PKACa_Homo sapiens	PLIN1	11751901
+PKACa_Homo sapiens	PFKFB2	12853467;18669648;19413330;17924679;19651622;18767875;20068231
+PKACa_Homo sapiens	SNAPIN	11283605
+PKACa_Homo sapiens	ABCA1	12196520
+PKACa_Homo sapiens	PPP1R17	10051666
+PKACa_Homo sapiens	HAND1	14636580
+PKACa_Homo sapiens	FOS	8248197;1545828;18452278;20068231
+PKACa_Homo sapiens	MBP	2413024
+PKACa_Homo sapiens	VTN	1706595
+PKACa_Homo sapiens	HMGCR	2369897
+PKACa_Homo sapiens	RAF1	11971957;11997508;18691976
+PKACa_Homo sapiens	HMGN1	11438671;12773393;17924679;20166139
+PKACa_Homo sapiens	HMGN2	11438671
+PKACa_Homo sapiens	LCK	8506364
+SGK1_Homo sapiens	CHUK	19088076
+SGK1_Homo sapiens	FOXO3	11154281
+SGK1_Homo sapiens	MAPT	16982696
+SGK1_Homo sapiens	SLC2A4	17382906
+SGK1_Homo sapiens	BRAF	10869359;11410590;18669648;19651622;18452278;20230923;20068231;20058876;17192257
+SGK1_Homo sapiens	CREB1	15733869
+SGK1_Homo sapiens	MAPK1	19447520
+SGK1_Homo sapiens	SLC1A3	12911626
+SGK1_Homo sapiens	KCNJ1	12684516
+SGK1_Homo sapiens	GSK3A	11035810;11884598;11749387;12054501;19413330;18691976
+SGK1_Homo sapiens	MDM2	19690332;19756449
+SGK1_Homo sapiens	FOXO1	10358075;11980723
+SGK1_Homo sapiens	NDRG1	15302935;16964243;17081983;18669648;19413330;19690332
+SGK1_Homo sapiens	FBXW7	21147854
+SGK1_Homo sapiens	NEDD4L	12911626;11742982
+SGK1_Homo sapiens	MAP3K3	12761204;18220336;18691976;19369195
+CK2a1_Homo sapiens	CASQ2	1985907
+CK2a1_Homo sapiens	SHOX	16325853
+CK2a1_Homo sapiens	HDAC3	15805470;18452278
+CK2a1_Homo sapiens	BIRC5	21252625
+CK2a1_Homo sapiens	KIF1C	10559254;18669648;20068231
+CK2a1_Homo sapiens	SNCG	18669648
+CK2a1_Homo sapiens	DDX58	21068236
+CK2a1_Homo sapiens	C1R	8635594
+CK2a1_Homo sapiens	VTN	9733784
+CK2a1_Homo sapiens	MYCN	1425701
+CK2a1_Homo sapiens	TP53	10747897;11709713;11883897;10951572
+CK2a1_Homo sapiens	APP	11877420
+CK2a1_Homo sapiens	JUN	1516134
+CK2a1_Homo sapiens	SSB	9054510;16083285;17081983;17287340;17487921;17924679;18318008;18669648;18691976;19367720;19369195;19413330;19690332
+CK2a1_Homo sapiens	CD5	9834084
+MAPK1_Homo sapiens	APBB1	14697653
+MAPK1_Homo sapiens	PITPNM1	15125835
+MAPK1_Homo sapiens	BCL2L11	14555991;15486195
+MAPK1_Homo sapiens	SORBS3	15302935;16964243;18187866;18669648;18691976;19369195;19413330;19690332
+MAPK1_Homo sapiens	RPS6KA5	15568999
+MAPK1_Homo sapiens	EGFR	18669648;18220336;17192257;17081983;2543683;2115882;3138233;1651323;15302935;1939237
+MAPK1_Homo sapiens	FOS	7816602
+MAPK1_Homo sapiens	MYC	18669648;18220336;17081983;1651323
+MAPK1_Homo sapiens	MBP	12760422
+MAPK1_Homo sapiens	ESR1	20043841;16741565;18984578;15528270;9528769;12118371;12093745;7838153;7491495;15059947;16076840;15461668;10949034
+MAPK1_Homo sapiens	RAF1	15664191;18691976
+MAPK1_Homo sapiens	NR3C1	12351702;9199329;18669648
+MAPK1_Homo sapiens	TP53	12091386;14965474
+MAPK1_Homo sapiens	KRT8	11788583;11781324;9211903;18691976;19007248
+MAPK1_Homo sapiens	LCK	8506364;8226850
+INSR_Homo sapiens	PDPK1	11481331;14585963;16314505
+INSR_Homo sapiens	INSR	8504096;1658004
+INSR_Homo sapiens	ADRB2	8557631
+INSR_Homo sapiens	FABP4	1648089;8463311
+INSR_Homo sapiens	PTPN1	11506178;9355745
+INSR_Homo sapiens	CBL	11997497;15951569;10635327
+INSR_Homo sapiens	PIK3R1	8385099;14729945
+INSR_Homo sapiens	PTPN6	7512963;16497976
+INSR_Homo sapiens	SHC1	12237775;11075717;10764799;9121430;9446569;10816433;10896916;10921922;9741627;9710204;10482988;18669648;17389395;19651622;16497976;19664994;17016520;19901323;18452278;18578522;20230923;20068231
+INSR_Homo sapiens	IRS1	18083107
+INSR_Homo sapiens	BLVRA	15870194
+INSR_Homo sapiens	PTK2	7529876;9507031;17389395;19664994;17016520;20068231
+INSR_Homo sapiens	GAB1	10978177;16497976
+INSR_Homo sapiens	DOK1	9008160;11551902;16094384;19690332;16497976;15592455;10688886;12087092
+INSR_Homo sapiens	IRS2	9195949
+PAK2_Homo sapiens	ABL1	18161990
+PAK2_Homo sapiens	PRL	11943200
+PAK2_Homo sapiens	RAF1	11733498;15849194;18465753;21917714
+PAK2_Homo sapiens	JUN	21177766
+PAK2_Homo sapiens	VIM	11895474;2500966;17287340;20068231
+PAK2_Homo sapiens	SYN1	10571231;12237306
+PAK2_Homo sapiens	MYL9	18669648;2526655;10356987;10047984
+PAK2_Homo sapiens	MAPK4	18669648;21177870
+PAK2_Homo sapiens	NF2	17081983;18669648;11782491;14981079;11719502;15378014
+PAK2_Homo sapiens	RPS6	17322306;18669648;17287340;18767875
+PAK2_Homo sapiens	HIST4H4	16807684;17081983;18669648;19007248;19690332;21724829
+PAK2_Homo sapiens	PAK2	10075701
+PAK2_Homo sapiens	MYLK	10748018
+PAK2_Homo sapiens	MKNK1	15234964
+CSNK2B_Homo sapiens	USO1	9478999;11396975;10931861;18669648;19413330;19415658;19664995;19651622;18452278;20166139;20068231
+CSNK2B_Homo sapiens	TP53	10747897;11709713;11883897;10951572
+CSNK2B_Homo sapiens	MME	8943850;18578522;20166139
+CSNK2B_Homo sapiens	HOXB6	10327653;19413330;19664994
+CSNK2B_Homo sapiens	CTNNB1	12432063
+CSNK2B_Homo sapiens	IRS1	8349691
+CSNK2B_Homo sapiens	CDC34	11546811
+CSNK2B_Homo sapiens	EIF5	11861906
+CSNK2B_Homo sapiens	BID	11583622
+CSNK2B_Homo sapiens	CSNK2B	1939094;18691976;19651622;20068231
+CSNK2B_Homo sapiens	OCLN	12804768
+CSNK2B_Homo sapiens	CD163	11298324
+CSNK2B_Homo sapiens	RNF7	12748192
+CSNK2B_Homo sapiens	CTDP1	12591939
+HCK_Homo sapiens	TP73	17535448
+HCK_Homo sapiens	DOK2	10428862
+HCK_Homo sapiens	HCK	10934191
+HCK_Homo sapiens	BCR	18083107;9407116;12124177;9178913;12522270;16912036;10405761;8955135;16497976;19690332
+HCK_Homo sapiens	PLCG2	12181444;7682059;15144186
+HCK_Homo sapiens	PLCG1	8657103;1689310;7682059;15144186;17389395;16497976;17016520;20068231
+HCK_Homo sapiens	CBL	11994282;11239464;9890970;10092522;10799548
+HCK_Homo sapiens	STAT3	11940572;11294897;10918587;12244095;11350938;12626508;8626374;12576423;14551213;17389395;16497976;17016520;19901323
+HCK_Homo sapiens	WAS	18083107;18088087;12769847;15592455;12235133;10068673;12769846;9742969;16497976;19901323
+HCK_Homo sapiens	STAT5B	12411494;17997837;18083107;10830280;11751923
+HCK_Homo sapiens	ADAM15	11741929
+HCK_Homo sapiens	RAPGEF1	10318861;12734187;15320955;14551197
+HCK_Homo sapiens	ELMO1	15952790
+HCK_Homo sapiens	CSF3R	9790917
+JAK2_Homo sapiens	JAK2	7889566;17027227
+JAK2_Homo sapiens	EGFR	9363897;10635327;16799092;18669648;18691976;17389395;17016520
+JAK2_Homo sapiens	RAF1	9689060;11134016;8876196
+JAK2_Homo sapiens	GHR	9121492
+JAK2_Homo sapiens	CTLA4	10842319;9813138
+JAK2_Homo sapiens	EPOR	12441334;10579919
+JAK2_Homo sapiens	STAT3	11940572;11294897;10918587;12244095;11350938;12626508;8626374;12576423;14551213;17389395;16497976;17016520;19901323;18083107;9305919;15592455;11429593;9083098;9582023;11850821
+JAK2_Homo sapiens	CCR2	9670957
+JAK2_Homo sapiens	STAT1	7657660;11294897;10918587;15322115;7543024;11839738;12817007;7690989;12637327;11152457;19088846;19534553;10748192;7592750
+JAK2_Homo sapiens	STAT5A	12529425;17081983;18083107;19534553;8617237;7925280;11413148;17389395;16497976;17016520
+JAK2_Homo sapiens	SIRPA	10842184;17389395;17016520
+JAK2_Homo sapiens	GTF2I	9837922;9012831;11373296;11313464;11934902
+JAK2_Homo sapiens	ARHGEF1	20098430
+JAK2_Homo sapiens	STAP2	12540842
+SGK_group_Homo sapiens	FOXO3	11154281
+SGK_group_Homo sapiens	BRAF	18669648;18220336;17192257;11410590;10869359
+SGK_group_Homo sapiens	CREB1	9528766;11969286;9829964;7958915;9687510;15733869;12356771;8887554;11698596
+SGK_group_Homo sapiens	HTT	18088087;15843398;14725621;12062094
+SGK_group_Homo sapiens	KCNJ1	12878206
+SGK_group_Homo sapiens	GSK3B	12054501
+SGK_group_Homo sapiens	FOXO1	10358075;10358014;11410590
+SGK_group_Homo sapiens	NDRG1	18669648;15461589
+SGK_group_Homo sapiens	NEDD4L	18669648;15328345;16716084;12911626
+SGK_group_Homo sapiens	MAP3K3	18220336;12392720;12761204
+SGK_group_Homo sapiens	NDRG2	18669648;15461589
+SGK_group_Homo sapiens	CARHSP1	18669648;18088087;16964243;16083285;15910284
+HIPK2_Homo sapiens	CBX4	17018294
+HIPK2_Homo sapiens	TP53	11740489;11780126;16377624;17591690;11875057;16212962;20123963;19965871;17349958;16729035
+HIPK2_Homo sapiens	CREB1	19690332;20573984
+HIPK2_Homo sapiens	HMGA1	17081983;17924679;17960875;18669648;19413330
+HIPK2_Homo sapiens	ATF1	18669648;19690332;20980392
+HIPK2_Homo sapiens	PAX6	16407227
+HIPK2_Homo sapiens	PML	17081983;19015637
+HIPK2_Homo sapiens	CTNNB1	20307497
+HIPK2_Homo sapiens	PDX1	20637728
+HIPK2_Homo sapiens	RUNX1	169175071;18695000;19690332
+HIPK2_Homo sapiens	CTBP1	14567915
+HIPK2_Homo sapiens	ZBTB4	19448668
+CDK7_Homo sapiens	ESR1	20043841;16741565;18984578;15528270;9528769;12118371;12093745;7838153;7491495;15059947;16076840;15461668;10949034
+CDK7_Homo sapiens	TP53	9372954;17591690;11483158
+CDK7_Homo sapiens	CDK1	8344251
+CDK7_Homo sapiens	RARA	9230306
+CDK7_Homo sapiens	CDK4	8139570
+CDK7_Homo sapiens	POU2F1	18669648;1684878;9368058
+CDK7_Homo sapiens	CDK11B	16327805
+CDK7_Homo sapiens	CDK7	18669648;17192257;9725911;11113184
+CDK7_Homo sapiens	NR5A1	10230405;17901130;19015234
+CDK7_Homo sapiens	LASP1	18669648;18088087;12571245
+CDK7_Homo sapiens	ICK	15988018
+ZAP70_Homo sapiens	LAT	11368773
+ZAP70_Homo sapiens	MUC1	14766232
+ZAP70_Homo sapiens	SHC1	15592455;11687594;10891441;9121430;11075717;9927207;9710204;9685404;15688026;17389395;16497976;17016520;19901323;20068231
+ZAP70_Homo sapiens	ZAP70	7961936
+ZAP70_Homo sapiens	DUSP3	12447358
+ZAP70_Homo sapiens	LCP2	8892604;8702662;12817019;9047237;15388330;10660534
+ZAP70_Homo sapiens	MAPK14	15735648
+ZAP70_Homo sapiens	DBNL	14557276
+ZAP70_Homo sapiens	GAB2	11572860
+ZAP70_Homo sapiens	SH2B3	9169414
+CSK_Homo sapiens	PIP5K1C	15738269
+CSK_Homo sapiens	LCK	1639064;8139546;8631775;15592455;17192257;18083107;18691976;19369195;19690332
+CSK_Homo sapiens	FYN	1533589;1699196;18691976;19369195;1985196
+CSK_Homo sapiens	YES1	15592455;18083107;18691976;19369195
+CSK_Homo sapiens	LYN	7935444;9171348;15592455;17081983;18070987;18083107;18691976;19369195;19534553
+CSK_Homo sapiens	FGR	7515063
+CSK_Homo sapiens	AR	17045208
+CSK_Homo sapiens	SRC	7525268;19369195;19534553;12387813;3103926;12468645
+CSK_Homo sapiens	MUC1	11152665;11483589;14521915;17545600;18083107
+CSK_Homo sapiens	CTNNB1	11279024
+ATR_Homo sapiens	CHEK1	18669648;17525332;11252893;11390642
+ATR_Homo sapiens	RAD17	11418864;11687627;14500819
+ATR_Homo sapiens	H2AFX	9488723;10477747;10734083;10959836;11673449;12419185;12607005;12660252;12697768;14627815;15059890;15489221;15613478;17525332
+ATR_Homo sapiens	CREB1	16293623;15073328
+ATR_Homo sapiens	BRCA1	11114888
+ATR_Homo sapiens	MCM2	15210935;16899510;17525332;18691976;19690332
+ATR_Homo sapiens	MDM2	14654783
+ATR_Homo sapiens	E2F1	11459832
+ATR_Homo sapiens	CEP164	18283122
+ATR_Homo sapiens	EXO1	17525332;18048416
+PDK1_Homo sapiens	SGK1	10191262;10357815
+PDK1_Homo sapiens	IKBKB	10022904;10195894;10783893;16207722
+PDK1_Homo sapiens	PDPK1	10455013
+PDK1_Homo sapiens	ITGB3	10896934
+PDK1_Homo sapiens	PDHA1	15302935;19415658;18088087;18767875;18691976;18212344;20166139;20068231;20058876
+PDK1_Homo sapiens	RPS6KB1	11279232;18669648;20068231
+PDK1_Homo sapiens	AKT1	8978681;9512493;15718470;18456494;20333297;20481595;9868760;11278835;9368760;10226025
+PDK1_Homo sapiens	PDK1	12177059
+PDK1_Homo sapiens	PKN2	10792047;15302935;10753910;18669648
+PDK1_Homo sapiens	AKT3	9512493
+DAPK1_Homo sapiens	DAPK3	15367680;15611134;17158456;20854903
+DAPK1_Homo sapiens	TP53	15254178;15489221;10801407;12111733;17339337
+DAPK1_Homo sapiens	TPM1	17895359
+DAPK1_Homo sapiens	MCM3	18669648;18283219
+DAPK1_Homo sapiens	DAPK1	11579085
+DAPK1_Homo sapiens	PIN1	21497122
+DAPK1_Homo sapiens	BECN1	19180116
+DAPK1_Homo sapiens	STX1A	12730201
+DAPK1_Homo sapiens	CAMKK2	15209507
+JAK1_Homo sapiens	IL2RB	8700888
+JAK1_Homo sapiens	IFNGR1	8156998
+JAK1_Homo sapiens	EIF2AK2	17290288
+JAK1_Homo sapiens	TYK2	15659558;19901323;8702790
+JAK1_Homo sapiens	IRS1	11162588
+JAK1_Homo sapiens	STAT3	11940572;11294897;10918587;12244095;11350938;12626508;8626374;12576423;14551213;17389395;16497976;17016520;19901323
+JAK1_Homo sapiens	STAT1	7657660;11294897;10918587;15322115;7543024;11839738;12817007;7690989;12637327;10982844;19088846;19534553;10748192;7592750
+JAK1_Homo sapiens	STAT2	9020188
+JAK1_Homo sapiens	IL10RA	10433356
+DAPK3_Homo sapiens	MYL12B	11942626;12429016;15946647
+DAPK3_Homo sapiens	PPP1R12A	11719507;15723050;17525332;19701943;19997641
+DAPK3_Homo sapiens	DAPK3	15611134
+DAPK3_Homo sapiens	MYL9	18669648;2526655;15096528
+DAPK3_Homo sapiens	CDKN1A	15001356
+DAPK3_Homo sapiens	RPL13A	18995835
+DAPK3_Homo sapiens	HIST1H3J	12560483
+DAPK3_Homo sapiens	MDM2	11504915;15001356
+DAPK3_Homo sapiens	PPP1R14A	11287002
+PLK3_Homo sapiens	CHEK2	16481012
+PLK3_Homo sapiens	TP53	11709713;11551930;10673501;12242661;12548019
+PLK3_Homo sapiens	TOP2A	17081983;18062778;18669648
+PLK3_Homo sapiens	ATF2	9430721;12110590;17081983;18669648;19413330;19690332;21098032
+PLK3_Homo sapiens	CDC25A	21376736
+PLK3_Homo sapiens	CDC25C	14968113
+PLK3_Homo sapiens	BCL2L1	21840391
+PLK3_Homo sapiens	HIF1A	20889502
+PLK3_Homo sapiens	VRK1	19103756;20068231
+DYRK1A_Homo sapiens	SPRY2	18678649
+DYRK1A_Homo sapiens	SF3B1	16512921;20068231
+DYRK1A_Homo sapiens	SNCA	10617630;16959772
+DYRK1A_Homo sapiens	AMPH	16733250
+DYRK1A_Homo sapiens	DNM1	15287745
+DYRK1A_Homo sapiens	FOXO1	11311120;11980723
+DYRK1A_Homo sapiens	DYRK1A	17229891
+DYRK1A_Homo sapiens	SIRT1	19107194;19690332;20027304
+DYRK1A_Homo sapiens	CCNL2	14623875;19664995;19651622;18767875;20068231
+MAPK3_Homo sapiens	SYN3	14732590
+MAPK3_Homo sapiens	BCL2L11	14555991;15486195
+MAPK3_Homo sapiens	RPS6KA5	15568999
+MAPK3_Homo sapiens	EGFR	18669648;18220336;17192257;17081983;2543683;2115882;3138233;1651323;15302935;1939237
+MAPK3_Homo sapiens	FOS	7816602
+MAPK3_Homo sapiens	MBP	1939237
+MAPK3_Homo sapiens	ESR1	20043841;16741565;18984578;15528270;9528769;12118371;12093745;7838153;7491495;15059947;16076840;15461668;10949034
+MAPK3_Homo sapiens	KRT8	11788583;11781324;9211903;18691976;19007248
+MAPK3_Homo sapiens	LCK	8506364;8226850
+RET_Homo sapiens	PDPK1	16314505;15302935;12738763;11481331
+RET_Homo sapiens	RET	8621380;11470823
+RET_Homo sapiens	PLCG1	8885868;8657103;1689310;7682059;17389395;16497976;17016520;20068231
+RET_Homo sapiens	MAPK1	16153436;18669648;19415658;18691976;17389395;19651622;16497976;17016520;18707149;19901323;18452278;18578522;20068231
+RET_Homo sapiens	MAPK8	16153436;18669648
+RET_Homo sapiens	MAPK9	16153436
+RET_Homo sapiens	PTK2	15561106;15951569;17192257;17389395;18083107;19339212;19369195;19534553;21454698;7529876;9507031;19664994;17016520;20068231
+RET_Homo sapiens	MAPK14	16153436;18669648;18691976;18088087;19651622;16497976;17016520;19901323;18452278;20068231
+RET_Homo sapiens	DOK1	11551902;16497976;19901323
+ROCK_group_Homo sapiens	VIM	18669648;9565595
+ROCK_group_Homo sapiens	GFAP	12177195;12686604;9099667
+ROCK_group_Homo sapiens	DES	10574968;12686604
+ROCK_group_Homo sapiens	MSN	9856983;15634677;19255442;9516463;17447891
+ROCK_group_Homo sapiens	RDX	9456324
+ROCK_group_Homo sapiens	ADD1	10209029
+ROCK_group_Homo sapiens	LIMK1	10652353;10559936;11340065
+ROCK_group_Homo sapiens	LIMK2	11171090;11018042;11340065
+ROCK_group_Homo sapiens	DPYSL2	10818093
+CK2a_Homo sapiens	STC2	10947959
+CK2a_Homo sapiens	ABCA1	15218032
+CK2a_Homo sapiens	C1R	8635594
+CK2a_Homo sapiens	VTN	9733784
+CK2a_Homo sapiens	MYCN	1425701
+CK2a_Homo sapiens	JUN	11075956;1516134
+CK2a_Homo sapiens	SSB	16083285;17081983;17287340;18669648;10715123;15485924;9054510
+CK2a_Homo sapiens	CD5	9834084
+MAP2K4_Homo sapiens	MAPK13	9374491
+MAP2K4_Homo sapiens	RXRA	10938283
+MAP2K4_Homo sapiens	MAPK8	17192257;18083107;18669648;19369195;19534553;19690332;15755722;9312068;7839144;15911620;16153436
+MAP2K4_Homo sapiens	MAPK9	17192257;18083107;19369195;19534553;15755722;11062067
+MAP2K4_Homo sapiens	MAP2K4	9162092
+MAP2K4_Homo sapiens	MAPK12	18083107;19413330;11062067
+MAP2K4_Homo sapiens	MAPK10	10715136;19651622
+MAP2K4_Homo sapiens	MAPK11	18083107;19369195
+GSK3_Homo sapiens	MITF	10587587
+GSK3_Homo sapiens	MYC	8386367;15103331;17081983;17558397;18669648
+GSK3_Homo sapiens	BCL3	15469820
+GSK3_Homo sapiens	CCNE1	8861947;14536078;18691976;19369195
+GSK3_Homo sapiens	BCAM	15975931
+GSK3_Homo sapiens	SMAD3	15241418;16156666;19218245
+GSK3_Homo sapiens	DPYSL3	16611631
+GSK3_Homo sapiens	MAFA	18042454
+CHK2_Homo sapiens	MDM4	16163388
+CHK2_Homo sapiens	CHEK2	11901158;15618221;12493754;10973490
+CHK2_Homo sapiens	TP53	10570149;11447225;11551930;12810724;20041275;15254178;15489221;10801407;12111733
+CHK2_Homo sapiens	CDC25A	12759351;12676583;12399544;11298456
+CHK2_Homo sapiens	CDC25C	15629715;9836640;10744722;9543386
+CHK2_Homo sapiens	BRCA1	14701743;12111733;10724175;20364141
+CHK2_Homo sapiens	E2F1	12717439
+MAP2K1_Homo sapiens	RPS6KA4	10806207
+MAP2K1_Homo sapiens	MAPK3	17081983;17192257;17389395;18669648;18691976;19369195;19690332;15466476;7687743;11971971;8626767
+MAP2K1_Homo sapiens	MAPK1	17081983;17192257;17389395;18669648;18691976;19369195;19690332
+MAP2K1_Homo sapiens	GSK3B	18669648;18083107;16964243;17192257;17081983;15020233
+MAP2K1_Homo sapiens	CASP9	12792650;18669648
+MAP2K1_Homo sapiens	MAP2K1	8226933
+MAP2K1_Homo sapiens	PARVA	15353548;19651622;18691976;20068231
+Abl_Homo sapiens	APBB1	15031292;18922798
+Abl_Homo sapiens	PSMA7	16678104
+Abl_Homo sapiens	TP73	10391251
+Abl_Homo sapiens	PSTPIP1	11163214
+Abl_Homo sapiens	ABL1	12522270;10964922;11781820
+Abl_Homo sapiens	CAT	18083107;12777400
+Abl_Homo sapiens	ANXA1	2457390
+BTK_Homo sapiens	PLCG2	11606584;12181444;19690332;15144186;11507089
+BTK_Homo sapiens	TEC	12573241
+BTK_Homo sapiens	WAS	18083107;18088087;12769847;15592455;12235133;10068673
+BTK_Homo sapiens	BMX	12573241
+BTK_Homo sapiens	GTF2I	11934902;11373296;16738337
+BTK_Homo sapiens	BTK	12573241;12445832;8630736
+BTK_Homo sapiens	ITK	12573241
+MAPK14_Homo sapiens	EEF2K	12171600
+MAPK14_Homo sapiens	ZNHIT1	17380123
+MAPK14_Homo sapiens	RPS6KA5	15568999
+MAPK14_Homo sapiens	RPS6KA4	10806207
+MAPK14_Homo sapiens	ESR1	16741565;12138194
+MAPK14_Homo sapiens	TP53	10747897;10348343;10884347;19413330
+MAPK14_Homo sapiens	KRT8	11788583;11781324;9211903;18691976;19007248;15972820
+GSK3A_Homo sapiens	MYC	18669648;17081983;15150404;11018017;14563837
+GSK3A_Homo sapiens	JUN	18669648;1846781;1956339
+GSK3A_Homo sapiens	MAPT	7931292;7706316
+GSK3A_Homo sapiens	GSK3A	17192257
+GSK3A_Homo sapiens	HSF1	12665592;18669648;19413330;18212344;19651622;19664994;20166139;20068231
+GSK3A_Homo sapiens	MCL1	16543145
+GSK3A_Homo sapiens	EIF2B5	11500362;9468292
+ITK_Homo sapiens	CD28	8992971;19901323;16094384
+ITK_Homo sapiens	PLCG1	8657103;11564877;15215251;15951569;17389395;19534553;19690332
+ITK_Homo sapiens	TEC	12573241
+ITK_Homo sapiens	BMX	12573241
+ITK_Homo sapiens	BTK	12445832;8630736;11598012;8629002;12573241;16497976
+ITK_Homo sapiens	ITK	12573241
+ITK_Homo sapiens	SIGLEC10	11733002
+CHK1_Homo sapiens	MDM4	16163388;16511572
+CHK1_Homo sapiens	TP73	14585975
+CHK1_Homo sapiens	TP53	15254178;15489221;10801407;12111733;17339337
+CHK1_Homo sapiens	CDC25A	12110582;12759351;14681206
+CHK1_Homo sapiens	CDC25B	17003105
+CHK1_Homo sapiens	MCM4	18220336;12714602
+CHK1_Homo sapiens	TLK1	12660173
+TBK1_Homo sapiens	IKBKB	10022904;10195894;10783893
+TBK1_Homo sapiens	NFKBIA	8601309;9721103;10783893;10329681;10882136
+TBK1_Homo sapiens	IRF5	22412986
+TBK1_Homo sapiens	IRF3	14703513;9463386;17526488
+TBK1_Homo sapiens	TMEM173	18818105
+TBK1_Homo sapiens	IRF7	15367631
+TBK1_Homo sapiens	OPTN	21617041
+FER_Homo sapiens	JUP	14517306
+FER_Homo sapiens	PECAM1	19342684
+FER_Homo sapiens	FER	17192257;18691976;17389395
+FER_Homo sapiens	CTNNB1	12640114
+FER_Homo sapiens	STAT3	7701321;12763138;15592455;15951569;16568091;17389395;18083107;18234692;19534553
+FER_Homo sapiens	CTTN	9748248;10921917;18669648;19413330;17287340;17389395;18491316;18088087;16497976;17016520;18707149;20068231
+MAPK8_Homo sapiens	EEF2K	12171600
+MAPK8_Homo sapiens	BCL2L11	12818176
+MAPK8_Homo sapiens	NR3C1	12351702;9199329;18669648
+MAPK8_Homo sapiens	TP53	11283254
+MAPK8_Homo sapiens	JUN	17804415;18650425;18669648;19413330;19690332;8654373;8224842;19664995;18212344;18707149;18452278;20068231;20058876;11896587;15302935;15378002
+MAPK8_Homo sapiens	KRT8	11788583;11781324;9211903;18691976;19007248;15972820
+IKK_group_Homo sapiens	IKBKB	10779355
+IKK_group_Homo sapiens	NFKB1	11158290;10469655
+IKK_group_Homo sapiens	NFKBIA	7796813;16007147;8657102;12138192;12403772;9214631;10398585;10882136;10723127
+IKK_group_Homo sapiens	IRS1	12351658
+IKK_group_Homo sapiens	RELA	12767944;15485852;15849198;10521409;15489227;15128824
+IKK_group_Homo sapiens	IRS2	12351658
+ILK_Homo sapiens	PPP1R12A	12600888;10601309;11931630;12220642;18669648;18077418;18767875;18212344
+ILK_Homo sapiens	AKT1	10226025;11313365;9736715
+ILK_Homo sapiens	ILK	11313365
+ILK_Homo sapiens	NACA	15299025
+ILK_Homo sapiens	PPP1R14C	12804574
+ILK_Homo sapiens	PPP1R14B	12030846
+VRK1_Homo sapiens	BANF1	16495336
+VRK1_Homo sapiens	TP53	10606744;19332559;10951572;15542844;16704422
+VRK1_Homo sapiens	JUN	18669648;11896587;15302935;11948398;8137421;15378002
+VRK1_Homo sapiens	ATF2	18669648;15105425
+VRK1_Homo sapiens	COIL	21920476
+VRK1_Homo sapiens	HIST1H3J	17938195
+ROCK2_Homo sapiens	PPP1R12A	11331307
+ROCK2_Homo sapiens	MYL9	11942626;17287340;18669648;21457715
+ROCK2_Homo sapiens	MSN	19255442
+ROCK2_Homo sapiens	ADD1	10209029
+ROCK2_Homo sapiens	DPYSL2	10818093
+ROCK2_Homo sapiens	SORL1	21147781
+TEC_Homo sapiens	FGF2	20230531
+TEC_Homo sapiens	TEC	12573241
+TEC_Homo sapiens	BMX	12573241
+TEC_Homo sapiens	BTK	12445832;8630736;11598012;8629002;12573241;16497976
+TEC_Homo sapiens	GRB10	9753425
+TEC_Homo sapiens	PTPN18	14679216
+MAP2K_group_Homo sapiens	MAPK3	18669648;17192257;15466476;7687743;11971971;8626767
+MAP2K_group_Homo sapiens	MAPK1	17192257;15935618;9166761;11971971
+MAP2K_group_Homo sapiens	MAPK9	11062067
+MAP2K_group_Homo sapiens	MAPK10	10715136;15911620
+MAP2K_group_Homo sapiens	MAP2K1	7873542
+MAP2K_group_Homo sapiens	MAPK14	17192257;10781613;15735648;15674326;16083285;7750576;15972258
+PTK2_Homo sapiens	TRIO	12551902
+PTK2_Homo sapiens	ACTN1	11369769;16291744
+PTK2_Homo sapiens	PXN	9658172;11337490
+PTK2_Homo sapiens	BMX	11331870
+PTK2_Homo sapiens	BCAR1	9360983;12119061;9360968
+PTK2_Homo sapiens	PTK2	17192257
+p70S6K_Homo sapiens	URI1	17936702;21397856
+p70S6K_Homo sapiens	RPS6KB1	16099428;11914378;12023960;12183455;15388791;15718470;15809305
+p70S6K_Homo sapiens	EIF4B	16763566;17924679;19664995;19651622;18707149;20068231;16083285;15071500
+p70S6K_Homo sapiens	MTOR	10910062;15905173
+p70S6K_Homo sapiens	RPS6	18669648;17287340;17081983;16083285;3461469;15358595;15471950;17360704
+p70S6K_Homo sapiens	POLDIP3	15341740
+FAK_Homo sapiens	WASL	16257963;17389395;18083107;19534553
+FAK_Homo sapiens	ACTN1	11369769
+FAK_Homo sapiens	PXN	15817476;16254239;15107421;10823820;11774284;12408869;7537852;15572663
+FAK_Homo sapiens	PTK2	18083107;17192257;7509446
+FAK_Homo sapiens	SH3GL1	16054026
+PAK3_Homo sapiens	RAF1	11733498;15849194;18465753;21917714;9234708;10205168;9823899;12719581;11376654;10801448
+PAK3_Homo sapiens	SYN1	12237306
+PAK3_Homo sapiens	TNNI3	12242269
+PAK3_Homo sapiens	MAPK4	18669648;21177870
+PAK3_Homo sapiens	MYO6	11517222;20068231
+MAPKAPK5_Homo sapiens	EEF2K	12171600
+MAPKAPK5_Homo sapiens	FOXO3	21329882
+MAPKAPK5_Homo sapiens	TP53	12959929;15381073;11483158;17254968
+MAPKAPK5_Homo sapiens	HSPB1	1332886;1730670;8774846;10383393;15976317;19166925
+MAPKAPK5_Homo sapiens	PLA2G4A	10978317;18669648;18212344;19664994;16964243;20068231
+TTK_Homo sapiens	CHEK2	11901158;15618221;12493754;10973490
+TTK_Homo sapiens	ABL1	18794806
+TTK_Homo sapiens	TP53	10606744;19332559;10951572;15542844
+TTK_Homo sapiens	HSPA9	17573779
+TTK_Homo sapiens	CDCA8	18243099;19530738;18946085
+CDK4_Homo sapiens	RB1	15809340;16360038;18669648;19690332
+CDK4_Homo sapiens	UBTF	18669648;17287340;10202152
+CDK4_Homo sapiens	RBL1	11884610;12006580
+CDK4_Homo sapiens	SMAD3	15241418;15520018
+CDK4_Homo sapiens	RBL2	11157749
+PKD1_Homo sapiens	EGFR	10523301
+PKD1_Homo sapiens	HSPB1	18669648;18088087;16964243;17081983;16097034;15302935;1332886;15728188;1730670
+PKD1_Homo sapiens	RIN1	18669648;11784866
+PKD1_Homo sapiens	PRKD1	10867018;19664994
+PKD1_Homo sapiens	HDAC7	16980613;18509061;18617643;15623513;16956611;18767875
+MAP2K6_Homo sapiens	MAPK13	9218798;9374491
+MAP2K6_Homo sapiens	MAPK12	11062067
+MAP2K6_Homo sapiens	STAT4	10961885
+MAP2K6_Homo sapiens	MAPK14	17322306;18669648;18691976;19651622;18767875;20068231
+MAP2K6_Homo sapiens	PAK6	15550393
+JNK_group_Homo sapiens	BCL2L11	12591950
+JNK_group_Homo sapiens	NR3C1	18669648;12351702;9199329
+JNK_group_Homo sapiens	ELK3	11042694
+JNK_group_Homo sapiens	HSF1	18669648;17081983;10747973
+JNK_group_Homo sapiens	MAPK8IP1	12756254
+RSK2_Homo sapiens	FOS	1545828;8248197;11585927;9920881;7588633
+RSK2_Homo sapiens	ESR1	11507039;11139588;11432835;9528769
+RSK2_Homo sapiens	HMGN1	11438671;12773393;17924679;20166139
+RSK2_Homo sapiens	HMGN2	11438671
+RSK2_Homo sapiens	KRT18	7523419;1374067;18669648;17924679;19007248;20068231
+FGFR1_Homo sapiens	SYNCRIP	12601080
+FGFR1_Homo sapiens	FGFR1	12601080
+FGFR1_Homo sapiens	RPS6KA3	12601080
+FGFR1_Homo sapiens	BCAR1	16212419;18083107;12601080
+FGFR1_Homo sapiens	CTTN	16212419;15592455;12601080
+PKCd_Homo sapiens	PLSCR1	10770950
+PKCd_Homo sapiens	EGFR	2987962;2984676
+PKCd_Homo sapiens	ITGB2	11700305
+PKCd_Homo sapiens	EIF2S1	10542257;9819435;1677563
+PKCd_Homo sapiens	KRT8	11781324;15972820;11788583
+MAP2K3_Homo sapiens	MAPK13	9374491
+MAP2K3_Homo sapiens	MAP2K3	7839144
+MAP2K3_Homo sapiens	MAPK12	11062067
+MAP2K3_Homo sapiens	MAPK11	18083107;19369195
+MAP2K3_Homo sapiens	MAPK14	7535770;16083285;17081983;17192257;18669648;18691976;19369195;19690332;17322306;19651622;18767875;20068231
