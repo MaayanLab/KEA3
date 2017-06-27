@@ -101,6 +101,7 @@ h3 {
 }
 
 #display {
-	width: 685px;
-    margin: 0 auto;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 100px;
 }
