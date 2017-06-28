@@ -1,6 +1,7 @@
 MINT_MiTab.txt
 networkin_human_predictions.tsv
-
+Combined.sig
+Combinedsig.txt
 <<<<<<< HEAD
 Swiss_phos_exp(1).tab
 POST_TRANSLATIONAL_MODIFICATIONS.txt
@@ -9,8 +10,7 @@ RegPhos_Phos_human.txt
 RegPhos_Phos_mouse.txt
 Swiss_phos_putative(1).tab
 Kinase_Substrate_Dataset(1)
-Combined.sig
-Combinedsig.txt
+
 =======
 Swiss_phos_putative(1).tab
 Kinase_Substrate_Dataset(1)

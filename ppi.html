@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>KEA3</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+ <div class="topnav" id="myTopnav">
+  <a href="index.html">KEA3</a>
+  <a href="citations.html"> KEA3 Citations</a>
+  <a href="ppi.html"> Protein-Protein Interactions (PPI)</a>
+</div> 
+
+
+	<div id="title-row" class="row">
+					<div class="col text-center">
+						<h1>Protein-Protein Interactions</h1>
+					</div>
+				</div>
+
+	<div id = "info-row" class="container-fluid">
+	<div class="container">
+		<div class="row text-center">
+
+			<div class= "col-6">
+				<h2> Overview </h2>
+				<hr width="50%" class="my-2">
+				<p> In addition to kinase-substrate interactions related to the KEA3 project, this website will also host data related to protein-protein interactions. Data was collected from eight different databases, and all data was converted into the .sig file format. The data was later processed into the .GMT file format. Two of the five Jupyter Notebooks are exclusively related to the creation of the .Sig and .GMT files of the data, each processing all of the databases into the desired file format in a single notebook.</p>
+			</div>
+
+			<div class="col-6">
+				<h2> Methods </h2>
+				<hr width="50%" class="my-2">
+				<p>The methods used to take the original data and transform them into the .sig and .gmt files for these protein-protein interactions are carefully recorded and commented in the Jupyter Notebooks linked below. In addition, the resulting .gmt and .sig files can also be found linked below so that the final results can be viewed, and if desired the links to the original raw data can also be accessed below. All data exclusively includes mouse and human samples, represented in two of the five Jupyter Notebooks below (one which processes human data and the other processing mouse data). Another Jupyter Notebook combines both.</p>	
+			</div>
+		</div>
+	</div>
+	</div>
+
+	<div id = "title-row2" class="row">
+		<div class="col text-center">
+			<h2> Jupyter Notebooks </h2>
+		</div>
+	</div>
+
+	<div id = "Resources-row" class="container-fluid">
+		<div class="container">
+
+			<div class="row text-center">
+				<div class="col-lg-6">
+						<img class = "img" src="ppi.png">
+						<h3>Protein-Protein Interactions - Human</h3>
+						<p>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI-HUMAN.ipynb">Jupyter Notebook</a>
+						</p>
+				</div>
+
+				<div class="col-lg-6">
+						<img class = "img" src="ppi.png">
+						<h3>Protein-Protein Interactions - Mouse</h3>
+						<p>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI-MOUSE.ipynb">Jupyter Notebook</a>
+						</p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+		<div id = "Resources-row" class="container-fluid">
+		<div class="container">
+
+			<div class="row text-center">
+				<div class="col-lg-4">
+						<img class = "img" src="ppi.png">
+						<h3>PPI - Combined</h3>
+						<p>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI.ipynb">Jupyter Notebook</a>
+						</p>
+				</div>
+
+				<div class="col-lg-4">
+						<img class = "img" src="ppi.png">
+						<h3>SIG File Processing</h3>
+						<p>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/Create%20SIG%20Files.ipynb">Jupyter Notebook</a>
+						</p>
+				</div>
+
+				<div class="col-lg-4">
+						<img class = "img" src="ppi.png">
+						<h3>GMT File Processing</h3>
+						<p>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/SIG_to_GMT%20conversion.ipynb">Jupyter Notebook</a>
+						</p>
+				</div>
+
+			</div>
+		</div>
+	</div>
+
+
+	<div id = "title-row2" class="row">
+		<div class="col text-center">
+			<h2> Resource Files </h2>
+		</div>
+		</div>
+
+	<div id = "Resources-row" class="container-fluid">
+		<div class="container">
+			<div class="row text-center">
+				<div class="col-lg-3">
+						<img class = "img" src="ppi.png">
+						<h3>BioGrid</h3>
+						<p>Processed Files
+							<a id = 'l' href = "https://github.com/mlatif1/KEA3/blob/master/PPI/biogrid_ppi.gmt" >GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/biogrid_ppi_2017_06_09sig.txt">.SIG</a>
+						</p>
+				</div>
+
+				<div class="col-lg-3">
+						<img class = "img" src="ppi.png">
+						<h3>DIP</h3>
+						<p>Processed Files
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi.gmt" >GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi_2017_06_12sig.txt">.SIG</a>
+						</p>
+				</div>
+
+				<div class="col-lg-3">
+						<img class = "img" src="ppi.png">
+						<h3>Innated</h3>
+						<p>Processed Files
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi.gmt" >GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi_2017_06_12sig.txt">.SIG</a>
+						</p>
+				</div>
+
+				<div class="col-lg-3">
+						<img class = "img" src="ppi.png">
+						<h3>Intact</h3>
+						<p>Processed Files
+							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/intact_ppi_2017_06_12sig.txt">.SIG</a>
+						</p>
+				</div>
+
+			</div>
+
+			<div class="row text-center">
+				<div class="col-lg-3">
+						<img class = "img" src="ppi.png">
+						<h3>KEA</h3>
+						<p>Processed Files
+							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi_2017_06_12sig.txt">.SIG</a>
+						</p>
+				</div>
+
+				<div class="col-lg-3">
+						<img class = "img" src="ppi.png">
+						<h3>Mentha</h3>
+						<p>Processed Files
+							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi_2017_06_12sig.txt">.SIG</a>
+						</p>
+				</div>
+
+				<div class="col-lg-3">
+						<img class = "img" src="ppi.png">
+						<h3>MINT</h3>
+						<p>Processed Files
+							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi_2017_06_12sig.txt">.SIG</a>
+						</p>
+				</div>
+
+				<div class="col-lg-3">
+						<img class = "img" src="ppi.png">
+						<h3>Savi</h3>
+						<p>Processed Files
+							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi_2017_06_12sig.txt">.SIG</a>
+						</p>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+
+
+	<div id="scripts">
+		<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+	</div>
+</body>
+</html>

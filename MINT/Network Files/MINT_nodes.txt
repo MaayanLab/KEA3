@@ -1,0 +1,310 @@
+id	targets	type
+PASK_Homo sapiens	28	kinase
+CHEK2_Homo sapiens	11	kinase
+CSNK2A1_Homo sapiens	9	kinase
+MAPK1_Homo sapiens	7	kinase
+AKT1_Homo sapiens	7	kinase
+Lyn_Mus musculus	7	kinase
+GSK3B_Homo sapiens	6	kinase
+SRC_Homo sapiens	6	kinase
+PLK1_Homo sapiens	6	kinase
+CHEK1_Homo sapiens	5	kinase
+PRKACA_Homo sapiens	5	kinase
+PDK1_Homo sapiens	5	kinase
+FYN_Homo sapiens	4	kinase
+MAPK14_Homo sapiens	4	kinase
+HIPK2_Homo sapiens	3	kinase
+MAPK8_Homo sapiens	3	kinase
+FCGR1A_Homo sapiens	3	kinase
+TRPM6_Homo sapiens	3	kinase
+TRPM7_Homo sapiens	3	kinase
+Epha4_Mus musculus	3	kinase
+EIF2AK2_Homo sapiens	3	kinase
+ABL1_Homo sapiens	3	kinase
+CDK1_Homo sapiens	3	kinase
+XRCC6_Homo sapiens	2	kinase
+Jak2_Mus musculus	2	kinase
+Mapk14_Mus musculus	2	kinase
+PRKD2_Homo sapiens	2	kinase
+IKBKB_Homo sapiens	2	kinase
+IKBKG_Homo sapiens	2	kinase
+RPS6KA1_Homo sapiens	2	kinase
+MAPKAPK2_Homo sapiens	2	kinase
+PTPN1_Homo sapiens	2	kinase
+AURKB_Homo sapiens	2	kinase
+LCK_Homo sapiens	2	kinase
+CAMK2D_Homo sapiens	2	kinase
+LRRK2_Homo sapiens	2	kinase
+CD2_Homo sapiens	2	kinase
+MAPK3_Homo sapiens	2	kinase
+Plk4_Mus musculus	2	kinase
+MAP3K3_Homo sapiens	2	kinase
+PRKCZ_Homo sapiens	2	kinase
+PRKCD_Homo sapiens	2	kinase
+CAMK2A_Homo sapiens	2	kinase
+Mknk2_Mus musculus	2	kinase
+SYK_Homo sapiens	2	kinase
+Eif2ak1_Mus musculus	2	kinase
+CSNK1A1_Homo sapiens	2	kinase
+PAK1_Homo sapiens	2	kinase
+TBK1_Homo sapiens	2	kinase
+PRKCA_Homo sapiens	2	kinase
+CSNK1E_Homo sapiens	2	kinase
+Mapk8_Mus musculus	2	kinase
+AURKA_Homo sapiens	2	kinase
+DMPK_Homo sapiens	2	kinase
+DAPK1_Homo sapiens	2	kinase
+PBK_Homo sapiens	2	kinase
+PRKACB_Homo sapiens	2	kinase
+PLK4_Homo sapiens	1	kinase
+Prkca_Mus musculus	1	kinase
+Abl1_Mus musculus	1	kinase
+PTK2_Homo sapiens	1	kinase
+PRKDC_Homo sapiens	1	kinase
+Prkaca_Mus musculus	1	kinase
+Ptk2b_Mus musculus	1	kinase
+Prkcb_Mus musculus	1	kinase
+Prkcg_Mus musculus	1	kinase
+XRCC5_Homo sapiens	1	kinase
+WRN_Homo sapiens	1	kinase
+Trpm7_Mus musculus	1	kinase
+ATM_Homo sapiens	1	kinase
+TNK2_Homo sapiens	1	kinase
+TLK1_Homo sapiens	1	kinase
+Src_Mus musculus	1	kinase
+STK11_Homo sapiens	1	kinase
+SRMS_Homo sapiens	1	kinase
+SGK3_Homo sapiens	1	kinase
+SGK1_Homo sapiens	1	kinase
+Rps6ka5_Mus musculus	1	kinase
+RPS6KB2_Homo sapiens	1	kinase
+RPS6KA2_Homo sapiens	1	kinase
+ROCK2_Homo sapiens	1	kinase
+RAF1_Homo sapiens	1	kinase
+Akt1_Mus musculus	1	kinase
+Ptk2_Mus musculus	1	kinase
+Prkg1_Mus musculus	1	kinase
+PLK2_Homo sapiens	1	kinase
+CLK2_Homo sapiens	1	kinase
+PIM3_Homo sapiens	1	kinase
+INSR_Homo sapiens	1	kinase
+CDK11B_Homo sapiens	1	kinase
+GRK2_Homo sapiens	1	kinase
+GRIA1_Homo sapiens	1	kinase
+CDK5_Homo sapiens	1	kinase
+FES_Homo sapiens	1	kinase
+FER_Homo sapiens	1	kinase
+CDKN1B_Homo sapiens	1	kinase
+CHUK_Homo sapiens	1	kinase
+Egfr_Mus musculus	1	kinase
+CIT_Homo sapiens	1	kinase
+EGFR_Homo sapiens	1	kinase
+EEF2K_Homo sapiens	1	kinase
+Ddr1_Mus musculus	1	kinase
+Csnk2a1_Mus musculus	1	kinase
+Camk2d_Mus musculus	1	kinase
+CXCR5_Homo sapiens	1	kinase
+CLK1_Homo sapiens	1	kinase
+IGF1R_Homo sapiens	1	kinase
+JAK1_Homo sapiens	1	kinase
+PIM2_Homo sapiens	1	kinase
+JAK2_Homo sapiens	1	kinase
+PIM1_Homo sapiens	1	kinase
+BRAF_Homo sapiens	1	kinase
+PAK2_Homo sapiens	1	kinase
+CSK_Homo sapiens	1	kinase
+Mapk1_Mus musculus	1	kinase
+Mapk11_Mus musculus	1	kinase
+MYLK_Homo sapiens	1	kinase
+MET_Homo sapiens	1	kinase
+MAPK9_Homo sapiens	1	kinase
+CCNB2_Homo sapiens	1	kinase
+CCNE1_Homo sapiens	1	kinase
+MAPK11_Homo sapiens	1	kinase
+MAPK10_Homo sapiens	1	kinase
+MAP3K1_Homo sapiens	1	kinase
+MAP2K1_Homo sapiens	1	kinase
+LIMK1_Homo sapiens	1	kinase
+Jak3_Mus musculus	1	kinase
+Mapk3_Mus musculus	1	kinase
+AATF		target
+ADRB2		target
+AKT1		target
+ARFIP1		target
+Asap1		target
+Atf2		target
+BCL2		target
+BCL2L1		target
+BECN1		target
+Bcar1		target
+Bmpr2		target
+CAV1		target
+CBL		target
+CDC25A		target
+CDC34		target
+CDK1		target
+CDKN1B		target
+CENPJ		target
+CFL1		target
+CHEK2		target
+CREB1		target
+CSNK2B		target
+CTNNB1		target
+CTTN		target
+Cdh1		target
+Clock		target
+Cttn		target
+DAPK1		target
+DDX3X		target
+DOK1		target
+DUSP1		target
+Dbnl		target
+Dok2		target
+EEF1A1		target
+EEF2K		target
+EIF2S1		target
+EIF3F		target
+EIF4B		target
+EIF4ENIF1		target
+EP300		target
+EPAS1		target
+ESR1		target
+Efs		target
+Eif2s1		target
+Epha2		target
+Epha4		target
+Ephb2		target
+Eps15		target
+FAM129A		target
+FGA		target
+FLNA		target
+FOXM1		target
+FXN		target
+FYN		target
+GAB2		target
+GNAI2		target
+GRIA4		target
+GSK3B		target
+GTSE1		target
+GYS1		target
+Grb7		target
+HDAC7		target
+HIF1A		target
+HSPB1		target
+Hcls1		target
+IER3		target
+IGF1R		target
+IKBKB		target
+IL2RA		target
+IRF3		target
+ITCH		target
+Irs2		target
+JUN		target
+Jak2		target
+Jun		target
+KANK2		target
+KCNH2		target
+KRT18		target
+KRT8		target
+LCK		target
+LCP2		target
+LCT		target
+LIMK1		target
+LMNA		target
+LMNB1		target
+Ldb3		target
+MAP2		target
+MAP3K1		target
+MAPK1		target
+MAPK3		target
+MAPT		target
+MBP		target
+MDC1		target
+MDM2		target
+MDM4		target
+MET		target
+MUC1		target
+MYH10		target
+MYH14		target
+MYH9		target
+MYL12A		target
+Map2		target
+Mapk11		target
+Mapk3		target
+Mknk1		target
+Myh9		target
+NBN		target
+NCF1		target
+NCOA3		target
+NEDD9		target
+NFATC4		target
+NFKBIA		target
+NPM1		target
+NSF		target
+Ncf1		target
+OCLN		target
+PBK		target
+PDCD6IP		target
+PDHA1		target
+PDX1		target
+PFKFB1		target
+PHKB		target
+PIAS1		target
+PKIA		target
+PKN2		target
+PLXNB1		target
+PPP1R12A		target
+PPP1R14B		target
+PPP2R5C		target
+PRKACA		target
+PRKCD		target
+PRKD2		target
+PTPN1		target
+PTPN23		target
+PTPN6		target
+PTPRC		target
+Pde3a		target
+Plk4		target
+Pstpip1		target
+Ptpra		target
+RAB11FIP1		target
+RAB4A		target
+RACGAP1		target
+RAF1		target
+RALBP1		target
+RB1		target
+RCAN1		target
+RCHY1		target
+RELA		target
+RPS6		target
+RPS6KB1		target
+RPS6KB2		target
+RUNX1		target
+Rara		target
+SGK3		target
+SHC1		target
+SNAP23		target
+SNRK		target
+SORBS2		target
+SRC		target
+STAM2		target
+STAT1		target
+STIP1		target
+STRAP		target
+SUB1		target
+Stam		target
+TNK2		target
+TOPBP1		target
+TP53		target
+TUBB		target
+VTN		target
+WAS		target
+WRN		target
+XRCC1		target
+XRCC4		target
+XRCC5		target
+YBX1		target
+YBX3		target
+YWHAZ		target
+ZIC2		target
+ZNHIT1		target
