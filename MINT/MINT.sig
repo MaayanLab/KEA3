@@ -125,6 +125,7 @@ Mapk11	Mknk2_Mus musculus	mint:MINT-5221500|pubmed:9155017
 PPP1R12A	DMPK_Homo sapiens	mint:MINT-5213908|pubmed:11287000
 CDC25A	CHEK2_Homo sapiens	mint:MINT-5213933|pubmed:11298456
 TP53	CHEK2_Homo sapiens	mint:MINT-5212334|pubmed:10724175
+CDC25A	CHEK2_Homo sapiens	mint:MINT-5212334|pubmed:10724175
 LCP2	FCGR1A_Homo sapiens	mint:MINT-6548125|pubmed:9716598
 SHC1	FCGR1A_Homo sapiens	mint:MINT-6548125|pubmed:9716598
 CBL	FCGR1A_Homo sapiens	mint:MINT-6548125|pubmed:9716598
@@ -168,6 +169,7 @@ Efs	Lyn_Mus musculus	mint:MINT-5211702|pubmed:10428862
 Bcar1	Lyn_Mus musculus	mint:MINT-5211702|pubmed:10428862
 Dok2	Lyn_Mus musculus	mint:MINT-5211702|pubmed:10428862
 Dbnl	Lyn_Mus musculus	mint:MINT-5211702|pubmed:10428862
+MDM2	AKT1_Homo sapiens	doi:10.1016/j.febslet.2009.01.003|mint:MINT-6823529|mint:d-08-01901|pubmed:19166854|imex:IM-11640
 MDM2	PIM1_Homo sapiens	doi:10.1016/j.febslet.2009.01.003|mint:MINT-6823529|mint:d-08-01901|pubmed:19166854|imex:IM-11640
 MDM2	PIM3_Homo sapiens	doi:10.1016/j.febslet.2009.01.003|mint:MINT-6823529|mint:d-08-01901|pubmed:19166854|imex:IM-11640
 MDM2	PIM2_Homo sapiens	doi:10.1016/j.febslet.2009.01.003|mint:MINT-6823529|mint:d-08-01901|pubmed:19166854|imex:IM-11640

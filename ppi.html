@@ -18,7 +18,7 @@
 
 	<div id="title-row" class="row">
 					<div class="col text-center">
-						<h1>Protein-Protein Interactions</h1>
+						<h1>Protein-Protein Interactions (PPI)</h1>
 					</div>
 				</div>
 
@@ -29,80 +29,32 @@
 			<div class= "col-6">
 				<h2> Overview </h2>
 				<hr width="50%" class="my-2">
-				<p> In addition to kinase-substrate interactions related to the KEA3 project, this website will also host data related to protein-protein interactions. Data was collected from eight different databases, and all data was converted into the .sig file format. The data was later retrieved into the .GMT file format. Two of the five Jupyter Notebooks are exclusively related to the creation of the .Sig and .GMT files of the data, each processing all of the databases into the desired file format in a single notebook.</p>
+				<p> In addition to kinase-substrate interactions related to the KEA3 project, this website will also host data related to protein-protein interactions. Data was collected from eight different databases, and all data was converted into the .sig file format. These .SIG files were later processed into the .GMT file format. The methods used to transform the original data and into the .sig and .gmt files for the protein-protein interactions can be found in the Jupyter Notebooks linked below. In addition, links to the original raw data and the resulting .GMT and .SIG files can be found below. </p>
+		<p>
+					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI-Human Data.ipynb">PPI-Human Data </a>
+		|
+					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI- Mouse Data.ipynb">PPI- Mouse Data</a> |
+		</p>
+		<p>
+				<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PPI/PPI.ipynb">PPI-Combined</a>
+		|
+					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/Create%20SIG%20Files.ipynb">Create SIG File </a> |
+		</p>
+		<p>
+					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/SIG_to_GMT%20conversion.ipynb">SIG_to_GMT</a>
+		</p>
 			</div>
 
 			<div class="col-6">
 				<h2> Methods </h2>
 				<hr width="50%" class="my-2">
-				<p>The methods used to take the original data and transform them into the .sig and .gmt files for these protein-protein interactions are carefully recorded and commented in the Jupyter Notebooks linked below. In addition, the resulting .gmt and .sig files can also be found linked below so that the final results can be viewed, and if desired the links to the original raw data can also be accessed below. All data exclusively includes mouse and human samples, represented in two of the five Jupyter Notebooks below (one which processes human data and the other processing mouse data). Another Jupyter Notebook combines both.</p>	
+				<p>There are five Jupyter Notebooks (which each process all of the databases in a single notebook) detailing the methods used to process the data. The 'PPI-Human Data' notebook filters data related to PPI-Human Data protein-protein interactions for all of the databases, and the 'PPI- Mouse Data' notebook filters data related to PPI-Mouse Data protein-protein interactions for all of the databases. The 'PPI-Combined' notebook combines PPI-Human Data and PPI- Mouse Data data together for each database, and the 'Create Sig File' notebook creates a .SIG file for each database using the combined data. Finally, the 'SIG_to_GMT' notebook takes the .SIG files and converts them to .GMT files. for the .GMT file, only proteins which had at least five interactions and no more than 2000 interactions were included in the .gmt files.</p>
+	
 			</div>
 		</div>
 	</div>
 	</div>
 
-	<div id = "title-row2" class="row">
-		<div class="col text-center">
-			<h2> Jupyter Notebooks </h2>
-		</div>
-	</div>
-
-	<div id = "Resources-row" class="container-fluid">
-		<div class="container">
-
-			<div class="row text-center">
-				<div class="col-lg-6">
-						<img class = "img" src="ppi.png">
-						<h3>Protein-Protein Interactions - Human</h3>
-						<p>
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI-HUMAN.ipynb">Jupyter Notebook</a>
-						</p>
-				</div>
-
-				<div class="col-lg-6">
-						<img class = "img" src="ppi.png">
-						<h3>Protein-Protein Interactions - Mouse</h3>
-						<p>
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI-MOUSE.ipynb">Jupyter Notebook</a>
-						</p>
-				</div>
-
-			</div>
-		</div>
-	</div>
-
-		<div id = "Resources-row" class="container-fluid">
-		<div class="container">
-
-			<div class="row text-center">
-				<div class="col-lg-4">
-						<img class = "img" src="ppi.png">
-						<h3>PPI - Combined</h3>
-						<p>
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI.ipynb">Jupyter Notebook</a>
-						</p>
-				</div>
-
-				<div class="col-lg-4">
-						<img class = "img" src="ppi.png">
-						<h3>SIG File Processing</h3>
-						<p>
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/Create%20SIG%20Files.ipynb">Jupyter Notebook</a>
-						</p>
-				</div>
-
-				<div class="col-lg-4">
-						<img class = "img" src="ppi.png">
-						<h3>GMT File Processing</h3>
-						<p>
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/SIG_to_GMT%20conversion.ipynb">Jupyter Notebook</a>
-						</p>
-
-				</div>
-
-			</div>
-		</div>
-	</div>
 
 
 	<div id = "title-row2" class="row">
@@ -113,162 +65,103 @@
 
 	<div id = "Resources-row" class="container-fluid">
 		<div class="container">
-			<div class="row text-center">
-				<div class="col-lg-3">
-						<img class = "img" src="ppi.png">
-						<h3>BioGrid</h3>
-						<p>Processed Files
-							<a id = 'l' href = "https://github.com/mlatif1/KEA3/blob/master/PPI/biogrid_ppi.gmt" >GMT</a>
+
+		 <table id = "ppi-table" style="width:100%">
+  			<tr>
+    			<th>Database</th>
+    			<th>Processed Files</th>
+    			<th>Download Data</th>
+    			<th>Date Retrieved</th>
+  			</tr>
+  			<tr>
+    			<td>BioGrid</td>
+    			<td><a id = 'l' href = "https://github.com/mlatif1/KEA3/blob/master/PPI/biogrid_ppi.gmt" >GMT</a>
+				|
+				<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/biogrid_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td><a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=https-3A__thebiogrid.org_downloads_archives_Release-2520Archive_BIOGRID-2D3.4.144_BIOGRID-2DALL-2D3.4.144.mitab.zip&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=mI2tEi0k6-2vBnUAJ8GD2-TCPVdPWzpMbje_637goZs&e=">PPI-Human Data</a>
+					|
+						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=https-3A__thebiogrid.org_downloads_archives_Release-2520Archive_BIOGRID-2D3.4.144_BIOGRID-2DALL-2D3.4.144.mitab.zip&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=mI2tEi0k6-2vBnUAJ8GD2-TCPVdPWzpMbje_637goZs&e= ">PPI- Mouse Data</a></td>
+    			<td>January 25 2017</td>
+  			</tr>
+  			<tr>
+    			<td>DIP</td>
+    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi.gmt" >GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/biogrid_ppi_2017_06_28sig.txt">.SIG</a>
-						</p>
-						<p><i>
-						Date retrieved: January 35 2017
-					</i></p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=https-3A__thebiogrid.org_downloads_archives_Release-2520Archive_BIOGRID-2D3.4.144_BIOGRID-2DALL-2D3.4.144.mitab.zip&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=mI2tEi0k6-2vBnUAJ8GD2-TCPVdPWzpMbje_637goZs&e=">Download Original Data (Human)</a>
-					</p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=https-3A__thebiogrid.org_downloads_archives_Release-2520Archive_BIOGRID-2D3.4.144_BIOGRID-2DALL-2D3.4.144.mitab.zip&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=mI2tEi0k6-2vBnUAJ8GD2-TCPVdPWzpMbje_637goZs&e= ">Download Original Data (Mouse)</a>
-					</p>
-				</div>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td><a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__dip.doe-2Dmbi.ucla.edu_dip_File.cgi-3FFN-3D2016_tab25_dip20160731.txt&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=D7qKgclA4IbvfDjbxccL8LSG3UsPa7AU4ant8b8qXWo&e=">PPI-Human Data</a>
+					|
+						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__dip.doe-2Dmbi.ucla.edu_dip_File.cgi-3FFN-3D2016_tab25_dip20160731.txt&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=D7qKgclA4IbvfDjbxccL8LSG3UsPa7AU4ant8b8qXWo&e= ">PPI- Mouse Data</a></td>
+    			<td>January 25 2017</td>
+  			</tr>
 
-				<div class="col-lg-3">
-						<img class = "img" src="ppi.png">
-						<h3>DIP</h3>
-						<p>Processed Files
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi.gmt" >GMT</a>
+  			<tr>
+    			<td>InnatedDB</td>
+    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi.gmt" >GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi_2017_06_28sig.txt">.SIG</a>
-						</p>
-						<p><i>
-						Date retrieved: January 25 2017
-					</i></p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__dip.doe-2Dmbi.ucla.edu_dip_File.cgi-3FFN-3D2016_tab25_dip20160731.txt&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=D7qKgclA4IbvfDjbxccL8LSG3UsPa7AU4ant8b8qXWo&e=">Download Original Data (Human)</a>
-					</p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__dip.doe-2Dmbi.ucla.edu_dip_File.cgi-3FFN-3D2016_tab25_dip20160731.txt&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=D7qKgclA4IbvfDjbxccL8LSG3UsPa7AU4ant8b8qXWo&e= ">Download Original Data (Mouse)</a>
-					</p>
-				</div>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td><a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__www.innatedb.com_download_interactions_innatedb-5Fppi.mitab.gz&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=M4I-F00djsSBy83R9CVNADb-OMwpiel94VVNTR-murY&e=">PPI-Human Data</a>
+|
+						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__www.innatedb.com_download_interactions_innatedb-5Fppi.mitab.gz&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=M4I-F00djsSBy83R9CVNADb-OMwpiel94VVNTR-murY&e=">PPI- Mouse Data</a></td>
+    			<td>January 25 2017</td>
+  			</tr>
 
-				<div class="col-lg-3">
-						<img class = "img" src="ppi.png">
-						<h3>InnatedDB</h3>
-						<p>Processed Files
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi.gmt" >GMT</a>
+  			<tr>
+    			<td>IntAct</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi_2017_06_28sig.txt">.SIG</a>
-						</p>
-						<p><i>
-						Date retrieved: January 25 2017
-					</i></p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__www.innatedb.com_download_interactions_innatedb-5Fppi.mitab.gz&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=M4I-F00djsSBy83R9CVNADb-OMwpiel94VVNTR-murY&e=">Download Original Data (Human)</a>
-					</p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__www.innatedb.com_download_interactions_innatedb-5Fppi.mitab.gz&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=M4I-F00djsSBy83R9CVNADb-OMwpiel94VVNTR-murY&e=">Download Original Data (Mouse)</a>
-					</p>
-				</div>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/intact_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td><a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ebi.ac.uk_intact_downloads&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=F7QsaA5RcDLVV_g_n7uDXIrPdh-SJk3JYZjYAE8HzO4&e= ">PPI-Human Data</a>
+					|
+						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ebi.ac.uk_intact_downloads&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=F7QsaA5RcDLVV_g_n7uDXIrPdh-SJk3JYZjYAE8HzO4&e= ">PPI- Mouse Data</a></td>
+    			<td>January 26 2017</td>
+  			</tr>
 
-				<div class="col-lg-3">
-						<img class = "img" src="ppi.png">
-						<h3>IntAct</h3>
-						<p>Processed Files
-							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
+  			<tr>
+    			<td>KEA</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/intact_ppi_2017_06_28sig.txt">.SIG</a>
-						</p>
-						<p><i>
-						Date retrieved: January 26 2017
-					</i></p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ebi.ac.uk_intact_downloads&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=F7QsaA5RcDLVV_g_n7uDXIrPdh-SJk3JYZjYAE8HzO4&e= ">Download Original Data (Human)</a>
-					</p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__www.ebi.ac.uk_intact_downloads&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=F7QsaA5RcDLVV_g_n7uDXIrPdh-SJk3JYZjYAE8HzO4&e= ">Download Original Data (Mouse)</a>
-					</p>
-				</div>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td><a id = 'l' href = "http://amp.pharm.mssm.edu/X2K/datasets/KEA.zip">PPI-Human Data</a></td>
+    			<td>February 1 2017</td>
+  			</tr>
 
-			</div>
-
-			<div class="row text-center">
-				<div class="col-lg-3">
-						<img class = "img" src="ppi.png">
-						<h3>KEA</h3>
-						<p>Processed Files
-							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
+  			<tr>
+    			<td>mentha</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi.gmt">.GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi_2017_06_28sig.txt">.SIG</a>
-						</p>
-						<p><i>
-						Date retrieved: February 1 2017
-					</i></p>
-					<p>
-						<a id = 'l' href = "http://amp.pharm.mssm.edu/X2K/datasets/KEA.zip">Download Original Data (Human)</a>
-					</p>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td><a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__mentha.uniroma2.it_doDownload.php-3Ffile-3Dorganisms_9606.zip&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=RMnXZik8FZh0xdEL4OZPLacO9h0pmWzSKsHvkFp3Jt4&e= ">PPI-Human Data</a>
+					|
+						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__mentha.uniroma2.it_doDownload.php-3Ffile-3Dorganisms_9606.zip&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=RMnXZik8FZh0xdEL4OZPLacO9h0pmWzSKsHvkFp3Jt4&e= ">PPI- Mouse Data</a></td>
+    			<td>January 26 2017</td>
+  			</tr>
 
-				</div>
-
-				<div class="col-lg-3">
-						<img class = "img" src="ppi.png">
-						<h3>mentha</h3>
-						<p>Processed Files
-							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi.gmt">.GMT</a>
+  			<tr>
+    			<td>MINT</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi.gmt">.GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi_2017_06_28sig.txt">.SIG</a>
-						</p>
-						<p><i>
-						Date retrieved: January 26 2017
-					</i></p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__mentha.uniroma2.it_doDownload.php-3Ffile-3Dorganisms_9606.zip&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=RMnXZik8FZh0xdEL4OZPLacO9h0pmWzSKsHvkFp3Jt4&e= ">Download Original Data (Human)</a>
-					</p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__mentha.uniroma2.it_doDownload.php-3Ffile-3Dorganisms_9606.zip&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=RMnXZik8FZh0xdEL4OZPLacO9h0pmWzSKsHvkFp3Jt4&e= ">Download Original Data (
-						Mouse)</a>
-					</p>
-				</div>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td><a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__mint.bio.uniroma2.it_mitab_MINT-5FMiTab.txt&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=Bv-GMiHdQIC4fRHi4JERcK71UMdrk1EvTGoRMpquPiM&e=">PPI-Human Data</a>
+					|
+						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__mint.bio.uniroma2.it_mitab_MINT-5FMiTab.txt&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=Bv-GMiHdQIC4fRHi4JERcK71UMdrk1EvTGoRMpquPiM&e= ">PPI- Mouse Data</a></td>
+    			<td>January 23 2017</td>
+  			</tr>
 
-				<div class="col-lg-3">
-						<img class = "img" src="ppi.png">
-						<h3>MINT</h3>
-						<p>Processed Files
-							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi.gmt">.GMT</a>
+  			<tr>
+    			<td>SNAVI</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi.gmt">.GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi_2017_06_28sig.txt">.SIG</a>
-						</p>
-						<p><i>
-						Date retrieved: January 23 2017
-					</i></p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__mint.bio.uniroma2.it_mitab_MINT-5FMiTab.txt&d=DwIGAg&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=Bv-GMiHdQIC4fRHi4JERcK71UMdrk1EvTGoRMpquPiM&e=">Download Original Data (Human)</a>
-					</p>
-					<p>
-						<a id = 'l' href = "https://urldefense.proofpoint.com/v2/url?u=http-3A__mint.bio.uniroma2.it_mitab_MINT-5FMiTab.txt&d=DwIGaQ&c=shNJtf5dKgNcPZ6Yh64b-A&r=FzzxHcpcdpeEl2SeS4RngXJfR5R4cEV8N2xULwaH8LE&m=H47AkOYhsWJidY3BTdZQzbIarlSka87imDJ8Qn9e6GY&s=Bv-GMiHdQIC4fRHi4JERcK71UMdrk1EvTGoRMpquPiM&e= ">Download Original Data (Mouse)</a>
-					</p>
-				</div>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td><a id = 'l' href = "http://amp.pharm.mssm.edu/X2K/datasets/SNAVI.sig">PPI-Human Data</a></td>
+    			<td>February 1 2017</td>
+  			</tr>
 
-				<div class="col-lg-3">
-						<img class = "img" src="ppi.png">
-						<h3>SNAVI</h3>
-						<p>Processed Files
-							<a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi.gmt">.GMT</a>
-							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi_2017_06_28sig.txt">.SIG</a>
-						</p>
-						<p><i>
-						Date retrieved: February 1 2017
-					</i></p>
-					<p>
-						<a id = 'l' href = "http://amp.pharm.mssm.edu/X2K/datasets/SNAVI.sig">Download Original Data (Human)</a>
-					</p>
-				</div>
+		</table> 
+
+
 			</div>
 
 		</div>
-	</div>
-
 
 
 	<div id="scripts">
