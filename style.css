@@ -1,17 +1,17 @@
 #title-row {
 
-	padding: 25px;
+	padding: 10px;
 	text-align: center;
 	font-family: 'Arial';
 	background-color: powderblue;
-	margin-bottom: 10px;
+	margin-bottom: 5px;
 	border-style: solid;
 }
 
 #title-row2 {
 	text-align: center;
 	font-family: "Arial";
-	padding: 25px 25px;
+	padding: 10px 10px;
 	border-style: solid;
 	background-color: lightgrey;
 	margin-bottom: 25px;
@@ -28,7 +28,7 @@
 
 #info-row {
 	font-family: "Arial";
-	padding-bottom: 5
+	padding-bottom: 5px
 }
 
 
