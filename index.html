@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>KEA3</title>
+	<title>Kinase-Substrate Networks</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 	<link rel="stylesheet" href="style.css">
 </head>
@@ -9,16 +9,14 @@
 <body>
 
  <div class="topnav" id="myTopnav">
-  <a href="index.html">KEA3</a>
-  <a href="citations.html"> KEA3 Citations</a>
+  <a href="index.html">Kinase-Substrate Networks</a>
   <a href="ppi.html"> Protein-Protein Interactions (PPI)</a>
-  <a href="ppi_citations.html"> PPI Citations</a>
 </div> 
 
 
 	<div id="title-row" class="row">
 					<div class="col text-center">
-						<h1>KEA3</h1>
+						<h1>Kinase-Substrate Networks</h1>
 					</div>
 				</div>
 
@@ -26,23 +24,30 @@
 	<div class="container">
 		<div class="row text-center">
 
-			<div class= "col-6">
+			<div class= "col-12">
 				<h2> Overview </h2>
 				<hr width="50%" class="my-2">
-				<p> KEA2 (Kinase Enrichment Analysis 2) is a tool which takes an input of a gene list and outputs a list of associated kinases. This tool was originally built in 2009 and is comprised of manually curated kinase-substrate interactions. Since 2009, many databases that were originally curated have expanded and new databases have emerged, so the purpose of the KEA3 project is to collect and process new data pertaining to kinase-substrate interactions and expand the KEA2 database. Thus far, seven databases have been processed, and the data from each has been converted into .GMT and .SIG files, found below. Additionally, links to download the raw data and date of retrieval are also listed.</p>
-				<p>
-					<a id = 'l' href = "http://www.maayanlab.net/KEA2/">Link to KEA2 website</a>
-				</p>
-			</div>
-
-			<div class="col-6">
-				<h2> Methods </h2>
-				<hr width="50%" class="my-2">
-				<p> In order to convert the raw data into a .GMT and.SIG file, Python scripts were written for each individual database, and the conversion into both file formats was accomplished in each single script. Jupyter Notebooks corresponding to these scripts can be found for each database and include comments detailing the function of each code block for increased clarity. When processing the data, only kinases which had at least five substrates and no more than 2000 substrates are included in the .GMT files below. However, the .SIG files include all kinase-substrate interactions.</p>	
+				<p> KEA2 (Kinase Enrichment Analysis 2) is a tool which takes an input of a gene list and outputs a list of associated kinases. This tool was originally built in 2009 and is comprised of manually curated kinase-substrate interactions. Since 2009, many kinase-substrate databases that were originally curated have expanded and new kinase-substrate databases have emerged, so the purpose of the KEA3 project is to collect and process new data pertaining to kinase-substrate interactions and expand the KEA2 database. Thus far, seven kinase-substrate databases have been processed by integrating the kinase-substrate interactions (more details can be found in the 'Methods' section), and the data from each has been converted into .GMT and .SIG files, found below. The ultimate goal of this project is gain a comprehensive understanding of the human kinome.</p>
 			</div>
 		</div>
 	</div>
 	</div>
+
+
+	<div id = "info-row" class="container-fluid">
+	<div class="container">
+		<div class="row text-center">
+		<div class="col-12">
+				<h2> Methods </h2>
+				<hr width="50%" class="my-2">
+				<p> In order to convert the raw data into a .GMT and.SIG file, Python scripts were written for each kinase-substrate database, and the conversion into both file formats was accomplished in each script by processing the data. Jupyter Notebooks corresponding to these scripts can be found for each kinase-substrate database and include comments detailing the function of each code block for increased clarity. When processing the data, only kinases which had at least five substrates and no more than 2000 substrates are included in the .GMT files below. However, the .SIG files include all kinase-substrate interactions regardless of the number of substrates. Furthermore, data was also filtered by species, so the below data reflects only kinases found in humans and mice.</p>	
+			</div>
+		</div>
+	</div>
+	</div>
+
+
+		
 
 	<div id = "title-row2" class="row">
 		<div class="col text-center">
@@ -55,68 +60,77 @@
 <div class="container">
 	<table id = "ppi-table" style="width:100%">
   			<tr>
-    			<th>Database</th>
+    			<th>Kinase-Substrate Database</th>
     			<th>Jupyter Notebook</th>
     			<th>Processed Files</th>
-    			<th>Download Data</th>
     			<th>Date Retrieved</th>
+    			<th>PMID</th>
   			</tr>
   			<tr>
-    			<td>PhosphoELM</td>
-    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoELM/PhosphoELM%20Final%20Notebook-%20KEA3.ipynb">Jupyter Notebook</a></td>
+    			<td><a id = 'l' href = "http://phospho.elm.eu.org/index.html">Phopsho.ELM</a></td>
+    			<td>
+    			<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoELM/PhosphoELM%20Final%20Notebook-%20KEA3.ipynb">
+    			<img class = "img" id = "j-logo" src="jupyter.png" title = "Phospho.ELM Data Formatting to .GMT and .SIG">
+    			</a>
+    			</td>
     			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoELM/PhosphoELM.gmt">.GMT</a>
 						|
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PhosphoELM/PhosphoELMsig.txt">.SIG</a></td>
-    			<td><a id = 'l' href = "http://phospho.elm.eu.org/dataset.html">Download Original Data</a></td>
-    			<td>June 7 2017</td>
+    			<td>June 7, 2017</td>
+    			<td>21062810</td> 
   			</tr>
+
   			<tr>
-    			<td>PhosphoSITE</td>
-    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoSite/PhosphoSite%20Final%20Notebook-KEA3.ipynb">Jupyter Notebook</a></td>
+    			<td><a id = 'l' href = "http://www.phosphosite.org/homeAction.action">PhosphoSite</a></td>
+    			<td>
+    			<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoSite/PhosphoSite%20Final%20Notebook-KEA3.ipynb">
+    			<img class = "img" id = "j-logo" src="jupyter.png" title = "PhosphoSite Data Formatting to .GMT and .SIG">
+    			</a>
+    			</td>
     			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PhosphoSite/PhosphoSite.gmt">.GMT</a>
 						|
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PhosphoSite/PhosphoSitesig.txt">.SIG</a>
 				</td>
-    			<td><a id = 'l' href = "http://www.phosphosite.org/staticDownloads.action">Download Original Data</a></td>
-    			<td>June 14 2017</td>
+    			<td>June 14, 2017</td>
+    			<td>25514926</td>
   			</tr>
   			<tr>
-    			<td>MINT</td>
-    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/MINT/MINT%20Working%20Notebook%20-%20KEA3.ipynb">Jupyter Notebook</a></td>
+    			<td><a id = 'l' href = "http://mint.bio.uniroma2.it/index.py">MINT</a></td>
+    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/MINT/MINT%20Working%20Notebook%20-%20KEA3.ipynb"><img class = "img" id = "j-logo" src="jupyter.png" title = "MINT Data Formatting to .GMT and .SIG"></a></td>
     			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/MINT/MINT.gmt">.GMT</a>
 						|
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/MINT/MINTsig.txt">.SIG</a>
 				</td>
-    			<td><a id = 'l' href = "http://mint.bio.uniroma2.it/download.html">Download Original Data</a></td>
-    			<td>June 15 2017</td>
+    			<td>June 15, 2017</td>
+    			<td>22096227</td>
   			</tr>
 
   			<tr>
-    			<td>SwissProt-Experimental</td>
-    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/Swiss-Prot%20Experimental%20%28from%20Kinase-Phos%20Database%29-%20KEA3.ipynb">Jupyter Notebook</a></td>
+    			<td><a id = 'l' href = "http://kinasephos.mbc.nctu.edu.tw/">SwissProt-Experimental</a></td>
+    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/Swiss-Prot%20Experimental%20%28from%20Kinase-Phos%20Database%29-%20KEA3.ipynb"><img class = "img" id = "j-logo" src="jupyter.png" title = "SwissProt-Experimental Data Formatting to .GMT and .SIG"></a></td>
     			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/SwissProtexp.gmt">.GMT</a>
 						|
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/SwissProt/SwissProtExpsig.txt">.SIG</a>
 				</td>
-    			<td><a id = 'l' href = "http://kinasephos.mbc.nctu.edu.tw/download.html">Download Original Data</a></td>
-    			<td>June 19 2017</td>
+    			<td>June 19, 2017</td>
+    			<td>15980458</td>
   			</tr>
 
   			<tr>
-    			<td>SwissProt-Putative</td>
-    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/Swiss-Prot%20Putative%20%28from%20Kinase-Phos%20Database%29-KEA3.ipynb">Jupyter Notebook</a></td>
+    			<td><a id = 'l' href = "http://kinasephos.mbc.nctu.edu.tw/">SwissProt-Putative</a></td>
+    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/Swiss-Prot%20Putative%20%28from%20Kinase-Phos%20Database%29-KEA3.ipynb"><img class = "img" id = "j-logo" src="jupyter.png" title = "SwissProt-Putative Data Formatting to .GMT and .SIG"></a></td>
     			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/SwissProt/SwissProt_put.gmt">.GMT</a>
 						|
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/SwissProt/SwissProtPutsig.txt">.SIG</a>
 				</td>
-    			<td><a id = 'l' href = "http://kinasephos.mbc.nctu.edu.tw/download.html">Download Original Data</a></td>
-    			<td>June 19 2017</td>
+    			<td>June 19, 2017</td>
+    			<td>15980458</td>
   			</tr>
 
 			<tr>
-					<td>RegPhos Human</td>
+					<td><a id = 'l' href = "http://140.138.144.141/~RegPhos/">RegPhos Human</a></td>
 					<td>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhos%20-%20Human%20-%20KEA3.ipynb">Jupyter Notebook</a>
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhos%20-%20Human%20-%20KEA3.ipynb"><img class = "img" id = "j-logo" src="jupyter.png" title = "RegPhosHuman Data Formatting to .GMT and .SIG"></a>
 					</td>
 					<td>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhosHuman.gmt">.GMT</a>
@@ -124,17 +138,15 @@
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/RegPhos/RegPhosHumansig.txt">.SIG</a>
 					</td>
 					<td>
-						<a id = 'l' href = "http://140.138.144.141/~RegPhos/download.php">Download Original Data</a>
+						June 14, 2017
 					</td>
-					<td>
-						June 14 2017
-					</td>
+					<td>21037261</td>
 			</tr>
 
 			<tr>
-					<td>RegPhos Mouse</td>
+					<td><a id = 'l' href = "http://140.138.144.141/~RegPhos/">RegPhos Mouse</a></td>
 					<td>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhos%20-%20Mouse%20-%20KEA3.ipynb">Jupyter Notebook</a>
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhos%20-%20Mouse%20-%20KEA3.ipynb"><img class = "img" id = "j-logo" src="jupyter.png" title = "RegPhosMouse Data Formatting to .GMT and .SIG"></a>
 					</td>
 					<td>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/RegPhos/RegPhosMouse.gmt">.GMT</a>
@@ -142,17 +154,15 @@
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/RegPhos/RegPhosMousesig.txt">.SIG</a>
 					</td>
 					<td>
-						<a id = 'l' href = "http://140.138.144.141/~RegPhos/download.php">Download Original Data</a>
+						June 14, 2017
 					</td>
-					<td>
-						June 14 2017
-					</td>
+					<td>21037261</td>
 			</tr>
 
 			<tr>
-					<td>NetworKIN</td>
+					<td><a id = 'l' href = "http://networkin.info/">NetworKIN</a></td>
 					<td>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/NetworKIN/NetworKIN-%20Working%20-%20KEA3.ipynb">Jupyter Notebook</a>
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/NetworKIN/NetworKIN-%20Working%20-%20KEA3.ipynb"><img class = "img" id = "j-logo" src="jupyter.png" title = "NetworKIN Data Formatting to .GMT and .SIG"></a>
 					</td>
 					<td>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/NetworKIN/NetworKIN.gmt">.GMT</a>
@@ -160,17 +170,15 @@
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/NetworKIN/NetworKINsig.txt">.SIG</a>
 					</td>
 					<td>
-						<a id = 'l' href = "http://networkin.info/download.shtml">Download Original Data</a>
+						June 7, 2017
 					</td>
-					<td>
-						June 7 2017
-					</td>
+					<td>17981841</td>
 			</tr>
 
 			<tr>
-					<td>Human Protein Reference Database</td>
+					<td><a id = 'l' href = "http://hprd.org/">Human Protein Reference Database</a></td>
 					<td>
-						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/HPRD/HPRD%20Final%20Notebook%20-%20KEA3.ipynb">Jupyter Notebook</a>
+						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/HPRD/HPRD%20Final%20Notebook%20-%20KEA3.ipynb"><img class = "img" id = "j-logo" src="jupyter.png" title = "HPRD Data Formatting to .GMT and .SIG"></a>
 					</td>
 					<td>
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/HPRD/HPRD_PTM.gmt">.GMT</a>
@@ -178,11 +186,9 @@
 						<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/HPRD/HPRDsig.txt">.SIG</a>
 					</td>
 					<td>
-						<a id = 'l' href = "http://hprd.org/download">Download Original Data</a>
+						June 15, 2017
 					</td>
-					<td>
-						June 15 2017
-					</td>
+					<td>18988627</td>
 			</tr>
 
 		</table> 
