@@ -1,20 +1,25 @@
 #title-row {
 
-	padding: 10px;
+	padding: 15px;
 	text-align: center;
 	font-family: 'Arial';
 	background-color: powderblue;
-	margin-bottom: 5px;
+	margin-bottom: 15px;
 	border-style: solid;
+}
+
+h1 {
+
+	font-size: 25px;
 }
 
 #title-row2 {
 	text-align: center;
 	font-family: "Arial";
-	padding: 10px 10px;
+	padding: 5px 5px;
 	border-style: solid;
 	background-color: lightgrey;
-	margin-bottom: 25px;
+	margin-bottom: 5px;
 }
 
 #j-logo {
@@ -28,24 +33,21 @@
 
 #info-row {
 	font-family: "Arial";
-	padding-bottom: 5px
+	padding-bottom: 5px;
+	font-size: 13px;
 }
 
 
 body {
 	background-color: #F3F4F3;
-	padding-top: 70 px;
-	padding-bottom: 70 px;
+	padding-top: 50 px;
+	padding-bottom: 50 px;
 	font-family: "Arial";
 }
 
-h3 {
-	font-size: 20px;
-	padding-top: 10px;
-}
 
 h2 {
-	font-size: 25px;
+	font-size: 15px;
 	padding-top: 10px;
 }
 
@@ -62,9 +64,9 @@ h2 {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding: 10px 13px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 15px;
 }
 
 /* Change the color of links on hover */
@@ -114,6 +116,7 @@ h2 {
 table, th, td {
     border: 3px solid black;
     border-collapse: collapse;
+    font-size: 12px;
 }
 
 th, td {

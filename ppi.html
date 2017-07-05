@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Kinase-Substrate Networks</title>
+	<title>Protein Interaction Networks (PPI)</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 	<link rel="stylesheet" href="style.css">
 </head>
@@ -9,139 +9,107 @@
 <body>
 
  <div class="topnav" id="myTopnav">
+ <a href="help.html">About</a>
   <a href="index.html">Kinase-Substrate Networks</a>
-  <a href="ppi.html"> Protein-Protein Interactions (PPI)</a>
+  <a href="ppi.html">Protein Interaction Networks (PPI)</a>
 </div> 
 
 
 	<div id="title-row" class="row">
 					<div class="col text-center">
-						<h1>Protein-Protein Interactions (PPI)</h1>
+						<h1>Protein-Protein Interaction (PPI) Resources</h1>
 					</div>
 				</div>
-
-	<div id = "info-row" class="container-fluid">
-	<div class="container">
-		<div class="row text-center">
-
-			<div class= "col-12">
-				<h2> Overview </h2>
-				<hr width="50%" class="my-2">
-				<p> In addition to kinase-substrate interactions related to the KEA3 project, this website will also host data related to protein-protein interactions. Data was collected from eight different PPI databases, and all data was converted into the .sig file format. These .SIG files were later processed into the .GMT file format. The methods used to transform the original data and into the .sig and .gmt files for the protein-protein interactions can be found in the Jupyter Notebooks linked directly below. </p>
-		<p>
-					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI-Human Data.ipynb">PPI-Human Data </a>
-		|
-					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI- Mouse Data.ipynb">PPI- Mouse Data</a> |
-				<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PPI/PPI.ipynb">PPI-Combined</a>
-		|
-					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/Create%20SIG%20Files.ipynb">Create SIG File </a> |
-
-					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/SIG_to_GMT%20conversion.ipynb">SIG_to_GMT</a>
-		</p>
-			</div>
-		</div>
-	</div>
-	</div>
-
-		<div id = "info-row" class="container-fluid">
-	<div class="container">
-		<div class="row text-center">
-			<div class="col-12">
-				<h2> Methods </h2>
-				<hr width="50%" class="my-2">
-				<p>There are five Jupyter Notebooks (which each process all of the databases in a single notebook) detailing the methods used to process the data. The 'PPI-Human Data' notebook filters data related to PPI-Human Data protein-protein interactions for all of the PPI databases, and the 'PPI- Mouse Data' notebook filters data related to PPI-Mouse Data protein-protein interactions for all of the PPI databases. The 'PPI-Combined' notebook combines PPI-Human Data and PPI- Mouse Data data together for each PPI database, and the 'Create Sig File' notebook creates a .SIG file for each database using the combined data. Finally, the 'SIG_to_GMT' notebook takes the .SIG files and converts them to .GMT files. for the .GMT file, only proteins which had at least five interactions and no more than 2000 interactions were included in the .gmt files.</p>
-	
-			</div>
-		</div>
-	</div>
-	</div>
-
-	<div id = "title-row2" class="row">
-		<div class="col text-center">
-			<h2> Resources </h2>
-		</div>
-		</div>
 
 	<div id = "Resources-row" class="container-fluid">
 		<div class="container">
 
 		 <table id = "ppi-table" style="width:100%">
   			<tr>
-    			<th>Database</th>
+    			<th>Protein Interaction Database</th>
+    			<th>Jupyter Notebook</th>
     			<th>Processed Files</th>
     			<th>Date Retrieved</th>
     			<th>PMID</th>
   			</tr>
   			<tr>
-    			<td><a id = 'l' href = "https://thebiogrid.org/" >BioGrid</a></td>
-    			<td><a id = 'l' href = "https://github.com/mlatif1/KEA3/blob/master/PPI/biogrid_ppi.gmt" >GMT</a>
+    			<td><a id = 'l' href = "https://thebiogrid.org/" target="_blank">BioGrid</a></td>
+    			<td></td>
+    			<td><a id = 'l' href = "https://github.com/mlatif1/KEA3/blob/master/PPI/biogrid_ppi.gmt" target="_blank">GMT</a>
 				|
-				<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/biogrid_ppi_2017_06_28sig.txt">.SIG</a></td>
+				<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/biogrid_ppi_2017_06_28sig.txt" target="_blank">SIG</a></td>
     			<td>January 25, 2017</td>
-    			<td>18000002</td>
+    			<td><a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/27980099" target="_blank">27980099</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/25428363" target="_blank">25428363</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/23203989" target="_blank">23203989</a><a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/21071413" target="_blank">21071413</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=18000002" target="_blank">18000002</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/16381927" target="_blank">16381927</a></td>
   			</tr>
   			<tr>
-    			<td><a id = 'l' href = "http://dip.doe-mbi.ucla.edu/dip/Main.cgi" >DIP</a></td>
-    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi.gmt" >GMT</a>
+    			<td><a id = 'l' href = "http://dip.doe-mbi.ucla.edu/dip/Main.cgi" target="_blank">DIP</a></td>
+    			<td></td>
+    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi.gmt" target="_blank">GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi_2017_06_28sig.txt">.SIG</a></td>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi_2017_06_28sig.txt" target="_blank">SIG</a></td>
     			<td>January 25, 2017</td>
-    			<td>14681454, 11752321, 11125102, 10592249</td>
-  			</tr>
-
-  			<tr>
-    			<td><a id = 'l' href = "http://www.innatedb.com/" >InnatedDB</a></td>
-    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi.gmt" >GMT</a>
-							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi_2017_06_28sig.txt">.SIG</a></td>
-    			<td>January 25, 2017</td>
-    			<td>23180781</td>
+    			<td><a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=14681454" target="_blank">14681454</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=11125102" target="_blank">11125102</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=11752321" target="_blank">11752321</a>,  <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=10592249" target="_blank">10592249</a></td>
   			</tr>
 
   			<tr>
-    			<td><a id = 'l' href = "http://www.ebi.ac.uk/intact/">IntAct</a></td>
-    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
+    			<td><a id = 'l' href = "http://www.innatedb.com/" target="_blank">InnatedDB</a></td>
+    			<td></td>
+    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi.gmt" target="_blank" >GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/intact_ppi_2017_06_28sig.txt">.SIG</a></td>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi_2017_06_28sig.txt" target="_blank">SIG</a></td>
+    			<td>January 25, 2017</td>
+    			<td><a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=23180781" target="_blank">23180781</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/18766178" target="_blank">18766178</a></td>
+  			</tr>
+
+  			<tr>
+    			<td><a id = 'l' href = "http://www.ebi.ac.uk/intact/" target="_blank">IntAct</a></td>
+    			<td></td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt" target="_blank">GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/intact_ppi_2017_06_28sig.txt" target="_blank">SIG</a></td>
     			<td>January 26, 2017</td>
-    			<td>14681455, 17145710, 19850723, 22121220, 24234451</td>
+    			<td><a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=24234451" target="_blank">24234451</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=22121220" target="_blank">22121220</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=19850723" target="_blank">19850723</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=17145710" target="_blank">17145710</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=14681455" target="_blank">14681455</a></td>
   			</tr>
 
   			<tr>
-    			<td><a id = 'l' href = "http://www.maayanlab.net/KEA2/">KEA</a></td>
-    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
+    			<td><a id = 'l' href = "http://www.maayanlab.net/KEA2/" target="_blank">KEA</a></td>
+    			<td></td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt" target="_blank">GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi_2017_06_28sig.txt">.SIG</a></td>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi_2017_06_28sig.txt" target="_blank">SIG</a></td>
     			<td>February 1, 2017</td>
-    			<td>19176546</td>
+    			<td><a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=19176546" target="_blank">19176546</a></td>
   			</tr>
 
   			<tr>
-    			<td><a id = 'l' href = "http://mentha.uniroma2.it/about.php" >mentha</a></td>
-    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi.gmt">.GMT</a>
+    			<td><a id = 'l' href = "http://mentha.uniroma2.it/about.php" target="_blank">mentha</a></td>
+    			<td></td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi.gmt" target="_blank">GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi_2017_06_28sig.txt">.SIG</a></td>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi_2017_06_28sig.txt" target="_blank">SIG</a></td>
    
     			<td>January 26, 2017</td>
-    			<td>23900247</td>
+    			<td><a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=23900247" target="_blank">23900247</a></td>
   			</tr>
 
   			<tr>
-    			<td><a id = 'l' href = "http://mint.bio.uniroma2.it/index.py">MINT</a></td>
-    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi.gmt">.GMT</a>
+    			<td><a id = 'l' href = "http://mint.bio.uniroma2.it/index.py" target="_blank">MINT</a></td>
+    			<td></td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi.gmt" target="_blank">GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi_2017_06_28sig.txt">.SIG</a></td>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi_2017_06_28sig.txt" target="_blank">SIG</a></td>
     			<td>January 23, 2017</td>
-    			<td>22096227</td>
+    			<td><a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=22096227" target="_blank">22096227</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/19897547" target="_blank">19897547</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/17135203" target="_blank">17135203</a>, <a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/11911893" target="_blank">11911893</a></td>
   			</tr>
 
   			<tr>
-    			<td><a id = 'l' href = "https://code.google.com/archive/p/snavi/" >SNAVI</a></td>
-    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi.gmt">.GMT</a>
+    			<td><a id = 'l' href = "https://code.google.com/archive/p/snavi/" target="_blank">SNAVI</a></td>
+    			<td></td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi.gmt" target="_blank">GMT</a>
 							|
-							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi_2017_06_28sig.txt">.SIG</a></td>
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi_2017_06_28sig.txt" target="_blank">SIG</a></td>
     			<td>February 1, 2017</td>
-    			<td>19154595</td>
+    			<td><a id = 'l' href = "https://www.ncbi.nlm.nih.gov/pubmed/?term=19154595" target="_blank">19154595</a></td>
   			</tr>
 
 		</table> 
