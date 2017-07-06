@@ -1,6 +1,6 @@
 #title-row {
 
-	padding: 15px;
+	padding: 20px;
 	text-align: center;
 	font-family: 'Arial';
 	background-color: powderblue;
@@ -10,7 +10,7 @@
 
 h1 {
 
-	font-size: 25px;
+	font-size: 35px;
 }
 
 #title-row2 {
@@ -35,6 +35,9 @@ h1 {
 	font-family: "Arial";
 	padding-bottom: 5px;
 	font-size: 13px;
+	background-color: #e7e7e7;
+	background-clip: content-box;
+
 }
 
 
@@ -49,6 +52,7 @@ body {
 h2 {
 	font-size: 15px;
 	padding-top: 10px;
+	text-align: center;
 }
 
 
@@ -124,7 +128,7 @@ th, td {
 }
 
 tr:nth-child(even) {
-    background-color: #eee;
+    background-color: #e7e7e7;
 }
 
 tr:nth-child(odd) {

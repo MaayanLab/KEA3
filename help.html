@@ -41,12 +41,11 @@
 
 				In addition to kinase-substrate interactions, this website will also host data related to protein-protein interactions and transcription factor-target interactions, found respectively in the "Protein Interaction Networks (PPI)" and "Transcription Factor-Target Interactions". This data has been similarly compiled from different PPI and TF-target databases, and the data was processed to form GMT files. PPI data is also represented in SIG file format.
 
-				 For all three interaction types, the processed files and information regarding processing can be found in the corresponding tabs. The Methods section also provides a brief explanation of the data processing. 
+				For all three interaction types, the processed files and information regarding processing can be found in the corresponding tabs. The Methods section also provides a brief explanation of the data processing. 
 
 				</p>
 			</div>
 		</div>
-	</div>
 	</div>
 
 
@@ -59,6 +58,8 @@
 				<p> For the "Kinase-Substrate Networks", Python scripts were written for each kinase-substrate database to process the raw data in the GMT and SIG file formats. Jupyter Notebooks corresponding to these scripts can be found for each kinase-substrate database and include comments detailing the function of each code block for increased clarity. When processing the data, only kinases which had at least five substrates and no more than 2000 substrates are included in the GMT files below. However, the SIG files include all kinase-substrate interactions regardless of the number of substrates. Furthermore, data was also filtered by species, so the below data reflects only kinases found in humans and mice. For the "Protein Interaction Networks (PPI)", there are five Jupyter Notebooks (which each process all of the databases in a single notebook) detailing the methods used to process the data. The 'PPI-Human Data' notebook filters data related to PPI-Human Data protein-protein interactions for all of the PPI databases, and the 'PPI- Mouse Data' notebook filters data related to PPI-Mouse Data protein-protein interactions for all of the PPI databases. The 'PPI-Combined' notebook combines PPI-Human Data and PPI- Mouse Data data together for each PPI database, and the 'Create Sig File' notebook creates a SIG file for each database using the combined data. Finally, the 'SIG_to_GMT' notebook takes the SIG files and converts them to GMT files. For the GMT file, only proteins which had at least five interactions and no more than 2000 interactions were included in the GMT files.
 				</p>	
 			</div>
+		</div>
+		</div>
 		</div>
 
 
