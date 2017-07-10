@@ -1,0 +1,48 @@
+autocatalysis_Mus musculus	Epha8	Map3k5	Clk2	Nlk	Abl1	Prkaca	Lck	Hck	Csf1r	Camk2a	Prkce	Fes	Rps6ka3	Tec	Lyn	Camk2b	Prkcd	Ptk2	Ret	Kdr	Btk	Fyn	Txk	Syk	Map3k1	Prkcg	Fer	Tek	Epha4	Epha2	Abl2	Musk	Dyrk1a	Fgfr3	Prkd1	Jak2	Ddr2	Atm	Dapk1	Pak4	Prkd2	Grk5	Ptk2b	Prkab1	Stk11	Eif2ak1	Stk25	BTK	CSF1R	EPHA4	EPHA8	FAK1	INSR	RET	STK3	AAKB1	ABL1	ALK	BCKD	BLK	BMX	CSK	DAPK1	DAPK2	DDR1	DDR2	DYR1A	DYR1B	E2AK1	E2AK4	EGFR	EPHA1	EPHA2	EPHA3	EPHA5	EPHA6	EPHA7	EPHB2	EPHB3	EPHB4	FAK2	FES	FGFR1	FGFR2	FGFR3	FGFR4	FGR	FYN	GRK5	GRK6	HCK	IGF1R	INSRR	ITK	JAK1	JAK2	JAK3	KCC2A	KCC4	KIT	KPB1	KPCA	KPCB	KPCE	KPCG	KS6A1	KS6A2	KS6A3	KSYK	LCK	LTK	LYN	MERTK	MET	MUSK	NEK1	NEK2	NEK3	NEK4	NEK8	NEK9	NTRK2	PDK4	PDPK1	PGFRB	PRKDC	PTK6	RAF1	RK	RON	ROR1	ROR2	RYK	SRC	SRMS	ST38L	STK38	TEC	TESK1	TESK2	TIE1	TIE2	TXK	TYK2	TYRO3	UFO	VGFR1	VGFR2	VGFR3	WNK1	WNK4	YES	ZAP70
+PKA_Mus musculus	LASP1	PTPRR	S25BP	STMN1	VIME	ABCA1	ACLY	ADA1A	ADDA	ADDB	ADRB1	ADRB2	AP2A	AP2B	AP2C	AT12A	AT1A1	AT1A3	AT1A4	AT2B2	ATP4A	CAC1A	CAC1B	CAC1C	CAC1E	CAC1S	CAC2D	CP2B9	CP2BA	CP2BJ	CP2BK	F262	GP1BB	IPP1	ITPR1	KAP2	KBF1	KCNA1	KCNA2	KCNA3	KCNA4	KCNA5	KCNA6	KCNQ2	KPB1	KPBB	KPYR	LIPS	MEL18	NR4A1	PH4H	PHOS	PPLA	PPR3A	REL	SC5A5	STAR	TPH1	TY3H	VTNC
+PKC_Mus musculus	ANXA2	BCL2	IL1R1	MACS	PEA15	SNP25	VIME	ADDA	ADDB	ADDG	ANXA1	AT1A1	AT2B2	CD44	DCX	EGFR	EWS	F262	FSCN1	GA45B	GBRG2	GLU2B	IL7RA	KCNE1	MRP	NEUG	NEUM	NMDZ1	NPT2	PEBB	PLCB1	PLS1	PLS2	RGS1	TRHDE
+CDC2_Mus musculus	Birc5	Pak1	Polr2a	Myod1	Itpr1	Hmga1	Mcm3	Crem	Lmna	Mcm4	Stmn1	Nup210	Incenp	BIRC5	LAMC	VIME	CND1	NSF1C	PTTG1	RAB1A	RAB4A	SLBP	TIP60	TLE1	TLE2	TLE3	TLE4	WEE1
+ERK2_Mus musculus	Fos	Itpr1	Ets2	Atf2	Tnfrsf1a	Cebpb	Dusp1	Nr5a1	Ddit3	Elk1	Pla2g4a	Stmn1	Smad4	Cry1	Pgr	Gata4	Nr2c1	Khdrbs1	Neurod1	Ksr1	Ppp1r9b	Myocd	Raf1	Cry2	Sorbs3
+CK2_Mus musculus	DCOR	MEF2C	A4	C1R	DCX	DSPP	ESR1	FKBP4	FURIN	GA45B	IPP2	IRS1	LSP1	MYCN	NEUM	NPM	NRF1	PTEN	RBBP9	RBF1	RGS1	TLE1	TLE2	TLE3
+SRC_Mus musculus	Cav1	Dab1	Shc1	Adam12	Cav2	Cttn	Efs	Bcar1	Prkcd	Igf1r	Akt1	Csf2rb	Pip5k1c	Cdh2	Nectin2	Trip6	Ptk2	Ddr2	Ptk2b	ANXA2	EFS	FHIT
+MAPK1_Mus musculus	Sorbs3	Cebpb	Itpr1	Ppp1r9b	Cry2	Tnfrsf1a	Nr5a1	Smad4	Cry1	Gata4	Khdrbs1	Neurod1	Ksr1	Elk1	Pla2g4a	Pgr	Ets2	Ddit3	ELK1	ERF
+PKACa_Mus musculus	Dcx	Mos	Prkaca	En2	Rara	Itpr1	Csf2rb	Rasgrf1	Tead1	Tnni3	Pln	Rela	Sptbn1	Ppp1r9b	Mef2c	Raf1	Stk11	Gsk3b	Kcnd2
+CDK5_Mus musculus	Ndel1	Dcx	Pak1	Stxbp1	Th	Ezr	Map2k1	Cacna1c	Cdk16	Ppp1r9b	Suds3	Tp53	Apex1	Ptk2	Dab1	DAB1
+PKCa_Mus musculus	Rho	Ptpra	Vim	Ahr	Crebbp	Lmna	Tnni3	Tnnt2	Pitpna	Pitpnb	Eif4e	Nfe2l2	Kcnj11	Raf1	Gng12	Stk11
+ABL1_Mus musculus	Abl1	Pdgfrb	Myod1	App	Cbl	Cdk5	Cav1	Dok1	Bcar1	Jak2	Sorbs1	Crk	Rin1	Apbb1	CDK5
+GSK3B_Mus musculus	Arhgap31	Dpysl2	Pten	Notch2	Axin1	Prkce	Mdm2	Ccnd1	Cebpb	Ctnnb1	Sik1	Naca	Dpysl3	Myocd	Cry2
+MST1_Mus musculus	Stk4	Hist1h2bn	Hist1h2bm	Hist1h2bb	Hist1h2bh	Hist2h2be	Hist2h2bb	Hist1h2bg	Mob1b	Hist3h2bb	Hist1h2bk	Hist1h2bp	Hist3h2ba
+CDK2_Mus musculus	Mybl2	Myod1	Mdm2	Ubtf	Mcm4	E2f5	Mcm3ap	Cdkn1b	Cables1	ESR1	MYBB	TDP1	TDP2
+Lyn_Mus musculus	Hcls1	Cttn	Irs2	Efs	Bcar1	Dok2	Dbnl	Syk	Prkcd	Lyn	Pag1	Trpv4	Lpxn
+CK2a1_Mus musculus	Ptprc	Cdh1	Spi1	Ppm1a	Thra	Bid	Ascl1	Stip1	Bad	Hsph1	Mef2c	Nfkbia
+MAPK_Mus musculus	ETS1	JIP3	MACS	MAPK2	TTP	ADA17	DCX	ESR2	GORS2	GTF2I	PA24A	PPAT
+AKT1_Mus musculus	Chek1	Cdkn1b	Creb1	Gsk3a	Tbc1d1	Pde3b	Tbc1d4	Acly	Palld	Ndrg2	Foxo1	Gsk3b
+LYN_Mus musculus	Tec	Lyn	Prkcd	Btk	Syk	Lilrb3	Pag1	Lpxn	Trpv4	Ptk2b	Clnk	KSYK
+CDK1_Mus musculus	Nup210	Pak1	Myod1	Incenp	Polr2a	Itpr1	Mcm4	Mcm3	Crem	STMN1
+ERK1_Mus musculus	Fos	Ets2	Atf2	Cebpb	Canx	Elk1	Pla2g4a	Mapkapk2	Pgr
+EGFR_Mus musculus	Eps15	Egfr	Gab1	Pip5k1c	Pcna	ANXA1	EP15	RGS16	VAV2
+JNK1_Mus musculus	Bcl2l11	Bcl2	Rxra	Elk3	Jdp2	Nfe2	Bad	Itch	Sirt1
+Tyr-kinases_Mus musculus	Cd79a	ACHB	ACHD	ESR1	FABPA	FABPH	LAT	MYCS	SHPS1
+ATM_Mus musculus	H2afx	Chek1	Tp53	Ttc5	Stk11	BRCA1	SMC1A	TERF1
+MAPKAPK2_Mus musculus	Zfp36	Ddit3	Krt18	Hspb1	Rps6ka3	Lsp1	Hnrnpa0	Krt20
+FYN_Mus musculus	Kit	Txk	Cdk5	Pld2	Grin2b	Pag1	Skap2	Dlg2
+Probable_Mus musculus	CD22	I12R2	IL4RA	KIRR1	MP2K6	NFAM1	SHC2	VINC
+JAK2_Mus musculus	Jak2	Ctla4	Stat1	Lepr	Arhgef1	EPOR	LEPR
+LKB1_Mus musculus	Stk11	Mark2	Prkaa1	Brsk1	Sik1	Brsk2	Prkaa2
+HIPK2_Mus musculus	Pax6	Hmga1	Pdx1	Ctnnb1	Runx1	Pml	CTBP2
+JAK_Mus musculus	STA5A	STA5B	STAT1	STAT2	STAT3	STAT4	STAT6
+ROCK2_Mus musculus	Irs1	Ezr	Msn	Vim	Rdx	Irf4	Myl9
+INSR_Mus musculus	Fabp4	Irs2	Cav1	CAV1	DOK1	IRS1	IRS2
+Abl_Mus musculus	Abl1	Cav1	Crk	Dok1	Apbb1	Myod1	Jak2
+SYK_Mus musculus	Tuba1a	Syk	Prkca	Btk	Prkcb	Sh3bp2	Plcg1
+p38a_Mus musculus	Atf2	Stat4	Mapkapk2	Dlx5	Siah2	Mapkapk3
+MAPK8_Mus musculus	Bcl2l11	Bad	Bcl2	Elk3	Itch	AP1
+CaMK2a_Mus musculus	Myog	Gabrg2	Gabrb1	Pln	Cpeb1	Il6st
+AKT2_Mus musculus	Clk2	Creb1	Pde3b	Acly	Foxo1	Stxbp4
+PKG1_Mus musculus	Ryr1	Gabrb1	Vasp	Lasp1	Smtnl1	Ppp1r17
+MAPK3_Mus musculus	Cebpb	Elk1	Pla2g4a	Pgr	Ets2	Mapkapk2
+LCK_Mus musculus	Ctla4	Vav1	Prkcd	Pecam1	Ptk2b
+PAK1_Mus musculus	Ppp1r14a	Stat5a	Dynll1	Bad	Mapk4
+ROCK1_Mus musculus	Marcks	Pten	ADDA	LIMK1	MYPT1
+SGK1_Mus musculus	Map3k3	Ndrg1	Nedd4l	Ndrg2	Foxo1
+PDK1_Mus musculus	Prkaca	Mapt	Rps6ka3	Akt1	Tssk3
