@@ -26,26 +26,28 @@
 		<div class="row">
 
 			<div class= "col-12">
-				<h2> Overview </h2>
+				<h2> <b>Overview</b> </h2>
 				<hr width="50%" class="my-2">
 				<p> 
-
+				<br><b> About This Project </b>
+				<br>
 				KEA2 (Kinase Enrichment Analysis 2) is a tool which takes an input of a gene list and outputs a list of associated kinases. This tool was originally built in 2009, but many kinase-substrate databases that were originally curated have expanded and new kinase-substrate databases have emerged. Thus, the purpose of the KEA3 project is to collect and process new data pertaining to kinase-substrate interactions and expand the KEA2 database, ultimately allowing for a more comprehensive understanding of the human kinome. Thus far, kinase-substrate interactions have been integrated from seven databases, and the data from each has been converted into GMT and SIG files, found in the "Kinase-Substrate Networks" tab. 
 
 				<br>
 
+				<br><b> What is a GMT file? </b>
 				<br>GMT files are used to describe gene sets, as each row corresponds to a different gene set. Each row lists a name (for example, a kinase in kinase-substrate interactions), a description, and the genes in the gene set (in this example, all of the substrates that interact with the kinase).
 
 				<br>
-
+				<br><b> What is a SIG file? </b>
 				<br>SIG files represent gene interaction networks, also listed by row. In each row, the columns represent: source name, source human accession, source mouse accession, source type, source location, target name, target human accession, target mouse accession, target type, target location, effect, type of interaction, and lastly PubMed IDs. Some of these fields may be filled with 'NA' if information is not available to fill the column.
 
 				<br>
-
+				<br><b> What else is on this website?</b>
 				<br>In addition to kinase-substrate interactions, this website will also host data related to protein-protein interactions and transcription factor-target interactions, found respectively in the "Protein Interaction Networks (PPI)" and "Transcription Factor-Target Interactions". This data has been similarly compiled from different PPI and TF-target databases, and the data was processed to form GMT files. PPI data is also represented in SIG file format.
 
 				<br>
-
+				<br><b> Where can I find additional information about these files? </b>
 				<br>For all three interaction types, the processed files and information regarding processing can be found in the corresponding tabs. The Methods section also provides a brief explanation of the data processing. 
 
 				</p>
@@ -58,9 +60,14 @@
 	<div class="container">
 		<div class="row">
 		<div class="col-12">
-				<h2> Methods </h2>
+				<h2><b> Methods</b> </h2>
 				<hr width="50%" class="my-2">
-				<p> For the "Kinase-Substrate Networks", Python scripts were written for each kinase-substrate database to process the raw data in the GMT and SIG file formats. Jupyter Notebooks corresponding to these scripts can be found for each kinase-substrate database and include comments detailing the function of each code block for increased clarity. When processing the data, only kinases which had at least five substrates and no more than 2000 substrates are included in the GMT files below. However, the SIG files include all kinase-substrate interactions regardless of the number of substrates. Furthermore, data was also filtered by species, so the below data reflects only kinases found in humans and mice. For the "Protein Interaction Networks (PPI)", there are five Jupyter Notebooks (which each process all of the databases in a single notebook) detailing the methods used to process the data. The 'PPI-Human Data' notebook filters data related to PPI-Human Data protein-protein interactions for all of the PPI databases, and the 'PPI- Mouse Data' notebook filters data related to PPI-Mouse Data protein-protein interactions for all of the PPI databases. The 'PPI-Combined' notebook combines PPI-Human Data and PPI- Mouse Data data together for each PPI database, and the 'Create Sig File' notebook creates a SIG file for each database using the combined data. Finally, the 'SIG_to_GMT' notebook takes the SIG files and converts them to GMT files. For the GMT file, only proteins which had at least five interactions and no more than 2000 interactions were included in the GMT files.
+				<p> 
+				<br> <b> Mining the Data </b> 
+				<br> For the "Kinase-Substrate Networks", Python scripts were written for each kinase-substrate database to process the raw data in the GMT and SIG file formats. Jupyter Notebooks corresponding to these scripts can be found for each kinase-substrate database and include comments detailing the function of each code block for increased clarity. For the "Protein Interaction Networks (PPI)", there are also Jupyter Notebooks for each PPI database detailing the methods used to process the data. 
+				<br>
+				<br><b> Filtering the Data</b>
+				<br> Only kinases or proteins which had at least five substrates or interactions and no more than 2000 substrates or interactions are included in the GMT files. However, the SIG files include all kinase-substrate interactions or protein-protein interactions regardless of the total number for a given protein or kinase. Furthermore, data was also filtered by species, so the data reflects only kinases and proteins found in humans and mice. 
 				</p>	
 			</div>
 		</div>
