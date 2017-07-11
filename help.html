@@ -43,12 +43,16 @@
 				<br>SIG files represent gene interaction networks, also listed by row. In each row, the columns represent: source name, source human accession, source mouse accession, source type, source location, target name, target human accession, target mouse accession, target type, target location, effect, type of interaction, and lastly PubMed IDs. Some of these fields may be filled with 'NA' if information is not available to fill the column.
 
 				<br>
+				<br><b> Other Files </b>
+				<br> For the kinase-substrate interaction networks, in addition to the GMT and SIG files (described above), a GMT file for the combined data will also be created. From this combined data file, another GMT file is included, in which genes are ranked according to their level of co-expression with the kinase. To be included in the GMT, genes must also meet a co-expression cut-off, so if only some genes meet this cut-off a kinase may have fewer entries than in the original GMT. The methods to determine this cut-off are included in corresponding R files.
+				<br>
+
 				<br><b> What else is on this website?</b>
-				<br>In addition to kinase-substrate interactions, this website will also host data related to protein-protein interactions and transcription factor-target interactions, found respectively in the "Protein Interaction Networks (PPI)" and "Transcription Factor-Target Interactions". This data has been similarly compiled from different PPI and TF-target databases, and the data was processed to form GMT files. PPI data is also represented in SIG file format.
+				<br>In addition to kinase-substrate interactions, this website will also host data related to protein-protein interactions and transcription factor-target interactions, found respectively in the "Protein Interaction Networks (PPI)" and "Transcription Factor-Target Interactions". This data has been similarly compiled from different PPI and TF-target databases.
 
 				<br>
 				<br><b> Where can I find additional information about these files? </b>
-				<br>For all three interaction types, the processed files and information regarding processing can be found in the corresponding tabs. Tables containing this information will also include a brief overview of the data in each GMT file. The Methods section below can provide a brief overview of the data processing. 
+				<br>For all three interaction types, the processed files and information regarding processing can be found in the corresponding tabs. Tables containing this information will also include statistics regarding the data in each GMT file. The Methods section below can provide a brief overview of the data processing. 
 
 				</p>
 			</div>
