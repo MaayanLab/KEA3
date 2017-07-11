@@ -22,7 +22,7 @@
 
 # by standard deviation cut-off
 
- newGmt = list()
+newGmt = list()
 # # pop_mean = mean(allCrrAvg)
 # # pop_sd = sd(allCrrAvg)
 
