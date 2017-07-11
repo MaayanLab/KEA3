@@ -1,1960 +1,1960 @@
-PTK2_Homo sapiens	nan	nan	nan	nan	ACTN1	?	Phosphorylation	11369769,16291744
-FGFR3_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323|11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
-FGFR4_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323|11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
-HCK_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323|11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
-JAK1_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323|11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
-JAK2_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323|11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323|11350938,12626508,8626374,12576423,14551213,11940572,11294897,10918587,12244095,17389395,16497976,17016520,19901323
-MAPK1_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876|11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
-PRKCD_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876|11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
-SRC_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323|11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
-MAPK8_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876|11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
-MAPK3_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876|11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876|11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
-EPHA3_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323|11350938,12626508,8626374,12576423,14551213,11940572,11294897,10918587,12244095,17389395,16497976,17016520,19901323
-PRKCD_Homo sapiens	nan	nan	nan	nan	ADD1	?	Phosphorylation	8810272,9679146
-PRKACA_Homo sapiens	nan	nan	nan	nan	ADD1	?	Phosphorylation	8810272|8810272,18669648
-ROCK1_Homo sapiens	nan	nan	nan	nan	ADD1	?	Phosphorylation	10209029
-PRKCD_Homo sapiens	nan	nan	nan	nan	ADD2	?	Phosphorylation	9679146,8810272,19664994,18452278|9679146,8810272
-PRKACA_Homo sapiens	nan	nan	nan	nan	ADD2	?	Phosphorylation	9679146,8810272,19664994,18452278|9679146,8810272
-ADRBK1_Homo sapiens	nan	nan	nan	nan	ADRA2A	?	Phosphorylation	7876239|7876239,19651622
-PRKCD_Homo sapiens	nan	nan	nan	nan	ADRA2A	?	Phosphorylation	11732925
-PRKCA_Homo sapiens	nan	nan	nan	nan	ADRA1B	?	Phosphorylation	9353340
-CDK5_Homo sapiens	nan	nan	nan	nan	PSEN1	?	Phosphorylation	12056836
-PRKCZ_Homo sapiens	nan	nan	nan	nan	PSEN1	?	Phosphorylation	14576165
-PRKACA_Homo sapiens	nan	nan	nan	nan	PSEN1	?	Phosphorylation	14576165
-GSK3B_Homo sapiens	nan	nan	nan	nan	PSEN1	?	Phosphorylation	11104755
-CDK5_Homo sapiens	nan	nan	nan	nan	APP	?	Phosphorylation	8764598,10936190,15178331
-GSK3B_Homo sapiens	nan	nan	nan	nan	APP	?	Phosphorylation	8764598,10936190,15178331
-BACE2_Homo sapiens	nan	nan	nan	nan	APP	?	Phosphorylation	8764598,10936190,15178331
-CDK1_Homo sapiens	nan	nan	nan	nan	APLP2	?	Phosphorylation	9109675
-PRKCA_Homo sapiens	nan	nan	nan	nan	APLP2	?	Phosphorylation	9109675
-ALK_Homo sapiens	nan	nan	nan	nan	ALK	?	Phosphorylation	9174053|9819383
-PRKCE_Homo sapiens	nan	nan	nan	nan	SLC4A3	?	Phosphorylation	11739292
-LYN_Homo sapiens	nan	nan	nan	nan	CD19	?	Phosphorylation	10933394|10933394,16497976
-MAPK1_Homo sapiens	nan	nan	nan	nan	CD19	?	Phosphorylation	10706702,16497976|10706702
-ABL1_Homo sapiens	nan	nan	nan	nan	CD19	?	Phosphorylation	11120811
-BTK_Homo sapiens	nan	nan	nan	nan	CD19	?	Phosphorylation	10201980|10933394,16497976
-MAPK14_Homo sapiens	nan	nan	nan	nan	SLC9A1	?	Phosphorylation	11604491|11604491,18669648,20068231
-MAPK1_Homo sapiens	nan	nan	nan	nan	SLC9A1	?	Phosphorylation	15253667,18669648,20068231|15253667|15253667,18669648|15253667,18669648,19415658,18088087,20058876
-TYK2_Homo sapiens	nan	nan	nan	nan	IFNAR1	?	Phosphorylation	9677371|95059042
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	APEX1	?	Phosphorylation	10023679
-SRC_Homo sapiens	nan	nan	nan	nan	LRP1	?	Phosphorylation	12789267,11854294
-PRKACA_Homo sapiens	nan	nan	nan	nan	LRP1	?	Phosphorylation	11158305,19651622
-MAPK1_Homo sapiens	nan	nan	nan	nan	ARRB1	?	Phosphorylation	17322306,19413330,19651622,18767875,20068231
-MAPK3_Homo sapiens	nan	nan	nan	nan	ARRB1	?	Phosphorylation	17322306,19413330,19651622,18767875,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	ARRB2	?	Phosphorylation	11877451
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	ARRB2	?	Phosphorylation	11877451
-EGFR_Homo sapiens	nan	nan	nan	nan	GRB2	?	Phosphorylation	11726515
-SRC_Homo sapiens	nan	nan	nan	nan	GRB2	?	Phosphorylation	9016807
-GSK3B_Homo sapiens	nan	nan	nan	nan	ACLY	?	Phosphorylation	10653665,20058876|10653665
-PRKACA_Homo sapiens	nan	nan	nan	nan	ACLY	?	Phosphorylation	10653665,18669648,19415658,17924679,18088087,18767875,18452278
-PRKCA_Homo sapiens	nan	nan	nan	nan	ATP2B1	?	Phosphorylation	1827443
-PRKACA_Homo sapiens	nan	nan	nan	nan	ATP2B1	?	Phosphorylation	2548572,18669648,19651622,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	ATP2B4	?	Phosphorylation	9182531,12540962
-PRKCA_Homo sapiens	nan	nan	nan	nan	ATP2B2	?	Phosphorylation	1827443
-CAMK2A_Homo sapiens	nan	nan	nan	nan	ATP2A2	?	Phosphorylation	7929371
-AXL_Homo sapiens	nan	nan	nan	nan	AXL	?	Phosphorylation	9178760|9178760,17389395
-LYN_Homo sapiens	nan	nan	nan	nan	SLC4A1	?	Phosphorylation	1998697,2065070,10942405|10942405,2065070
-SYK_Homo sapiens	nan	nan	nan	nan	SLC4A1	?	Phosphorylation	1998697,2065070,10942405|10942405,2065070
-PRKCA_Homo sapiens	nan	nan	nan	nan	ADRBK1	?	Phosphorylation	11042191
-PRKCD_Homo sapiens	nan	nan	nan	nan	ADRBK1	?	Phosphorylation	11042191
-PRKCG_Homo sapiens	nan	nan	nan	nan	ADRBK1	?	Phosphorylation	11042191
-PRKACA_Homo sapiens	nan	nan	nan	nan	ADRBK1	?	Phosphorylation	11278469
-MAPK3_Homo sapiens	nan	nan	nan	nan	ADRBK1	?	Phosphorylation	10574913,10727525,18088087,19651622,18767875
-INSR_Homo sapiens	nan	nan	nan	nan	ADRB2	?	Phosphorylation	8557631
-PRKCD_Homo sapiens	nan	nan	nan	nan	ADRB2	?	Phosphorylation	1848190
-GRK5_Homo sapiens	nan	nan	nan	nan	ADRB2	?	Phosphorylation	8662852
-SRC_Homo sapiens	nan	nan	nan	nan	CEACAM1	?	Phosphorylation	9867848
-MAP3K10_Homo sapiens	nan	nan	nan	nan	CEACAM1	?	Phosphorylation	11850617
-FYN_Homo sapiens	nan	nan	nan	nan	CD79A	?	Phosphorylation	9531288
-LYN_Homo sapiens	nan	nan	nan	nan	CD79A	?	Phosphorylation	9531288
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	MS4A1	?	Phosphorylation	7678037
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	MS4A1	?	Phosphorylation	7678037
-ADRBK1_Homo sapiens	nan	nan	nan	nan	BDKRB2	?	Phosphorylation	11517230
-ADRBK2_Homo sapiens	nan	nan	nan	nan	BDKRB2	?	Phosphorylation	11517230
-GRK4_Homo sapiens	nan	nan	nan	nan	BDKRB2	?	Phosphorylation	11517230
-PRKCD_Homo sapiens	nan	nan	nan	nan	BDKRB2	?	Phosphorylation	11517230
-GRK6_Homo sapiens	nan	nan	nan	nan	BDKRB2	?	Phosphorylation	11517230
-GRK5_Homo sapiens	nan	nan	nan	nan	BDKRB2	?	Phosphorylation	11517230
-CSNK2B_Homo sapiens	nan	nan	nan	nan	BRCA1	?	Phosphorylation	10403822
-ATR_Homo sapiens	nan	nan	nan	nan	BRCA1	?	Phosphorylation	11114888|11114888,11278964,15159397|11114888,11278964|11114888,15159397|11278964,20068231
-CDK2_Homo sapiens	nan	nan	nan	nan	BRCA1	?	Phosphorylation	10373534
-AKT1_Homo sapiens	nan	nan	nan	nan	BRCA1	?	Phosphorylation	10542266
-CHEK2_Homo sapiens	nan	nan	nan	nan	BRCA1	?	Phosphorylation	10724175,12111733|10724175
-ATM_Homo sapiens	nan	nan	nan	nan	BRCA1	?	Phosphorylation	11278964|10550055|10550055,20068231|10550055,19651622,20068231|10550055,10866324,11278964,15159397|10550055,10866324,11278964|11278964,20068231|10550055,15159397
-AURKA_Homo sapiens	nan	nan	nan	nan	BRCA1	?	Phosphorylation	14990569
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	BRCA1	?	Phosphorylation	10403822
-EGFR_Homo sapiens	nan	nan	nan	nan	CALM1	?	Phosphorylation	12153558,17389395,18707149,19901323
-INSR_Homo sapiens	nan	nan	nan	nan	CALM1	?	Phosphorylation	12153558,17389395,18707149,19901323|8639568
-EGFR_Homo sapiens	nan	nan	nan	nan	CALM2	?	Phosphorylation	12153558,18669648,17287340,16497976,17016520
-INSR_Homo sapiens	nan	nan	nan	nan	CALM2	?	Phosphorylation	12153558,18669648,17287340,16497976,17016520
-EGFR_Homo sapiens	nan	nan	nan	nan	CALM3	?	Phosphorylation	12153558,18578522,20068231
-INSR_Homo sapiens	nan	nan	nan	nan	CALM3	?	Phosphorylation	12153558,18578522,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	CACNA1C	?	Phosphorylation	8664319|8612821,9247274
-CDK1_Homo sapiens	nan	nan	nan	nan	CALD1	?	Phosphorylation	12613668|12613668,18669648,19413330,19415658,17924679,19664995,20068231|12613668,18669648,17287340,19651622,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CASQ2	?	Phosphorylation	1985907
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	CASQ2	?	Phosphorylation	1985907
-CDK1_Homo sapiens	nan	nan	nan	nan	CSNK2A1	?	Phosphorylation	7592773|7592773,18691976,20068231
-CSNK2B_Homo sapiens	nan	nan	nan	nan	CSNK2B	?	Phosphorylation	1939094,18691976,19651622,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	CSNK2B	?	Phosphorylation	7578274,18669648,18691976,19007248,20230923,20068231
-ABL2_Homo sapiens	nan	nan	nan	nan	CAT	?	Phosphorylation	12777400
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CTNNB1	?	Phosphorylation	12432063|12700239
-CSNK2B_Homo sapiens	nan	nan	nan	nan	CTNNB1	?	Phosphorylation	12432063
-FYN_Homo sapiens	nan	nan	nan	nan	CTNNB1	?	Phosphorylation	12640114
-FER_Homo sapiens	nan	nan	nan	nan	CTNNB1	?	Phosphorylation	12640114
-SRC_Homo sapiens	nan	nan	nan	nan	CTNNB1	?	Phosphorylation	11279024
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	CTNNB1	?	Phosphorylation	12000790,11955436
-CSNK1D_Homo sapiens	nan	nan	nan	nan	CTNNB1	?	Phosphorylation	12000790,11955436
-GSK3B_Homo sapiens	nan	nan	nan	nan	CTNNB1	?	Phosphorylation	12000790,12114015,11818547|12051714,12114015,11818547,12000790
-CDK6_Homo sapiens	nan	nan	nan	nan	CTNNB1	?	Phosphorylation	17208333
-CDK1_Homo sapiens	nan	nan	nan	nan	CUX1	?	Phosphorylation	11584018
-GSK3B_Homo sapiens	nan	nan	nan	nan	CEBPA	?	Phosphorylation	10567568
-AKT1_Homo sapiens	nan	nan	nan	nan	CDKN1A	?	Phosphorylation	11756412
-PIM1_Homo sapiens	nan	nan	nan	nan	CDKN1A	?	Phosphorylation	12431783
-MAPK8_Homo sapiens	nan	nan	nan	nan	CDKN1A	?	Phosphorylation	12058028,18669648,19664994,16964243|12058028
-DAPK3_Homo sapiens	nan	nan	nan	nan	CDKN1A	?	Phosphorylation	15001356
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CDK1	?	Phosphorylation	1400350,18691976
-LYN_Homo sapiens	nan	nan	nan	nan	CDK1	?	Phosphorylation	8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876|10564259,8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876
-WEE1_Homo sapiens	nan	nan	nan	nan	CDK1	?	Phosphorylation	8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876|10564259,8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876
-MYT1_Homo sapiens	nan	nan	nan	nan	CDK1	?	Phosphorylation	9001210,9268380,18669648,19413330,19415658,18691976,19651622,19901323,18452278,20068230,20068231|9001210,18669648,19413330,19415658,18691976,19651622,19901323,18452278,20068230,20068231
-PKMYT1_Homo sapiens	nan	nan	nan	nan	CDK1	?	Phosphorylation	9001210,9268380,18669648,19413330,19415658,18691976,19651622,19901323,18452278,20068230,20068231|9001210,18669648,19413330,19415658,18691976,19651622,19901323,18452278,20068230,20068231|8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876
-CDK7_Homo sapiens	nan	nan	nan	nan	CDK1	?	Phosphorylation	7944411,16565220,18669648,18691976,19664995,19651622,18452278,18767875,17924679,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	CDK1	?	Phosphorylation	15592455,19413330,18691976,16497976,17016520,19901323,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	CDC25A	?	Phosphorylation	12411508,19413330|12411508
-PIM1_Homo sapiens	nan	nan	nan	nan	CDC25A	?	Phosphorylation	12411508,19413330
-CHEK1_Homo sapiens	nan	nan	nan	nan	CDC25A	?	Phosphorylation	12399544|12676583
-CHEK2_Homo sapiens	nan	nan	nan	nan	CDC25A	?	Phosphorylation	12676583
-CSNK2B_Homo sapiens	nan	nan	nan	nan	CDC34	?	Phosphorylation	11546811
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CDC25B	?	Phosphorylation	12527891
-CDK1_Homo sapiens	nan	nan	nan	nan	CDC25B	?	Phosphorylation	12107172
-AURKA_Homo sapiens	nan	nan	nan	nan	CDC25B	?	Phosphorylation	15128871
-MELK_Homo sapiens	nan	nan	nan	nan	CDC25B	?	Phosphorylation	12400006
-CDK20_Homo sapiens	nan	nan	nan	nan	CDK2	?	Phosphorylation	14597612,18452278,18767875,20068231
-CDK7_Homo sapiens	nan	nan	nan	nan	CDK2	?	Phosphorylation	14597612,18452278,18767875,20068231
-WEE1_Homo sapiens	nan	nan	nan	nan	CDK2	?	Phosphorylation	7743995,18691976,17389395,18212344,16497976,19664994,17016520,18452278
-CDK2_Homo sapiens	nan	nan	nan	nan	CDK2	?	Phosphorylation	17192257,16497976
-CDK4_Homo sapiens	nan	nan	nan	nan	RBL1	?	Phosphorylation	12006580,19664995,19664994|12006580
-AURKB_Homo sapiens	nan	nan	nan	nan	CENPA	?	Phosphorylation	11756469
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CLTB	?	Phosphorylation	3128543|3128543,2874131
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	CLTB	?	Phosphorylation	3128543,2874131
-CAMK2B_Homo sapiens	nan	nan	nan	nan	COL4A3	?	Phosphorylation	7758473
-CSNK2B_Homo sapiens	nan	nan	nan	nan	MME	?	Phosphorylation	8943850,18578522,20166139
-YES1_Homo sapiens	nan	nan	nan	nan	CD46	?	Phosphorylation	11901164
-MAPK1_Homo sapiens	nan	nan	nan	nan	GJA1	?	Phosphorylation	12637502,8631994,9535909,19664994|8631994,9535905,12637502
-PRKCA_Homo sapiens	nan	nan	nan	nan	GJA1	?	Phosphorylation	10871288
-PRKCB_Homo sapiens	nan	nan	nan	nan	GJA1	?	Phosphorylation	10871288
-PRKCG_Homo sapiens	nan	nan	nan	nan	GJA1	?	Phosphorylation	10871288,15459208
-SRC_Homo sapiens	nan	nan	nan	nan	GJA1	?	Phosphorylation	11514593,19901323|11514593
-CSNK1D_Homo sapiens	nan	nan	nan	nan	GJA1	?	Phosphorylation	12270943|12270943,18578522
-MAPK3_Homo sapiens	nan	nan	nan	nan	GJA1	?	Phosphorylation	12637502,8631994,9535909,19664994|8631994,9535905,12637502|8631994,9535905
-MAPK7_Homo sapiens	nan	nan	nan	nan	GJA1	?	Phosphorylation	12637502,8631994,9535909,19664994|8631994,9535905,12637502
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	ATF1	?	Phosphorylation	9685505,18669648,18452278
-CAMK2G_Homo sapiens	nan	nan	nan	nan	ATF1	?	Phosphorylation	8663317,20068231
-RPS6KA4_Homo sapiens	nan	nan	nan	nan	ATF1	?	Phosphorylation	8663317,20068231
-CAMK1_Homo sapiens	nan	nan	nan	nan	ATF1	?	Phosphorylation	8663317,20068231
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	ATF1	?	Phosphorylation	8663317,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	ATF1	?	Phosphorylation	8663317,20068231
-AKT1_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	9829964
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	9687510,11175347,9829964,8688081,11160957
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	9687510,11175347,9829964,8688081,12235136
-RPS6KA2_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	9687510,11175347,9829964,8688081,11698596
-RPS6KA4_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	9687510,11175347,9829964,8688081
-GSK3B_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	12162494
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	9687510,11018520,11909979
-PRKG1_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	9687510,11175347,9829964,8688081
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	8887554
-SGK1_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	15733869
-TSSK4_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	15964553
-ATM_Homo sapiens	nan	nan	nan	nan	CREB1	?	Phosphorylation	16293623,15073328|15073328
-MAPK14_Homo sapiens	nan	nan	nan	nan	ATF2	?	Phosphorylation	7535770,12110590,18669648,19413330,19651622,18767875,20068231|11259586,10085140,19413330
-MAPK9_Homo sapiens	nan	nan	nan	nan	ATF2	?	Phosphorylation	7535770,12110590,18669648,19413330,19651622,18767875,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-CDK1_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-PRKCA_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-PRKACA_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-CAMK2G_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-GSK3B_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-GSK3A_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-CAMK2D_Homo sapiens	nan	nan	nan	nan	CREM	?	Phosphorylation	8404858
-CDK3_Homo sapiens	nan	nan	nan	nan	CDK3	?	Phosphorylation	17192257|17192257,18669648,18691976,17287340,18491316,19664995,19651622,16964243,17016520,18707149,19901323|17192257,18669648,17287340,19664995,19651622,16964243,19901323|17192257,18669648|17192257,18669648,18691976,19651622,20230923
-FYN_Homo sapiens	nan	nan	nan	nan	CDK5	?	Phosphorylation	12372285,19413330,18691976,16497976,19901323,20068231
-ABL1_Homo sapiens	nan	nan	nan	nan	CDK5	?	Phosphorylation	12372285,19413330,18691976,16497976,19901323,20068231
-CSNK1D_Homo sapiens	nan	nan	nan	nan	CDK5	?	Phosphorylation	10500146
-PLK1_Homo sapiens	nan	nan	nan	nan	CCNB1	?	Phosphorylation	11242082
-CDK2_Homo sapiens	nan	nan	nan	nan	CCNE1	?	Phosphorylation	14536078,18691976
-GSK3B_Homo sapiens	nan	nan	nan	nan	CCNE1	?	Phosphorylation	8861947,14536078,18691976|14536078,18691976
-FYN_Homo sapiens	nan	nan	nan	nan	CTLA4	?	Phosphorylation	9973379
-JAK2_Homo sapiens	nan	nan	nan	nan	CTLA4	?	Phosphorylation	10842319
-LCK_Homo sapiens	nan	nan	nan	nan	CTLA4	?	Phosphorylation	9973379
-TXK_Homo sapiens	nan	nan	nan	nan	CTLA4	?	Phosphorylation	9813138
-CDK5_Homo sapiens	nan	nan	nan	nan	EZR	?	Phosphorylation	12769842
-EGFR_Homo sapiens	nan	nan	nan	nan	EZR	?	Phosphorylation	1382070,12560083|1382070
-LCK_Homo sapiens	nan	nan	nan	nan	EZR	?	Phosphorylation	1382070,12560083
-PRKCA_Homo sapiens	nan	nan	nan	nan	EZR	?	Phosphorylation	11387207,10970850
-ROCK1_Homo sapiens	nan	nan	nan	nan	EZR	?	Phosphorylation	11387207,10970850
-CSK_Homo sapiens	nan	nan	nan	nan	CSK	?	Phosphorylation	9148770
-PRKACA_Homo sapiens	nan	nan	nan	nan	CSK	?	Phosphorylation	11181701
-PRKACA_Homo sapiens	nan	nan	nan	nan	EPB49	?	Phosphorylation	7615546
-PRKACA_Homo sapiens	nan	nan	nan	nan	DSP	?	Phosphorylation	7525582,18669648,20068231
-ROCK1_Homo sapiens	nan	nan	nan	nan	DES	?	Phosphorylation	10574968
-AURKB_Homo sapiens	nan	nan	nan	nan	DES	?	Phosphorylation	12686604
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	ARNT	?	Phosphorylation	16129408,18669648
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	DDIT3	?	Phosphorylation	12876286
-MAPK14_Homo sapiens	nan	nan	nan	nan	DDIT3	?	Phosphorylation	8650547
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	LIG1	?	Phosphorylation	10523317,15302935,18669648,19415658,19664995,19651622,17693683,19664994,18452278,18767875,19413330,20230923,20068231,20058876
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	TOP2A	?	Phosphorylation	9804834,8939955,11940573,18669648,19651622,18452278,20068231|7961967,18669648,18691976,17287340,19007248,19664995,19651622,19691289,19664994,18767875,18452278,16964243,20068231,20058876|10942766,18669648,19651622,19691289,18452278,20068231|7961967,16565220,18669648,19007248,19651622,18452278,16964243,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	TOP2A	?	Phosphorylation	7635160,12569090,16565220,18669648,19415658,18691976,19007248,19664995,19651622,19691289,18452278,16964243,20068230,20068231,20058876|7635160,12569090,16565220,18669648,19413330,19415658,18691976,17287340,17924679,19007248,19664995,19651622,19691289,19664994,18767875,18452278,20068231,20058876|7635160,12569090,16565220,18669648,19007248,19651622,19691289,18452278,20068231|7635160,12569090|7635160,12569090,16565220,18669648,19007248,19651622,18452278,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	TOP2A	?	Phosphorylation	7499337,12569090,18691976,19007248,19691289
-PRKCB_Homo sapiens	nan	nan	nan	nan	TOP2A	?	Phosphorylation	7499337,12569090,18691976,19007248,19691289
-PRKCG_Homo sapiens	nan	nan	nan	nan	TOP2A	?	Phosphorylation	7499337,12569090,18691976,19007248,19691289
-SRC_Homo sapiens	nan	nan	nan	nan	DAG1	?	Phosphorylation	12795607
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	EGR1	?	Phosphorylation	8662759
-EGFR_Homo sapiens	nan	nan	nan	nan	EPB41	?	Phosphorylation	1647028
-PRKCB_Homo sapiens	nan	nan	nan	nan	EPB41	?	Phosphorylation	15611095,20068231|15611095
-PRKCD_Homo sapiens	nan	nan	nan	nan	EEF1A1	?	Phosphorylation	7890750,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	EEF1D	?	Phosphorylation	12551973,18669648,19413330,19415658,17287340,17924679,19664995,19651622,19691289,18767875,18691976,18452278,18212344,20068230,20166139,20068231
-EEF2K_Homo sapiens	nan	nan	nan	nan	EEF2	?	Phosphorylation	91085562,20068231|8386634,18669648,17287340,18212344,19651622,18767875,20166139,20068231|8386634,18669648,19413330,19651622,18767875,20068231
-EGFR_Homo sapiens	nan	nan	nan	nan	EGFR	?	Phosphorylation	8845374,16799092|9363897,10635327,16799092,18669648,18691976,17389395,17016520|8845374,11983694,16799092,17016520|8845374,16799092,16729043,17016520,18707149|8845374,16799092,16729043,17389395,19651622,17016520|8845374,16799092,16729043,17426253,18691976,17389395,17016520,20068231
-JAK2_Homo sapiens	nan	nan	nan	nan	EGFR	?	Phosphorylation	9363897,10635327,16799092,18669648,18691976,17389395,17016520
-PRKCD_Homo sapiens	nan	nan	nan	nan	EGFR	?	Phosphorylation	2987962,2984676
-SRC_Homo sapiens	nan	nan	nan	nan	EGFR	?	Phosphorylation	8845374,11983694,16799092,17016520|11983694,8845374,10075741,16729043|11983694,16729043|15951569,16729043,18669648,17389395,17016520
-CAMK2G_Homo sapiens	nan	nan	nan	nan	EGFR	?	Phosphorylation	1309762,10347170,16799092|1309762,10347170
-CAMK2A_Homo sapiens	nan	nan	nan	nan	EGFR	?	Phosphorylation	10347170,18669648,18691976,20068231|1309762,10347170|10347170,16799092,18669648,18691976,20068231|10347170|10347170,16799092,18669648,18691976,17389395,20166139,20068231
-ERBB2_Homo sapiens	nan	nan	nan	nan	EGFR	?	Phosphorylation	9363897,10635327,16799092,18669648,18691976,17389395,17016520
-JAK2_Homo sapiens	nan	nan	nan	nan	EPOR	?	Phosphorylation	12441334
-LCK_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	7539106
-AKT1_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	11139588
-AKT2_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	11507039,11139588,11432835,9528769
-MAPK1_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	12093745,9528769,10409727
-SRC_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	7539106
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	11507039,11139588,11432835,9528769
-MAPK14_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	12138194
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	12093745,9528769|11507039,11139588,11432835,9528769
-PAK1_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	12374744
-MNAT1_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	10949034|10949034,8308015
-CDK7_Homo sapiens	nan	nan	nan	nan	ESR1	?	Phosphorylation	15461668
-PRKCA_Homo sapiens	nan	nan	nan	nan	EIF4E	?	Phosphorylation	8662663
-PRKCB_Homo sapiens	nan	nan	nan	nan	EIF4E	?	Phosphorylation	8662663
-PRKCG_Homo sapiens	nan	nan	nan	nan	EIF4E	?	Phosphorylation	8662663
-MKNK2_Homo sapiens	nan	nan	nan	nan	EIF4E	?	Phosphorylation	9155017,12897141
-MKNK1_Homo sapiens	nan	nan	nan	nan	EIF4E	?	Phosphorylation	9155017,9878069
-PRKCA_Homo sapiens	nan	nan	nan	nan	EWSR1	?	Phosphorylation	9341188
-FGFR3_Homo sapiens	nan	nan	nan	nan	FGFR3	?	Phosphorylation	11294897,19901323|11294897
-FGFR4_Homo sapiens	nan	nan	nan	nan	FGFR4	?	Phosphorylation	10918587,8576110
-SHB_Homo sapiens	nan	nan	nan	nan	FGFR1	?	Phosphorylation	8622701,7516330,12181353
-FLT3_Homo sapiens	nan	nan	nan	nan	FLT3	?	Phosphorylation	11971190
-AKT1_Homo sapiens	nan	nan	nan	nan	FOXO1	?	Phosphorylation	10358014
-PAK1_Homo sapiens	nan	nan	nan	nan	FOXO1	?	Phosphorylation	10358014,12560069
-GSK3B_Homo sapiens	nan	nan	nan	nan	FOXO1	?	Phosphorylation	11980723
-CSNK1G1_Homo sapiens	nan	nan	nan	nan	FOXO1	?	Phosphorylation	11980723
-DYRK1A_Homo sapiens	nan	nan	nan	nan	FOXO1	?	Phosphorylation	11311120
-ADRBK1_Homo sapiens	nan	nan	nan	nan	FPR1	?	Phosphorylation	7836371
-CSK_Homo sapiens	nan	nan	nan	nan	FYN	?	Phosphorylation	1985196,18691976
-FYN_Homo sapiens	nan	nan	nan	nan	FYN	?	Phosphorylation	1985196,16497976,20068231,20058876|9425276
-PDGFRB_Homo sapiens	nan	nan	nan	nan	FYN	?	Phosphorylation	9425276
-PRKCA_Homo sapiens	nan	nan	nan	nan	GABRG2	?	Phosphorylation	1321150
-AKT1_Homo sapiens	nan	nan	nan	nan	GATA2	?	Phosphorylation	15837948
-CSK_Homo sapiens	nan	nan	nan	nan	GSN	?	Phosphorylation	10210201
-CDK1_Homo sapiens	nan	nan	nan	nan	GFAP	?	Phosphorylation	7822264,12177195
-PRKCA_Homo sapiens	nan	nan	nan	nan	GFAP	?	Phosphorylation	2155236,9099667,7822264,2114109|2155236,7822264,2114109
-PRKACA_Homo sapiens	nan	nan	nan	nan	GFAP	?	Phosphorylation	2155236,9099667,7822264,2114109|2155236,7822264,2114109
-ROCK1_Homo sapiens	nan	nan	nan	nan	GFAP	?	Phosphorylation	2155236,9099667,7822264,2114109|2155236,7822264,2114109|9099667
-CAMK2A_Homo sapiens	nan	nan	nan	nan	GFAP	?	Phosphorylation	7822264,2114109,2155236,9099667|7822264,2114109,2155236|7822264,2114109
-MAPK1_Homo sapiens	nan	nan	nan	nan	NR3C1	?	Phosphorylation	12351702,9199329,18669648
-PRKDC_Homo sapiens	nan	nan	nan	nan	NR3C1	?	Phosphorylation	9038175
-MAPK8_Homo sapiens	nan	nan	nan	nan	NR3C1	?	Phosphorylation	12351702,9199329,18669648
-PRKACA_Homo sapiens	nan	nan	nan	nan	SLC2A2	?	Phosphorylation	8626492
-PRKAA1_Homo sapiens	nan	nan	nan	nan	GRIK2	?	Phosphorylation	8094892,8163463
-PRKCA_Homo sapiens	nan	nan	nan	nan	GRIA4	?	Phosphorylation	10366608
-PRKACA_Homo sapiens	nan	nan	nan	nan	GRIA4	?	Phosphorylation	10366608
-CAMK2G_Homo sapiens	nan	nan	nan	nan	GRIA4	?	Phosphorylation	10366608
-PRKCA_Homo sapiens	nan	nan	nan	nan	GRIA1	?	Phosphorylation	8663994
-PRKACA_Homo sapiens	nan	nan	nan	nan	GRIA1	?	Phosphorylation	8663994
-CAMK2G_Homo sapiens	nan	nan	nan	nan	GRIA1	?	Phosphorylation	7877986|12609872,9407043
-FYN_Homo sapiens	nan	nan	nan	nan	GRIN2B	?	Phosphorylation	11024032|11024032,11483655
-PRKCA_Homo sapiens	nan	nan	nan	nan	GRIN2B	?	Phosphorylation	12147342,8940188,11306676|11306676
-PRKCB_Homo sapiens	nan	nan	nan	nan	GRIN2B	?	Phosphorylation	12147342,8940188,11306676|11306676
-PRKCG_Homo sapiens	nan	nan	nan	nan	GRIN2B	?	Phosphorylation	12147342,8940188,11306676|11306676
-SRC_Homo sapiens	nan	nan	nan	nan	GRIN2B	?	Phosphorylation	11024032,11483655
-CAMK2A_Homo sapiens	nan	nan	nan	nan	GRIN2B	?	Phosphorylation	12147342,8940188,11306676|8940188
-CAMK2B_Homo sapiens	nan	nan	nan	nan	GRIN2B	?	Phosphorylation	12147342,8940188,11306676|8940188
-CDK5_Homo sapiens	nan	nan	nan	nan	GRIN2A	?	Phosphorylation	11675505
-PRKCA_Homo sapiens	nan	nan	nan	nan	GRIN2A	?	Phosphorylation	11104776
-SRC_Homo sapiens	nan	nan	nan	nan	GRIN2A	?	Phosphorylation	10195142|10846184
-CAMK2A_Homo sapiens	nan	nan	nan	nan	GRIN2A	?	Phosphorylation	12147342
-CAMK2B_Homo sapiens	nan	nan	nan	nan	GRIN2A	?	Phosphorylation	12147342
-PRKCA_Homo sapiens	nan	nan	nan	nan	GFPT1	?	Phosphorylation	10806197
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	GYS1	?	Phosphorylation	2117608|2117608,18669648|2117608,19651622|2117608,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	GYS1	?	Phosphorylation	2117608,19413330,18691976|2117608
-GSK3B_Homo sapiens	nan	nan	nan	nan	GYS1	?	Phosphorylation	6772446,11427888,18669648|6772446,11427888,18669648,19664994,18691976|2117608,19651622
-PRKACA_Homo sapiens	nan	nan	nan	nan	GP1BB	?	Phosphorylation	2504723,18088087,19651622,20166139,20058876
-HCK_Homo sapiens	nan	nan	nan	nan	CSF3R	?	Phosphorylation	9790917
-AKT1_Homo sapiens	nan	nan	nan	nan	NR4A1	?	Phosphorylation	11274386,18669648
-MAPK1_Homo sapiens	nan	nan	nan	nan	NR4A1	?	Phosphorylation	11883936
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	NR4A1	?	Phosphorylation	11274386,18669648
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	NR4A1	?	Phosphorylation	11274386,18669648
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	NR4A1	?	Phosphorylation	11274386,18669648
-EGFR_Homo sapiens	nan	nan	nan	nan	RASA1	?	Phosphorylation	1850098
-LCK_Homo sapiens	nan	nan	nan	nan	RASA1	?	Phosphorylation	1850098
-PRKCD_Homo sapiens	nan	nan	nan	nan	GNAZ	?	Phosphorylation	8429024,7559455,9166747
-PRKCA_Homo sapiens	nan	nan	nan	nan	GNA15	?	Phosphorylation	12647293
-PRKCA_Homo sapiens	nan	nan	nan	nan	HES1	?	Phosphorylation	9389649
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HSP90AA1	?	Phosphorylation	2492519,17287340,18088087,19651622,18510355,18452278,18767875,20166139,20068231|2492519,18669648,19413330,18691976,17287340,18088087,18212344,19651622,18510355,18452278,18767875,18707149,19415658,20166139,20068231,20187088
-PRKDC_Homo sapiens	nan	nan	nan	nan	HSP90AA1	?	Phosphorylation	2507541
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HSF1	?	Phosphorylation	12659875
-MAPK8_Homo sapiens	nan	nan	nan	nan	HSF1	?	Phosphorylation	10747973,18669648,19651622,18767875,20166139,20068231
-MAPK3_Homo sapiens	nan	nan	nan	nan	HSF1	?	Phosphorylation	8940068,18669648,19413330,18212344,19651622,19664994,20166139,20068231
-GSK3A_Homo sapiens	nan	nan	nan	nan	HSF1	?	Phosphorylation	12665592,18669648,19413330,18212344,19651622,19664994,20166139,20068231
-CAMK2A_Homo sapiens	nan	nan	nan	nan	HSF1	?	Phosphorylation	11447121
-AKT1_Homo sapiens	nan	nan	nan	nan	HMOX1	?	Phosphorylation	15581622
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HMOX2	?	Phosphorylation	14527438
-CSK_Homo sapiens	nan	nan	nan	nan	HCK	?	Phosphorylation	11976726
-HCK_Homo sapiens	nan	nan	nan	nan	HCK	?	Phosphorylation	9407116,11976726,16497976,19664994,17016520|10934191
-PRKCA_Homo sapiens	nan	nan	nan	nan	SDC2	?	Phosphorylation	9244383,19901323
-PRKCB_Homo sapiens	nan	nan	nan	nan	SDC2	?	Phosphorylation	9244383,19901323
-PRKCG_Homo sapiens	nan	nan	nan	nan	SDC2	?	Phosphorylation	9244383,19901323
-CDK1_Homo sapiens	nan	nan	nan	nan	HIST1H1A	?	Phosphorylation	7499230
-PRKCA_Homo sapiens	nan	nan	nan	nan	HLA-A	?	Phosphorylation	2941417
-PRKAR1A_Homo sapiens	nan	nan	nan	nan	HLA-A	?	Phosphorylation	6333425
-SRC_Homo sapiens	nan	nan	nan	nan	HLA-A	?	Phosphorylation	6304688,6333425
-SRC_Homo sapiens	nan	nan	nan	nan	HLA-B	?	Phosphorylation	6304688
-PRKACA_Homo sapiens	nan	nan	nan	nan	HMGCR	?	Phosphorylation	2369897
-CSNK2B_Homo sapiens	nan	nan	nan	nan	HOXB6	?	Phosphorylation	10327653,19413330,19664994
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HOXB7	?	Phosphorylation	11290787
-AKT1_Homo sapiens	nan	nan	nan	nan	HTT	?	Phosphorylation	12062094,19413330,18088087,19651622,20166139
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	YWHAQ	?	Phosphorylation	9360956,18669648,19415658,18691976,19664995,20068231
-BCR_Homo sapiens	nan	nan	nan	nan	YWHAQ	?	Phosphorylation	9360956,18669648,19415658,18691976,19664995,20068231
-PRKCQ_Homo sapiens	nan	nan	nan	nan	ICAM3	?	Phosphorylation	9268366
-JAK1_Homo sapiens	nan	nan	nan	nan	IL2RB	?	Phosphorylation	8700888
-LCK_Homo sapiens	nan	nan	nan	nan	IL2RB	?	Phosphorylation	10214954
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	IGFBP3	?	Phosphorylation	10650937
-FYN_Homo sapiens	nan	nan	nan	nan	FCGR2A	?	Phosphorylation	8756631
-LYN_Homo sapiens	nan	nan	nan	nan	FCGR2A	?	Phosphorylation	8756631
-BLK_Homo sapiens	nan	nan	nan	nan	FCGR2A	?	Phosphorylation	8756631
-SYK_Homo sapiens	nan	nan	nan	nan	FCGR2A	?	Phosphorylation	8756631
-JAK1_Homo sapiens	nan	nan	nan	nan	IL10RA	?	Phosphorylation	10433356
-MAPK1_Homo sapiens	nan	nan	nan	nan	TCF3	?	Phosphorylation	14592976
-MAPK3_Homo sapiens	nan	nan	nan	nan	TCF3	?	Phosphorylation	14592976
-FYN_Homo sapiens	nan	nan	nan	nan	CD79B	?	Phosphorylation	9531288
-LYN_Homo sapiens	nan	nan	nan	nan	CD79B	?	Phosphorylation	9531288
-LCK_Homo sapiens	nan	nan	nan	nan	CD79B	?	Phosphorylation	8077654
-CDK1_Homo sapiens	nan	nan	nan	nan	ITPR1	?	Phosphorylation	14635192|16237118,14635192
-FYN_Homo sapiens	nan	nan	nan	nan	ITPR1	?	Phosphorylation	14761954
-PRKACA_Homo sapiens	nan	nan	nan	nan	ITPR1	?	Phosphorylation	12529267,18669648,19007248,18767875,20166139,20068231|8132598,18669648,19651622,20068231
-PRKG1_Homo sapiens	nan	nan	nan	nan	ITPR1	?	Phosphorylation	8132598,18669648,19651622,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	IGF1R	?	Phosphorylation	8940173,18691976,17016520|8940173,18691976,17389395,17016520,20068231|8940173|8940173,17016520
-PRKCA_Homo sapiens	nan	nan	nan	nan	ITPKA	?	Phosphorylation	9374536,9155020
-PRKACA_Homo sapiens	nan	nan	nan	nan	ITPKA	?	Phosphorylation	9374536,9155020
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	8349691
-CSNK2B_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	8349691
-IGF1R_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	8530377
-JAK1_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	11162588
-MAPK8_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	12351658,11606564,10722755
-IKBKB_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	12351658|12351658,18077418,19651622|12351658,11606564,10722755|12351658,19651622
-SIK2_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	12624099
-MAPK1_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	16131083|16131083,19651622
-PRKCQ_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	15364919
-PRKCG_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	15364919
-PRKCD_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	15364919
-PRKCB_Homo sapiens	nan	nan	nan	nan	ITGB7	?	Phosphorylation	12682249
-PRKCD_Homo sapiens	nan	nan	nan	nan	ITGB7	?	Phosphorylation	12682249
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	IFI16	?	Phosphorylation	11115400
-INSR_Homo sapiens	nan	nan	nan	nan	INSR	?	Phosphorylation	7806540,16497976|7806540,16497976,19901323|11401470,19901323|8504096|8496180
-PRKCA_Homo sapiens	nan	nan	nan	nan	INSR	?	Phosphorylation	7926007|8463287
-PAK1_Homo sapiens	nan	nan	nan	nan	CASP1	?	Phosphorylation	15561713
-JAK3_Homo sapiens	nan	nan	nan	nan	JAK1	?	Phosphorylation	12559972,19901323
-JAK2_Homo sapiens	nan	nan	nan	nan	JAK2	?	Phosphorylation	9111318,11593427,15143187|11818507,9111318|7889566,17027227|15143188,15143187|15143188,15143187,17389395,18491316|15121872|17027227
-ABL1_Homo sapiens	nan	nan	nan	nan	JAK2	?	Phosphorylation	9111318,11593427,15143187
-MAPK1_Homo sapiens	nan	nan	nan	nan	KRT8	?	Phosphorylation	11788583,11781324,9211903,18691976,19007248
-MAPK14_Homo sapiens	nan	nan	nan	nan	KRT8	?	Phosphorylation	11788583,11781324,9211903,18691976,19007248
-MAPK8_Homo sapiens	nan	nan	nan	nan	KRT8	?	Phosphorylation	11788583,11781324,9211903,18691976,19007248
-MAPK3_Homo sapiens	nan	nan	nan	nan	KRT8	?	Phosphorylation	11788583,9054461,18669648|11788583,11781324,9211903,18691976,19007248
-PRKCA_Homo sapiens	nan	nan	nan	nan	KRT18	?	Phosphorylation	7523419,1374067,18669648,17924679,19007248,20068231
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	KRT18	?	Phosphorylation	7523419,1374067,18669648,17924679,19007248,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	KRT18	?	Phosphorylation	9524113,15368451,18669648,19415658,19007248,20068231
-PRKCE_Homo sapiens	nan	nan	nan	nan	KRT18	?	Phosphorylation	7523419,1374067,18669648,17924679,19007248,20068231
-CAMK2A_Homo sapiens	nan	nan	nan	nan	KRT18	?	Phosphorylation	7523419,1374067,18669648,17924679,19007248,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	KIF11	?	Phosphorylation	9235942,8548803,16565220,19413330,19007248,19691289,19664994,20068230,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	LMNA	?	Phosphorylation	7925482,16565220,18669648,19413330,19415658,17924679,19664995,18212344,19651622,19691289,16964243,18767875,20068231|7925482,2344612,16565220,18669648,19413330,19415658,18691976,17287340,17924679,18491316,19007248,19664995,18212344,19651622,19691289,19664994,16964243,18707149,18452278,18767875,20166139,20068231,20058876|7925482,2344612,18669648,19415658,18691976,17924679,18077418,18491316,19007248,19664995,18212344,19651622,19691289,19664994,16964243,18767875,20166139,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	LMNA	?	Phosphorylation	7925482,16565220,18669648,19413330,19415658,17924679,19664995,18212344,19651622,19691289,16964243,18767875,20068231|7925482,19562805,18691976,17924679,19651622,20166139,20068231|7925482,18691976,17924679,19664995,19651622,18707149,20166139,20068231|8477740,7925482
-CDK1_Homo sapiens	nan	nan	nan	nan	LMNB1	?	Phosphorylation	8034666,16565220,18669648,19413330,19415658,18691976,17287340,19007248,19664995,19651622,19691289,19664994,16964243,18767875,20068231,20058876
-PRKCB_Homo sapiens	nan	nan	nan	nan	LMNB1	?	Phosphorylation	8034666,20068231|8034666
-HIPK2_Homo sapiens	nan	nan	nan	nan	RUNX1	?	Phosphorylation	169175071|16917507
-HCK_Homo sapiens	nan	nan	nan	nan	BCR	?	Phosphorylation	9178913,12522270,8955135,9407116,16497976
-FES_Homo sapiens	nan	nan	nan	nan	BCR	?	Phosphorylation	9178913,12522270,8955135,9407116,16497976|8955135,16497976|8955135
-MAPK1_Homo sapiens	nan	nan	nan	nan	BCL2	?	Phosphorylation	10567572,12039864,15225643
-PRKCA_Homo sapiens	nan	nan	nan	nan	BCL2	?	Phosphorylation	9738012
-MAPK8_Homo sapiens	nan	nan	nan	nan	BCL2	?	Phosphorylation	10567572|10567572,12039864|10567572,12039864,15225643
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	STMN1	?	Phosphorylation	8376365,8002936,18669648,19413330,19415658,17287340,17924679,19664995,19651622,19664994,18767875,17693683,18452278,16964243,18212344,20068231|8376365,8002936,18669648,17287340,17924679,19651622,18767875,18212344,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	STMN1	?	Phosphorylation	8376365,11135364,8325880,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18707149,18452278,16964243,18212344,20230923,20068231,20058876|8376365,16427064,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18452278,16964243,18212344,18578522,20230923,20068231,20058876|8376365,8125092,16427064,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18452278,16964243,18212344,18578522,20230923,20068231,20058876|8376365,11135364,8325880,8125092,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18707149,18452278,16964243,18212344,20230923,20068231,20058876
-PRKACA_Homo sapiens	nan	nan	nan	nan	STMN1	?	Phosphorylation	8376365,8002936,18669648,19413330,19415658,17287340,17924679,19664995,19651622,19664994,18767875,17693683,18452278,16964243,18212344,20068231|8376365,8002936,18669648,17287340,17924679,19651622,18767875,18212344,20068231
-MAPK3_Homo sapiens	nan	nan	nan	nan	STMN1	?	Phosphorylation	8376365,11135364,8325880,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18707149,18452278,16964243,18212344,20230923,20068231,20058876|8376365,11135364,8325880,8125092,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18707149,18452278,16964243,18212344,20230923,20068231,20058876
-MAPK1_Homo sapiens	nan	nan	nan	nan	LIFR	?	Phosphorylation	7777512
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PTPRC	?	Phosphorylation	10066810
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	PTPRC	?	Phosphorylation	10066810
-SRC_Homo sapiens	nan	nan	nan	nan	ANXA1	?	Phosphorylation	2457390
-TRPM7_Homo sapiens	nan	nan	nan	nan	ANXA1	?	Phosphorylation	15485879,20068231
-PRKCI_Homo sapiens	nan	nan	nan	nan	ANXA1	?	Phosphorylation	2457390
-PRKCA_Homo sapiens	nan	nan	nan	nan	ANXA2	?	Phosphorylation	2946940,18669648,18578522,20166139,20068231
-PRKCB_Homo sapiens	nan	nan	nan	nan	ANXA2	?	Phosphorylation	8898866,20068231
-MAPK1_Homo sapiens	nan	nan	nan	nan	LIPE	?	Phosphorylation	11581251
-PRKACA_Homo sapiens	nan	nan	nan	nan	LIPE	?	Phosphorylation	9417067|9417067,14641008
-MAPK3_Homo sapiens	nan	nan	nan	nan	LIPE	?	Phosphorylation	11581251
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	ALOX5	?	Phosphorylation	10779545,11844797
-PRKACA_Homo sapiens	nan	nan	nan	nan	KCNH2	?	Phosphorylation	11953308,10837251,19651622|11953308
-NLK_Homo sapiens	nan	nan	nan	nan	LEF1	?	Phosphorylation	12556497
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CD5	?	Phosphorylation	9834084
-FYN_Homo sapiens	nan	nan	nan	nan	CD5	?	Phosphorylation	11298344,15144186|11298344
-LCK_Homo sapiens	nan	nan	nan	nan	CD5	?	Phosphorylation	11298344,15144186|11298344
-PRKCA_Homo sapiens	nan	nan	nan	nan	CD5	?	Phosphorylation	11123317
-PRKCB_Homo sapiens	nan	nan	nan	nan	CD5	?	Phosphorylation	11123317
-PRKCG_Homo sapiens	nan	nan	nan	nan	CD5	?	Phosphorylation	11123317
-CSK_Homo sapiens	nan	nan	nan	nan	LCK	?	Phosphorylation	12485116,15144186,16497976,19901323,18691976
-FCGR3A_Homo sapiens	nan	nan	nan	nan	LCK	?	Phosphorylation	8945479,8258691,8405050,15144186,18578522
-LCK_Homo sapiens	nan	nan	nan	nan	LCK	?	Phosphorylation	8945479,8258691,8405050,15144186,18578522
-MAPK1_Homo sapiens	nan	nan	nan	nan	LCK	?	Phosphorylation	8506364,8618896
-PRKCA_Homo sapiens	nan	nan	nan	nan	LCK	?	Phosphorylation	8506364
-SYK_Homo sapiens	nan	nan	nan	nan	LCK	?	Phosphorylation	8798764,16497976,19664994
-PRKACA_Homo sapiens	nan	nan	nan	nan	LCK	?	Phosphorylation	8506364
-MAPK3_Homo sapiens	nan	nan	nan	nan	LCK	?	Phosphorylation	8506364,8618896
-PRKACA_Homo sapiens	nan	nan	nan	nan	LCP1	?	Phosphorylation	10446213,19651622,20230923,20166139,20058876
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	LSP1	?	Phosphorylation	8995217|8995217,19413330,20166139,20058876
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	LGALS3	?	Phosphorylation	8253806|10961987,8253806
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	LGALS3	?	Phosphorylation	8253806|10961987,8253806
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	LGALS3	?	Phosphorylation	8253806|10961987,8253806
-AKT1_Homo sapiens	nan	nan	nan	nan	YBX1	?	Phosphorylation	16354698,19664994,19651622
-PRKACA_Homo sapiens	nan	nan	nan	nan	MIP	?	Phosphorylation	2176601
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	MAX	?	Phosphorylation	11535131,8247525,19413330,19651622,20068231|11535131|11535131,19651622|11535131,18452278|11535131,19651622,18452278|11535131,8247525,9115440,19413330,19651622,20068231|9115440,19413330,19651622,20068231|9115440,18691976,19651622,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	MAX	?	Phosphorylation	7479834|11535131,19651622,18452278
-ADRBK1_Homo sapiens	nan	nan	nan	nan	MC4R	?	Phosphorylation	12639913
-PRKACA_Homo sapiens	nan	nan	nan	nan	MC4R	?	Phosphorylation	12639913
-NME1_Homo sapiens	nan	nan	nan	nan	NME1	?	Phosphorylation	8810265,19651622|8810265|8245015,8810265
-NME2_Homo sapiens	nan	nan	nan	nan	NME2	?	Phosphorylation	8245015|1851158
-GSK3B_Homo sapiens	nan	nan	nan	nan	MITF	?	Phosphorylation	10587587
-MARK1_Homo sapiens	nan	nan	nan	nan	MAP2	?	Phosphorylation	8631898
-PRKACA_Homo sapiens	nan	nan	nan	nan	MAP2	?	Phosphorylation	11029056
-CDK1_Homo sapiens	nan	nan	nan	nan	MAP4	?	Phosphorylation	9398320,11683421,20068231|9398320,11683421,19415658,19664995,19691289,20068231
-MARK1_Homo sapiens	nan	nan	nan	nan	MAP4	?	Phosphorylation	8631898,18669648,19415658,19651622,17693683,18452278,18707149,18212344,20166139,20068231|8631898,18767875,20166139,20068231,20058876|8631898,18669648,20166139,20068231
-CDK5_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9832145,12387894,17078951|1330687,9771888,9565682,7566346,9832145,12387894,12226093,9199504,19413330,19415658|9771888,9565682,11181841,12226093,9199504,19413330,19562805|9546672,11311121,9353289,11181841,9832145,12387894|9546672,12435421,9832145,12387894,11104762|11181841,7566346,9832145,12387894|9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17287340,19651622,20068231|9771888,9565682,7566346,9832145,12387894,17287340,19651622,20068231|12387894|9565682,1181841,7566346,9832145,12387894,11181841|9771888,9565682,11181841,7566346,9832145,12387894,19413330,19415658,19651622|9771888,9565682,11181841,12226093,9199504,17078951,19413330,19562805|9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17078951,17287340,19651622,20068231|9565682,1181841,7566346,9832145,12387894,17078951|9771888,9565682,7566346,12387894,1330687,9832145,12226093,9199504,19413330,19415658|9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805|9565682,1181841,7566346,9832145,12387894|9771888,9565682,7566346,12387894,17078951,19413330|9832145,7566346,11181841,9771888,9199504,18510355|9614189
-PHKG1_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	8999860,19651622,20068231|9771888,9735171,10090741,9832145,12387894,7706316,8999860
-MAPK1_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9832145,10737616|9832145,7566346,11181841,9771888,9199504,18510355|1330687,9771888,9565682,7566346,9832145,12387894,12226093,9199504,19413330,19415658|9771888,9565682,7566346,12387894,1330687,9832145,12226093,9199504,19413330,19415658
-GSK3B_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9832145,7566346,11181841,9771888,9199504,17078951|9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17078951,17287340,19651622,20068231|9832145,12387897,18510355|9832145,7566346,11181841,9771888,9199504,18510355|9771888,12387894|12387894,18510355|9771888,11181841,12387894|9771888,7566346,9832145,12387894|9771888,9565682,7566346,12387894,19413330|1330687,9771888,9565682,7566346,9832145,12387894,12226093,9199504,19413330,19415658|9771888,9565682,11181841,12226093,9199504,19413330,19562805|11311121,19562805|9546672,11311121,9353289,11181841,9832145,12387894|11181841,7566346,9832145,12387894|9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17287340,19651622,20068231|9771888,9735171,10090741,9832145,12387894,7706316,8999860|9565682,1181841,7566346,9832145,12387894|7566346,9832145,12387894,19413330|9771888,9565682,11181841,7566346,9832145,12387894,19413330,19415658,19651622|9565682,12387894|9771888,9565682,7566346,12387894,17078951,19413330|9771888,9565682,11181841,12226093,9199504,17078951,19413330,19562805|9565682,1181841,7566346,9832145,12387894,17078951|9771888,9565682,7566346,12387894,1330687,9832145,12226093,9199504,19413330,19415658|9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805
-PRKCD_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9771888,9735171,10090741,9832145,12387894,7706316,8999860|9771888,10737616,9832145,12387894,12435421,7706316
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9546672,11311121,9353289,11181841,9832145,12387894
-PKN1_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9546672,12435421,9832145,12387894,11104762|11104762|11104762,9199504|9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805
-PRKACA_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9771888,11181841,12387894|9771888,7566346,9832145,12387894|9771888,9565682,7566346,12387894,19413330|9546672,11311121,9353289,11181841,9832145,12387894|9546672,12435421,9832145,12387894,11104762|9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17287340,19651622,20068231|9771888,9735171,10090741,9832145,12387894,7706316,8999860|9771888,10737616,9832145,12387894,12435421,7706316|12435421|9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805
-MAPK12_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9832145,7566346,11181841,9771888,9199504,18510355|1330687,9771888,9565682,7566346,9832145,12387894,12226093,9199504,19413330,19415658|9771888,9565682,11181841,12226093,9199504,19413330,19562805|9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17287340,19651622,20068231|11104762,9199504|9771888,9565682,11181841,12226093,9199504,17078951,19413330,19562805|9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17078951,17287340,19651622,20068231|9771888,9565682,7566346,12387894,1330687,9832145,12226093,9199504,19413330,19415658|9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805
-GSK3A_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	7931292,7706316
-CAMK2A_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9771888,9735171,10090741,9832145,12387894,7706316,8999860|9771888,10737616,9832145,12387894,12435421,7706316
-MARK1_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9771888,9735171,10090741,9832145,12387894,7706316,8999860|7706316|7931292,7706316|9771888,10737616,9832145,12387894,12435421,7706316
-CDK1_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	9614189
-ABL1_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	16014719
-RPS6KB1_Homo sapiens	nan	nan	nan	nan	MAPT	?	Phosphorylation	16364302
-CDK1_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	8119945|8119945,18212344,16964243,18691976|8119945,18669648|8119945,18669648,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
-PLK1_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	11897663
-MARK3_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
-PLK3_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
-CHEK1_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
-CHEK2_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
-BRSK2_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
-BRSK1_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
-PKN1_Homo sapiens	nan	nan	nan	nan	CDC25C	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
-EGFR_Homo sapiens	nan	nan	nan	nan	MUC1	?	Phosphorylation	11483589|11483589,11152665
-PRKCD_Homo sapiens	nan	nan	nan	nan	MUC1	?	Phosphorylation	11877440
-GSK3B_Homo sapiens	nan	nan	nan	nan	MUC1	?	Phosphorylation	9819408
-ZAP70_Homo sapiens	nan	nan	nan	nan	MUC1	?	Phosphorylation	14766232
-PRKCA_Homo sapiens	nan	nan	nan	nan	MBP	?	Phosphorylation	2413024
-PRKACA_Homo sapiens	nan	nan	nan	nan	MBP	?	Phosphorylation	2413024
-MAPK1_Homo sapiens	nan	nan	nan	nan	MBP	?	Phosphorylation	12760422|15380617
-FYN_Homo sapiens	nan	nan	nan	nan	MAG	?	Phosphorylation	7525550
-BCR_Homo sapiens	nan	nan	nan	nan	MLLT4	?	Phosphorylation	12808105
-SRC_Homo sapiens	nan	nan	nan	nan	CD33	?	Phosphorylation	10206955
-CDK2_Homo sapiens	nan	nan	nan	nan	MYOD1	?	Phosphorylation	9710583
-PRKCA_Homo sapiens	nan	nan	nan	nan	MYOD1	?	Phosphorylation	1335366
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	MYF5	?	Phosphorylation	9461343
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	MYF5	?	Phosphorylation	9461343
-CDC42BPA_Homo sapiens	nan	nan	nan	nan	MYL2	?	Phosphorylation	9418861
-FYN_Homo sapiens	nan	nan	nan	nan	NMT1	?	Phosphorylation	11594778
-LYN_Homo sapiens	nan	nan	nan	nan	NMT1	?	Phosphorylation	11594778
-PRKACB_Homo sapiens	nan	nan	nan	nan	NGFR	?	Phosphorylation	12682012
-PRKCB_Homo sapiens	nan	nan	nan	nan	GAP43	?	Phosphorylation	8694767,2140056
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	GAP43	?	Phosphorylation	1828073
-MAPK1_Homo sapiens	nan	nan	nan	nan	NEFH	?	Phosphorylation	9592082,18510355|9592082
-AKT1_Homo sapiens	nan	nan	nan	nan	NOS3	?	Phosphorylation	11696579,10376603,20166139
-PRKCA_Homo sapiens	nan	nan	nan	nan	NOS1	?	Phosphorylation	10400690,10874031,12630910,1375933
-PRKACA_Homo sapiens	nan	nan	nan	nan	NOS1	?	Phosphorylation	10400690,10874031,12630910,1375933
-CAMK1_Homo sapiens	nan	nan	nan	nan	NOS1	?	Phosphorylation	10400690,10874031,12630910,1375933|15251453
-CAMK2A_Homo sapiens	nan	nan	nan	nan	NOS1	?	Phosphorylation	10400690,10874031,12630910,1375933
-CAMK4_Homo sapiens	nan	nan	nan	nan	NOS1	?	Phosphorylation	10400690,10874031,12630910,1375933
-ADRBK1_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	10617630,10852916
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	10617630,10852916
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	10617630,10852916
-FYN_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	12096713,11744621,11162638
-FGR_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	12096713,11744621,11162638
-LYN_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	12096713,11744621,11162638
-SYK_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	12096713,11744621,11162638|11744621
-CSNK1D_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	10617630,10852916
-GRK5_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	10617630,10852916
-PTK2B_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	12096713,11744621,11162638
-GRK6_Homo sapiens	nan	nan	nan	nan	SNCA	?	Phosphorylation	10852916
-PRKCA_Homo sapiens	nan	nan	nan	nan	HMGN2	?	Phosphorylation	11438671
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	HMGN2	?	Phosphorylation	11438671
-PRKACA_Homo sapiens	nan	nan	nan	nan	HMGN2	?	Phosphorylation	11438671
-PRKCA_Homo sapiens	nan	nan	nan	nan	HMGN1	?	Phosphorylation	11438671,10739259,20068231|11438671,20068231|11438671,12773393,17924679,20166139
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	HMGN1	?	Phosphorylation	11438671,10739259,20068231|11438671,20068231|11438671,12773393,17924679,20166139
-PRKACA_Homo sapiens	nan	nan	nan	nan	HMGN1	?	Phosphorylation	11438671,10739259,20068231|11438671,20068231|11438671,12773393,17924679,20166139
-RPS6KA4_Homo sapiens	nan	nan	nan	nan	HMGN1	?	Phosphorylation	11438671,12773393,17924679,20166139
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	HMGN1	?	Phosphorylation	11438671,12773393,17924679,20166139
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	NFKBIA	?	Phosphorylation	8622692|8622692,10398585|10398585
-LCK_Homo sapiens	nan	nan	nan	nan	NFKBIA	?	Phosphorylation	8797825,12429743,9792645
-EIF2AK2_Homo sapiens	nan	nan	nan	nan	NFKBIA	?	Phosphorylation	8601309,9721103,9214631,10723127
-SRC_Homo sapiens	nan	nan	nan	nan	NFKBIA	?	Phosphorylation	8797825,12429743,9792645
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	NFKBIA	?	Phosphorylation	8601309,9721103,9214631,10723127
-IKBKB_Homo sapiens	nan	nan	nan	nan	NFKBIA	?	Phosphorylation	8601309,9721103,9214631,10723127,16319058|8601309,9721103,10783893
-TBK1_Homo sapiens	nan	nan	nan	nan	NFKBIA	?	Phosphorylation	8601309,9721103,10783893
-IKBKE_Homo sapiens	nan	nan	nan	nan	NFKBIA	?	Phosphorylation	10421793
-IKBKG_Homo sapiens	nan	nan	nan	nan	NFKBIA	?	Phosphorylation	16319058
-CHUK_Homo sapiens	nan	nan	nan	nan	NFKB1	?	Phosphorylation	10469655|10469655,11158290|11976329
-PRKACA_Homo sapiens	nan	nan	nan	nan	NFKB1	?	Phosphorylation	12947093
-IKBKB_Homo sapiens	nan	nan	nan	nan	NFKB1	?	Phosphorylation	10469655,11158290|11976329
-GSK3B_Homo sapiens	nan	nan	nan	nan	NFKB1	?	Phosphorylation	11425860|11425860,18669648
-MAP3K14_Homo sapiens	nan	nan	nan	nan	NFKB2	?	Phosphorylation	11239468
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	RELA	?	Phosphorylation	10938077
-PRKCZ_Homo sapiens	nan	nan	nan	nan	RELA	?	Phosphorylation	12881425
-PRKACA_Homo sapiens	nan	nan	nan	nan	RELA	?	Phosphorylation	9660950,9150141
-CHUK_Homo sapiens	nan	nan	nan	nan	RELA	?	Phosphorylation	12842894
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HNRNPC	?	Phosphorylation	12564933,18669648,19413330,18691976,17287340,19664995,19651622,17693683,18452278,20166139,20068231,20058876
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	HNRNPC	?	Phosphorylation	12564933,18669648,19413330,18691976,17287340,19664995,19651622,17693683,18452278,20166139,20068231,20058876
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	HNRNPC	?	Phosphorylation	15687492,18669648,18691976,17287340,19664995,19651622,18452278,20166139,20068231,20058876
-CDK1_Homo sapiens	nan	nan	nan	nan	NPM1	?	Phosphorylation	12058066,20068231|11278991,17287340,20068231
-CDK2_Homo sapiens	nan	nan	nan	nan	NPM1	?	Phosphorylation	11278991,17287340,17924679,18212344,19651622,20068231
-PLK1_Homo sapiens	nan	nan	nan	nan	NPM1	?	Phosphorylation	15190079,19413330,19651622,20068231
-MAPK3_Homo sapiens	nan	nan	nan	nan	ETS1	?	Phosphorylation	11948414,12048211
-MAPK7_Homo sapiens	nan	nan	nan	nan	ETS1	?	Phosphorylation	11948414,12048211
-CAMK2A_Homo sapiens	nan	nan	nan	nan	ETS1	?	Phosphorylation	12475968
-CAMK2B_Homo sapiens	nan	nan	nan	nan	ETS1	?	Phosphorylation	12475968
-SRC_Homo sapiens	nan	nan	nan	nan	AKT1	?	Phosphorylation	11445557
-ILK_Homo sapiens	nan	nan	nan	nan	AKT1	?	Phosphorylation	9736715
-PDK1_Homo sapiens	nan	nan	nan	nan	AKT1	?	Phosphorylation	11278835
-PDPK1_Homo sapiens	nan	nan	nan	nan	AKT1	?	Phosphorylation	9368760,10226025|10226025
-CAMKK1_Homo sapiens	nan	nan	nan	nan	AKT1	?	Phosphorylation	10833263
-RHEBL1_Homo sapiens	nan	nan	nan	nan	AKT1	?	Phosphorylation	16098514
-PDPK1_Homo sapiens	nan	nan	nan	nan	AKT2	?	Phosphorylation	12048203,9374542,9512493|12048203,9374542|9374542,12048203
-AKT1_Homo sapiens	nan	nan	nan	nan	BRAF	?	Phosphorylation	10869359,11410590,18669648,19651622,18452278,20230923,20068231,20058876|10869359
-PRKACA_Homo sapiens	nan	nan	nan	nan	BRAF	?	Phosphorylation	11510412
-SGK1_Homo sapiens	nan	nan	nan	nan	BRAF	?	Phosphorylation	10869359,11410590,18669648,19651622,18452278,20230923,20068231,20058876
-RHEB_Homo sapiens	nan	nan	nan	nan	BRAF	?	Phosphorylation	16803888,18669648,18691976,19651622,18452278,20166139,20068231
-BRAF_Homo sapiens	nan	nan	nan	nan	BRAF	?	Phosphorylation	17192257|17192257,20068231|17192257,20230923,20068231|17192257,17924679
-JAK2_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	9689060,11134016,8876196|10205168,8876196
-AKT1_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	10576742,11971957,11997508,18669648,18691976,18767875,20230923,20068231
-RAF1_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	8349614|11971957,9710607,9091312,19007248,19651622,20166139,20068231
-MAPK1_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	15664191,18691976|15664191,19651622,20068231|15664191,18691976,20068231|15664191,18669648,18767875
-PRKCA_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	8321321
-SRC_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	10205168,8876196,17097642|17097642
-PAK3_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	9234708,10205168,11733498,9823899
-PRKACA_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	11997508|10576742,11971957,11997508,18669648,18691976,18767875,20230923,20068231|11971957,11997508,18691976|11971957,9710607,9091312,19007248,19651622,20166139,20068231
-PAK1_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	9234708,10205168,11733498,9823899,12551923
-PRKAA1_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	11971957,9710607,9091312,19007248,19651622,20166139,20068231
-RHEB_Homo sapiens	nan	nan	nan	nan	RAF1	?	Phosphorylation	16803888
-RET_Homo sapiens	nan	nan	nan	nan	RET	?	Phosphorylation	8621380|8621380,14711813,15677445|10445857,8621380,14711813|10445857,14711813|8621380,11121408,15588985,14711813,15677445|14711813
-EGFR_Homo sapiens	nan	nan	nan	nan	CRK	?	Phosphorylation	12198159,11956190,9642287,8875975,9480911,17016520,20068231
-IGF1R_Homo sapiens	nan	nan	nan	nan	CRK	?	Phosphorylation	12198159,11956190,9642287,8875975,9480911,17016520,20068231
-ABL2_Homo sapiens	nan	nan	nan	nan	CRK	?	Phosphorylation	12198159,11956190,9642287,8875975,9480911,17016520,20068231
-ABL1_Homo sapiens	nan	nan	nan	nan	CRK	?	Phosphorylation	12198159,11956190,9642287,8875975,9480911,17016520,20068231
-FER_Homo sapiens	nan	nan	nan	nan	CTTN	?	Phosphorylation	9748248,10921917,18669648,19413330,17287340,17389395,18491316,18088087,16497976,17016520,18707149,20068231|9748248,18669648,19413330,17287340,17389395,18491316,18088087,16497976,17016520,18707149,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	CTTN	?	Phosphorylation	9748248,10921917,18669648,19413330,17287340,17389395,18491316,18088087,16497976,17016520,18707149,20068231|9748248|9748248,18669648,19413330,17287340,17389395,18491316,18088087,16497976,17016520,18707149,20068231
-CSF1R_Homo sapiens	nan	nan	nan	nan	CSF1R	?	Phosphorylation	1833648
-AKT1_Homo sapiens	nan	nan	nan	nan	MDM2	?	Phosphorylation	11504915,19664995|11504915|15527798
-ABL1_Homo sapiens	nan	nan	nan	nan	MDM2	?	Phosphorylation	12110584
-ATM_Homo sapiens	nan	nan	nan	nan	MDM2	?	Phosphorylation	11331603
-MAPK1_Homo sapiens	nan	nan	nan	nan	FOS	?	Phosphorylation	7816602|12972619|8248197,18452278,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	FOS	?	Phosphorylation	8248197,1545828,18452278,20068231
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	FOS	?	Phosphorylation	8248197,1545828,18452278,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	MYCN	?	Phosphorylation	1425701
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	MYCN	?	Phosphorylation	1425701
-MET_Homo sapiens	nan	nan	nan	nan	MET	?	Phosphorylation	17192257,18669648,18691976,18452278,20068231|17192257,18669648,18691976,18452278|17192257,18691976,20068231
-EGFR_Homo sapiens	nan	nan	nan	nan	ERBB2	?	Phosphorylation	12354693,1706616,17426253,17389395|11500516,17426253,17389395
-ERBB2_Homo sapiens	nan	nan	nan	nan	ERBB2	?	Phosphorylation	11500516,1706616,16729043|10372802,1706616,16729043|11500516,1706616|12354693,1706616,17426253,17389395|10372802,1706616|11500516,17426253,17389395
-LCK_Homo sapiens	nan	nan	nan	nan	VAV1	?	Phosphorylation	10669745
-YES1_Homo sapiens	nan	nan	nan	nan	YES1	?	Phosphorylation	9794236,18669648,18691976,19651622,18707149
-KIT_Homo sapiens	nan	nan	nan	nan	KIT	?	Phosphorylation	9799234|10377264
-PRKCA_Homo sapiens	nan	nan	nan	nan	KIT	?	Phosphorylation	7539802
-SRC_Homo sapiens	nan	nan	nan	nan	KIT	?	Phosphorylation	12878163
-FGR_Homo sapiens	nan	nan	nan	nan	FGR	?	Phosphorylation	7515063
-CSK_Homo sapiens	nan	nan	nan	nan	FGR	?	Phosphorylation	7515063,8612628
-FLT1_Homo sapiens	nan	nan	nan	nan	FLT1	?	Phosphorylation	11513746
-EPHB2_Homo sapiens	nan	nan	nan	nan	RRAS	?	Phosphorylation	10570155
-LYN_Homo sapiens	nan	nan	nan	nan	LYN	?	Phosphorylation	9171348,18691976,18088087,19901323,20068231
-MATK_Homo sapiens	nan	nan	nan	nan	LYN	?	Phosphorylation	8612628,18669648,18691976,19651622,16497976,18452278,19901323,20068231
-CSK_Homo sapiens	nan	nan	nan	nan	LYN	?	Phosphorylation	8612628,18669648,18691976,19651622,16497976,18452278,19901323,20068231
-ABL1_Homo sapiens	nan	nan	nan	nan	JUN	?	Phosphorylation	10637231
-PRKDC_Homo sapiens	nan	nan	nan	nan	JUN	?	Phosphorylation	1516134,19413330
-MAPK8_Homo sapiens	nan	nan	nan	nan	JUN	?	Phosphorylation	8137421,8654373,8224842,18669648,19413330,19664995,18212344,18707149,18452278,20068231,20058876|12740383,18669648,19664995,18707149
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	JUN	?	Phosphorylation	1516134|1516134,19413330
-MAPK14_Homo sapiens	nan	nan	nan	nan	JUNB	?	Phosphorylation	9889198,8917518,18669648,20068231
-MAPK8_Homo sapiens	nan	nan	nan	nan	JUNB	?	Phosphorylation	9889198,8917518,18669648,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	OPRD1	?	Phosphorylation	11085981
-PRKCE_Homo sapiens	nan	nan	nan	nan	OPRD1	?	Phosphorylation	11085981
-PRKCD_Homo sapiens	nan	nan	nan	nan	OPRD1	?	Phosphorylation	11085981
-ADRBK1_Homo sapiens	nan	nan	nan	nan	OPRD1	?	Phosphorylation	11040053
-EGFR_Homo sapiens	nan	nan	nan	nan	CBL	?	Phosphorylation	11994282,11239464,15556646,17389395,16497976|11994282,11239464,9890970,10092522,10799548|11994282,11239464,15556646
-FYN_Homo sapiens	nan	nan	nan	nan	CBL	?	Phosphorylation	11994282,11239464,9890970,10092522,10799548,15556646
-HCK_Homo sapiens	nan	nan	nan	nan	CBL	?	Phosphorylation	11994282,11239464,9890970,10092522,10799548
-INSR_Homo sapiens	nan	nan	nan	nan	CBL	?	Phosphorylation	11997497,10635327
-PRKCA_Homo sapiens	nan	nan	nan	nan	CBL	?	Phosphorylation	11024037
-PRKACA_Homo sapiens	nan	nan	nan	nan	RHOA	?	Phosphorylation	12654918
-PRKCA_Homo sapiens	nan	nan	nan	nan	SPP1	?	Phosphorylation	8663267
-PRKG1_Homo sapiens	nan	nan	nan	nan	SPP1	?	Phosphorylation	8663267
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SPP1	?	Phosphorylation	8663267
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	SPP1	?	Phosphorylation	8663267
-PRKACA_Homo sapiens	nan	nan	nan	nan	CCND1	?	Phosphorylation	8058338
-GSK3B_Homo sapiens	nan	nan	nan	nan	CCND1	?	Phosphorylation	9832503,10910956
-CDK2_Homo sapiens	nan	nan	nan	nan	PTHLH	?	Phosphorylation	10373465
-PRKCA_Homo sapiens	nan	nan	nan	nan	PAM	?	Phosphorylation	8530412,18669648|8530412
-UHMK1_Homo sapiens	nan	nan	nan	nan	PAM	?	Phosphorylation	10574929,19651622
-PRKACA_Homo sapiens	nan	nan	nan	nan	PLIN1	?	Phosphorylation	11751901
-MAPK1_Homo sapiens	nan	nan	nan	nan	PPARA	?	Phosphorylation	10187842
-MAPK3_Homo sapiens	nan	nan	nan	nan	PPARA	?	Phosphorylation	10187842
-PRKACA_Homo sapiens	nan	nan	nan	nan	PDC	?	Phosphorylation	2394752,11331285
-CAMK2A_Homo sapiens	nan	nan	nan	nan	PDC	?	Phosphorylation	11331285|2394752,11331285
-INSR_Homo sapiens	nan	nan	nan	nan	PIK3R1	?	Phosphorylation	8385099,14729945|8385099,16497976,17016520|8385099,17389395,17016520,20068231
-LCK_Homo sapiens	nan	nan	nan	nan	PIK3R1	?	Phosphorylation	9461588
-PRKCA_Homo sapiens	nan	nan	nan	nan	PFKFB2	?	Phosphorylation	1322130,18669648
-PRKAA2_Homo sapiens	nan	nan	nan	nan	PFKFB2	?	Phosphorylation	12853467,18669648,19413330,17924679,19651622,18767875,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	PFKFB2	?	Phosphorylation	12853467,18669648,19413330,17924679,19651622,18767875,20068231
-PRKAA1_Homo sapiens	nan	nan	nan	nan	PFKFB2	?	Phosphorylation	12853467,18669648,19413330,17924679,19651622,18767875,20068231
-AKT1_Homo sapiens	nan	nan	nan	nan	PFKFB2	?	Phosphorylation	12853467,18669648,19413330,17924679,19651622,18767875,20068231|12853467,18669648,19651622,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	GPI	?	Phosphorylation	11004567,15637053
-PRKACA_Homo sapiens	nan	nan	nan	nan	PLN	?	Phosphorylation	3759968,9468536
-LYN_Homo sapiens	nan	nan	nan	nan	PLCG1	?	Phosphorylation	8657103,1689310,7682059,15144186,17389395,16497976,17016520,20068231|8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	PLCG1	?	Phosphorylation	8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
-SYK_Homo sapiens	nan	nan	nan	nan	PLCG1	?	Phosphorylation	8657103,1689310,7682059,15144186,17389395,16497976,17016520,20068231|8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
-PRKD1_Homo sapiens	nan	nan	nan	nan	PLCG1	?	Phosphorylation	8885868,19651622,20068231
-EGFR_Homo sapiens	nan	nan	nan	nan	PLCG1	?	Phosphorylation	12601080,1689310,19901323|8657103,1689310,7682059,15144186,17389395,16497976,17016520,20068231|8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
-HCK_Homo sapiens	nan	nan	nan	nan	PLCG1	?	Phosphorylation	8885868,7682059,15144186,17389395,17016520,18707149,20068231|8657103,1689310,7682059,15144186,17389395,16497976,17016520,20068231|8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
-RET_Homo sapiens	nan	nan	nan	nan	PLCG1	?	Phosphorylation	8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
-PHKG1_Homo sapiens	nan	nan	nan	nan	PHKG1	?	Phosphorylation	7935360
-SRC_Homo sapiens	nan	nan	nan	nan	JUP	?	Phosphorylation	14517306
-FER_Homo sapiens	nan	nan	nan	nan	JUP	?	Phosphorylation	14517306
-FYN_Homo sapiens	nan	nan	nan	nan	JUP	?	Phosphorylation	14517306
-PDGFRB_Homo sapiens	nan	nan	nan	nan	PDGFRB	?	Phosphorylation	8195171|12062403|8617789|7935391|10391677|8940081|10821867
-SRC_Homo sapiens	nan	nan	nan	nan	ITGB3	?	Phosphorylation	11723131,18088087
-PDK1_Homo sapiens	nan	nan	nan	nan	ITGB3	?	Phosphorylation	10896934,18578522
-PDPK1_Homo sapiens	nan	nan	nan	nan	ITGB3	?	Phosphorylation	10896934,18578522
-AKT1_Homo sapiens	nan	nan	nan	nan	ITGB3	?	Phosphorylation	10896934,18578522
-PDGFRA_Homo sapiens	nan	nan	nan	nan	PDGFRA	?	Phosphorylation	7535778|7523122|9546424|10837138,7535778
-CSNK1E_Homo sapiens	nan	nan	nan	nan	APC	?	Phosphorylation	11487578|15327768
-PRKACA_Homo sapiens	nan	nan	nan	nan	APC	?	Phosphorylation	11050185
-GSK3B_Homo sapiens	nan	nan	nan	nan	APC	?	Phosphorylation	15327768
-PRKCA_Homo sapiens	nan	nan	nan	nan	KCNE1	?	Phosphorylation	1553557
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PSMA3	?	Phosphorylation	8619999,19415658,19651622,18767875,20068231
-EIF2AK2_Homo sapiens	nan	nan	nan	nan	EIF2AK2	?	Phosphorylation	9528799,8887659|9528799,8887659,20068231|11337501|16373505
-JAK1_Homo sapiens	nan	nan	nan	nan	EIF2AK2	?	Phosphorylation	17290288
-MAP2K1_Homo sapiens	nan	nan	nan	nan	MAP2K1	?	Phosphorylation	8226933
-MAPK1_Homo sapiens	nan	nan	nan	nan	MAP2K1	?	Phosphorylation	8157000,12594221
-ARAF_Homo sapiens	nan	nan	nan	nan	MAP2K1	?	Phosphorylation	8157000,8621729,8394352,7731720
-PAK1_Homo sapiens	nan	nan	nan	nan	MAP2K1	?	Phosphorylation	9351825
-CDK5_Homo sapiens	nan	nan	nan	nan	MAP2K1	?	Phosphorylation	11684694,18691976
-BRAF_Homo sapiens	nan	nan	nan	nan	MAP2K1	?	Phosphorylation	8157000,8621729,8394352,7731720
-RAF1_Homo sapiens	nan	nan	nan	nan	MAP2K1	?	Phosphorylation	8157000,8621729,8394352,7731720|8157000,8621729,8394352,7731720,10409742|11684694,18691976|8157000|8157000,18691976
-PDGFRB_Homo sapiens	nan	nan	nan	nan	PTPN11	?	Phosphorylation	8041791
-PRKCA_Homo sapiens	nan	nan	nan	nan	PTPN11	?	Phosphorylation	11781100
-PRKCB_Homo sapiens	nan	nan	nan	nan	PTPN11	?	Phosphorylation	11781100
-PRKCH_Homo sapiens	nan	nan	nan	nan	PTPN11	?	Phosphorylation	11781100
-LYN_Homo sapiens	nan	nan	nan	nan	PTPN6	?	Phosphorylation	12468540,8114715,8692915,10488096,10574931
-ABL1_Homo sapiens	nan	nan	nan	nan	PTPN6	?	Phosphorylation	7512963,16497976|12468540,8114715,8692915,10488096,10574931
-LCK_Homo sapiens	nan	nan	nan	nan	PTPN6	?	Phosphorylation	8114715|7512963,16497976|8114715,16497976
-INSR_Homo sapiens	nan	nan	nan	nan	PTPN6	?	Phosphorylation	7512963,16497976|8114715,16497976
-PRKCA_Homo sapiens	nan	nan	nan	nan	PTPN6	?	Phosphorylation	15269224
-PRKCD_Homo sapiens	nan	nan	nan	nan	PTPRA	?	Phosphorylation	11676480,11923305,19651622|11676480,11923305
-SRC_Homo sapiens	nan	nan	nan	nan	PTPRA	?	Phosphorylation	11923305,7518772,17389395,16497976,17016520,18578522,20068231
-CLK2_Homo sapiens	nan	nan	nan	nan	PTPN1	?	Phosphorylation	10480872|11579209,18691976
-CLK1_Homo sapiens	nan	nan	nan	nan	PTPN1	?	Phosphorylation	10480872|11579209,18691976
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PTPN1	?	Phosphorylation	9600099,18691976,20068231|9600099|8491187,9600099
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	PTPN1	?	Phosphorylation	9600099,18691976,20068231|9600099|8491187,9600099
-CDK1_Homo sapiens	nan	nan	nan	nan	PTPN1	?	Phosphorylation	8491187,9600099
-EGFR_Homo sapiens	nan	nan	nan	nan	PTPN1	?	Phosphorylation	11506178,9355745,11106648
-INSR_Homo sapiens	nan	nan	nan	nan	PTPN1	?	Phosphorylation	11506178,11106648|11506178,9355745
-AKT1_Homo sapiens	nan	nan	nan	nan	PTPN1	?	Phosphorylation	11579209,18691976
-MAPK1_Homo sapiens	nan	nan	nan	nan	PTPN7	?	Phosphorylation	10206983,18088087|10206983
-MAPK14_Homo sapiens	nan	nan	nan	nan	PTPN7	?	Phosphorylation	10206983,18088087|10206983
-PRKACA_Homo sapiens	nan	nan	nan	nan	PTPN7	?	Phosphorylation	10559944,20166139
-MAPK3_Homo sapiens	nan	nan	nan	nan	PTPN7	?	Phosphorylation	10206983,18088087|10206983
-PRKAR2A_Homo sapiens	nan	nan	nan	nan	PRKAR2A	?	Phosphorylation	6293815,18669648,19664995,18452278,20230923,20166139,20068231
-PRKAR2B_Homo sapiens	nan	nan	nan	nan	PRKAR2B	?	Phosphorylation	7479855,19664995,19651622,20166139
-JAK1_Homo sapiens	nan	nan	nan	nan	TYK2	?	Phosphorylation	8702790,19901323
-FER_Homo sapiens	nan	nan	nan	nan	FER	?	Phosphorylation	10998246,18691976,19901323|17192257,18691976,17389395|17192257,18691976,20068231
-EPHA8_Homo sapiens	nan	nan	nan	nan	EPHA8	?	Phosphorylation	10498895
-EPHA2_Homo sapiens	nan	nan	nan	nan	EPHA2	?	Phosphorylation	17192257,18669648,19415658,18691976,19651622,18578522,20058876|17192257,18669648,18691976,18578522|17192257,18669648,18691976,19651622,18578522|17192257,18669648,19415658,18691976,19651622,18578522,20068231,20058876|17192257,18669648,18691976
-ZAP70_Homo sapiens	nan	nan	nan	nan	ZAP70	?	Phosphorylation	7961936|7961936,15144186,19901323|10037717
-SHC1_Homo sapiens	nan	nan	nan	nan	ZAP70	?	Phosphorylation	7961936
-LCK_Homo sapiens	nan	nan	nan	nan	ZAP70	?	Phosphorylation	7961936|10318843|7961936,9685404|7961936,15144186
-MAPK1_Homo sapiens	nan	nan	nan	nan	MAPK1	?	Phosphorylation	1712480,1378617,91184134,18669648,19415658,18691976,17389395,19651622,19901323,20068231|16153436,18669648,19415658,18691976,17389395,19651622,16497976,17016520,18707149,19901323,18452278,18578522,20068231|1378617
-RAF1_Homo sapiens	nan	nan	nan	nan	MAPK1	?	Phosphorylation	15664191
-RET_Homo sapiens	nan	nan	nan	nan	MAPK1	?	Phosphorylation	16153436,18669648,19415658,18691976,17389395,19651622,16497976,17016520,18707149,19901323,18452278,18578522,20068231
-MAP2K1_Homo sapiens	nan	nan	nan	nan	MAPK1	?	Phosphorylation	16153436,18669648,19415658,18691976,17389395,19651622,16497976,17016520,18707149,19901323,18452278,18578522,20068231
-MAPK4_Homo sapiens	nan	nan	nan	nan	MAPK4	?	Phosphorylation	1319925
-PRKCZ_Homo sapiens	nan	nan	nan	nan	PRKCA	?	Phosphorylation	12162751,10339425,8856079,18691976,20068231
-SYK_Homo sapiens	nan	nan	nan	nan	PRKCA	?	Phosphorylation	12881490,20068231
-PRKCB_Homo sapiens	nan	nan	nan	nan	PRKCB	?	Phosphorylation	8327493
-PRKCE_Homo sapiens	nan	nan	nan	nan	PRKCE	?	Phosphorylation	16810323,18691976|11062054
-PDPK1_Homo sapiens	nan	nan	nan	nan	PRKCE	?	Phosphorylation	11062054,12640464,10945988
-LYN_Homo sapiens	nan	nan	nan	nan	PRKCD	?	Phosphorylation	10945993,7575560|7575560,10945993
-PRKCD_Homo sapiens	nan	nan	nan	nan	PRKCD	?	Phosphorylation	17322306,18669648,19651622,18691976,20166139,20068231
-PRKCZ_Homo sapiens	nan	nan	nan	nan	PRKCD	?	Phosphorylation	11381116,15302935,18669648,18691976,18452278,20068231,20058876|15302935,18669648,18691976,18452278,20068231,20058876
-PDPK1_Homo sapiens	nan	nan	nan	nan	PRKCD	?	Phosphorylation	11381116,9748166,18669648,19664995,20058876
-LCK_Homo sapiens	nan	nan	nan	nan	PRKCD	?	Phosphorylation	11381116,18691976,17389395,16497976,17016520|11381116,18691976|11381116
-PRKCZ_Homo sapiens	nan	nan	nan	nan	PRKCZ	?	Phosphorylation	9748166,18669648
-PDPK1_Homo sapiens	nan	nan	nan	nan	PRKCZ	?	Phosphorylation	11222751,9748166,14500673,10357815,18691976
-ROCK1_Homo sapiens	nan	nan	nan	nan	RDX	?	Phosphorylation	9456324,20068231|9456324
-PRKCA_Homo sapiens	nan	nan	nan	nan	RRAD	?	Phosphorylation	9677319|7876254,9677319
-PRKCB_Homo sapiens	nan	nan	nan	nan	RRAD	?	Phosphorylation	9677319|7876254,9677319
-PRKACA_Homo sapiens	nan	nan	nan	nan	RRAD	?	Phosphorylation	7876254,9677319
-CAMK2G_Homo sapiens	nan	nan	nan	nan	RRAD	?	Phosphorylation	7876254,9677319
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	RRAD	?	Phosphorylation	9677319|7876254,9677319
-CDK1_Homo sapiens	nan	nan	nan	nan	RAB4A	?	Phosphorylation	1425574
-CDK1_Homo sapiens	nan	nan	nan	nan	RAB5B	?	Phosphorylation	10403367
-PRKACA_Homo sapiens	nan	nan	nan	nan	RAP1A	?	Phosphorylation	9867809
-PRKACA_Homo sapiens	nan	nan	nan	nan	RAP1B	?	Phosphorylation	12089143
-FYN_Homo sapiens	nan	nan	nan	nan	PTPRF	?	Phosphorylation	12496362
-EPHA3_Homo sapiens	nan	nan	nan	nan	EPHA3	?	Phosphorylation	11870224
-ABL1_Homo sapiens	nan	nan	nan	nan	RAD51	?	Phosphorylation	10212258|9461559
-CHEK1_Homo sapiens	nan	nan	nan	nan	RAD51	?	Phosphorylation	15665856
-CDK1_Homo sapiens	nan	nan	nan	nan	RCC1	?	Phosphorylation	15014043
-PRKDC_Homo sapiens	nan	nan	nan	nan	RPA2	?	Phosphorylation	9295339,18669648|9295339
-CDK1_Homo sapiens	nan	nan	nan	nan	RPA2	?	Phosphorylation	9295339,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	RB1	?	Phosphorylation	1756735,18669648,19664995,19651622,19664994,20068231,20058876|1756735,18669648,20068231|1756735,19651622|1756735,18669648,19651622,20068231,20058876|1756735,18669648,19651622,20068231
-CDK2_Homo sapiens	nan	nan	nan	nan	RB1	?	Phosphorylation	10207050|10207050,20068231|10207050,18669648,20068231|9315635,9139732,8626527,18669648,19413330,19651622,19664994,20068231|1756735,18669648,19651622,20068231,20058876|1756735,18669648,19651622,20068231
-CDK4_Homo sapiens	nan	nan	nan	nan	RB1	?	Phosphorylation	9139732,18669648|9139732|9003781,11254678,16326706,19651622|9139732,19651622,19664994|9190208,19664994|9315635,9139732,8626527,18669648,19651622,19664994,20068231
-CCND2_Homo sapiens	nan	nan	nan	nan	RB1	?	Phosphorylation	9003781,11254678,16326706,19651622
-MAPK1_Homo sapiens	nan	nan	nan	nan	RXRA	?	Phosphorylation	12048211
-MAPK7_Homo sapiens	nan	nan	nan	nan	RXRA	?	Phosphorylation	12048211
-PRKCA_Homo sapiens	nan	nan	nan	nan	RHO	?	Phosphorylation	11498053,11910029,8617805,9099669|9099669
-GRK1_Homo sapiens	nan	nan	nan	nan	RHO	?	Phosphorylation	11498053,11910029,8617805,9099669|11498053,11910029,8617805
-GRK1_Homo sapiens	nan	nan	nan	nan	GRK1	?	Phosphorylation	1527025
-CDK1_Homo sapiens	nan	nan	nan	nan	RRM2	?	Phosphorylation	9990288,18669648,19413330,19415658,17924679,19664995,18767875,20058876
-PAK2_Homo sapiens	nan	nan	nan	nan	RPS6	?	Phosphorylation	17322306,18669648,17287340,18767875|17322306,18669648,17287340,19007248|1985906,18669648
-ADRBK1_Homo sapiens	nan	nan	nan	nan	RPLP2	?	Phosphorylation	14729942,12379128,16565220,18669648,18691976,18212344,19691289,18452278,20230923,20166139,20068231|14997482,12379128,16565220,18669648,18691976,18212344,19691289,18452278,20230923,20166139,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	DDX5	?	Phosphorylation	7525583
-PRKACA_Homo sapiens	nan	nan	nan	nan	RYR1	?	Phosphorylation	8380342,14532276
-CAMK2G_Homo sapiens	nan	nan	nan	nan	RYR1	?	Phosphorylation	8380342,14532276
-PRKG1_Homo sapiens	nan	nan	nan	nan	RYR1	?	Phosphorylation	8380342,14532276
-PRKACA_Homo sapiens	nan	nan	nan	nan	RYR2	?	Phosphorylation	10830164
-PRKCD_Homo sapiens	nan	nan	nan	nan	CYTH1	?	Phosphorylation	11438522
-CAMK2G_Homo sapiens	nan	nan	nan	nan	SPR	?	Phosphorylation	11825621
-MAPK1_Homo sapiens	nan	nan	nan	nan	SOS1	?	Phosphorylation	8816480
-PRKACA_Homo sapiens	nan	nan	nan	nan	SPTBN1	?	Phosphorylation	17088250,18669648,20166139,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SPTBN1	?	Phosphorylation	17088250,18669648,20166139,20068231|17088250,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	SPTAN1	?	Phosphorylation	11971983
-MAPK1_Homo sapiens	nan	nan	nan	nan	SREBF1	?	Phosphorylation	10915800,18669648
-MAPK3_Homo sapiens	nan	nan	nan	nan	SREBF1	?	Phosphorylation	10915800,18669648
-MAPK1_Homo sapiens	nan	nan	nan	nan	NR5A1	?	Phosphorylation	10230405
-EPHB4_Homo sapiens	nan	nan	nan	nan	SDC3	?	Phosphorylation	9388509
-DAPK1_Homo sapiens	nan	nan	nan	nan	STX1A	?	Phosphorylation	12730201
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	STX1A	?	Phosphorylation	10844023,9930733,18510355
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	STX1A	?	Phosphorylation	10844023,9930733,18510355
-ITK_Homo sapiens	nan	nan	nan	nan	CD28	?	Phosphorylation	8992971,19901323|8992971|8992971,15144186,19901323|8992971,15144186
-LCK_Homo sapiens	nan	nan	nan	nan	ITK	?	Phosphorylation	9312162,15144186
-ITK_Homo sapiens	nan	nan	nan	nan	ITK	?	Phosphorylation	17192257
-MAPK3_Homo sapiens	nan	nan	nan	nan	TAL1	?	Phosphorylation	8423803,19651622
-SRC_Homo sapiens	nan	nan	nan	nan	TERT	?	Phosphorylation	12808100
-AKT1_Homo sapiens	nan	nan	nan	nan	TERT	?	Phosphorylation	10224060
-CDK1_Homo sapiens	nan	nan	nan	nan	TK1	?	Phosphorylation	9575153,14697231,19413330,20068231
-CDK2_Homo sapiens	nan	nan	nan	nan	PRKAR1A	?	Phosphorylation	16582606,18669648,19413330,19562805,19415658,18691976,17287340,19007248,19651622,19664994,18767875,18707149,18452278,18212344,20166139,20068231,20058876|16582606
-CDK2_Homo sapiens	nan	nan	nan	nan	NFYA	?	Phosphorylation	12857729|12857729,18669648,20068231
-MAPK1_Homo sapiens	nan	nan	nan	nan	SP1	?	Phosphorylation	11904305
-MAPK3_Homo sapiens	nan	nan	nan	nan	SP1	?	Phosphorylation	11904305
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SP1	?	Phosphorylation	9153193
-MAPK1_Homo sapiens	nan	nan	nan	nan	CEBPB	?	Phosphorylation	8384717,19413330
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	CEBPB	?	Phosphorylation	10635333
-CAMK2A_Homo sapiens	nan	nan	nan	nan	CEBPB	?	Phosphorylation	1314426
-GTF2H1_Homo sapiens	nan	nan	nan	nan	E2F1	?	Phosphorylation	10428966
-CHEK2_Homo sapiens	nan	nan	nan	nan	E2F1	?	Phosphorylation	12717439
-ATM_Homo sapiens	nan	nan	nan	nan	E2F1	?	Phosphorylation	11459832
-ATR_Homo sapiens	nan	nan	nan	nan	E2F1	?	Phosphorylation	11459832
-CDK7_Homo sapiens	nan	nan	nan	nan	E2F1	?	Phosphorylation	10428966
-CDK1_Homo sapiens	nan	nan	nan	nan	E2F1	?	Phosphorylation	8087847
-ABL1_Homo sapiens	nan	nan	nan	nan	ABL1	?	Phosphorylation	12522270,16497976|12522270|17192257,18691976
-SRC_Homo sapiens	nan	nan	nan	nan	ABL1	?	Phosphorylation	11781820,18691976,16497976,19901323|12522270,16497976|12522270
-ATM_Homo sapiens	nan	nan	nan	nan	ABL1	?	Phosphorylation	9168116
-CDK1_Homo sapiens	nan	nan	nan	nan	ABL1	?	Phosphorylation	2183353,18669648,18691976,19651622,18452278
-MAPK1_Homo sapiens	nan	nan	nan	nan	MYB	?	Phosphorylation	8960373,19651622
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	MYB	?	Phosphorylation	11313925
-FES_Homo sapiens	nan	nan	nan	nan	FES	?	Phosphorylation	8663427
-MAPK8_Homo sapiens	nan	nan	nan	nan	MYC	?	Phosphorylation	1748630,10551811,18669648,19651622,20068231|10551811,18669648,18767875
-GSK3B_Homo sapiens	nan	nan	nan	nan	MYC	?	Phosphorylation	2663470,18669648,19651622,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	MYC	?	Phosphorylation	2663470,18669648,19651622,20068231
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	MYC	?	Phosphorylation	2663470,18669648,19651622,20068231
-FGR_Homo sapiens	nan	nan	nan	nan	SRC	?	Phosphorylation	12468645,12387813,7678701,9208935
-PRKCA_Homo sapiens	nan	nan	nan	nan	SRC	?	Phosphorylation	2996780
-SRC_Homo sapiens	nan	nan	nan	nan	SRC	?	Phosphorylation	9988270,17389395,19664994,17016520|9988270,14661060,15466214,17389395,19664994,17016520
-PRKACA_Homo sapiens	nan	nan	nan	nan	SRC	?	Phosphorylation	15546918,18088087,19651622,19664994,20166139
-CDK5_Homo sapiens	nan	nan	nan	nan	SRC	?	Phosphorylation	10544291,19415658,18691976
-CSK_Homo sapiens	nan	nan	nan	nan	SRC	?	Phosphorylation	12387813,7678701,9208935|12468645,12387813,7678701,9208935
-CDK5_Homo sapiens	nan	nan	nan	nan	ERBB3	?	Phosphorylation	12824184
-TGFBR2_Homo sapiens	nan	nan	nan	nan	TGFBR1	?	Phosphorylation	8576253
-TGFBR2_Homo sapiens	nan	nan	nan	nan	TGFBR2	?	Phosphorylation	9155023|9169454
-MAPK1_Homo sapiens	nan	nan	nan	nan	ZFP36	?	Phosphorylation	7768935,95286626
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	ZFP36	?	Phosphorylation	14688255,18669648|14688255
-PRKCA_Homo sapiens	nan	nan	nan	nan	TNNT2	?	Phosphorylation	2584239
-MAP3K5_Homo sapiens	nan	nan	nan	nan	TNNT2	?	Phosphorylation	12819028
-PRKACA_Homo sapiens	nan	nan	nan	nan	TPH1	?	Phosphorylation	9109552
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	TSC2	?	Phosphorylation	12582162
-AKT1_Homo sapiens	nan	nan	nan	nan	TSC2	?	Phosphorylation	12150915,15342917,19664994|12438239,15342917,16636147,18707149
-MAPK1_Homo sapiens	nan	nan	nan	nan	TSC2	?	Phosphorylation	15851026
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	TSC2	?	Phosphorylation	15342917,20068231
-SYK_Homo sapiens	nan	nan	nan	nan	TUBA4A	?	Phosphorylation	8617742
-TTBK1_Homo sapiens	nan	nan	nan	nan	TUBB	?	Phosphorylation	7556643
-PDIK1L_Homo sapiens	nan	nan	nan	nan	TNF	?	Phosphorylation	8597870
-EIF2AK2_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	10747897,10348343,10884347,19413330
-MAPK1_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	12091386,14965474|11409876,15116093
-PRKCA_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	9571186|1454855
-MAPK14_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	10747897,10348343,10884347,19413330
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	9765199|9765199,11875057
-CSNK1D_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	10606744
-PRKDC_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	9765199,11551930,11709713,10673501|10747897,11709713,11883897,10951572|11709713,11551930,10673501|11709713|11709713,10673501
-MAPK8_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	11283254
-VRK1_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	10747897,11709713,11883897,10951572
-PLK3_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	11709713,11551930,10673501,12242661,12548019
-CHEK1_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	9765199,11551930,11709713,10673501|11709713,11551930,10673501|11709713,10673501
-GSK3B_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	11483158,12064478
-HIPK2_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	11780126,11875057,16212962
-ATM_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	9765199,11551930,11709713,10673501,11875057,16906133,9843217,15159397,10864201|11709713,11551930,10673501,11875057|11709713|11709713,10673501|11780126,11875057|9765199,11875057
-ATR_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	9765199,11551930,11709713,10673501,16293623,15159397|10747897,11709713,11883897,10951572,11551930,10673501|11709713,11551930,10673501|11709713,10673501
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	10747897,11709713,11883897,10951572|10747897,10348343,10884347,19413330|12628923
-CSNK2B_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	10747897,11709713,11883897,10951572
-CDK2_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	10884347,12064478,19413330,17287340,19664995|10747897,10348343,10884347,19413330
-CDK5_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	10884347,12064478,19413330,17287340,19664995|11483158,12064478
-CDK9_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	16552184|10884347,12064478,19413330,17287340,19664995|10747897,10348343,10884347,19413330
-MAPKAPK5_Homo sapiens	nan	nan	nan	nan	TP53	?	Phosphorylation	17254968
-MAPK1_Homo sapiens	nan	nan	nan	nan	TNFRSF1A	?	Phosphorylation	11606045
-AKT1_Homo sapiens	nan	nan	nan	nan	MAP3K8	?	Phosphorylation	12138205
-PRKACA_Homo sapiens	nan	nan	nan	nan	TH	?	Phosphorylation	11359875
-CAMK2G_Homo sapiens	nan	nan	nan	nan	TH	?	Phosphorylation	6150037,11359875
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	TH	?	Phosphorylation	6150037,11359875,7901013|7901013|6150037,11359875
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	TH	?	Phosphorylation	12421349
-KDR_Homo sapiens	nan	nan	nan	nan	KDR	?	Phosphorylation	10579917|10579917,10368301
-SRC_Homo sapiens	nan	nan	nan	nan	DDR2	?	Phosphorylation	16186108
-NTRK1_Homo sapiens	nan	nan	nan	nan	NTRK1	?	Phosphorylation	11159935
-GSK3B_Homo sapiens	nan	nan	nan	nan	CDH1	?	Phosphorylation	10671552
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CDH1	?	Phosphorylation	10671552
-PRKACA_Homo sapiens	nan	nan	nan	nan	ITGA4	?	Phosphorylation	11533025,18707149,18578522,20166139
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	SLC18A2	?	Phosphorylation	9045708,18088087
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SLC18A2	?	Phosphorylation	9045708,18088087
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	SLC18A2	?	Phosphorylation	9045708,18088087
-SRC_Homo sapiens	nan	nan	nan	nan	VIL1	?	Phosphorylation	15342783
-PRKCA_Homo sapiens	nan	nan	nan	nan	VIM	?	Phosphorylation	2500966,20068231|2500966,18669648,17287340,19691289,20068231|11895474,2500966,17287340,20068231|2500966,18669648,18212344,20068231|11895474,2500966,18669648,17287340,19007248,19691289,18767875,20068231,20058876|2500966,18669648,19415658,19007248,19691289,20068231|2500966,18669648,19664995,18212344,20068231|2500966,19664995,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	VIM	?	Phosphorylation	2500966,18669648,17287340,19691289,20068231|11895474,2500966,18669648,17287340,19007248,19691289,18767875,20068231,20058876|2500966,18669648,17287340,20068231|2500966,18669648,19664995,18212344,20068231
-ROCK1_Homo sapiens	nan	nan	nan	nan	VIM	?	Phosphorylation	9565595,18669648,19007248,20166139,20068231
-PAK2_Homo sapiens	nan	nan	nan	nan	VIM	?	Phosphorylation	11895474,2500966,17287340,20068231|11895474,2500966,18669648,17287340,19007248,19691289,18767875,20068231,20058876|11895474,18669648,19007248,19664995,18212344,19691289,20068231|11895474,18669648,20068231|11895474,18669648,19007248,19651622,18578522,20166139,20068231
-CAMK2D_Homo sapiens	nan	nan	nan	nan	VIM	?	Phosphorylation	10852918,15345747,18669648,20166139,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	VIM	?	Phosphorylation	7983050,15345747,16565220,18669648,19413330,19415658,18691976,17287340,17924679,18491316,19007248,19664995,18212344,19651622,19691289,16964243,18707149,18767875,18578522,20068230,20068231,20058876
-PRKCA_Homo sapiens	nan	nan	nan	nan	VCL	?	Phosphorylation	11741957
-SRC_Homo sapiens	nan	nan	nan	nan	VCL	?	Phosphorylation	15229287
-PRKCA_Homo sapiens	nan	nan	nan	nan	VTN	?	Phosphorylation	9030777
-PRKCB_Homo sapiens	nan	nan	nan	nan	VTN	?	Phosphorylation	9030777
-PRKCG_Homo sapiens	nan	nan	nan	nan	VTN	?	Phosphorylation	9030777
-PRKACA_Homo sapiens	nan	nan	nan	nan	VTN	?	Phosphorylation	1706595
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	VTN	?	Phosphorylation	9733784
-BRSK1_Homo sapiens	nan	nan	nan	nan	WEE1	?	Phosphorylation	15150265
-PLK1_Homo sapiens	nan	nan	nan	nan	WEE1	?	Phosphorylation	15070733
-BRSK2_Homo sapiens	nan	nan	nan	nan	WEE1	?	Phosphorylation	15150265
-WEE1_Homo sapiens	nan	nan	nan	nan	WEE1	?	Phosphorylation	17192257,18691976,19651622
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	XRCC1	?	Phosphorylation	15066279,18452278
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	XRCC1	?	Phosphorylation	15367657,18452278|15066279,18452278
-PRKAA2_Homo sapiens	nan	nan	nan	nan	ACACA	?	Phosphorylation	11052978,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231|2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231|7907095,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231
-PRKAA1_Homo sapiens	nan	nan	nan	nan	ACACA	?	Phosphorylation	11052978,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231|7907095,2900138|2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231|7907095,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	ACACA	?	Phosphorylation	2900140,18669648,19413330,19415658,19664995,18212344,19651622,19664994,18767875,18691976,18452278,20166139,20068231
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	ACACA	?	Phosphorylation	2900140,18669648,19413330,19415658,19664995,18212344,19651622,19664994,18767875,18691976,18452278,20166139,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	C1R	?	Phosphorylation	8635594
-PRKACA_Homo sapiens	nan	nan	nan	nan	SI	?	Phosphorylation	8521865
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	F5	?	Phosphorylation	9525959,19824718
-ATM_Homo sapiens	nan	nan	nan	nan	FANCD2	?	Phosphorylation	12086603,20068231|12086603
-MRE11A_Homo sapiens	nan	nan	nan	nan	FANCD2	?	Phosphorylation	12447395
-ATR_Homo sapiens	nan	nan	nan	nan	XPA	?	Phosphorylation	16540648
-PRKDC_Homo sapiens	nan	nan	nan	nan	XPA	?	Phosphorylation	16540648
-ATM_Homo sapiens	nan	nan	nan	nan	XPA	?	Phosphorylation	16540648
-CAMK2G_Homo sapiens	nan	nan	nan	nan	FLNA	?	Phosphorylation	11290523
-AKT1_Homo sapiens	nan	nan	nan	nan	FOXO4	?	Phosphorylation	11313479,16272144|10217147,11313479,16272144|11689711|11313479,19664994
-AKT2_Homo sapiens	nan	nan	nan	nan	FOXO4	?	Phosphorylation	11313479,19664994
-ATM_Homo sapiens	nan	nan	nan	nan	SMC1A	?	Phosphorylation	15302935,18669648,18077418,18452278,20068231|11877377,9789013,18669648,18077418,18452278,20068231
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	RPS6KA3	?	Phosphorylation	17192257,18691976,20230923|17192257|17322306,18669648,18691976,19651622,20230923|17192257,18669648,18691976,17924679,19007248,19651622,19664994,20068231,20058876|17192257,18669648,18691976,19651622,18767875,20230923
-AKT1_Homo sapiens	nan	nan	nan	nan	XIAP	?	Phosphorylation	14645242
-AKT2_Homo sapiens	nan	nan	nan	nan	XIAP	?	Phosphorylation	14645242
-SRC_Homo sapiens	nan	nan	nan	nan	PRKCI	?	Phosphorylation	11713277
-ITK_Homo sapiens	nan	nan	nan	nan	BMX	?	Phosphorylation	12573241
-SRC_Homo sapiens	nan	nan	nan	nan	BMX	?	Phosphorylation	10688651
-BTK_Homo sapiens	nan	nan	nan	nan	BMX	?	Phosphorylation	12573241
-TEC_Homo sapiens	nan	nan	nan	nan	BMX	?	Phosphorylation	12573241
-PTK2_Homo sapiens	nan	nan	nan	nan	BMX	?	Phosphorylation	11331870
-CDK5_Homo sapiens	nan	nan	nan	nan	DCX	?	Phosphorylation	14741103|14741103,15345747
-PAK3_Homo sapiens	nan	nan	nan	nan	PAK3	?	Phosphorylation	11278486,16204230
-IKBKB_Homo sapiens	nan	nan	nan	nan	IKBKG	?	Phosphorylation	12657630|12657630,18691976
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PIN4	?	Phosphorylation	12860119
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	PIN4	?	Phosphorylation	12860119
-PRKACA_Homo sapiens	nan	nan	nan	nan	HDAC8	?	Phosphorylation	14701748
-IRAK1_Homo sapiens	nan	nan	nan	nan	IRAK1	?	Phosphorylation	11960013|12138165
-IRAK4_Homo sapiens	nan	nan	nan	nan	IRAK1	?	Phosphorylation	11960013
-AKT1_Homo sapiens	nan	nan	nan	nan	IRAK1	?	Phosphorylation	11976320
-LYN_Homo sapiens	nan	nan	nan	nan	BTK	?	Phosphorylation	11226282,11598012,8629002,8630736
-PRKCB_Homo sapiens	nan	nan	nan	nan	BTK	?	Phosphorylation	11598012
-ITK_Homo sapiens	nan	nan	nan	nan	BTK	?	Phosphorylation	12445832,8630736,11598012,8629002,12573241,16497976
-ABL1_Homo sapiens	nan	nan	nan	nan	BTK	?	Phosphorylation	12445832,8630736,11598012,8629002,12573241,16497976
-BTK_Homo sapiens	nan	nan	nan	nan	BTK	?	Phosphorylation	12445832,8630736,11598012,8629002,12573241,16497976
-SYK_Homo sapiens	nan	nan	nan	nan	BTK	?	Phosphorylation	11226282,11598012,8629002,8630736
-TEC_Homo sapiens	nan	nan	nan	nan	BTK	?	Phosphorylation	12445832,8630736,11598012,8629002,12573241,16497976
-BTK_Homo sapiens	nan	nan	nan	nan	WAS	?	Phosphorylation	12235133,10068673,12769846,9742969,18088087,16497976,19901323
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	WAS	?	Phosphorylation	12769847,18088087
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	WAS	?	Phosphorylation	12769847,18088087
-HCK_Homo sapiens	nan	nan	nan	nan	WAS	?	Phosphorylation	12235133,10068673,12769846,9742969,18088087,16497976,19901323
-PRKCA_Homo sapiens	nan	nan	nan	nan	GJB1	?	Phosphorylation	8390988
-PRKACA_Homo sapiens	nan	nan	nan	nan	GJB1	?	Phosphorylation	8390988
-AKT1_Homo sapiens	nan	nan	nan	nan	GATA1	?	Phosphorylation	16107690,8206977
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	L1CAM	?	Phosphorylation	8663493
-RPS6KA2_Homo sapiens	nan	nan	nan	nan	L1CAM	?	Phosphorylation	8663493
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	L1CAM	?	Phosphorylation	8592152|8592152,18669648,19651622,18452278,20068231
-PRKCQ_Homo sapiens	nan	nan	nan	nan	MSN	?	Phosphorylation	9516463,9856983
-ROCK1_Homo sapiens	nan	nan	nan	nan	MSN	?	Phosphorylation	9516463,9856983
-MAPK1_Homo sapiens	nan	nan	nan	nan	ELK1	?	Phosphorylation	15782123,12947314
-MAPK14_Homo sapiens	nan	nan	nan	nan	ELK1	?	Phosphorylation	9130707,8548291
-MAPK9_Homo sapiens	nan	nan	nan	nan	ELK1	?	Phosphorylation	9130707,8548291
-TAOK2_Homo sapiens	nan	nan	nan	nan	ELK1	?	Phosphorylation	12665513
-PRKACA_Homo sapiens	nan	nan	nan	nan	CDK16	?	Phosphorylation	12154078,18691976,19651622,20068231|17322306,18691976,19651622,18212344,20068231|12154078,18691976|17322306,18669648,18691976,19651622,18767875,18212344,20068231
-CDK5_Homo sapiens	nan	nan	nan	nan	CDK16	?	Phosphorylation	12084709,18691976
-CDK16_Homo sapiens	nan	nan	nan	nan	CDK16	?	Phosphorylation	17192257,18669648,19413330,18691976,18212344
-PHKA1_Homo sapiens	nan	nan	nan	nan	PHKA1	?	Phosphorylation	2108025,10487978|10487978|2108025,10487978,18669648
-PRKACA_Homo sapiens	nan	nan	nan	nan	PHKA1	?	Phosphorylation	2108025
-PDK1_Homo sapiens	nan	nan	nan	nan	PDHA1	?	Phosphorylation	15302935,19415658,18088087,18767875,18691976,18212344,20166139,20068231,20058876|12676647,11486000,11485553,19415658,18767875,18691976,18212344,20166139|12676647,11486000,11485553,19415658,18691976,18212344,20166139
-PDK2_Homo sapiens	nan	nan	nan	nan	PDHA1	?	Phosphorylation	12676647,11486000,11485553,19415658,18767875,18691976,18212344,20166139|12676647,11486000,11485553,19415658,18691976,18212344,20166139
-PDK3_Homo sapiens	nan	nan	nan	nan	PDHA1	?	Phosphorylation	15302935,19415658,18088087,18767875,18691976,18212344,20166139,20068231,20058876|12676647,11486000,11485553,19415658,18767875,18691976,18212344,20166139
-PDK4_Homo sapiens	nan	nan	nan	nan	PDHA1	?	Phosphorylation	12676647,11486000,11485553,19415658,18767875,18691976,18212344,20166139|12676647,11486000,11485553,19415658,18691976,18212344,20166139
-PRKCA_Homo sapiens	nan	nan	nan	nan	RPL10	?	Phosphorylation	9016777,12138090
-CDK1_Homo sapiens	nan	nan	nan	nan	UBE2A	?	Phosphorylation	11953320
-CDK2_Homo sapiens	nan	nan	nan	nan	UBE2A	?	Phosphorylation	11953320
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SHOX	?	Phosphorylation	16325853
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SAT1	?	Phosphorylation	8954982
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	SAT1	?	Phosphorylation	8954982
-PRKACA_Homo sapiens	nan	nan	nan	nan	SYN1	?	Phosphorylation	10571231,12237306
-CAMK2G_Homo sapiens	nan	nan	nan	nan	SYN1	?	Phosphorylation	3118371
-CAMK1_Homo sapiens	nan	nan	nan	nan	SYN1	?	Phosphorylation	10571231,12237306,9395448|10571231,12237306
-PAK2_Homo sapiens	nan	nan	nan	nan	SYN1	?	Phosphorylation	10571231,12237306
-CDK5_Homo sapiens	nan	nan	nan	nan	SYN1	?	Phosphorylation	8702879
-PAK3_Homo sapiens	nan	nan	nan	nan	SYN1	?	Phosphorylation	12237306
-PAK1_Homo sapiens	nan	nan	nan	nan	SYN1	?	Phosphorylation	12237306
-AKT1_Homo sapiens	nan	nan	nan	nan	AR	?	Phosphorylation	11404460|11156376,11404460
-MAPK1_Homo sapiens	nan	nan	nan	nan	AR	?	Phosphorylation	10318905
-CDK1_Homo sapiens	nan	nan	nan	nan	UBA1	?	Phosphorylation	7673335,20068231|7724583,18669648,19413330,19651622,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	CACNB2	?	Phosphorylation	10441130,10567342|10441130
-PRKACA_Homo sapiens	nan	nan	nan	nan	CIITA	?	Phosphorylation	11416140
-ADRBK2_Homo sapiens	nan	nan	nan	nan	OPRM1	?	Phosphorylation	11060299
-ADRBK1_Homo sapiens	nan	nan	nan	nan	OPRM1	?	Phosphorylation	12123746
-PRKACA_Homo sapiens	nan	nan	nan	nan	ABCA1	?	Phosphorylation	12196520
-MAP3K11_Homo sapiens	nan	nan	nan	nan	MAP3K11	?	Phosphorylation	11053428
-MAP4K1_Homo sapiens	nan	nan	nan	nan	MAP3K11	?	Phosphorylation	11053428
-AKT1_Homo sapiens	nan	nan	nan	nan	MAP3K11	?	Phosphorylation	12458207
-SRC_Homo sapiens	nan	nan	nan	nan	TXK	?	Phosphorylation	11353545
-TXK_Homo sapiens	nan	nan	nan	nan	TXK	?	Phosphorylation	12081135
-FYN_Homo sapiens	nan	nan	nan	nan	TXK	?	Phosphorylation	11353545
-PRKCA_Homo sapiens	nan	nan	nan	nan	ITGB2	?	Phosphorylation	11700305
-PRKCB_Homo sapiens	nan	nan	nan	nan	ITGB2	?	Phosphorylation	11700305
-PRKCD_Homo sapiens	nan	nan	nan	nan	ITGB2	?	Phosphorylation	11700305
-PRKCH_Homo sapiens	nan	nan	nan	nan	ITGB2	?	Phosphorylation	11700305
-PRKCA_Homo sapiens	nan	nan	nan	nan	PTPN12	?	Phosphorylation	7520867|7520867,18669648,19651622,18767875,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	PTPN12	?	Phosphorylation	7520867|7520867,18669648,19651622,18767875,20068231
-LYN_Homo sapiens	nan	nan	nan	nan	SYK	?	Phosphorylation	9820500
-SYK_Homo sapiens	nan	nan	nan	nan	SYK	?	Phosphorylation	9820500|9857068,17389395,16497976,17016520,20058876|8657103,16497976|8657103
-SGK1_Homo sapiens	nan	nan	nan	nan	SLC1A3	?	Phosphorylation	12911626
-PRKACA_Homo sapiens	nan	nan	nan	nan	PDE4B	?	Phosphorylation	12441002
-PRKACA_Homo sapiens	nan	nan	nan	nan	PDE4D	?	Phosphorylation	8663227|8663227,18212344,20068231
-PRKCD_Homo sapiens	nan	nan	nan	nan	CREBBP	?	Phosphorylation	11463380
-CAMK4_Homo sapiens	nan	nan	nan	nan	CREBBP	?	Phosphorylation	11970865
-MST1R_Homo sapiens	nan	nan	nan	nan	MST1R	?	Phosphorylation	10871856
-JAK3_Homo sapiens	nan	nan	nan	nan	JAK3	?	Phosphorylation	15121872|9391116,19901323
-ZAP70_Homo sapiens	nan	nan	nan	nan	DUSP3	?	Phosphorylation	12447358
-PLK1_Homo sapiens	nan	nan	nan	nan	BRCA2	?	Phosphorylation	12815053
-LYN_Homo sapiens	nan	nan	nan	nan	PLCG2	?	Phosphorylation	12181444,7682059,15144186|12181444,7682059,16497976,19901323
-BTK_Homo sapiens	nan	nan	nan	nan	PLCG2	?	Phosphorylation	11507089|11507089,16497976,19901323|12181444,7682059,16497976,19901323
-FYN_Homo sapiens	nan	nan	nan	nan	PLCG2	?	Phosphorylation	12181444,7682059,15144186|12181444,7682059,16497976,19901323
-HCK_Homo sapiens	nan	nan	nan	nan	PLCG2	?	Phosphorylation	12181444,7682059,15144186|12181444,7682059,16497976,19901323
-LCK_Homo sapiens	nan	nan	nan	nan	PLCG2	?	Phosphorylation	12181444,7682059,15144186|12181444,7682059,16497976,19901323
-TEK_Homo sapiens	nan	nan	nan	nan	TEK	?	Phosphorylation	10521483,9632797|11080633
-CAMK2G_Homo sapiens	nan	nan	nan	nan	PLCB3	?	Phosphorylation	15302935,18669648,19651622,20068231
-PRKG1_Homo sapiens	nan	nan	nan	nan	PLCB3	?	Phosphorylation	11278298,19651622|11278298
-PRKG2_Homo sapiens	nan	nan	nan	nan	PLCB3	?	Phosphorylation	11278298,19651622|11278298
-CAMK2B_Homo sapiens	nan	nan	nan	nan	PLCB3	?	Phosphorylation	15302935,18669648,19651622,20068231
-CDK2_Homo sapiens	nan	nan	nan	nan	HIRA	?	Phosphorylation	11238922,19413330|11238922,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	ELK3	?	Phosphorylation	11042694
-MAPK8_Homo sapiens	nan	nan	nan	nan	ELK3	?	Phosphorylation	11042694
-MAPK9_Homo sapiens	nan	nan	nan	nan	ELK3	?	Phosphorylation	11042694
-CDK2_Homo sapiens	nan	nan	nan	nan	COIL	?	Phosphorylation	11102515
-GSK3B_Homo sapiens	nan	nan	nan	nan	NOTCH2	?	Phosphorylation	12794074|15302935,18669648,20068231|12794074,18669648
-CDK2_Homo sapiens	nan	nan	nan	nan	ID3	?	Phosphorylation	9372912
-PRKACA_Homo sapiens	nan	nan	nan	nan	RAP1GAP	?	Phosphorylation	1406653|1406653,18669648
-CDK1_Homo sapiens	nan	nan	nan	nan	RAP1GAP	?	Phosphorylation	1406653,18669648,18767875,20068231
-PRKAA2_Homo sapiens	nan	nan	nan	nan	HNF4A	?	Phosphorylation	12740371
-MAPK14_Homo sapiens	nan	nan	nan	nan	HNF4A	?	Phosphorylation	16351573
-MAP2K6_Homo sapiens	nan	nan	nan	nan	MAPK14	?	Phosphorylation	17322306,18669648,18691976,19651622,18767875,20068231|16153436,18669648,18691976,18088087,19651622,16497976,17016520,19901323,18452278,20068231
-MAP2K3_Homo sapiens	nan	nan	nan	nan	MAPK14	?	Phosphorylation	17322306,18669648,18691976,19651622,18767875,20068231
-RET_Homo sapiens	nan	nan	nan	nan	MAPK14	?	Phosphorylation	16153436,18669648,18691976,18088087,19651622,16497976,17016520,19901323,18452278,20068231
-CAMK2G_Homo sapiens	nan	nan	nan	nan	ADCY3	?	Phosphorylation	8798667,9768837
-CDK2_Homo sapiens	nan	nan	nan	nan	CDX2	?	Phosphorylation	16027724
-GSK3B_Homo sapiens	nan	nan	nan	nan	CDX2	?	Phosphorylation	16027724
-MAPK14_Homo sapiens	nan	nan	nan	nan	CDX2	?	Phosphorylation	16027724
-HCK_Homo sapiens	nan	nan	nan	nan	RAPGEF1	?	Phosphorylation	14551197,12734187,10318861
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	AQP4	?	Phosphorylation	11742978
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	AQP4	?	Phosphorylation	11742978
-PRKCA_Homo sapiens	nan	nan	nan	nan	SNAP25	?	Phosphorylation	12459461
-PRKACA_Homo sapiens	nan	nan	nan	nan	SNAP25	?	Phosphorylation	12459461
-PLK1_Homo sapiens	nan	nan	nan	nan	MYT1	?	Phosphorylation	12738781
-CDK2_Homo sapiens	nan	nan	nan	nan	ID2	?	Phosphorylation	9029153
-PRKCD_Homo sapiens	nan	nan	nan	nan	MEP1B	?	Phosphorylation	12941954
-CDK1_Homo sapiens	nan	nan	nan	nan	FEN1	?	Phosphorylation	12853968
-DDR1_Homo sapiens	nan	nan	nan	nan	DDR1	?	Phosphorylation	9659899
-CDK1_Homo sapiens	nan	nan	nan	nan	AMPH	?	Phosphorylation	11113134
-CDK5_Homo sapiens	nan	nan	nan	nan	AMPH	?	Phosphorylation	11113134
-EGFR_Homo sapiens	nan	nan	nan	nan	VAV2	?	Phosphorylation	12454019,17389395,17016520|11516622,12454019|12454019
-INSR_Homo sapiens	nan	nan	nan	nan	FABP4	?	Phosphorylation	1648089,8463311
-LCK_Homo sapiens	nan	nan	nan	nan	PRKCQ	?	Phosphorylation	10652356
-PRKCQ_Homo sapiens	nan	nan	nan	nan	PRKCQ	?	Phosphorylation	16252004
-NTRK2_Homo sapiens	nan	nan	nan	nan	NTRK2	?	Phosphorylation	10533983
-PRKCA_Homo sapiens	nan	nan	nan	nan	NFATC1	?	Phosphorylation	9072970|12351631
-PRKCD_Homo sapiens	nan	nan	nan	nan	NFE2L2	?	Phosphorylation	12198130
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SUB1	?	Phosphorylation	7809103|7809103,18669648,20068231|7809103,18669648,19651622,20068231
-TAF1_Homo sapiens	nan	nan	nan	nan	GTF2A1	?	Phosphorylation	11278496|11278496,18452278
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	GTF2A1	?	Phosphorylation	11278496|11278496,18452278
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	GTF2A1	?	Phosphorylation	11278496|11278496,18452278
-PRKCA_Homo sapiens	nan	nan	nan	nan	DLX3	?	Phosphorylation	11343707
-PRKACA_Homo sapiens	nan	nan	nan	nan	ETV1	?	Phosphorylation	12569367,12917345,12213813,11551945|12569367,12213813
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	ETV1	?	Phosphorylation	12569367,12917345,12213813,11551945|12569367,12213813
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	ETV1	?	Phosphorylation	12569367
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	ETV1	?	Phosphorylation	11551945
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	NR4A3	?	Phosphorylation	16223362
-KIT_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	9355737
-TYK2_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327|7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
-PRKCD_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7543024,9355737,14963018,11972023,11839738,15322115,7690989,12637327,18669648,18691976,18452278,20068231,20058876
-CAMK2G_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7543024,9355737,14963018,11972023,11839738,15322115,7690989,12637327,18669648,18691976,18452278,20068231,20058876
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7543024,9355737,14963018,11972023,11839738,15322115,7690989,12637327,18669648,18691976,18452278,20068231,20058876
-EGFR_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327|7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
-FGFR3_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327|7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
-FGFR4_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327|7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
-JAK1_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327,10982844|7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
-JAK2_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327,11152457|7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
-LCK_Homo sapiens	nan	nan	nan	nan	STAT1	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327|7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
-JAK1_Homo sapiens	nan	nan	nan	nan	STAT2	?	Phosphorylation	9020188
-MAPK14_Homo sapiens	nan	nan	nan	nan	STAT4	?	Phosphorylation	10961885
-MAP2K6_Homo sapiens	nan	nan	nan	nan	STAT4	?	Phosphorylation	10961885
-SRC_Homo sapiens	nan	nan	nan	nan	SHC1	?	Phosphorylation	9685404,15688026,17389395,16497976,17016520,19901323,20068231|9685404,15688026,17389395,16497976,19901323,20068231|10482988,9710204,9388490,17389395,16497976,17016520,19901323,20068231|9710204,9388490,9096689,10482988,17389395,16497976,19901323,20068231
-SYK_Homo sapiens	nan	nan	nan	nan	SHC1	?	Phosphorylation	9685404,15688026,17389395,16497976,17016520,19901323,20068231|9685404,15688026,17389395,16497976,19901323,20068231|10482988,9710204,9388490,17389395,16497976,17016520,19901323,20068231|9710204,9388490,9096689,10482988,17389395,16497976,19901323,20068231
-FLT3_Homo sapiens	nan	nan	nan	nan	SHC1	?	Phosphorylation	10482988,9710204,9388490,17389395,16497976,17016520,19901323,20068231|9710204,9388490,9096689,10482988,17389395,16497976,19901323,20068231|12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231
-FYN_Homo sapiens	nan	nan	nan	nan	SHC1	?	Phosphorylation	12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231
-INSR_Homo sapiens	nan	nan	nan	nan	SHC1	?	Phosphorylation	12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231
-LCK_Homo sapiens	nan	nan	nan	nan	SHC1	?	Phosphorylation	12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	SHC1	?	Phosphorylation	12052829,18669648,19651622,17924679
-ZAP70_Homo sapiens	nan	nan	nan	nan	SHC1	?	Phosphorylation	9685404,15688026,17389395,16497976,17016520,19901323,20068231|9685404,15688026,17389395,16497976,19901323,20068231|12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231|10482988,9710204,9388490,17389395,16497976,17016520,19901323,20068231|9710204,9388490,9096689,10482988,17389395,16497976,19901323,20068231
-TEC_Homo sapiens	nan	nan	nan	nan	TEC	?	Phosphorylation	12573241
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	NKX2-5	?	Phosphorylation	9858576
-PRKDC_Homo sapiens	nan	nan	nan	nan	SRF	?	Phosphorylation	8407951
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	SRF	?	Phosphorylation	10753652,8413226,10318869
-CAMK2A_Homo sapiens	nan	nan	nan	nan	SRF	?	Phosphorylation	10753652,8413226,10318869|10753652
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	SRF	?	Phosphorylation	10753652,8413226,10318869,12171911
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SRF	?	Phosphorylation	1740119,2046671,18669648
-EPHB1_Homo sapiens	nan	nan	nan	nan	EPHB1	?	Phosphorylation	10669731,17389395|8798570
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	EEF1B2	?	Phosphorylation	14729942,15302935,8547318,15345747,18669648,19413330,19415658,17287340,18491316,19664995,19651622,19664994,17693683,18452278,18212344,20230923,20166139,20068231,20058876|8547318,18669648,19413330,19415658,20068231
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	EEF1B2	?	Phosphorylation	14729942,15302935,8547318,15345747,18669648,19413330,19415658,17287340,18491316,19664995,19651622,19664994,17693683,18452278,18212344,20230923,20166139,20068231,20058876|8547318,18669648,19413330,19415658,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	MEF2A	?	Phosphorylation	9858528,10849446|10849446,9858528|9858528
-MAPK7_Homo sapiens	nan	nan	nan	nan	MEF2A	?	Phosphorylation	9858528,10849446|10849446,9858528|10849446
-CDK5_Homo sapiens	nan	nan	nan	nan	MEF2A	?	Phosphorylation	12691662
-MAPK14_Homo sapiens	nan	nan	nan	nan	MEF2C	?	Phosphorylation	10805738|9069290
-MAPK7_Homo sapiens	nan	nan	nan	nan	MEF2C	?	Phosphorylation	9384584
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	MEF2C	?	Phosphorylation	8663403
-CDK1_Homo sapiens	nan	nan	nan	nan	MEF2C	?	Phosphorylation	16478538
-CCNB1_Homo sapiens	nan	nan	nan	nan	MEF2C	?	Phosphorylation	16478538
-MAPK7_Homo sapiens	nan	nan	nan	nan	MEF2D	?	Phosphorylation	10849446,18669648,18767875,18691976,20068231
-MAP3K14_Homo sapiens	nan	nan	nan	nan	CHUK	?	Phosphorylation	9819420,9520446,16286467|9819420,16286467
-AKT1_Homo sapiens	nan	nan	nan	nan	CHUK	?	Phosphorylation	10485710
-AKT2_Homo sapiens	nan	nan	nan	nan	CHUK	?	Phosphorylation	12048203
-PRKCQ_Homo sapiens	nan	nan	nan	nan	CHUK	?	Phosphorylation	17363905
-MAPK1_Homo sapiens	nan	nan	nan	nan	UBTF	?	Phosphorylation	11741541|11741541,18669648,19007248,20068231
-MAPK3_Homo sapiens	nan	nan	nan	nan	UBTF	?	Phosphorylation	11741541|11741541,18669648,19007248,20068231
-CDK2_Homo sapiens	nan	nan	nan	nan	UBTF	?	Phosphorylation	11698641|10202152,18669648,19413330,17287340,19007248,19651622,19691289,18452278,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	PTBP1	?	Phosphorylation	12851456,18669648
-PRKCD_Homo sapiens	nan	nan	nan	nan	IL6ST	?	Phosphorylation	12361954
-CDK1_Homo sapiens	nan	nan	nan	nan	HMGA2	?	Phosphorylation	10636877,19413330,19664994,18707149|10636877
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HMGA1	?	Phosphorylation	2806554,19413330,19415658,18491316,19651622,18452278,20166139,20068231,20187088|2806554,19415658,19651622,18452278,20166139,20068231
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	HMGA1	?	Phosphorylation	2806554,19413330,19415658,18491316,19651622,18452278,20166139,20068231,20187088|2806554,19415658,19651622,18452278,20166139,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	HMGA1	?	Phosphorylation	1939057,18669648,19413330,19664995,17924679,20068231|1939057|1939057,18669648,19413330,17924679,20068230,20068231
-PRKCD_Homo sapiens	nan	nan	nan	nan	HNRNPK	?	Phosphorylation	10329716
-SRC_Homo sapiens	nan	nan	nan	nan	HNRNPK	?	Phosphorylation	12052863
-MAPK10_Homo sapiens	nan	nan	nan	nan	HNRNPK	?	Phosphorylation	15302935,19413330,19415658,18691976,17287340,19664995,19651622,19664994,18767875,18452278,16964243,20166139,20068231|17322306,18669648,19413330,19415658,18691976,17924679,19664995,18212344,19651622,19664994,16964243,18452278,18767875,20230923,20068231|11259409,11231586
-MAPK1_Homo sapiens	nan	nan	nan	nan	DUSP1	?	Phosphorylation	10617468|16286470
-MAPK3_Homo sapiens	nan	nan	nan	nan	DUSP1	?	Phosphorylation	10617468
-PRKACA_Homo sapiens	nan	nan	nan	nan	SYN2	?	Phosphorylation	10571231
-SRC_Homo sapiens	nan	nan	nan	nan	PTK2	?	Phosphorylation	7529876|7529876,9507031,17389395,19664994,17016520,20068231|7529876,9507031,20068231|11927607,8941336,7529876|8816475,7997267|11927607,8941336
-PTK2_Homo sapiens	nan	nan	nan	nan	PTK2	?	Phosphorylation	7529876,11314030,7509446,12370821,17016520,20068231|8816475,7997267|17192257
-INSR_Homo sapiens	nan	nan	nan	nan	PTK2	?	Phosphorylation	7529876,9507031,17389395,19664994,17016520,20068231|7529876,9507031,20068231
-CRK_Homo sapiens	nan	nan	nan	nan	PTK2	?	Phosphorylation	7529876,11314030,7509446,12370821,17016520,20068231
-RET_Homo sapiens	nan	nan	nan	nan	PTK2	?	Phosphorylation	7529876,9507031,17389395,19664994,17016520,20068231|7529876,9507031,20068231
-PTK2B_Homo sapiens	nan	nan	nan	nan	PTK2	?	Phosphorylation	16760434
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	PSEN2	?	Phosphorylation	8972483|8972483,20068231
-CSNK1D_Homo sapiens	nan	nan	nan	nan	PSEN2	?	Phosphorylation	8972483,20068231|9990034,9558331|9558331|8972483
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PSEN2	?	Phosphorylation	8972483|8972483,20068231|9990034,9558331|9558331
-MAPK1_Homo sapiens	nan	nan	nan	nan	SCNN1G	?	Phosphorylation	11805112
-CDK2_Homo sapiens	nan	nan	nan	nan	CDKN1B	?	Phosphorylation	9192873,17254966
-AKT1_Homo sapiens	nan	nan	nan	nan	CDKN1B	?	Phosphorylation	12244301
-LYN_Homo sapiens	nan	nan	nan	nan	CDKN1B	?	Phosphorylation	17254966
-ABL1_Homo sapiens	nan	nan	nan	nan	CDKN1B	?	Phosphorylation	17254966
-SRC_Homo sapiens	nan	nan	nan	nan	CDKN1B	?	Phosphorylation	17254967
-YES1_Homo sapiens	nan	nan	nan	nan	CDKN1B	?	Phosphorylation	17254967
-INSR_Homo sapiens	nan	nan	nan	nan	IRS2	?	Phosphorylation	9195949|9195949,19901323
-FYN_Homo sapiens	nan	nan	nan	nan	CNN1	?	Phosphorylation	15206927
-ATM_Homo sapiens	nan	nan	nan	nan	MRE11A	?	Phosphorylation	10608806
-PRKCD_Homo sapiens	nan	nan	nan	nan	TAGLN	?	Phosphorylation	11053353,18212344,20166139
-SRC_Homo sapiens	nan	nan	nan	nan	INPPL1	?	Phosphorylation	12235291,17389395,16497976,19901323,18669648|12235291,16497976
-DAPK1_Homo sapiens	nan	nan	nan	nan	DAPK1	?	Phosphorylation	11579085
-MAPK1_Homo sapiens	nan	nan	nan	nan	DAPK1	?	Phosphorylation	15616583
-PRKG1_Homo sapiens	nan	nan	nan	nan	RGS2	?	Phosphorylation	14608379
-CSNK1E_Homo sapiens	nan	nan	nan	nan	CSNK1E	?	Phosphorylation	10542239,18691976|10542239
-GRK6_Homo sapiens	nan	nan	nan	nan	GRK6	?	Phosphorylation	10334944,18669648,18691976|10334944,18669648
-GRK5_Homo sapiens	nan	nan	nan	nan	GRK5	?	Phosphorylation	8144599,18669648,19651622,20068231|8144599,18669648,19651622
-PRKDC_Homo sapiens	nan	nan	nan	nan	PRKDC	?	Phosphorylation	12186630,16565220,18077418,19651622,18691976|12186630,16565220,19415658,18077418,19651622|12186630|12186630,16565220,18077418|15302935,18669648,18452278,18691976,20068231
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	PPP1R3A	?	Phosphorylation	10648825
-CAMK2G_Homo sapiens	nan	nan	nan	nan	MYLK	?	Phosphorylation	10748018,2160950,18088087
-PAK1_Homo sapiens	nan	nan	nan	nan	MYLK	?	Phosphorylation	10092231
-PAK2_Homo sapiens	nan	nan	nan	nan	MYLK	?	Phosphorylation	10748018|10748018,2160950,18088087
-PRKACA_Homo sapiens	nan	nan	nan	nan	AANAT	?	Phosphorylation	11336675
-ATM_Homo sapiens	nan	nan	nan	nan	TERF1	?	Phosphorylation	11375976
-PAK3_Homo sapiens	nan	nan	nan	nan	MYO6	?	Phosphorylation	11517222,20068231
-MAPK1_Homo sapiens	nan	nan	nan	nan	SMAD4	?	Phosphorylation	12801888
-EPHB2_Homo sapiens	nan	nan	nan	nan	EPHB2	?	Phosphorylation	10572014,9233798,9632142,17016520|17192257,18691976,18578522,20058876|17192257,18578522
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	MAZ	?	Phosphorylation	10448092
-CAMK2A_Homo sapiens	nan	nan	nan	nan	DLG1	?	Phosphorylation	12933808
-MAPK12_Homo sapiens	nan	nan	nan	nan	SNTA1	?	Phosphorylation	10212242,18669648,19413330|10212242,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	SLC6A9	?	Phosphorylation	7595479
-PKN1_Homo sapiens	nan	nan	nan	nan	PKN1	?	Phosphorylation	10792047|10467162
-PDPK1_Homo sapiens	nan	nan	nan	nan	PKN1	?	Phosphorylation	10792047,10753910,18669648|10792047,18669648
-EGFR_Homo sapiens	nan	nan	nan	nan	CTNND1	?	Phosphorylation	14996911,17389395,17016520,20068231
-GSK3B_Homo sapiens	nan	nan	nan	nan	CTNND1	?	Phosphorylation	12885254,18212344,20166139|12885254
-SRC_Homo sapiens	nan	nan	nan	nan	CTNND1	?	Phosphorylation	11382764,17016520|11382764|14996911,17389395,17016520,20068231|11382764,17389395,17016520,18707149|11382764,17389395,17016520|11382764,17016520,20068231|11382764,18669648,17016520,20068231|11382764,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	CAV1	?	Phosphorylation	8632005,17389395,17016520,18707149,18578522
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CAV1	?	Phosphorylation	8058322
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	CAV1	?	Phosphorylation	8058322
-SRC_Homo sapiens	nan	nan	nan	nan	CAV2	?	Phosphorylation	12091389,18669648,20068231
-SYK_Homo sapiens	nan	nan	nan	nan	IL15RA	?	Phosphorylation	11714793
-PRKACA_Homo sapiens	nan	nan	nan	nan	THOP1	?	Phosphorylation	10969067
-SRC_Homo sapiens	nan	nan	nan	nan	CDH5	?	Phosphorylation	16027153
-MAPK9_Homo sapiens	nan	nan	nan	nan	H3F3A	?	Phosphorylation	11278789,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	FHIT	?	Phosphorylation	15835917
-MAP2K4_Homo sapiens	nan	nan	nan	nan	MAPK8	?	Phosphorylation	16153436,18669648
-MAP2K7_Homo sapiens	nan	nan	nan	nan	MAPK8	?	Phosphorylation	11062067,18669648,18691976
-RET_Homo sapiens	nan	nan	nan	nan	MAPK8	?	Phosphorylation	16153436,18669648
-PRKG1_Homo sapiens	nan	nan	nan	nan	CRIP2	?	Phosphorylation	10681529
-PRKCA_Homo sapiens	nan	nan	nan	nan	CASR	?	Phosphorylation	9694886
-PRKCB_Homo sapiens	nan	nan	nan	nan	CASR	?	Phosphorylation	9694886,12356761
-PRKCG_Homo sapiens	nan	nan	nan	nan	CASR	?	Phosphorylation	9694886
-PTPN11_Homo sapiens	nan	nan	nan	nan	PTK2B	?	Phosphorylation	10880513
-PTK2B_Homo sapiens	nan	nan	nan	nan	PTK2B	?	Phosphorylation	9560226,17684059,17205062|11337490,17016520|11337490,17389395,17016520|9560226|9560226,17684059|17192257,18691976,18088087,19651622,20058876|17192257
-MTOR_Homo sapiens	nan	nan	nan	nan	MTOR	?	Phosphorylation	10702316,18669648
-AKT1_Homo sapiens	nan	nan	nan	nan	MTOR	?	Phosphorylation	10910062,14970221|10910062,19664994,18691976
-RPS6KB1_Homo sapiens	nan	nan	nan	nan	MTOR	?	Phosphorylation	10910062,19664994,18691976
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	MTOR	?	Phosphorylation	15905173|10910062,19664994,18691976
-PRKAA1_Homo sapiens	nan	nan	nan	nan	MTOR	?	Phosphorylation	14970221
-PRKCB_Homo sapiens	nan	nan	nan	nan	DAB2	?	Phosphorylation	10542228
-PRKCD_Homo sapiens	nan	nan	nan	nan	DAB2	?	Phosphorylation	10542228
-PRKCG_Homo sapiens	nan	nan	nan	nan	DAB2	?	Phosphorylation	10542228
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HDAC1	?	Phosphorylation	11602581,18669648,19413330,19415658,17287340,19651622,18452278,18767875,20166139,20068231
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	HDAC1	?	Phosphorylation	11602581,18669648,19413330,19415658,17287340,19651622,18452278,18767875,20166139,20068231
-MAP2K2_Homo sapiens	nan	nan	nan	nan	MAP2K2	?	Phosphorylation	17192257|17192257,18669648,20068231|17322306,18669648,18691976,18088087,19651622,16964243,20166139,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	DUT	?	Phosphorylation	8631817,20068231|8631817,19415658,19664995,18212344,19651622,20068231
-JAK2_Homo sapiens	nan	nan	nan	nan	CCR2	?	Phosphorylation	9670957
-PRKCA_Homo sapiens	nan	nan	nan	nan	GPM6A	?	Phosphorylation	12359212
-CDK1_Homo sapiens	nan	nan	nan	nan	PLEC1	?	Phosphorylation	8626512
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	YWHAZ	?	Phosphorylation	9360956,19415658,18077418,19651622,18691976,18452278,20068231
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	YWHAZ	?	Phosphorylation	12861023
-PRKCD_Homo sapiens	nan	nan	nan	nan	YWHAZ	?	Phosphorylation	9705322
-AKT1_Homo sapiens	nan	nan	nan	nan	YWHAZ	?	Phosphorylation	11956222
-MAPK8_Homo sapiens	nan	nan	nan	nan	YWHAZ	?	Phosphorylation	15696159
-STK25_Homo sapiens	nan	nan	nan	nan	YWHAZ	?	Phosphorylation	15037601
-PRKCZ_Homo sapiens	nan	nan	nan	nan	YWHAB	?	Phosphorylation	10620507
-FGR_Homo sapiens	nan	nan	nan	nan	HCLS1	?	Phosphorylation	10066823
-LYN_Homo sapiens	nan	nan	nan	nan	HCLS1	?	Phosphorylation	10066823|9104825
-SYK_Homo sapiens	nan	nan	nan	nan	HCLS1	?	Phosphorylation	9104825
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HCLS1	?	Phosphorylation	10806407
-PRKACA_Homo sapiens	nan	nan	nan	nan	HNRNPD	?	Phosphorylation	12819195,11903055,17287340,19651622
-GSK3B_Homo sapiens	nan	nan	nan	nan	HNRNPD	?	Phosphorylation	12819195,11903055,18669648,19413330,19415658,17287340,18212344,19651622,18452278,18691976,20068230,20166139,20068231
-ROCK1_Homo sapiens	nan	nan	nan	nan	LIMK1	?	Phosphorylation	10652353,11340065,10559936
-PAK1_Homo sapiens	nan	nan	nan	nan	LIMK1	?	Phosphorylation	10652353,11340065,10559936
-CDC42BPA_Homo sapiens	nan	nan	nan	nan	LIMK1	?	Phosphorylation	10652353,11340065,10559936
-LIMK1_Homo sapiens	nan	nan	nan	nan	LIMK1	?	Phosphorylation	17192257,19413330,18691976|17192257,18669648,19413330,19664994,18707149,18691976
-MAP2K4_Homo sapiens	nan	nan	nan	nan	MAP2K4	?	Phosphorylation	9162092
-AKT1_Homo sapiens	nan	nan	nan	nan	MAP2K4	?	Phosphorylation	11707464
-TGFBR1_Homo sapiens	nan	nan	nan	nan	SMAD2	?	Phosphorylation	9892009|9892009,9346908
-ACVR1B_Homo sapiens	nan	nan	nan	nan	SMAD2	?	Phosphorylation	9892009
-MAPK3_Homo sapiens	nan	nan	nan	nan	SMAD2	?	Phosphorylation	12193595,11027280,19413330,18691976,18491316,19651622,20068231
-CAMK2A_Homo sapiens	nan	nan	nan	nan	SMAD2	?	Phosphorylation	11027280
-MAPK1_Homo sapiens	nan	nan	nan	nan	SMAD2	?	Phosphorylation	10197981
-ADRBK2_Homo sapiens	nan	nan	nan	nan	CCR5	?	Phosphorylation	10085131
-CDK1_Homo sapiens	nan	nan	nan	nan	KAT5	?	Phosphorylation	12468530,18669648
-CCNB1_Homo sapiens	nan	nan	nan	nan	KAT5	?	Phosphorylation	12468530,18669648
-CDK2_Homo sapiens	nan	nan	nan	nan	MYBL2	?	Phosphorylation	10593981,20068231|10593981|10095772|9840932|10095772,10593981
-PRKCA_Homo sapiens	nan	nan	nan	nan	DGKZ	?	Phosphorylation	9716136
-LIMK1_Homo sapiens	nan	nan	nan	nan	CFL1	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
-TESK1_Homo sapiens	nan	nan	nan	nan	CFL1	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
-LIMK2_Homo sapiens	nan	nan	nan	nan	CFL1	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
-TESK2_Homo sapiens	nan	nan	nan	nan	CFL1	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
-NRK_Homo sapiens	nan	nan	nan	nan	CFL1	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
-LIMK1_Homo sapiens	nan	nan	nan	nan	CFL2	?	Phosphorylation	9655398,12684437,8824278,19413330,19651622,20068231
-MAPK1_Homo sapiens	nan	nan	nan	nan	PPARG	?	Phosphorylation	9030579
-MAPK8_Homo sapiens	nan	nan	nan	nan	PPARG	?	Phosphorylation	9030579
-PRKCD_Homo sapiens	nan	nan	nan	nan	NCF4	?	Phosphorylation	9804763
-BTK_Homo sapiens	nan	nan	nan	nan	STAT5A	?	Phosphorylation	8617237,7925280,11413148,17389395,16497976,17016520
-JAK2_Homo sapiens	nan	nan	nan	nan	STAT5A	?	Phosphorylation	8617237,7925280,11413148,17389395,16497976,17016520
-PRKG1_Homo sapiens	nan	nan	nan	nan	SF1	?	Phosphorylation	10449420,17287340
-SRC_Homo sapiens	nan	nan	nan	nan	GRB10	?	Phosphorylation	10871840
-FYN_Homo sapiens	nan	nan	nan	nan	GRB10	?	Phosphorylation	10871840
-MAPK1_Homo sapiens	nan	nan	nan	nan	GRB10	?	Phosphorylation	15952796|15952796,18669648,20068231|15952796,18669648
-GRK6_Homo sapiens	nan	nan	nan	nan	LTB4R	?	Phosphorylation	12077128,20058876
-NUAK1_Homo sapiens	nan	nan	nan	nan	CASP6	?	Phosphorylation	15273717
-AKT1_Homo sapiens	nan	nan	nan	nan	ATXN1	?	Phosphorylation	12757707,12741986
-PRKCA_Homo sapiens	nan	nan	nan	nan	ADD3	?	Phosphorylation	11895774,18669648,19651622,18452278,20166139,20068231
-AKT1_Homo sapiens	nan	nan	nan	nan	EZH2	?	Phosphorylation	16224021
-TGFBR1_Homo sapiens	nan	nan	nan	nan	SMAD1	?	Phosphorylation	9748228,9136927,10085121|9748228,9136927,10085121,19651622
-ACVR1_Homo sapiens	nan	nan	nan	nan	SMAD1	?	Phosphorylation	9748228,9136927,10085121,19651622|9748228,9136927,10085121
-MAPK1_Homo sapiens	nan	nan	nan	nan	SMAD1	?	Phosphorylation	9335504
-ZAP70_Homo sapiens	nan	nan	nan	nan	LCP2	?	Phosphorylation	8702662,9047237,10660534|8702662
-TXK_Homo sapiens	nan	nan	nan	nan	LCP2	?	Phosphorylation	8702662,9047237,10660534
-LCK_Homo sapiens	nan	nan	nan	nan	LCP2	?	Phosphorylation	8702662
-EIF2AK2_Homo sapiens	nan	nan	nan	nan	PPP2R5A	?	Phosphorylation	10866685
-SRC_Homo sapiens	nan	nan	nan	nan	GTF2I	?	Phosphorylation	9837922,9012831,11373296,11313464,11934902|11934902
-BTK_Homo sapiens	nan	nan	nan	nan	GTF2I	?	Phosphorylation	9837922,9012831,11373296,11313464,11934902|11373296|11373296,20068231
-PRKG1_Homo sapiens	nan	nan	nan	nan	GTF2I	?	Phosphorylation	12082086|12082086,19651622,20068231
-JAK2_Homo sapiens	nan	nan	nan	nan	GTF2I	?	Phosphorylation	9837922,9012831,11373296,11313464,11934902
-MAPK1_Homo sapiens	nan	nan	nan	nan	RPS6KA1	?	Phosphorylation	9430688,18669648,18691976,18212344,19651622,20068231|9430688,12618428,18669648,18691976,19651622,20068231
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	RPS6KA1	?	Phosphorylation	9430688,12618428,10648825,18669648,18691976,19651622,20068231|17192257,20068231|17192257,18669648
-PDPK1_Homo sapiens	nan	nan	nan	nan	RPS6KA1	?	Phosphorylation	10480933,9430688,18767875,20058876
-RPS6KA2_Homo sapiens	nan	nan	nan	nan	RPS6KA2	?	Phosphorylation	17192257
-PRKACA_Homo sapiens	nan	nan	nan	nan	VASP	?	Phosphorylation	12576312,20058876|12576312,17287340,20166139|8182057
-PRKG1_Homo sapiens	nan	nan	nan	nan	VASP	?	Phosphorylation	12576312,20058876|8182057|12576312,17287340,20166139
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	EIF5	?	Phosphorylation	11861906,18669648,19413330,19415658,18691976,17287340,19651622,18452278,20068231|11861906
-CSNK2B_Homo sapiens	nan	nan	nan	nan	EIF5	?	Phosphorylation	11861906|11861906,18669648,19413330,19415658,18691976,17287340,19651622,18452278,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	GMFB	?	Phosphorylation	9030586
-PRKACA_Homo sapiens	nan	nan	nan	nan	GMFB	?	Phosphorylation	9030586
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	GMFB	?	Phosphorylation	9030586
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	GMFB	?	Phosphorylation	9030586,7598724
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PTEN	?	Phosphorylation	12297295
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	PTEN	?	Phosphorylation	12297295
-AKT1_Homo sapiens	nan	nan	nan	nan	PTEN	?	Phosphorylation	12077256,10866658|12077256,12297295
-STK11_Homo sapiens	nan	nan	nan	nan	PTEN	?	Phosphorylation	15987703
-PRKACA_Homo sapiens	nan	nan	nan	nan	CUL5	?	Phosphorylation	10898738
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	VDR	?	Phosphorylation	8622969
-ATM_Homo sapiens	nan	nan	nan	nan	H2AFX	?	Phosphorylation	9488723,11893489,11571274,20068231
-TESK1_Homo sapiens	nan	nan	nan	nan	TESK1	?	Phosphorylation	10207045
-CDK5_Homo sapiens	nan	nan	nan	nan	PPP1R2	?	Phosphorylation	11320080
-GSK3B_Homo sapiens	nan	nan	nan	nan	PPP1R2	?	Phosphorylation	12761178,11320080
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PPP1R2	?	Phosphorylation	8288648,19415658,17287340,18491316,18088087,18212344,19651622,20166139,20068231|8288648,19415658,17287340,18491316,18088087,18212344,19651622,18767875,20166139,20068231|8288648,18669648,18491316
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	PPP1R2	?	Phosphorylation	8288648,19415658,17287340,18491316,18088087,18212344,19651622,20166139,20068231|8288648,19415658,17287340,18491316,18088087,18212344,19651622,18767875,20166139,20068231|8288648,18669648,18491316
-MAP2K2_Homo sapiens	nan	nan	nan	nan	MAPK3	?	Phosphorylation	7687743,8626767,18669648,18691976,17389395,19651622|15580310,18669648,18691976,17389395,19651622,16497976,18707149,19901323,20068231
-MAPK3_Homo sapiens	nan	nan	nan	nan	MAPK3	?	Phosphorylation	7687743,8626767,18669648,18691976,17389395,19651622|15580310,18669648,18691976,17389395,19651622,16497976,18707149,19901323,20068231|17192257,18669648,18691976,17389395,19651622
-PRKCA_Homo sapiens	nan	nan	nan	nan	DGKD	?	Phosphorylation	15228384
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	NR4A2	?	Phosphorylation	16223362
-PRKDC_Homo sapiens	nan	nan	nan	nan	LIG4	?	Phosphorylation	15194694
-EPHB3_Homo sapiens	nan	nan	nan	nan	EPHB3	?	Phosphorylation	9674711
-PTK2_Homo sapiens	nan	nan	nan	nan	TRIO	?	Phosphorylation	12551902
-CDK2_Homo sapiens	nan	nan	nan	nan	ORC1L	?	Phosphorylation	11931757,20068231|11931757,19413330,20068231|11931757
-CHUK_Homo sapiens	nan	nan	nan	nan	NCOA3	?	Phosphorylation	16135815,15383283,18669648,19413330,19651622,16964243,20068231|16135815,15383283,15302935,18669648,19413330,19651622,16964243,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	NCOA3	?	Phosphorylation	16135815,15383283,16456540|16135815,15383283,16456540,20068231|16135815,15383283,16456540,18669648,19413330,16964243,20068231
-IKBKB_Homo sapiens	nan	nan	nan	nan	NCOA3	?	Phosphorylation	16135815,15383283,18669648,19413330,19651622,16964243,20068231|16135815,15383283,15302935,18669648,19413330,19651622,16964243,20068231
-AKT1_Homo sapiens	nan	nan	nan	nan	S1PR1	?	Phosphorylation	11583630
-LYN_Homo sapiens	nan	nan	nan	nan	MAP4K1	?	Phosphorylation	11514608
-ABL1_Homo sapiens	nan	nan	nan	nan	MAP4K1	?	Phosphorylation	11278340
-SYK_Homo sapiens	nan	nan	nan	nan	MAP4K1	?	Phosphorylation	11514608
-MAP4K1_Homo sapiens	nan	nan	nan	nan	MAP4K1	?	Phosphorylation	17192257
-ROCK1_Homo sapiens	nan	nan	nan	nan	LIMK2	?	Phosphorylation	11018042,11340065
-CDC42BPA_Homo sapiens	nan	nan	nan	nan	LIMK2	?	Phosphorylation	11340065
-ABL1_Homo sapiens	nan	nan	nan	nan	TP73	?	Phosphorylation	10391251
-CDK1_Homo sapiens	nan	nan	nan	nan	TP73	?	Phosphorylation	12676926
-CDK2_Homo sapiens	nan	nan	nan	nan	TP73	?	Phosphorylation	12676926
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	BID	?	Phosphorylation	11583622
-CSNK1E_Homo sapiens	nan	nan	nan	nan	BID	?	Phosphorylation	11583622
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	BID	?	Phosphorylation	11583622
-CSNK2B_Homo sapiens	nan	nan	nan	nan	BID	?	Phosphorylation	11583622
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	BID	?	Phosphorylation	11583622
-PTK6_Homo sapiens	nan	nan	nan	nan	PTK6	?	Phosphorylation	12121988|12121988,17389395,17016520
-ROCK1_Homo sapiens	nan	nan	nan	nan	PPP1R12A	?	Phosphorylation	12600888,10601309,11931630,12220642,18669648,18077418,18767875,18212344|12563012,12220642,10601309
-ILK_Homo sapiens	nan	nan	nan	nan	PPP1R12A	?	Phosphorylation	12600888,10601309,11931630,12220642,18669648,18077418,18767875,18212344
-ROCK2_Homo sapiens	nan	nan	nan	nan	PPP1R12A	?	Phosphorylation	12563012,12220642,10601309,12600888,11931630
-DMPK_Homo sapiens	nan	nan	nan	nan	PPP1R12A	?	Phosphorylation	12600888,10601309,11931630,12220642,18669648,18077418,18767875,18212344
-PRKACA_Homo sapiens	nan	nan	nan	nan	PDE3B	?	Phosphorylation	8626720,8163498,10454575
-AKT1_Homo sapiens	nan	nan	nan	nan	PDE3B	?	Phosphorylation	10454575|10454575,18669648
-AKT1_Homo sapiens	nan	nan	nan	nan	RAC1	?	Phosphorylation	10617634,18669648|10617634
-PRKCE_Homo sapiens	nan	nan	nan	nan	TRPV1	?	Phosphorylation	14523239|14523239,11884385
-SYK_Homo sapiens	nan	nan	nan	nan	SH3BP2	?	Phosphorylation	12709437|11390470
-PRKCA_Homo sapiens	nan	nan	nan	nan	PA2G4	?	Phosphorylation	11325528,20068231|11325528
-PRKCB_Homo sapiens	nan	nan	nan	nan	PA2G4	?	Phosphorylation	11325528,20068231|11325528
-PRKCG_Homo sapiens	nan	nan	nan	nan	PA2G4	?	Phosphorylation	11325528,20068231|11325528
-PLK3_Homo sapiens	nan	nan	nan	nan	VRK1	?	Phosphorylation	19103756,20068231
-EPHA4_Homo sapiens	nan	nan	nan	nan	EPHA4	?	Phosphorylation	8622893
-GSK3B_Homo sapiens	nan	nan	nan	nan	BICD1	?	Phosphorylation	17139249
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	STK11	?	Phosphorylation	11297520,11853558
-PRKACA_Homo sapiens	nan	nan	nan	nan	STK11	?	Phosphorylation	11297520,11853558
-STK11_Homo sapiens	nan	nan	nan	nan	STK11	?	Phosphorylation	11668633
-ATM_Homo sapiens	nan	nan	nan	nan	STK11	?	Phosphorylation	11853558,12234250
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	STK11	?	Phosphorylation	11297520
-RPS6KB1_Homo sapiens	nan	nan	nan	nan	STK11	?	Phosphorylation	11297520,11853558
-MAPK1_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	11777913,18669648,19413330,19664995,19651622,20068231|11777913,18669648,17287340,19664995,19651622,18767875,20068231|12747827,18669648,17287340,19664995,19651622,20068231|9405468,9092573,10779345,18669648
-MAPK14_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	11777913,18669648,19413330,19664995,19651622,20068231|11777913,18669648,17287340,19664995,19651622,18767875,20068231
-MTOR_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	11777913,18669648,19413330,19664995,19651622,20068231|11777913,18669648,17287340,19664995,19651622,18767875,20068231|12747827,18669648,17287340,19664995,19651622,20068231|9405468,9092573,10779345,18669648
-ATM_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	9806882,11146653,12588975,18212344
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	11777913,18669648,20068231|11777913,18669648,19413330,20068231|11777913,18669648,17287340,19664995,19651622,18767875,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	9806882,11146653,12588975,18212344
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	9806882,11146653,12588975,18212344
-AKT1_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	11777913,18669648,19413330,19664995,19651622,20068231|11777913,18669648,17287340,19664995,19651622,18767875,20068231
-RHEBL1_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	11777913,18669648,17287340,19664995,19651622,18767875,20068231
-RORC_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	?	Phosphorylation	11777913,18669648,20068231|11777913,18669648,19413330,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	TCF7L2	?	Phosphorylation	11711551|11711551,18452278
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	TCF7L2	?	Phosphorylation	11711551|11711551,18452278
-MAP2K1_Homo sapiens	nan	nan	nan	nan	CASP9	?	Phosphorylation	12792650,18669648|12792650
-MAPK1_Homo sapiens	nan	nan	nan	nan	CASP9	?	Phosphorylation	12792650,18669648|12792650
-ABL1_Homo sapiens	nan	nan	nan	nan	CASP9	?	Phosphorylation	15657060
-MAP2K2_Homo sapiens	nan	nan	nan	nan	CASP9	?	Phosphorylation	12792650,18669648|12792650
-MAPK3_Homo sapiens	nan	nan	nan	nan	CASP9	?	Phosphorylation	12792650,18669648|12792650
-AKT1_Homo sapiens	nan	nan	nan	nan	CASP9	?	Phosphorylation	9812896
-PRKCZ_Homo sapiens	nan	nan	nan	nan	CASP9	?	Phosphorylation	16287866
-PRKCA_Homo sapiens	nan	nan	nan	nan	KCNQ2	?	Phosphorylation	12754513
-STK25_Homo sapiens	nan	nan	nan	nan	STK25	?	Phosphorylation	15037601,18452278
-CDK1_Homo sapiens	nan	nan	nan	nan	FOXM1	?	Phosphorylation	15024056
-CDK2_Homo sapiens	nan	nan	nan	nan	FOXM1	?	Phosphorylation	15024056
-PRKCA_Homo sapiens	nan	nan	nan	nan	NRGN	?	Phosphorylation	8080473
-PRKCB_Homo sapiens	nan	nan	nan	nan	NRGN	?	Phosphorylation	8080473
-PRKCG_Homo sapiens	nan	nan	nan	nan	NRGN	?	Phosphorylation	8080473
-ZAP70_Homo sapiens	nan	nan	nan	nan	LAT	?	Phosphorylation	11368773
-PRKCQ_Homo sapiens	nan	nan	nan	nan	WIPF1	?	Phosphorylation	12504004
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	RANGAP1	?	Phosphorylation	16428860,18669648
-ILK_Homo sapiens	nan	nan	nan	nan	ILK	?	Phosphorylation	11313365
-FYN_Homo sapiens	nan	nan	nan	nan	CNN3	?	Phosphorylation	15206927
-PRKCA_Homo sapiens	nan	nan	nan	nan	DNM1	?	Phosphorylation	10766777
-SRC_Homo sapiens	nan	nan	nan	nan	DNM1	?	Phosphorylation	9880482|9880482,12011079
-CDK5_Homo sapiens	nan	nan	nan	nan	DNM1	?	Phosphorylation	12855954,18088087,19651622
-PRKCA_Homo sapiens	nan	nan	nan	nan	PLD1	?	Phosphorylation	10441128
-EGFR_Homo sapiens	nan	nan	nan	nan	PLD2	?	Phosphorylation	9837959
-PRKACA_Homo sapiens	nan	nan	nan	nan	NOLC1	?	Phosphorylation	17322306,18669648,19664995,19651622,20068231|12167624,18669648,19651622,18212344,20068231
-MAP2K6_Homo sapiens	nan	nan	nan	nan	MAPK12	?	Phosphorylation	11062067
-MAP2K4_Homo sapiens	nan	nan	nan	nan	MAPK12	?	Phosphorylation	11062067,19413330
-MAP2K3_Homo sapiens	nan	nan	nan	nan	MAPK12	?	Phosphorylation	11062067
-MAPK12_Homo sapiens	nan	nan	nan	nan	MAPK12	?	Phosphorylation	10567720,19413330
-PRKCA_Homo sapiens	nan	nan	nan	nan	HAND1	?	Phosphorylation	14636580
-PRKACA_Homo sapiens	nan	nan	nan	nan	HAND1	?	Phosphorylation	14636580
-PRKCA_Homo sapiens	nan	nan	nan	nan	CFTR	?	Phosphorylation	1377674
-PRKACA_Homo sapiens	nan	nan	nan	nan	CFTR	?	Phosphorylation	1377674
-PRKG1_Homo sapiens	nan	nan	nan	nan	CFTR	?	Phosphorylation	1377674
-MAP3K5_Homo sapiens	nan	nan	nan	nan	MAP3K5	?	Phosphorylation	11920685
-AKT1_Homo sapiens	nan	nan	nan	nan	MAP3K5	?	Phosphorylation	11154276
-CDK1_Homo sapiens	nan	nan	nan	nan	BUB1	?	Phosphorylation	16760428
-HIPK3_Homo sapiens	nan	nan	nan	nan	FADD	?	Phosphorylation	11034606,10640736,19413330,19664995,20230923,20068231
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	FADD	?	Phosphorylation	11034606,10640736,19413330,19664995,20230923,20068231
-JAK2_Homo sapiens	nan	nan	nan	nan	SIRPA	?	Phosphorylation	10842184,17389395,17016520
-ROCK1_Homo sapiens	nan	nan	nan	nan	DPYSL2	?	Phosphorylation	10818093
-GSK3B_Homo sapiens	nan	nan	nan	nan	DPYSL2	?	Phosphorylation	15652488,18669648,19413330,18491316,19651622,16964243
-PLK1_Homo sapiens	nan	nan	nan	nan	PKMYT1	?	Phosphorylation	12738781|12738781,18691976
-PRKCA_Homo sapiens	nan	nan	nan	nan	CYTH2	?	Phosphorylation	10531036
-PRKCB_Homo sapiens	nan	nan	nan	nan	CYTH2	?	Phosphorylation	10531036
-PRKCG_Homo sapiens	nan	nan	nan	nan	CYTH2	?	Phosphorylation	10531036
-MAPK1_Homo sapiens	nan	nan	nan	nan	KHDRBS1	?	Phosphorylation	12478298,19664995,18691976,20068231|12478298
-CDK1_Homo sapiens	nan	nan	nan	nan	KHDRBS1	?	Phosphorylation	9315091
-PTK6_Homo sapiens	nan	nan	nan	nan	KHDRBS1	?	Phosphorylation	16179349
-PTK2_Homo sapiens	nan	nan	nan	nan	PXN	?	Phosphorylation	9230116,18669648,17389395,18707149,20068231|9658172,11337490
-MAPK8_Homo sapiens	nan	nan	nan	nan	PXN	?	Phosphorylation	12853963,20068231
-CSK_Homo sapiens	nan	nan	nan	nan	PXN	?	Phosphorylation	11695992|11695992,17389395,18707149
-PRKACA_Homo sapiens	nan	nan	nan	nan	RGS14	?	Phosphorylation	12534294
-LYN_Homo sapiens	nan	nan	nan	nan	RGS16	?	Phosphorylation	12588871,11602604
-SRC_Homo sapiens	nan	nan	nan	nan	RGS16	?	Phosphorylation	12588871,11602604
-CSK_Homo sapiens	nan	nan	nan	nan	RGS16	?	Phosphorylation	12588871,11602604
-EGFR_Homo sapiens	nan	nan	nan	nan	RGS16	?	Phosphorylation	12588871,11602604|11602604
-PRKCA_Homo sapiens	nan	nan	nan	nan	RGS7	?	Phosphorylation	12077120
-PDK1_Homo sapiens	nan	nan	nan	nan	PDK1	?	Phosphorylation	12177059
-PRKCA_Homo sapiens	nan	nan	nan	nan	SNAP23	?	Phosphorylation	12930825,18578522,20166139|12930825,20068231|12930825,19651622
-PRKACA_Homo sapiens	nan	nan	nan	nan	MAP3K3	?	Phosphorylation	12392720,18691976,19651622|12392720,18691976
-MAP3K3_Homo sapiens	nan	nan	nan	nan	MAP3K3	?	Phosphorylation	16407301
-PDK1_Homo sapiens	nan	nan	nan	nan	PKN2	?	Phosphorylation	10753910,18669648|10753910
-PDPK1_Homo sapiens	nan	nan	nan	nan	PKN2	?	Phosphorylation	10753910,18669648|10753910
-GRK5_Homo sapiens	nan	nan	nan	nan	SNCB	?	Phosphorylation	10852916
-CDK1_Homo sapiens	nan	nan	nan	nan	GOLGA2	?	Phosphorylation	10769027,9753325,18669648,19007248,19691289,18691976,16964243,20068231
-PDPK1_Homo sapiens	nan	nan	nan	nan	PAK1	?	Phosphorylation	10995762
-PAK1_Homo sapiens	nan	nan	nan	nan	PAK1	?	Phosphorylation	9032240,11278486,19664994,20068231|9032240,11278486|9032240|9032240,19664994|10805734,9032240|16204230
-OXSR1_Homo sapiens	nan	nan	nan	nan	PAK1	?	Phosphorylation	14707132
-CDK5_Homo sapiens	nan	nan	nan	nan	PAK1	?	Phosphorylation	11604394,19413330,19664995,19664994,20058876
-MAPK1_Homo sapiens	nan	nan	nan	nan	PAK1	?	Phosphorylation	11604394,19413330,19664995,19664994,20058876
-MAP3K7_Homo sapiens	nan	nan	nan	nan	MAP3K7	?	Phosphorylation	10838074|10838074,16845370
-CDK2_Homo sapiens	nan	nan	nan	nan	CDC6	?	Phosphorylation	10339564|9889196,10339564,18691976,20068231|9889196,10339564
-LYN_Homo sapiens	nan	nan	nan	nan	PPP1R8	?	Phosphorylation	11104670
-PRKACA_Homo sapiens	nan	nan	nan	nan	PPP1R8	?	Phosphorylation	9407077,18669648,20068231|9407077
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PPP1R8	?	Phosphorylation	9407077
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	PPP1R8	?	Phosphorylation	9407077
-ATM_Homo sapiens	nan	nan	nan	nan	NBN	?	Phosphorylation	10839544|10839544,11252893,10839545,10608806,18669648,19413330,20068231|11252893,10839545,18669648,20068231
-SGK1_Homo sapiens	nan	nan	nan	nan	FOXO3	?	Phosphorylation	11154281,20068231|11154281
-AKT1_Homo sapiens	nan	nan	nan	nan	FOXO3	?	Phosphorylation	11154281,20068231|10102273|11154281
-PRKACA_Homo sapiens	nan	nan	nan	nan	AURKA	?	Phosphorylation	11039908
-PRKCD_Homo sapiens	nan	nan	nan	nan	FSCN1	?	Phosphorylation	8999969,8647875,19651622,20068231
-MAPK1_Homo sapiens	nan	nan	nan	nan	NCOA1	?	Phosphorylation	10660621|10660621,20068231
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	NFATC3	?	Phosphorylation	9630228
-MAPK9_Homo sapiens	nan	nan	nan	nan	NFATC3	?	Phosphorylation	9374467
-PRKCD_Homo sapiens	nan	nan	nan	nan	EP300	?	Phosphorylation	12379484,11020388
-AKT1_Homo sapiens	nan	nan	nan	nan	EP300	?	Phosphorylation	11116148
-CHEK1_Homo sapiens	nan	nan	nan	nan	MDM4	?	Phosphorylation	16163388|16163388,17110929
-CHEK2_Homo sapiens	nan	nan	nan	nan	MDM4	?	Phosphorylation	16163388|16163388,16511560
-AKT1_Homo sapiens	nan	nan	nan	nan	MDM4	?	Phosphorylation	16163388,16511560
-ATM_Homo sapiens	nan	nan	nan	nan	MDM4	?	Phosphorylation	15788536,16163388,16511560
-FYN_Homo sapiens	nan	nan	nan	nan	FYB	?	Phosphorylation	10570256
-MAPK1_Homo sapiens	nan	nan	nan	nan	DUSP6	?	Phosphorylation	15632084
-RPS6KA3_Homo sapiens	nan	nan	nan	nan	HIST3H3	?	Phosphorylation	10436156
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	HIST3H3	?	Phosphorylation	12773393,10469656|12773393,18691976,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	PTPRR	?	Phosphorylation	10601328
-MAPK1_Homo sapiens	nan	nan	nan	nan	PTPRR	?	Phosphorylation	11493009
-MAPK3_Homo sapiens	nan	nan	nan	nan	PTPRR	?	Phosphorylation	11493009
-PRKACA_Homo sapiens	nan	nan	nan	nan	RGS10	?	Phosphorylation	11443111
-PRKACA_Homo sapiens	nan	nan	nan	nan	ACCN2	?	Phosphorylation	12578970
-PRKCA_Homo sapiens	nan	nan	nan	nan	OCLN	?	Phosphorylation	11502742
-PRKCB_Homo sapiens	nan	nan	nan	nan	OCLN	?	Phosphorylation	11502742
-PRKCG_Homo sapiens	nan	nan	nan	nan	OCLN	?	Phosphorylation	11502742
-CSNK2B_Homo sapiens	nan	nan	nan	nan	OCLN	?	Phosphorylation	12804768|12804768,20166139
-MAP2K4_Homo sapiens	nan	nan	nan	nan	MAPK9	?	Phosphorylation	11062067
-MAP2K7_Homo sapiens	nan	nan	nan	nan	MAPK9	?	Phosphorylation	11062067
-RET_Homo sapiens	nan	nan	nan	nan	MAPK9	?	Phosphorylation	16153436
-MAP2K4_Homo sapiens	nan	nan	nan	nan	MAPK10	?	Phosphorylation	10715136,19651622
-CDK5_Homo sapiens	nan	nan	nan	nan	MAPK10	?	Phosphorylation	11823425
-PRKCD_Homo sapiens	nan	nan	nan	nan	KLF5	?	Phosphorylation	12682370
-MAPK6_Homo sapiens	nan	nan	nan	nan	MAPK6	?	Phosphorylation	11741894,8621539,18669648,19651622
-PRKACA_Homo sapiens	nan	nan	nan	nan	CLDN3	?	Phosphorylation	15905176
-PRKACA_Homo sapiens	nan	nan	nan	nan	CACNG2	?	Phosphorylation	11805122
-PRKCB_Homo sapiens	nan	nan	nan	nan	EIF6	?	Phosphorylation	14654845
-MAPK3_Homo sapiens	nan	nan	nan	nan	RCAN1	?	Phosphorylation	12063245,19413330,19651622,20068231
-GSK3B_Homo sapiens	nan	nan	nan	nan	RCAN1	?	Phosphorylation	12063245,19651622,20068231
-INSR_Homo sapiens	nan	nan	nan	nan	DOK1	?	Phosphorylation	11551902,16497976|11551902,16497976,19901323
-LCK_Homo sapiens	nan	nan	nan	nan	DOK1	?	Phosphorylation	10799545
-RET_Homo sapiens	nan	nan	nan	nan	DOK1	?	Phosphorylation	11551902,16497976,19901323
-PRKAR2B_Homo sapiens	nan	nan	nan	nan	LASP1	?	Phosphorylation	12571245,18669648,17287340,18077418,18088087,18212344,20166139,20068231|12432067,20068231
-CDK7_Homo sapiens	nan	nan	nan	nan	LASP1	?	Phosphorylation	12571245,18669648,17287340,18077418,18088087,18212344,20166139,20068231
-PRKG2_Homo sapiens	nan	nan	nan	nan	LASP1	?	Phosphorylation	12571245,18669648,17287340,18077418,18088087,18212344,20166139,20068231|12571245
-PRKCA_Homo sapiens	nan	nan	nan	nan	STXBP1	?	Phosphorylation	8631738,12519779|8631738,12950453,12519779|12519779
-PRKCB_Homo sapiens	nan	nan	nan	nan	STXBP1	?	Phosphorylation	8631738,12519779|8631738,12950453,12519779|12519779
-PRKCG_Homo sapiens	nan	nan	nan	nan	STXBP1	?	Phosphorylation	8631738,12519779|8631738,12950453,12519779|12519779
-SRC_Homo sapiens	nan	nan	nan	nan	BCAR1	?	Phosphorylation	12972425|12972425,17389395,17016520|12972425,17016520|12972425,17389395,17016520,19901323
-PTK2_Homo sapiens	nan	nan	nan	nan	BCAR1	?	Phosphorylation	9360983,12119061,9360968|9360983
-CDK1_Homo sapiens	nan	nan	nan	nan	FANCG	?	Phosphorylation	15367677
-MAPK7_Homo sapiens	nan	nan	nan	nan	SGK1	?	Phosphorylation	11254654,18691976
-NEK6_Homo sapiens	nan	nan	nan	nan	SGK1	?	Phosphorylation	12023960|10191262,12023960
-PDPK1_Homo sapiens	nan	nan	nan	nan	SGK1	?	Phosphorylation	10191262,10357815|10191262
-MAPK1_Homo sapiens	nan	nan	nan	nan	IER3	?	Phosphorylation	12356731
-GRK5_Homo sapiens	nan	nan	nan	nan	SNCG	?	Phosphorylation	10852916,18669648
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	IL16	?	Phosphorylation	12450396
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	IL16	?	Phosphorylation	12450396
-CDK1_Homo sapiens	nan	nan	nan	nan	IL16	?	Phosphorylation	12450396
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	KIF1C	?	Phosphorylation	10559254,18669648,20068231
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	KIF1C	?	Phosphorylation	10559254,18669648,20068231
-ATR_Homo sapiens	nan	nan	nan	nan	CHEK1	?	Phosphorylation	11390642,11252893,15665856,18669648,18691976|11390642,15665856
-AKT1_Homo sapiens	nan	nan	nan	nan	CHEK1	?	Phosphorylation	12062056,18669648,19664995,18691976,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	SMAD3	?	Phosphorylation	14512875
-MAP3K7_Homo sapiens	nan	nan	nan	nan	SMAD3	?	Phosphorylation	9380693
-MAPK1_Homo sapiens	nan	nan	nan	nan	SMAD3	?	Phosphorylation	16156666,10197981|10197981,16156666|10197981
-CDK2_Homo sapiens	nan	nan	nan	nan	SMAD3	?	Phosphorylation	15241418,19413330,20068231|15241418
-CDK4_Homo sapiens	nan	nan	nan	nan	SMAD3	?	Phosphorylation	15241418,19413330,20068231|15241418
-PRKACA_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	10949026,18669648,18707149,20166139|10880354,10837486,10949026|10949026,10837486,18669648,18707149,20166139
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	10949026,18669648,18707149,20166139|10880354,10837486,10949026|9381178,10880354,10521512,12897128,10837486|10949026,10837486,18669648,18707149,20166139
-RPS6KA2_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	10949026,18669648,18707149,20166139|9381178,10880354,10521512,12897128,10837486|10949026,10837486,18669648,18707149,20166139
-PAK7_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	9381178,10880354,10521512,12897128,10837486
-AKT1_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	10949026,18669648,18707149,20166139|9381178|9381178,9651683,18669648,19664994|10949026,10837486,18669648,18707149,20166139|9381178,10880354,10521512,12897128,10837486
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	10880354
-PIM1_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	10949026,10837486,18669648,18707149,20166139|16403219|9381178,9651683,18669648,19664994|10949026,18669648,18707149,20166139
-PIM2_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	10949026,10837486,18669648,18707149,20166139|9381178,9651683,18669648,19664994|16403219|10949026,18669648,18707149,20166139
-PIM3_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	10949026,10837486,18669648,18707149,20166139|9381178,9651683,18669648,19664994|16403219|10949026,18669648,18707149,20166139
-PAK1_Homo sapiens	nan	nan	nan	nan	BAD	?	Phosphorylation	10949026,10837486,18669648,18707149,20166139|16413544,20166139
-PRKACA_Homo sapiens	nan	nan	nan	nan	CETN1	?	Phosphorylation	11279195
-PRKCZ_Homo sapiens	nan	nan	nan	nan	IKBKB	?	Phosphorylation	10195894,9689078,10779355,10022904
-CHUK_Homo sapiens	nan	nan	nan	nan	IKBKB	?	Phosphorylation	10195894,9689078,10779355,10022904
-MAP3K7_Homo sapiens	nan	nan	nan	nan	IKBKB	?	Phosphorylation	10195894,9689078,10779355,10022904,11460167
-IKBKB_Homo sapiens	nan	nan	nan	nan	IKBKB	?	Phosphorylation	10195894,20068231|10195894,18669648,19413330,18691976,19651622,19664994,20068231|10195894|16319058
-MAP3K14_Homo sapiens	nan	nan	nan	nan	IKBKB	?	Phosphorylation	10195894,9689078,10779355,10022904
-PRKCQ_Homo sapiens	nan	nan	nan	nan	IKBKB	?	Phosphorylation	17363905
-PRKG1_Homo sapiens	nan	nan	nan	nan	PDE5A	?	Phosphorylation	2168396
-MAPK1_Homo sapiens	nan	nan	nan	nan	PPP1R9B	?	Phosphorylation	15728359
-PRKACA_Homo sapiens	nan	nan	nan	nan	PPP1R9B	?	Phosphorylation	12417592,18669648,20068231|12417592,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	SLC4A4	?	Phosphorylation	11744745
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HIF1A	?	Phosphorylation	17382325
-CDK1_Homo sapiens	nan	nan	nan	nan	BIRC5	?	Phosphorylation	11861764,11069302,16565220,18691976,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	SPAG1	?	Phosphorylation	11517287
-CSNK1E_Homo sapiens	nan	nan	nan	nan	PER2	?	Phosphorylation	11232563,9349507|17218255
-CSNK1D_Homo sapiens	nan	nan	nan	nan	PER2	?	Phosphorylation	16097765
-PRKCA_Homo sapiens	nan	nan	nan	nan	PEA15	?	Phosphorylation	9721757,17287340,19651622,20068231
-CAMK2G_Homo sapiens	nan	nan	nan	nan	PEA15	?	Phosphorylation	12808093,9721757,18669648,19413330,17287340,19664995,18212344,19651622,18767875,18452278,18578522,20166139,20068231
-AKT1_Homo sapiens	nan	nan	nan	nan	PEA15	?	Phosphorylation	12808093,9721757,18669648,19413330,17287340,19664995,18212344,19651622,18767875,18452278,18578522,20166139,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	DAB1	?	Phosphorylation	11279201,10959835
-CDK5_Homo sapiens	nan	nan	nan	nan	DAB1	?	Phosphorylation	12077184
-FYN_Homo sapiens	nan	nan	nan	nan	SLAMF1	?	Phosphorylation	11806999
-GSK3B_Homo sapiens	nan	nan	nan	nan	LRP6	?	Phosphorylation	16365045
-AURKA_Homo sapiens	nan	nan	nan	nan	MBD3	?	Phosphorylation	12354758
-MAP2K1_Homo sapiens	nan	nan	nan	nan	RPS6KA4	?	Phosphorylation	10806207|10806207,18691976,19651622,20068231|10806207,18691976,19651622,16964243,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	RPS6KA4	?	Phosphorylation	10806207,18691976,19651622,16964243,20068231|10806207|10806207,18691976,19651622,20068231
-RPS6KA4_Homo sapiens	nan	nan	nan	nan	RPS6KA4	?	Phosphorylation	17192257,18691976,19664994,18767875
-BUB1_Homo sapiens	nan	nan	nan	nan	CDC20	?	Phosphorylation	15525512,18669648,19413330|15525512,18767875|15525512
-CDK2_Homo sapiens	nan	nan	nan	nan	FZR1	?	Phosphorylation	12560341,18669648,20068231|12560341
-PRKCA_Homo sapiens	nan	nan	nan	nan	GRIA2	?	Phosphorylation	8848293|10501226,12805550,11007883,12058067
-PRKCZ_Homo sapiens	nan	nan	nan	nan	NUMB	?	Phosphorylation	17203073|17203073,18767875
-ABL1_Homo sapiens	nan	nan	nan	nan	RAD9A	?	Phosphorylation	11971963
-ATM_Homo sapiens	nan	nan	nan	nan	RAD9A	?	Phosphorylation	12709442,11278446,18669648
-GSK3B_Homo sapiens	nan	nan	nan	nan	AXIN1	?	Phosphorylation	10581160
-MAPK8_Homo sapiens	nan	nan	nan	nan	BCL2L11	?	Phosphorylation	12591950|12818176|12818176,18691976
-MAPK9_Homo sapiens	nan	nan	nan	nan	BCL2L11	?	Phosphorylation	12818176|12818176,18691976
-MAPK10_Homo sapiens	nan	nan	nan	nan	BCL2L11	?	Phosphorylation	12818176|12818176,18691976
-CSNK2B_Homo sapiens	nan	nan	nan	nan	RNF7	?	Phosphorylation	12748192
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	BAG2	?	Phosphorylation	15271996,19651622,20068231
-EIF2AK2_Homo sapiens	nan	nan	nan	nan	EIF2S1	?	Phosphorylation	10542257,9819435,1677563,16179258
-PRKCD_Homo sapiens	nan	nan	nan	nan	EIF2S1	?	Phosphorylation	10542257,9819435,1677563
-EIF2AK3_Homo sapiens	nan	nan	nan	nan	EIF2S1	?	Phosphorylation	10542257,9819435,1677563,8099443
-PRKRIR_Homo sapiens	nan	nan	nan	nan	EIF2S1	?	Phosphorylation	10542257,9819435,1677563
-EIF2AK1_Homo sapiens	nan	nan	nan	nan	EIF2S1	?	Phosphorylation	10542257,9819435,1677563
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	EIF2S2	?	Phosphorylation	8024572,18691976,19651622,18452278,20068231|8024572,18669648,19651622,18452278,20068231
-CDK19_Homo sapiens	nan	nan	nan	nan	EIF3F	?	Phosphorylation	12446680
-RPS6KB1_Homo sapiens	nan	nan	nan	nan	EIF4B	?	Phosphorylation	16763566,17924679,19664995,19651622,18707149,20068231
-CSNK1A1_Homo sapiens	nan	nan	nan	nan	EIF2B5	?	Phosphorylation	11500362
-GSK3B_Homo sapiens	nan	nan	nan	nan	EIF2B5	?	Phosphorylation	12133000|11500362,9468292|11500362,15302935,18669648,19413330,18691976,19007248,18088087,19651622,19664994,18707149,18452278,20166139,20068231
-GSK3A_Homo sapiens	nan	nan	nan	nan	EIF2B5	?	Phosphorylation	11500362,9468292|11500362,15302935,18669648,19413330,18691976,19007248,18088087,19651622,19664994,18707149,18452278,20166139,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	EIF2B5	?	Phosphorylation	11500362,18669648
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	EIF2B5	?	Phosphorylation	11500362,18669648
-PRKCA_Homo sapiens	nan	nan	nan	nan	GRM5	?	Phosphorylation	9242710|15894802
-PRKCB_Homo sapiens	nan	nan	nan	nan	GRM5	?	Phosphorylation	15894802
-PRKCG_Homo sapiens	nan	nan	nan	nan	GRM5	?	Phosphorylation	15894802
-PRKCZ_Homo sapiens	nan	nan	nan	nan	GRM5	?	Phosphorylation	15894802
-PRKCE_Homo sapiens	nan	nan	nan	nan	GRM5	?	Phosphorylation	15894802
-PRKCQ_Homo sapiens	nan	nan	nan	nan	GRM5	?	Phosphorylation	15894802
-PRKCD_Homo sapiens	nan	nan	nan	nan	GRM5	?	Phosphorylation	15894802
-ATM_Homo sapiens	nan	nan	nan	nan	RBBP8	?	Phosphorylation	10910365,11689934|10910365
-SYK_Homo sapiens	nan	nan	nan	nan	TYROBP	?	Phosphorylation	9490415
-CDK1_Homo sapiens	nan	nan	nan	nan	PTTG1	?	Phosphorylation	10656688,18669648,19664995,19651622,18767875,20068230,20068231,20058876
-AKT1_Homo sapiens	nan	nan	nan	nan	DLC1	?	Phosphorylation	16338927
-SRC_Homo sapiens	nan	nan	nan	nan	STAT5B	?	Phosphorylation	12621061
-EGFR_Homo sapiens	nan	nan	nan	nan	STAT5B	?	Phosphorylation	11751923,17016520|11751923
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SSRP1	?	Phosphorylation	15659405|15659405,17287340,19007248,20068231
-PLK1_Homo sapiens	nan	nan	nan	nan	CHEK2	?	Phosphorylation	10973490,12024051,12493754|11901158,12242661,10973490,12493754
-PLK3_Homo sapiens	nan	nan	nan	nan	CHEK2	?	Phosphorylation	11901158,12242661,10973490,12493754
-CHEK2_Homo sapiens	nan	nan	nan	nan	CHEK2	?	Phosphorylation	11390408|12805407,11390408|11901158,12242661,10973490,12493754
-ATM_Homo sapiens	nan	nan	nan	nan	CHEK2	?	Phosphorylation	11901158,12242661,10973490,12493754,16794575|10973490|10973490,12024051,12493754|10973490,12024051|11901158,12242661,10973490,12493754
-ATR_Homo sapiens	nan	nan	nan	nan	CHEK2	?	Phosphorylation	10973490|10973490,12024051,12493754|10973490,12024051
-EGFR_Homo sapiens	nan	nan	nan	nan	HGS	?	Phosphorylation	12953068,17016520
-SRC_Homo sapiens	nan	nan	nan	nan	MPZL1	?	Phosphorylation	10681522,11751924,20068231|10681522,11751924,18669648,19664994,17016520,18707149,18578522,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	PPP1R1B	?	Phosphorylation	10604473
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PPP1R1B	?	Phosphorylation	2557337
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	PPP1R1B	?	Phosphorylation	2557337
-CDK5_Homo sapiens	nan	nan	nan	nan	PPP1R1B	?	Phosphorylation	10604473
-PRKACA_Homo sapiens	nan	nan	nan	nan	GNA13	?	Phosphorylation	12399457
-AURKB_Homo sapiens	nan	nan	nan	nan	INCENP	?	Phosphorylation	12925766,18669648,18691976,20068231|12925766,18669648,18691976|12925766,16565220,18669648,18691976
-EGFR_Homo sapiens	nan	nan	nan	nan	GAB1	?	Phosphorylation	10978177,17389395,16497976|10734310|10734310,16497976|10734310,17389395,16497976,17016520,19901323|10734310,17389395,17016520,20068231|10734310,18669648,17389395,16497976
-INSR_Homo sapiens	nan	nan	nan	nan	GAB1	?	Phosphorylation	10978177|10978177,16497976|10978177,17389395,16497976|10734310,17389395,17016520,20068231|10734310,18669648,17389395,16497976
-MET_Homo sapiens	nan	nan	nan	nan	GAB1	?	Phosphorylation	10734310|10734310,16497976|10978177,17389395,16497976|10734310,17389395,16497976,17016520,19901323|10734310,17389395,17016520,20068231|10734310,18669648,17389395,16497976
-MAPK1_Homo sapiens	nan	nan	nan	nan	GAB1	?	Phosphorylation	15379552
-MAPK3_Homo sapiens	nan	nan	nan	nan	GAB1	?	Phosphorylation	15379552
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	FAF1	?	Phosphorylation	11378439,11713579
-MAP3K6_Homo sapiens	nan	nan	nan	nan	MAP3K6	?	Phosphorylation	17210579
-PRKCA_Homo sapiens	nan	nan	nan	nan	GRM1	?	Phosphorylation	10823959
-TTN_Homo sapiens	nan	nan	nan	nan	TCAP	?	Phosphorylation	9804419
-MAPK14_Homo sapiens	nan	nan	nan	nan	PPARGC1A	?	Phosphorylation	11741533
-DYRK1B_Homo sapiens	nan	nan	nan	nan	DYRK1B	?	Phosphorylation	10910078|10910078,15144186,18669648,19664995,18212344,17016520,19901323
-ATM_Homo sapiens	nan	nan	nan	nan	WRN	?	Phosphorylation	11252893,10839545|10608806
-MAPK8_Homo sapiens	nan	nan	nan	nan	MAPK8IP1	?	Phosphorylation	12756254
-MAP3K8_Homo sapiens	nan	nan	nan	nan	MAP3K14	?	Phosphorylation	11278268,9742107
-PRKG1_Homo sapiens	nan	nan	nan	nan	MRVI1	?	Phosphorylation	11309393
-FYN_Homo sapiens	nan	nan	nan	nan	TOM1L1	?	Phosphorylation	11711534
-MERTK_Homo sapiens	nan	nan	nan	nan	MERTK	?	Phosphorylation	8702477
-NEK9_Homo sapiens	nan	nan	nan	nan	NEK6	?	Phosphorylation	12840024
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CTDP1	?	Phosphorylation	12591939|12591939,18669648,19664995,19664994
-CSNK2B_Homo sapiens	nan	nan	nan	nan	CTDP1	?	Phosphorylation	12591939|12591939,18669648,19664995,19664994
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	CTDP1	?	Phosphorylation	12591939|12591939,18669648,19664995,19664994
-STK4_Homo sapiens	nan	nan	nan	nan	STK4	?	Phosphorylation	12223493,18452278|12223493|12223493,18691976
-AURKB_Homo sapiens	nan	nan	nan	nan	RACGAP1	?	Phosphorylation	12689593|14744859,19007248|14744859|14744859,18669648,19007248|14744859,17287340
-CDK1_Homo sapiens	nan	nan	nan	nan	RACGAP1	?	Phosphorylation	16565220,18669648,18201571,16964243,20068231
-GRK6_Homo sapiens	nan	nan	nan	nan	SLC9A3R1	?	Phosphorylation	15302935,18669648,18088087,19664995,18452278,19413330,20166139
-LYN_Homo sapiens	nan	nan	nan	nan	DOK2	?	Phosphorylation	10428862|10428862,16497976,19901323
-HCK_Homo sapiens	nan	nan	nan	nan	DOK2	?	Phosphorylation	10428862|10428862,16497976,19901323
-SRC_Homo sapiens	nan	nan	nan	nan	DOK2	?	Phosphorylation	10428862|10428862,16497976,19901323
-CAMK1_Homo sapiens	nan	nan	nan	nan	CAMK1	?	Phosphorylation	7641687
-CAMKK2_Homo sapiens	nan	nan	nan	nan	CAMK1	?	Phosphorylation	9822657
-PRKACA_Homo sapiens	nan	nan	nan	nan	GSK3B	?	Phosphorylation	12054501,18669648,18691976
-SGK3_Homo sapiens	nan	nan	nan	nan	GSK3B	?	Phosphorylation	12054501,18691976|12054501,18669648,18691976
-AKT1_Homo sapiens	nan	nan	nan	nan	GSK3B	?	Phosphorylation	12054501,18669648,18691976
-SRC_Homo sapiens	nan	nan	nan	nan	PAK2	?	Phosphorylation	12215529
-PAK2_Homo sapiens	nan	nan	nan	nan	PAK2	?	Phosphorylation	10075701,16204230,18669648,19413330,19415658,19664995,18212344,19651622,19664994,16964243,18767875,20166139,20068231,20058876|10075701|10075701,18212344,20068231|9786869,16204230,16837009,20068231
-STK3_Homo sapiens	nan	nan	nan	nan	STK3	?	Phosphorylation	12554736
-CDK5_Homo sapiens	nan	nan	nan	nan	WASF1	?	Phosphorylation	16862120
-ABL1_Homo sapiens	nan	nan	nan	nan	WASL	?	Phosphorylation	16199863|16199863,19415658,17389395,19664994,18707149,19901323,18452278,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	CDC37	?	Phosphorylation	12930845,15082798,19413330,20068231
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	CDC37	?	Phosphorylation	12930845,15082798,19413330,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	EEA1	?	Phosphorylation	16138080
-MAPK1_Homo sapiens	nan	nan	nan	nan	RGS19	?	Phosphorylation	10993892
-PRKCA_Homo sapiens	nan	nan	nan	nan	RGS19	?	Phosphorylation	10993892|10760275,10993892
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	RGS19	?	Phosphorylation	10760275,10993892
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	RGS19	?	Phosphorylation	10760275,10993892
-ZAP70_Homo sapiens	nan	nan	nan	nan	SH2B3	?	Phosphorylation	9169414
-LCK_Homo sapiens	nan	nan	nan	nan	SH2B3	?	Phosphorylation	9169414
-SRC_Homo sapiens	nan	nan	nan	nan	WWOX	?	Phosphorylation	15070730
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HDAC2	?	Phosphorylation	12082111,16565220,18669648,19413330,19415658,18691976,17287340,19007248,19651622,18510355,18452278,20230923,20068231|12082111,18669648,19413330,19415658,17287340,18212344,19651622,18452278,20166139,20068231|12082111,18669648,19413330,19415658,17287340,18212344,19651622,19691289,18452278,20166139,20068231
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	HDAC2	?	Phosphorylation	12082111,16565220,18669648,19413330,19415658,18691976,17287340,19007248,19651622,18510355,18452278,20230923,20068231|12082111,18669648,19413330,19415658,17287340,18212344,19651622,18452278,20166139,20068231|12082111,18669648,19413330,19415658,17287340,18212344,19651622,19691289,18452278,20166139,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	PDPK1	?	Phosphorylation	11481331
-PDPK1_Homo sapiens	nan	nan	nan	nan	PDPK1	?	Phosphorylation	10455013,15144186,18669648,19413330,19415658,18691976,19664995,19651622,19664994,18452278,20230923,20166139,20068231,20058876|11481331
-ATM_Homo sapiens	nan	nan	nan	nan	TP53BP1	?	Phosphorylation	12697768,12447390|12697768|12697768,18077418
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	NOL3	?	Phosphorylation	12191471
-PRKACA_Homo sapiens	nan	nan	nan	nan	NDRG1	?	Phosphorylation	17220478,18669648,19413330,19651622,19664994,18767875,16964243,20166139,20068231|17220478,18669648,19651622,18491316,20166139,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	GRLF1	?	Phosphorylation	9819392,11309200,16497976,17016520,19901323,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	TSC1	?	Phosphorylation	14551205
-CAMK4_Homo sapiens	nan	nan	nan	nan	HDAC4	?	Phosphorylation	11470791,18669648|11470791,18669648,19651622,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	GTF2A1L	?	Phosphorylation	12107178
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	GTF2A1L	?	Phosphorylation	12107178
-LYN_Homo sapiens	nan	nan	nan	nan	TRPV4	?	Phosphorylation	12538589
-ABL1_Homo sapiens	nan	nan	nan	nan	PRKD1	?	Phosphorylation	12637538
-SRC_Homo sapiens	nan	nan	nan	nan	PRKD1	?	Phosphorylation	12637538
-PRKD1_Homo sapiens	nan	nan	nan	nan	PRKD1	?	Phosphorylation	10867018,19664994|10867018,11741879|10867018,18669648|10867018,19413330
-PRKCH_Homo sapiens	nan	nan	nan	nan	PRKD1	?	Phosphorylation	10867018,11741879
-PAK4_Homo sapiens	nan	nan	nan	nan	PAK4	?	Phosphorylation	17192257,18691976,20068231|17192257,18691976,18212344|17192257,18691976|17192257,18669648,18691976,19651622,18707149,18452278,20230923,20068231|17322306,18669648,18691976,19651622,18707149,18452278,20068231|17192257,18691976,19651622,20068231|17192257,18669648,18691976,20068231|17192257
-PRKCA_Homo sapiens	nan	nan	nan	nan	CD163	?	Phosphorylation	11298324|11298324,20166139
-CSNK2B_Homo sapiens	nan	nan	nan	nan	CD163	?	Phosphorylation	11298324
-PAK1_Homo sapiens	nan	nan	nan	nan	FOXL2	?	Phosphorylation	12560069
-LCK_Homo sapiens	nan	nan	nan	nan	DAPP1	?	Phosphorylation	10880360,17389395,19901323
-SRC_Homo sapiens	nan	nan	nan	nan	DAPP1	?	Phosphorylation	10880360,17389395,19901323
-BTK_Homo sapiens	nan	nan	nan	nan	DAPP1	?	Phosphorylation	10880360,17389395,19901323
-LYN_Homo sapiens	nan	nan	nan	nan	DAPP1	?	Phosphorylation	10880360,17389395,19901323
-ATM_Homo sapiens	nan	nan	nan	nan	DCLRE1C	?	Phosphorylation	15723659
-EGFR_Homo sapiens	nan	nan	nan	nan	PKIA	?	Phosphorylation	2434500
-CDK5_Homo sapiens	nan	nan	nan	nan	PIP5K1C	?	Phosphorylation	17290217
-ZAP70_Homo sapiens	nan	nan	nan	nan	GAB2	?	Phosphorylation	11572860
-MAPK1_Homo sapiens	nan	nan	nan	nan	GAB2	?	Phosphorylation	15356145
-MAPK3_Homo sapiens	nan	nan	nan	nan	GAB2	?	Phosphorylation	15356145
-AKT1_Homo sapiens	nan	nan	nan	nan	GAB2	?	Phosphorylation	11782427
-EGFR_Homo sapiens	nan	nan	nan	nan	STAM2	?	Phosphorylation	11687594,10993906,17389395,19901323
-BMPR1B_Homo sapiens	nan	nan	nan	nan	STAMBP	?	Phosphorylation	11483516
-MAPK8_Homo sapiens	nan	nan	nan	nan	BMF	?	Phosphorylation	12591950
-ABL1_Homo sapiens	nan	nan	nan	nan	PSTPIP1	?	Phosphorylation	11163214
-SGK1_Homo sapiens	nan	nan	nan	nan	NEDD4L	?	Phosphorylation	12911626,11742982|12911626,11742982,18669648,19413330,18691976,19664995,19651622,18767875,20230923,20166139,20068231
-TEC_Homo sapiens	nan	nan	nan	nan	PTPN18	?	Phosphorylation	14679216
-PRKACA_Homo sapiens	nan	nan	nan	nan	GNMT	?	Phosphorylation	12697024,2722853
-PRKCA_Homo sapiens	nan	nan	nan	nan	TRPV6	?	Phosphorylation	11248124
-PRKCA_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
-PRKCB_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
-PRKCD_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
-PRKCG_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
-PRKACA_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
-PRKD3_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
-SGK3_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
-AKT1_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
-SGK1_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
-GSK3A_Homo sapiens	nan	nan	nan	nan	GSK3A	?	Phosphorylation	15592455,19413330,19415658,17389395,18088087,19664994,18452278,18767875|17192257
-MAPK3_Homo sapiens	nan	nan	nan	nan	SPIB	?	Phosphorylation	8632909
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	SPIB	?	Phosphorylation	10618498
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	SPIB	?	Phosphorylation	10618498
-NEK9_Homo sapiens	nan	nan	nan	nan	NEK7	?	Phosphorylation	12840024,18691976,18452278
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	VAMP4	?	Phosphorylation	14608369,15345747,18669648,18691976,19651622,19664994,18452278,18578522,20166139,20068231,20058876
-EGFR_Homo sapiens	nan	nan	nan	nan	SCAMP1	?	Phosphorylation	9658162
-EGFR_Homo sapiens	nan	nan	nan	nan	SCAMP3	?	Phosphorylation	9658162,15144186
-PRKCD_Homo sapiens	nan	nan	nan	nan	PTPN22	?	Phosphorylation	18056643
-FYN_Homo sapiens	nan	nan	nan	nan	TNK2	?	Phosphorylation	14506255,17389395
-PRKACA_Homo sapiens	nan	nan	nan	nan	SNAPIN	?	Phosphorylation	11283605
-PRKACA_Homo sapiens	nan	nan	nan	nan	WT1	?	Phosphorylation	9366517
-HIPK2_Homo sapiens	nan	nan	nan	nan	PAX6	?	Phosphorylation	16407227
-PRKCA_Homo sapiens	nan	nan	nan	nan	PLCB1	?	Phosphorylation	11278470
-PRKCD_Homo sapiens	nan	nan	nan	nan	PLCB1	?	Phosphorylation	11278470
-MAPK3_Homo sapiens	nan	nan	nan	nan	PLCB1	?	Phosphorylation	11287604
-AKT1_Homo sapiens	nan	nan	nan	nan	FANCA	?	Phosphorylation	11855836
-CAMK2A_Homo sapiens	nan	nan	nan	nan	ITGB1BP1	?	Phosphorylation	9813144
-CDK1_Homo sapiens	nan	nan	nan	nan	EPN1	?	Phosphorylation	10764745
-NEK2_Homo sapiens	nan	nan	nan	nan	NDC80	?	Phosphorylation	12386167
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PACS1	?	Phosphorylation	14633983,16977309
-PASK_Homo sapiens	nan	nan	nan	nan	PASK	?	Phosphorylation	11459942
-CDK5_Homo sapiens	nan	nan	nan	nan	NDEL1	?	Phosphorylation	12796778,18669648,20068231|12796778,19413330|12796778|12796778,20068231
-ATM_Homo sapiens	nan	nan	nan	nan	ATM	?	Phosphorylation	12556884,16858402,16906133,17486112,16293623,15159397,18691976|10608806|16858402|16906133
-PDPK1_Homo sapiens	nan	nan	nan	nan	SGK2	?	Phosphorylation	10548550
-PDPK1_Homo sapiens	nan	nan	nan	nan	SGK3	?	Phosphorylation	10548550
-CDK1_Homo sapiens	nan	nan	nan	nan	NUP210	?	Phosphorylation	8672508,18669648,20068231
-NTRK2_Homo sapiens	nan	nan	nan	nan	FRS3	?	Phosphorylation	11432792
-CAMKK1_Homo sapiens	nan	nan	nan	nan	CAMK1D	?	Phosphorylation	12935886,18669648
-PRKCA_Homo sapiens	nan	nan	nan	nan	HSPB8	?	Phosphorylation	11342557|11342557,18212344
-MAPK3_Homo sapiens	nan	nan	nan	nan	HSPB8	?	Phosphorylation	11342557,18212344|11342557,20068231
-PAK7_Homo sapiens	nan	nan	nan	nan	PAK7	?	Phosphorylation	11756552
-SRC_Homo sapiens	nan	nan	nan	nan	PDCD6IP	?	Phosphorylation	15557335
-MAPK1_Homo sapiens	nan	nan	nan	nan	CAD	?	Phosphorylation	12438317
-PRKACA_Homo sapiens	nan	nan	nan	nan	CAD	?	Phosphorylation	11986331,4092695,18669648,18691976,20068231|17322306,18669648,18691976,19664995,19651622,19664994,18707149,18767875,20068231
-CAD_Homo sapiens	nan	nan	nan	nan	CAD	?	Phosphorylation	11986331,12438317
-PRKCD_Homo sapiens	nan	nan	nan	nan	AKT3	?	Phosphorylation	12162751
-PRKCZ_Homo sapiens	nan	nan	nan	nan	AKT3	?	Phosphorylation	12162751,9512493
-PDK1_Homo sapiens	nan	nan	nan	nan	AKT3	?	Phosphorylation	9512493
-PDPK1_Homo sapiens	nan	nan	nan	nan	AKT3	?	Phosphorylation	12162751,9512493
-CAMK2A_Homo sapiens	nan	nan	nan	nan	CAMK2A	?	Phosphorylation	9452388|12408851
-ZAP70_Homo sapiens	nan	nan	nan	nan	DBNL	?	Phosphorylation	14557276
-CDK2_Homo sapiens	nan	nan	nan	nan	TSPYL2	?	Phosphorylation	11395479,18669648,20068231|11395479
-CDK1_Homo sapiens	nan	nan	nan	nan	PTPN2	?	Phosphorylation	15030318,18669648,19413330,19651622,18767875,20068231
-CDK2_Homo sapiens	nan	nan	nan	nan	PTPN2	?	Phosphorylation	15030318,18669648,19413330,19651622,18767875,20068231
-CDK5_Homo sapiens	nan	nan	nan	nan	PTPN2	?	Phosphorylation	15030318,18669648,19413330,19651622,18767875,20068231
-OXSR1_Homo sapiens	nan	nan	nan	nan	SLC12A2	?	Phosphorylation	16669787
-PRKD1_Homo sapiens	nan	nan	nan	nan	EPAS1	?	Phosphorylation	17024177
-MAPK1_Homo sapiens	nan	nan	nan	nan	RPS6KA5	?	Phosphorylation	11994045|11994045,19651622,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	RPS6KA5	?	Phosphorylation	11994045,14578350|11994045,19651622,20068231
-MAPK3_Homo sapiens	nan	nan	nan	nan	RPS6KA5	?	Phosphorylation	11994045|11994045,19651622,20068231
-STK10_Homo sapiens	nan	nan	nan	nan	STK10	?	Phosphorylation	17192257,18669648,19413330,19651622,19664994,20068231
-CAMK1_Homo sapiens	nan	nan	nan	nan	EIF4G3	?	Phosphorylation	14507913
-PRKACA_Homo sapiens	nan	nan	nan	nan	C7orf16	?	Phosphorylation	10051666
-PRKG1_Homo sapiens	nan	nan	nan	nan	C7orf16	?	Phosphorylation	10051666
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	METTL1	?	Phosphorylation	15861136
-AKT1_Homo sapiens	nan	nan	nan	nan	METTL1	?	Phosphorylation	15861136
-LYN_Homo sapiens	nan	nan	nan	nan	FCGR2B	?	Phosphorylation	8756631
-BLK_Homo sapiens	nan	nan	nan	nan	FCGR2B	?	Phosphorylation	8756631
-PRKCA_Homo sapiens	nan	nan	nan	nan	PEBP1	?	Phosphorylation	14654844,12551925,20166139,20068231
-PRKCB_Homo sapiens	nan	nan	nan	nan	PEBP1	?	Phosphorylation	14654844,12551925,20166139,20068231
-PRKCD_Homo sapiens	nan	nan	nan	nan	PEBP1	?	Phosphorylation	14654844,12551925,20166139,20068231
-PRKCG_Homo sapiens	nan	nan	nan	nan	PEBP1	?	Phosphorylation	14654844,12551925,20166139,20068231
-PRKCZ_Homo sapiens	nan	nan	nan	nan	PEBP1	?	Phosphorylation	14654844,12551925,20166139,20068231
-PAK1_Homo sapiens	nan	nan	nan	nan	NF2	?	Phosphorylation	11719502,18669648,19651622,19691289,20068231
-PRKAA2_Homo sapiens	nan	nan	nan	nan	ACACB	?	Phosphorylation	9148944,12413941,14532170,14613924,20166139
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	PGR	?	Phosphorylation	7983041
-CAMKK1_Homo sapiens	nan	nan	nan	nan	CAMK4	?	Phosphorylation	7615569,8621423
-CAMKK2_Homo sapiens	nan	nan	nan	nan	CAMK4	?	Phosphorylation	9822657
-CAMK4_Homo sapiens	nan	nan	nan	nan	CAMK4	?	Phosphorylation	17192257,19413330|17192257
-PRKACA_Homo sapiens	nan	nan	nan	nan	KLF1	?	Phosphorylation	9722526
-CSNK1D_Homo sapiens	nan	nan	nan	nan	BACE1	?	Phosphorylation	11278841
-CHUK_Homo sapiens	nan	nan	nan	nan	NFKBIB	?	Phosphorylation	8657102,9689078
-IKBKB_Homo sapiens	nan	nan	nan	nan	NFKBIB	?	Phosphorylation	8657102,9689078
-STK11_Homo sapiens	nan	nan	nan	nan	MARK1	?	Phosphorylation	14976552,14517247,18691976|14976552,18691976
-TAOK1_Homo sapiens	nan	nan	nan	nan	MARK1	?	Phosphorylation	14976552,14517247,18691976
-PRKACA_Homo sapiens	nan	nan	nan	nan	RASGRF1	?	Phosphorylation	12538592
-MAPK14_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	12171600
-PRKAA2_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	11500364,14709557,15024086,11171059|14709557,15024086|15024086,14709557
-MAPK8_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	12171600
-PRKACA_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	11500364,14709557,15024086,11171059|11171059
-RPS6KA1_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	11500364,14709557,15024086,11171059
-MAPKAPK3_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	12171600
-MAPK12_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	12171600
-PRKAA1_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	11500364,14709557,15024086,11171059|14709557,15024086|15024086,14709557
-MAPK9_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	12171600
-MAPK11_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	12171600
-MAPK13_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	11500363,12171600|12171600
-MAPKAPK5_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	12171600
-RPS6KB1_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	11500364,14709557,15024086,11171059
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	EEF2K	?	Phosphorylation	12171600
-CDK7_Homo sapiens	nan	nan	nan	nan	PCGF6	?	Phosphorylation	12167161
-SRC_Homo sapiens	nan	nan	nan	nan	STAP2	?	Phosphorylation	12540842
-JAK2_Homo sapiens	nan	nan	nan	nan	STAP2	?	Phosphorylation	12540842
-PRKCA_Homo sapiens	nan	nan	nan	nan	CHAT	?	Phosphorylation	12486117,10861222,15381704|15381704
-CAMK2G_Homo sapiens	nan	nan	nan	nan	CHAT	?	Phosphorylation	12486117
-CAMK2A_Homo sapiens	nan	nan	nan	nan	CHAT	?	Phosphorylation	12486117,10861222
-PRKCB_Homo sapiens	nan	nan	nan	nan	CHAT	?	Phosphorylation	15381704
-PRKCG_Homo sapiens	nan	nan	nan	nan	CHAT	?	Phosphorylation	15381704
-PRKCD_Homo sapiens	nan	nan	nan	nan	CHAT	?	Phosphorylation	15381704
-PRKCE_Homo sapiens	nan	nan	nan	nan	CHAT	?	Phosphorylation	15381704
-PRKCZ_Homo sapiens	nan	nan	nan	nan	CHAT	?	Phosphorylation	15381704
-PRKCA_Homo sapiens	nan	nan	nan	nan	MARCKS	?	Phosphorylation	17322306,18669648,19413330,19664995,19651622,19664994,18510355,18707149,18452278,18767875,18578522,20068231|8034575,18669648,19413330,19664995,18707149,18452278,20166139,20068231|11930178,8557118,18767875,20068231|11930178,8557118,18669648,17287340,20068231|2473066,18669648,19413330,17287340,17924679,18212344,19651622,18767875,20068231|17322306,18669648,19413330,17287340,19664995,18212344,19651622,18707149,18767875,18578522,20166139,20068231,20058876|17322306,18669648,19413330,17287340,17924679,18491316,19664995,19651622,18452278,18767875,18578522,20068231|8034575,18669648,19413330,19651622,19664994,18510355,20068231|8034575,18669648,19413330,19651622,19664994,18452278,20068231
-PRKCB_Homo sapiens	nan	nan	nan	nan	MARCKS	?	Phosphorylation	11930178,8557118,18767875,20068231|11930178,8557118,18669648,17287340,20068231|17322306,18669648,19413330,17287340,19664995,18212344,19651622,18707149,18767875,18578522,20166139,20068231,20058876
-PKN1_Homo sapiens	nan	nan	nan	nan	MARCKS	?	Phosphorylation	11930178,8557118,18767875,20068231|11930178,8557118,18669648,17287340,20068231|17322306,18669648,19413330,17287340,19664995,18212344,19651622,18707149,18767875,18578522,20166139,20068231,20058876
-MAPK1_Homo sapiens	nan	nan	nan	nan	GORASP2	?	Phosphorylation	11408587,19413330,17287340,19651622,18767875,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	SDC4	?	Phosphorylation	11916978
-PRKCD_Homo sapiens	nan	nan	nan	nan	SDC4	?	Phosphorylation	11916978,9556568
-RAD17_Homo sapiens	nan	nan	nan	nan	ATR	?	Phosphorylation	11418864,10608806
-PRKACA_Homo sapiens	nan	nan	nan	nan	DNAJC5	?	Phosphorylation	17322306,18669648,17924679,18088087,19664995,19651622,18767875,18707149,18452278,20230923,20166139,20068231,20058876
-AURKB_Homo sapiens	nan	nan	nan	nan	NSUN2	?	Phosphorylation	17215513
-PRKACA_Homo sapiens	nan	nan	nan	nan	GJA5	?	Phosphorylation	10728420
-PRKCD_Homo sapiens	nan	nan	nan	nan	PLSCR1	?	Phosphorylation	10770950
-ABL1_Homo sapiens	nan	nan	nan	nan	PLSCR1	?	Phosphorylation	11390389
-MAPK1_Homo sapiens	nan	nan	nan	nan	MCL1	?	Phosphorylation	15241487
-GSK3B_Homo sapiens	nan	nan	nan	nan	MCL1	?	Phosphorylation	16543145
-GSK3A_Homo sapiens	nan	nan	nan	nan	MCL1	?	Phosphorylation	16543145
-FYN_Homo sapiens	nan	nan	nan	nan	ACP1	?	Phosphorylation	9038134|9038134,17016520
-LCK_Homo sapiens	nan	nan	nan	nan	ACP1	?	Phosphorylation	9038134|9038134,17016520
-PRKCA_Homo sapiens	nan	nan	nan	nan	PRKG1	?	Phosphorylation	12609995
-ADRBK1_Homo sapiens	nan	nan	nan	nan	PDE6G	?	Phosphorylation	12624098
-MAPK3_Homo sapiens	nan	nan	nan	nan	PDE6G	?	Phosphorylation	12624098
-LCK_Homo sapiens	nan	nan	nan	nan	CD3E	?	Phosphorylation	11855827
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HDAC3	?	Phosphorylation	15805470,18452278
-PRKCA_Homo sapiens	nan	nan	nan	nan	PTGIR	?	Phosphorylation	9722557
-EGFR_Homo sapiens	nan	nan	nan	nan	EPS15	?	Phosphorylation	10953014,17389395,17016520
-PRKCD_Homo sapiens	nan	nan	nan	nan	KCNJ1	?	Phosphorylation	8621594
-SRC_Homo sapiens	nan	nan	nan	nan	KCNB1	?	Phosphorylation	12615930
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	PLA2G4A	?	Phosphorylation	10978317,18669648,18212344,19664994,16964243,20068231
-MAPKAPK5_Homo sapiens	nan	nan	nan	nan	PLA2G4A	?	Phosphorylation	10978317,18669648,18212344,19664994,16964243,20068231
-MKNK1_Homo sapiens	nan	nan	nan	nan	PLA2G4A	?	Phosphorylation	10978317,18669648,18212344,19664994,16964243,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	PLA2G4A	?	Phosphorylation	10978317,8636128,20068231
-PRKACA_Homo sapiens	nan	nan	nan	nan	STMN2	?	Phosphorylation	9525956,9126608
-MAPK3_Homo sapiens	nan	nan	nan	nan	STMN2	?	Phosphorylation	9525956,9126608
-CDK1_Homo sapiens	nan	nan	nan	nan	STMN2	?	Phosphorylation	9525956,9126608
-PRKCA_Homo sapiens	nan	nan	nan	nan	RALBP1	?	Phosphorylation	16087181
-DYRK1A_Homo sapiens	nan	nan	nan	nan	DYRK1A	?	Phosphorylation	17229891,18691976|17229891
-CDK1_Homo sapiens	nan	nan	nan	nan	NES	?	Phosphorylation	12832492,11278541,18669648,20068231
-CDK5_Homo sapiens	nan	nan	nan	nan	NES	?	Phosphorylation	12832492|12832492,11278541,18669648,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	ERH	?	Phosphorylation	9074495
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	ERH	?	Phosphorylation	9074495
-CDK8_Homo sapiens	nan	nan	nan	nan	CCNH	?	Phosphorylation	10993082
-MAPK3_Homo sapiens	nan	nan	nan	nan	CCDC6	?	Phosphorylation	14712216,15302935,15144186,18669648,19415658,17287340,19664995,19651622,19664994,19413330,18691976,16964243,18212344,20166139,20068231
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	HSPB1	?	Phosphorylation	1332886,16565220,18669648,19562805,18691976,19007248,18088087,18212344,19651622,19664994,18767875,20230923,20166139,20068231,20058876|1332886,18212344,18767875,20068231,20058876|1332886,16565220,18669648,19562805,19415658,18691976,17924679,19007248,18088087,19664995,18212344,19651622,19691289,19664994,16964243,18707149,18767875,18578522,20166139,20068231,20058876
-MAPKAPK3_Homo sapiens	nan	nan	nan	nan	HSPB1	?	Phosphorylation	1332886,16565220,18669648,19562805,18691976,19007248,18088087,18212344,19651622,19664994,18767875,20230923,20166139,20068231,20058876|1332886,18212344,18767875,20068231,20058876|1332886,16565220,18669648,19562805,19415658,18691976,17924679,19007248,18088087,19664995,18212344,19651622,19691289,19664994,16964243,18707149,18767875,18578522,20166139,20068231,20058876
-PRKACA_Homo sapiens	nan	nan	nan	nan	KCNJ12	?	Phosphorylation	11181181
-CDK2_Homo sapiens	nan	nan	nan	nan	MCM4	?	Phosphorylation	16519687,19651622,20068231|16517729|12714602,16964243,20068231|12714602,18669648,20068231|12714602,18669648,17924679,20068231|16519687
-CDK1_Homo sapiens	nan	nan	nan	nan	MCM4	?	Phosphorylation	16519687|12714602,16964243,20068231|12714602,18669648,20068231|12714602,18669648,17924679,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	NFATC4	?	Phosphorylation	11997522
-MAP2K6_Homo sapiens	nan	nan	nan	nan	MAPK13	?	Phosphorylation	9218798
-ATM_Homo sapiens	nan	nan	nan	nan	RAD17	?	Phosphorylation	11418864,10608806|10608806,11418864
-ATR_Homo sapiens	nan	nan	nan	nan	RAD17	?	Phosphorylation	11418864,10608806|10608806,11418864
-PRKD1_Homo sapiens	nan	nan	nan	nan	HDAC7	?	Phosphorylation	15623513,16956611,18767875|15623513,16956611,18669648|15738054,20068231
-CSNK2B_Homo sapiens	nan	nan	nan	nan	USO1	?	Phosphorylation	9478999,11396975,10931861,18669648,19413330,19415658,19664995,19651622,18452278,20166139,20068231
-CSNK1E_Homo sapiens	nan	nan	nan	nan	PER3	?	Phosphorylation	11865049
-CDK17_Homo sapiens	nan	nan	nan	nan	CDK17	?	Phosphorylation	17192257,18669648,18691976|17192257,18691976,18212344|17192257,18669648,18691976,20068231|17192257,18691976
-CDK1_Homo sapiens	nan	nan	nan	nan	LATS1	?	Phosphorylation	12372621|12372621,18691976
-ZRANB2_Homo sapiens	nan	nan	nan	nan	ZRANB2	?	Phosphorylation	15302935,18669648,19413330,17287340,19651622,19664994,18452278,18767875,20166139,20068231
-CDK3_Homo sapiens	nan	nan	nan	nan	KIR3DL1	?	Phosphorylation	11733001
-PRKCA_Homo sapiens	nan	nan	nan	nan	EDF1	?	Phosphorylation	10816571
-CAMK1_Homo sapiens	nan	nan	nan	nan	HDAC5	?	Phosphorylation	15367659,11114197,11081517
-PRKD1_Homo sapiens	nan	nan	nan	nan	HDAC5	?	Phosphorylation	15367659,11114197,11081517
-CHEK1_Homo sapiens	nan	nan	nan	nan	CLSPN	?	Phosphorylation	16963448
-CDK1_Homo sapiens	nan	nan	nan	nan	KIF20B	?	Phosphorylation	11470801
-MAPK1_Homo sapiens	nan	nan	nan	nan	TOB1	?	Phosphorylation	12050114|12050114,20068231
-DYRK1A_Homo sapiens	nan	nan	nan	nan	SF3B1	?	Phosphorylation	16512921,20068231
-GSK3B_Homo sapiens	nan	nan	nan	nan	MYOCD	?	Phosphorylation	16141410
-MARK4_Homo sapiens	nan	nan	nan	nan	MARK4	?	Phosphorylation	17192257
-ATR_Homo sapiens	nan	nan	nan	nan	TREX1	?	Phosphorylation	15451423
-AKT1_Homo sapiens	nan	nan	nan	nan	YAP1	?	Phosphorylation	12535517,18669648,19651622,20068231
-ABL1_Homo sapiens	nan	nan	nan	nan	YAP1	?	Phosphorylation	18280240
-CDK1_Homo sapiens	nan	nan	nan	nan	NSFL1C	?	Phosphorylation	12810701,18669648,19651622,20068231|12810701
-MAPK14_Homo sapiens	nan	nan	nan	nan	MAPKAPK5	?	Phosphorylation	9628874,18669648
-MAPK11_Homo sapiens	nan	nan	nan	nan	MAPKAPK5	?	Phosphorylation	9628874,18669648
-MAPK3_Homo sapiens	nan	nan	nan	nan	MKNK1	?	Phosphorylation	9155018
-PAK2_Homo sapiens	nan	nan	nan	nan	MKNK1	?	Phosphorylation	15234964
-STK38_Homo sapiens	nan	nan	nan	nan	STK38	?	Phosphorylation	12493777
-PRKD2_Homo sapiens	nan	nan	nan	nan	PRKD2	?	Phosphorylation	11062248,18691976
-MAPK1_Homo sapiens	nan	nan	nan	nan	DUSP16	?	Phosphorylation	12794087
-PRKCQ_Homo sapiens	nan	nan	nan	nan	STK39	?	Phosphorylation	10980603
-CAMK2D_Homo sapiens	nan	nan	nan	nan	CAMK2D	?	Phosphorylation	17192257,18691976,20166139|17192257,19413330,18691976|17192257,18691976|17192257,18691976,20068231|17192257,18691976,20166139,20068231|17192257,18691976,18452278,20166139
-ATM_Homo sapiens	nan	nan	nan	nan	TOPBP1	?	Phosphorylation	11756551|11756551,18077418
-PRKCA_Homo sapiens	nan	nan	nan	nan	ADAP1	?	Phosphorylation	12893243
-PRKCE_Homo sapiens	nan	nan	nan	nan	ADAP1	?	Phosphorylation	12893243
-SRC_Homo sapiens	nan	nan	nan	nan	AFAP1	?	Phosphorylation	9655255
-ROCK1_Homo sapiens	nan	nan	nan	nan	ARHGAP24	?	Phosphorylation	16862148
-DAPK2_Homo sapiens	nan	nan	nan	nan	DAPK2	?	Phosphorylation	11230133
-CAMK2A_Homo sapiens	nan	nan	nan	nan	LRRC7	?	Phosphorylation	11160423
-MAPK1_Homo sapiens	nan	nan	nan	nan	ERF	?	Phosphorylation	10330152|10330152,18669648|10330152,18669648,18212344,19664994
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HSPH1	?	Phosphorylation	12558502,10772927
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	HSPH1	?	Phosphorylation	12558502,10772927
-PRKCZ_Homo sapiens	nan	nan	nan	nan	WWC1	?	Phosphorylation	15081397
-PLK1_Homo sapiens	nan	nan	nan	nan	NUDC	?	Phosphorylation	12852857
-MTOR_Homo sapiens	nan	nan	nan	nan	RPS6KB1	?	Phosphorylation	12586835,9271440,18669648|11279232,18669648,20068231|12604610
-PDPK1_Homo sapiens	nan	nan	nan	nan	RPS6KB1	?	Phosphorylation	10601311,9271440,9427642|10601311,9271440
-CDK1_Homo sapiens	nan	nan	nan	nan	RPS6KB1	?	Phosphorylation	12586835,9271440,18669648|12586835,9271440
-PIK3CA_Homo sapiens	nan	nan	nan	nan	RPS6KB1	?	Phosphorylation	11279232,18669648,20068231
-PDK1_Homo sapiens	nan	nan	nan	nan	RPS6KB1	?	Phosphorylation	11279232,18669648,20068231
-MTOR_Homo sapiens	nan	nan	nan	nan	RPS6KB2	?	Phosphorylation	11733037
-PDPK1_Homo sapiens	nan	nan	nan	nan	RPS6KB2	?	Phosphorylation	11733037
-CDK2_Homo sapiens	nan	nan	nan	nan	CDC7	?	Phosphorylation	10846177
-PAK1_Homo sapiens	nan	nan	nan	nan	ARPC1B	?	Phosphorylation	14749719
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	AIP	?	Phosphorylation	12361709
-PAK1_Homo sapiens	nan	nan	nan	nan	ARHGEF2	?	Phosphorylation	14970201,18669648
-PRKG1_Homo sapiens	nan	nan	nan	nan	SEPT3	?	Phosphorylation	15107017
-AKT1_Homo sapiens	nan	nan	nan	nan	PPARGC1B	?	Phosphorylation	17554339
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	ACCN3	?	Phosphorylation	9886053
-GSK3B_Homo sapiens	nan	nan	nan	nan	CABYR	?	Phosphorylation	15752768
-DYRK1A_Homo sapiens	nan	nan	nan	nan	CCNL2	?	Phosphorylation	14623875,19664995,19651622,18767875,20068231|14623875,20068231|14623875,18669648,19413330,19664995,19651622,19664994,18452278
-CDK2_Homo sapiens	nan	nan	nan	nan	-	?	Phosphorylation	12361598|12361598,19413330
-CDK12_Homo sapiens	nan	nan	nan	nan	CDK12	?	Phosphorylation	17192257,18691976,19651622,20230923|17192257,18669648,18691976,19651622,20230923,20068231|17192257,18669648,19413330,18691976,19664995,19651622,18452278,20068231|17322306,18669648,18691976,19664995,19651622,18452278,18767875,20068231|17322306,18691976,19651622,20230923
-LCK_Homo sapiens	nan	nan	nan	nan	DEF6	?	Phosphorylation	12923183
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	HES6	?	Phosphorylation	12972610
-PLK1_Homo sapiens	nan	nan	nan	nan	NINL	?	Phosphorylation	12852856
-AKT1_Homo sapiens	nan	nan	nan	nan	CCDC88A	?	Phosphorylation	16139227,20068231
-NEK9_Homo sapiens	nan	nan	nan	nan	NEK9	?	Phosphorylation	17192257,18691976|17192257,18669648,18691976,19651622,20068231|17192257|17192257,18669648,19413330,18767875,20068231
-CDC42BPA_Homo sapiens	nan	nan	nan	nan	PPP1R12C	?	Phosphorylation	11399775,18077418
-SLK_Homo sapiens	nan	nan	nan	nan	TAOK3	?	Phosphorylation	10559204
-ABL1_Homo sapiens	nan	nan	nan	nan	GPX1	?	Phosphorylation	12893824
-ABL2_Homo sapiens	nan	nan	nan	nan	GPX1	?	Phosphorylation	12893824
-PIK3CG_Homo sapiens	nan	nan	nan	nan	TPM2	?	Phosphorylation	16094730
-PRKCA_Homo sapiens	nan	nan	nan	nan	TNNI3	?	Phosphorylation	2584239|15134451,14596793,11121119|15134451,14596793,11904166,9346285|15134451,2584239
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	FKBP4	?	Phosphorylation	9405642
-PRKG2_Homo sapiens	nan	nan	nan	nan	PTS	?	Phosphorylation	10531334,7493990,20166139,20068231
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	TSPY1	?	Phosphorylation	16426576
-ABL1_Homo sapiens	nan	nan	nan	nan	RAD52	?	Phosphorylation	12379650
-CDK1_Homo sapiens	nan	nan	nan	nan	ECT2	?	Phosphorylation	16247472,18669648
-PLK1_Homo sapiens	nan	nan	nan	nan	ECT2	?	Phosphorylation	16247472,18669648
-MAPK14_Homo sapiens	nan	nan	nan	nan	MAPKAPK2	?	Phosphorylation	7592979|8846784,7592979,18669648|8846784|8846784,7592979
-NME1_Homo sapiens	nan	nan	nan	nan	CNKSR1	?	Phosphorylation	12105213
-MAPKAPK2_Homo sapiens	nan	nan	nan	nan	ARPC5	?	Phosphorylation	12829704,20068231
-PRKCE_Homo sapiens	nan	nan	nan	nan	GAD1	?	Phosphorylation	15147202
-MAPK10_Homo sapiens	nan	nan	nan	nan	MAPK8IP3	?	Phosphorylation	10523642
-MAPK8_Homo sapiens	nan	nan	nan	nan	MAPK8IP3	?	Phosphorylation	10629060
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	CABP1	?	Phosphorylation	14685260
-MAPK12_Homo sapiens	nan	nan	nan	nan	SH3BP5	?	Phosphorylation	15158451|15158451,18669648,19413330,16964243,20068231
-MAPK9_Homo sapiens	nan	nan	nan	nan	SH3BP5	?	Phosphorylation	15158451,18669648,19413330,16964243,20068231|15158451
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	F11R	?	Phosphorylation	7646439
-PRKCA_Homo sapiens	nan	nan	nan	nan	F11R	?	Phosphorylation	7646439
-HCK_Homo sapiens	nan	nan	nan	nan	ELMO1	?	Phosphorylation	15952790
-CAMK2B_Homo sapiens	nan	nan	nan	nan	CAMK2B	?	Phosphorylation	3417668,2842767,14565989
-CHEK1_Homo sapiens	nan	nan	nan	nan	TLK1	?	Phosphorylation	12660173,12955071,18669648,20068231
-CHEK2_Homo sapiens	nan	nan	nan	nan	AATF	?	Phosphorylation	17157788
-SIK2_Homo sapiens	nan	nan	nan	nan	CRTC2	?	Phosphorylation	15454081,18669648
-SIK3_Homo sapiens	nan	nan	nan	nan	CRTC2	?	Phosphorylation	15454081,18669648|16306228|16306228,18669648
-SIK1_Homo sapiens	nan	nan	nan	nan	CRTC2	?	Phosphorylation	16306228,18669648|15454081,18669648|16306228
-AKT1_Homo sapiens	nan	nan	nan	nan	AKT1S1	?	Phosphorylation	12524439,14973226,18669648,19413330,19651622,20068231
-AKT2_Homo sapiens	nan	nan	nan	nan	AKT1S1	?	Phosphorylation	12524439,14973226,18669648,19413330,19651622,20068231
-MAPK1_Homo sapiens	nan	nan	nan	nan	CEP55	?	Phosphorylation	16198290,18669648,19413330,18691976,16964243,19415658,20068231|16198290,18669648,19413330,19691289,19664994,18767875,18691976,18452278,19415658,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	CEP55	?	Phosphorylation	16198290,18669648,19413330,18691976,16964243,19415658,20068231|16198290,18669648,19413330,19691289,19664994,18767875,18691976,18452278,19415658,20068231
-PLK1_Homo sapiens	nan	nan	nan	nan	CEP55	?	Phosphorylation	16198290,18669648,19413330,19691289,19664994,16964243,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	HABP4	?	Phosphorylation	14699138
-PRKCB_Homo sapiens	nan	nan	nan	nan	HABP4	?	Phosphorylation	14699138
-PRKCD_Homo sapiens	nan	nan	nan	nan	HABP4	?	Phosphorylation	14699138
-PRKCG_Homo sapiens	nan	nan	nan	nan	HABP4	?	Phosphorylation	14699138
-PRKCZ_Homo sapiens	nan	nan	nan	nan	HABP4	?	Phosphorylation	14699138
-PRKCQ_Homo sapiens	nan	nan	nan	nan	HABP4	?	Phosphorylation	14699138
-RPS6KA5_Homo sapiens	nan	nan	nan	nan	HIST3H2A	?	Phosphorylation	15010469
-STK11_Homo sapiens	nan	nan	nan	nan	STRADA	?	Phosphorylation	12805220
-MAPK1_Homo sapiens	nan	nan	nan	nan	MAFA	?	Phosphorylation	11416124
-MAPK14_Homo sapiens	nan	nan	nan	nan	MAFA	?	Phosphorylation	11416124
-LCK_Homo sapiens	nan	nan	nan	nan	MED28	?	Phosphorylation	16899217
-MAPK1_Homo sapiens	nan	nan	nan	nan	NDE1	?	Phosphorylation	12556484,18669648,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	NDE1	?	Phosphorylation	12556484,18669648,20068231
-NEK8_Homo sapiens	nan	nan	nan	nan	NEK8	?	Phosphorylation	11864968
-AURKB_Homo sapiens	nan	nan	nan	nan	SEPT1	?	Phosphorylation	16179162,20058876|16179162
-FYN_Homo sapiens	nan	nan	nan	nan	SNX26	?	Phosphorylation	16777849
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	UBE2R2	?	Phosphorylation	12037680,18669648
-CSNK2A2_Homo sapiens	nan	nan	nan	nan	UBE2R2	?	Phosphorylation	12037680,18669648
-MAPK14_Homo sapiens	nan	nan	nan	nan	ZFYVE20	?	Phosphorylation	16138080,20068231
-MAPK14_Homo sapiens	nan	nan	nan	nan	ZNHIT1	?	Phosphorylation	17380123
-CCNA2_Homo sapiens	nan	nan	nan	nan	BTG1	?	Phosphorylation	9820826
-MAPK1_Homo sapiens	nan	nan	nan	nan	GABRR1	?	Phosphorylation	12175859
-PRKCA_Homo sapiens	nan	nan	nan	nan	GABRR1	?	Phosphorylation	12175859|12175859,10779366
-PRKACA_Homo sapiens	nan	nan	nan	nan	GABRR1	?	Phosphorylation	12175859
-CSNK2A1_Homo sapiens	nan	nan	nan	nan	GABRR1	?	Phosphorylation	12175859
-PRKG1_Homo sapiens	nan	nan	nan	nan	GABRR1	?	Phosphorylation	12175859
-MAP3K9_Homo sapiens	nan	nan	nan	nan	MAP3K9	?	Phosphorylation	15610029
-PLK1_Homo sapiens	nan	nan	nan	nan	TPT1	?	Phosphorylation	12167714,18669648,17287340,20068231|12167714
-CDK1_Homo sapiens	nan	nan	nan	nan	CDK7	?	Phosphorylation	11113184,18669648,18691976,19651622,20068231|11113184,18669648,18691976,19664995,18212344,19651622,18767875,20166139,20068231
-CDK2_Homo sapiens	nan	nan	nan	nan	CDK7	?	Phosphorylation	11113184,18669648,18691976,19651622,20068231|11113184,18669648,18691976,19664995,18212344,19651622,18767875,20166139,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	TRPC3	?	Phosphorylation	9853757
-PRKG1_Homo sapiens	nan	nan	nan	nan	TRPC3	?	Phosphorylation	14983059
-CAMK2A_Homo sapiens	nan	nan	nan	nan	SYNGAP1	?	Phosphorylation	15358237,14970204|15358237|14970204
-CHUK_Homo sapiens	nan	nan	nan	nan	PIAS1	?	Phosphorylation	17540171
-AKT1_Homo sapiens	nan	nan	nan	nan	SH2B2	?	Phosphorylation	16141217
-MAP2K1_Homo sapiens	nan	nan	nan	nan	PARVA	?	Phosphorylation	15353548,18669648,19651622,20166139|15353548,18669648,19651622|15353548,18669648,19664995,19651622,20166139|15353548,19651622,18691976,20068231
-PRKCA_Homo sapiens	nan	nan	nan	nan	PPP1R14A	?	Phosphorylation	15003508
-PRKCE_Homo sapiens	nan	nan	nan	nan	PPP1R14A	?	Phosphorylation	15003508
-PRKCZ_Homo sapiens	nan	nan	nan	nan	PPP1R14A	?	Phosphorylation	15003508
-PRKD1_Homo sapiens	nan	nan	nan	nan	PPP1R14A	?	Phosphorylation	15003508
-MAPK14_Homo sapiens	nan	nan	nan	nan	JDP2	?	Phosphorylation	12225289,11602244
-MAPK8_Homo sapiens	nan	nan	nan	nan	JDP2	?	Phosphorylation	12225289,11602244
-MAPK9_Homo sapiens	nan	nan	nan	nan	JDP2	?	Phosphorylation	12225289,11602244
-TESK2_Homo sapiens	nan	nan	nan	nan	DSTN	?	Phosphorylation	11418599,19413330,19651622,20068231
-CDK3_Homo sapiens	nan	nan	nan	nan	CABLES1	?	Phosphorylation	11733001,18691976
-CCNE1_Homo sapiens	nan	nan	nan	nan	CABLES1	?	Phosphorylation	11733001,18691976
-PRKCA_Homo sapiens	nan	nan	nan	nan	THOC5	?	Phosphorylation	15221008|15221008,20068231
-SRC_Homo sapiens	nan	nan	nan	nan	CDCP1	?	Phosphorylation	14739293
-PRKCA_Homo sapiens	nan	nan	nan	nan	CORO1B	?	Phosphorylation	16027158
-MAPK15_Homo sapiens	nan	nan	nan	nan	MAPK15	?	Phosphorylation	11875070
-CSK_Homo sapiens	nan	nan	nan	nan	MAPK15	?	Phosphorylation	11875070
-PRKG1_Homo sapiens	nan	nan	nan	nan	GKAP1	?	Phosphorylation	10671526
-PRKD1_Homo sapiens	nan	nan	nan	nan	KIDINS220	?	Phosphorylation	10998417,18669648,18578522,20068231
-CDK1_Homo sapiens	nan	nan	nan	nan	PBK	?	Phosphorylation	15541388,19413330,20068231
-CCNB1_Homo sapiens	nan	nan	nan	nan	PBK	?	Phosphorylation	15541388,19413330,20068231
-PKN3_Homo sapiens	nan	nan	nan	nan	PKN3	?	Phosphorylation	17192257,18669648,18691976,19651622|17192257
-CDK2_Homo sapiens	nan	nan	nan	nan	PRC1	?	Phosphorylation	9885575,20068230|9885575,18691976,18212344
-CDK1_Homo sapiens	nan	nan	nan	nan	C13orf15	?	Phosphorylation	11687586
-STK11_Homo sapiens	nan	nan	nan	nan	SNRK	?	Phosphorylation	15733851
-TNIK_Homo sapiens	nan	nan	nan	nan	TNIK	?	Phosphorylation	17192257,18669648,19413330,18088087,19664995,19651622,19664994,18691976|17192257,18088087,19664995,19651622,18691976|17192257
-MAPK1_Homo sapiens	nan	nan	nan	nan	KSR1	?	Phosphorylation	9858547|9858547,18669648
+PTK2_Homo sapiens	nan	nan	nan	nan	ACTN1	nan	nan	nan	nan	?	Phosphorylation	11369769,16291744
+FGFR3_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323,11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
+FGFR4_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323,11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
+HCK_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323,11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
+JAK1_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323,11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
+JAK2_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323,11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323,11350938,12626508,8626374,12576423,14551213,11940572,11294897,10918587,12244095,17389395,16497976,17016520,19901323
+MAPK1_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876,11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
+PRKCD_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876,11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
+SRC_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323,11350938,12626508,8626374,12576423,12244095,10918587,11294897,11940572,14551213,17389395,17016520,19901323
+MAPK8_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876,11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
+MAPK3_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876,11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11350938,10521505,9343414,10446219,12576423,14551213,9872331,12763138,18669648,19413330,18691976,18491316,20068231,20058876,11350938,10521505,9343414,12576423,14551213,12763138,9872331,18669648,19413330,18691976,18491316,20068231,20058876
+EPHA3_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	11940572,11294897,10918587,12244095,11350938,12626508,8626374,12576423,14551213,17389395,16497976,17016520,19901323,11350938,12626508,8626374,12576423,14551213,11940572,11294897,10918587,12244095,17389395,16497976,17016520,19901323
+PRKCD_Homo sapiens	nan	nan	nan	nan	ADD1	nan	nan	nan	nan	?	Phosphorylation	8810272,9679146
+PRKACA_Homo sapiens	nan	nan	nan	nan	ADD1	nan	nan	nan	nan	?	Phosphorylation	8810272,8810272,18669648
+ROCK1_Homo sapiens	nan	nan	nan	nan	ADD1	nan	nan	nan	nan	?	Phosphorylation	10209029
+PRKCD_Homo sapiens	nan	nan	nan	nan	ADD2	nan	nan	nan	nan	?	Phosphorylation	9679146,8810272,19664994,18452278,9679146,8810272
+PRKACA_Homo sapiens	nan	nan	nan	nan	ADD2	nan	nan	nan	nan	?	Phosphorylation	9679146,8810272,19664994,18452278,9679146,8810272
+ADRBK1_Homo sapiens	nan	nan	nan	nan	ADRA2A	nan	nan	nan	nan	?	Phosphorylation	7876239,7876239,19651622
+PRKCD_Homo sapiens	nan	nan	nan	nan	ADRA2A	nan	nan	nan	nan	?	Phosphorylation	11732925
+PRKCA_Homo sapiens	nan	nan	nan	nan	ADRA1B	nan	nan	nan	nan	?	Phosphorylation	9353340
+CDK5_Homo sapiens	nan	nan	nan	nan	PSEN1	nan	nan	nan	nan	?	Phosphorylation	12056836
+PRKCZ_Homo sapiens	nan	nan	nan	nan	PSEN1	nan	nan	nan	nan	?	Phosphorylation	14576165
+PRKACA_Homo sapiens	nan	nan	nan	nan	PSEN1	nan	nan	nan	nan	?	Phosphorylation	14576165
+GSK3B_Homo sapiens	nan	nan	nan	nan	PSEN1	nan	nan	nan	nan	?	Phosphorylation	11104755
+CDK5_Homo sapiens	nan	nan	nan	nan	APP	nan	nan	nan	nan	?	Phosphorylation	8764598,10936190,15178331
+GSK3B_Homo sapiens	nan	nan	nan	nan	APP	nan	nan	nan	nan	?	Phosphorylation	8764598,10936190,15178331
+BACE2_Homo sapiens	nan	nan	nan	nan	APP	nan	nan	nan	nan	?	Phosphorylation	8764598,10936190,15178331
+CDK1_Homo sapiens	nan	nan	nan	nan	APLP2	nan	nan	nan	nan	?	Phosphorylation	9109675
+PRKCA_Homo sapiens	nan	nan	nan	nan	APLP2	nan	nan	nan	nan	?	Phosphorylation	9109675
+ALK_Homo sapiens	nan	nan	nan	nan	ALK	nan	nan	nan	nan	?	Phosphorylation	9174053,9819383
+PRKCE_Homo sapiens	nan	nan	nan	nan	SLC4A3	nan	nan	nan	nan	?	Phosphorylation	11739292
+LYN_Homo sapiens	nan	nan	nan	nan	CD19	nan	nan	nan	nan	?	Phosphorylation	10933394,10933394,16497976
+MAPK1_Homo sapiens	nan	nan	nan	nan	CD19	nan	nan	nan	nan	?	Phosphorylation	10706702,16497976,10706702
+ABL1_Homo sapiens	nan	nan	nan	nan	CD19	nan	nan	nan	nan	?	Phosphorylation	11120811
+BTK_Homo sapiens	nan	nan	nan	nan	CD19	nan	nan	nan	nan	?	Phosphorylation	10201980,10933394,16497976
+MAPK14_Homo sapiens	nan	nan	nan	nan	SLC9A1	nan	nan	nan	nan	?	Phosphorylation	11604491,11604491,18669648,20068231
+MAPK1_Homo sapiens	nan	nan	nan	nan	SLC9A1	nan	nan	nan	nan	?	Phosphorylation	15253667,18669648,20068231,15253667,15253667,18669648,15253667,18669648,19415658,18088087,20058876
+TYK2_Homo sapiens	nan	nan	nan	nan	IFNAR1	nan	nan	nan	nan	?	Phosphorylation	9677371,95059042
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	APEX1	nan	nan	nan	nan	?	Phosphorylation	10023679
+SRC_Homo sapiens	nan	nan	nan	nan	LRP1	nan	nan	nan	nan	?	Phosphorylation	12789267,11854294
+PRKACA_Homo sapiens	nan	nan	nan	nan	LRP1	nan	nan	nan	nan	?	Phosphorylation	11158305,19651622
+MAPK1_Homo sapiens	nan	nan	nan	nan	ARRB1	nan	nan	nan	nan	?	Phosphorylation	17322306,19413330,19651622,18767875,20068231
+MAPK3_Homo sapiens	nan	nan	nan	nan	ARRB1	nan	nan	nan	nan	?	Phosphorylation	17322306,19413330,19651622,18767875,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	ARRB2	nan	nan	nan	nan	?	Phosphorylation	11877451
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	ARRB2	nan	nan	nan	nan	?	Phosphorylation	11877451
+EGFR_Homo sapiens	nan	nan	nan	nan	GRB2	nan	nan	nan	nan	?	Phosphorylation	11726515
+SRC_Homo sapiens	nan	nan	nan	nan	GRB2	nan	nan	nan	nan	?	Phosphorylation	9016807
+GSK3B_Homo sapiens	nan	nan	nan	nan	ACLY	nan	nan	nan	nan	?	Phosphorylation	10653665,20058876,10653665
+PRKACA_Homo sapiens	nan	nan	nan	nan	ACLY	nan	nan	nan	nan	?	Phosphorylation	10653665,18669648,19415658,17924679,18088087,18767875,18452278
+PRKCA_Homo sapiens	nan	nan	nan	nan	ATP2B1	nan	nan	nan	nan	?	Phosphorylation	1827443
+PRKACA_Homo sapiens	nan	nan	nan	nan	ATP2B1	nan	nan	nan	nan	?	Phosphorylation	2548572,18669648,19651622,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	ATP2B4	nan	nan	nan	nan	?	Phosphorylation	9182531,12540962
+PRKCA_Homo sapiens	nan	nan	nan	nan	ATP2B2	nan	nan	nan	nan	?	Phosphorylation	1827443
+CAMK2A_Homo sapiens	nan	nan	nan	nan	ATP2A2	nan	nan	nan	nan	?	Phosphorylation	7929371
+AXL_Homo sapiens	nan	nan	nan	nan	AXL	nan	nan	nan	nan	?	Phosphorylation	9178760,9178760,17389395
+LYN_Homo sapiens	nan	nan	nan	nan	SLC4A1	nan	nan	nan	nan	?	Phosphorylation	1998697,2065070,10942405,10942405,2065070
+SYK_Homo sapiens	nan	nan	nan	nan	SLC4A1	nan	nan	nan	nan	?	Phosphorylation	1998697,2065070,10942405,10942405,2065070
+PRKCA_Homo sapiens	nan	nan	nan	nan	ADRBK1	nan	nan	nan	nan	?	Phosphorylation	11042191
+PRKCD_Homo sapiens	nan	nan	nan	nan	ADRBK1	nan	nan	nan	nan	?	Phosphorylation	11042191
+PRKCG_Homo sapiens	nan	nan	nan	nan	ADRBK1	nan	nan	nan	nan	?	Phosphorylation	11042191
+PRKACA_Homo sapiens	nan	nan	nan	nan	ADRBK1	nan	nan	nan	nan	?	Phosphorylation	11278469
+MAPK3_Homo sapiens	nan	nan	nan	nan	ADRBK1	nan	nan	nan	nan	?	Phosphorylation	10574913,10727525,18088087,19651622,18767875
+INSR_Homo sapiens	nan	nan	nan	nan	ADRB2	nan	nan	nan	nan	?	Phosphorylation	8557631
+PRKCD_Homo sapiens	nan	nan	nan	nan	ADRB2	nan	nan	nan	nan	?	Phosphorylation	1848190
+GRK5_Homo sapiens	nan	nan	nan	nan	ADRB2	nan	nan	nan	nan	?	Phosphorylation	8662852
+SRC_Homo sapiens	nan	nan	nan	nan	CEACAM1	nan	nan	nan	nan	?	Phosphorylation	9867848
+MAP3K10_Homo sapiens	nan	nan	nan	nan	CEACAM1	nan	nan	nan	nan	?	Phosphorylation	11850617
+FYN_Homo sapiens	nan	nan	nan	nan	CD79A	nan	nan	nan	nan	?	Phosphorylation	9531288
+LYN_Homo sapiens	nan	nan	nan	nan	CD79A	nan	nan	nan	nan	?	Phosphorylation	9531288
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	MS4A1	nan	nan	nan	nan	?	Phosphorylation	7678037
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	MS4A1	nan	nan	nan	nan	?	Phosphorylation	7678037
+ADRBK1_Homo sapiens	nan	nan	nan	nan	BDKRB2	nan	nan	nan	nan	?	Phosphorylation	11517230
+ADRBK2_Homo sapiens	nan	nan	nan	nan	BDKRB2	nan	nan	nan	nan	?	Phosphorylation	11517230
+GRK4_Homo sapiens	nan	nan	nan	nan	BDKRB2	nan	nan	nan	nan	?	Phosphorylation	11517230
+PRKCD_Homo sapiens	nan	nan	nan	nan	BDKRB2	nan	nan	nan	nan	?	Phosphorylation	11517230
+GRK6_Homo sapiens	nan	nan	nan	nan	BDKRB2	nan	nan	nan	nan	?	Phosphorylation	11517230
+GRK5_Homo sapiens	nan	nan	nan	nan	BDKRB2	nan	nan	nan	nan	?	Phosphorylation	11517230
+CSNK2B_Homo sapiens	nan	nan	nan	nan	BRCA1	nan	nan	nan	nan	?	Phosphorylation	10403822
+ATR_Homo sapiens	nan	nan	nan	nan	BRCA1	nan	nan	nan	nan	?	Phosphorylation	11114888,11114888,11278964,15159397,11114888,11278964,11114888,15159397,11278964,20068231
+CDK2_Homo sapiens	nan	nan	nan	nan	BRCA1	nan	nan	nan	nan	?	Phosphorylation	10373534
+AKT1_Homo sapiens	nan	nan	nan	nan	BRCA1	nan	nan	nan	nan	?	Phosphorylation	10542266
+CHEK2_Homo sapiens	nan	nan	nan	nan	BRCA1	nan	nan	nan	nan	?	Phosphorylation	10724175,12111733,10724175
+ATM_Homo sapiens	nan	nan	nan	nan	BRCA1	nan	nan	nan	nan	?	Phosphorylation	11278964,10550055,10550055,20068231,10550055,19651622,20068231,10550055,10866324,11278964,15159397,10550055,10866324,11278964,11278964,20068231,10550055,15159397
+AURKA_Homo sapiens	nan	nan	nan	nan	BRCA1	nan	nan	nan	nan	?	Phosphorylation	14990569
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	BRCA1	nan	nan	nan	nan	?	Phosphorylation	10403822
+EGFR_Homo sapiens	nan	nan	nan	nan	CALM1	nan	nan	nan	nan	?	Phosphorylation	12153558,17389395,18707149,19901323
+INSR_Homo sapiens	nan	nan	nan	nan	CALM1	nan	nan	nan	nan	?	Phosphorylation	12153558,17389395,18707149,19901323,8639568
+EGFR_Homo sapiens	nan	nan	nan	nan	CALM2	nan	nan	nan	nan	?	Phosphorylation	12153558,18669648,17287340,16497976,17016520
+INSR_Homo sapiens	nan	nan	nan	nan	CALM2	nan	nan	nan	nan	?	Phosphorylation	12153558,18669648,17287340,16497976,17016520
+EGFR_Homo sapiens	nan	nan	nan	nan	CALM3	nan	nan	nan	nan	?	Phosphorylation	12153558,18578522,20068231
+INSR_Homo sapiens	nan	nan	nan	nan	CALM3	nan	nan	nan	nan	?	Phosphorylation	12153558,18578522,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	CACNA1C	nan	nan	nan	nan	?	Phosphorylation	8664319,8612821,9247274
+CDK1_Homo sapiens	nan	nan	nan	nan	CALD1	nan	nan	nan	nan	?	Phosphorylation	12613668,12613668,18669648,19413330,19415658,17924679,19664995,20068231,12613668,18669648,17287340,19651622,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CASQ2	nan	nan	nan	nan	?	Phosphorylation	1985907
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	CASQ2	nan	nan	nan	nan	?	Phosphorylation	1985907
+CDK1_Homo sapiens	nan	nan	nan	nan	CSNK2A1	nan	nan	nan	nan	?	Phosphorylation	7592773,7592773,18691976,20068231
+CSNK2B_Homo sapiens	nan	nan	nan	nan	CSNK2B	nan	nan	nan	nan	?	Phosphorylation	1939094,18691976,19651622,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	CSNK2B	nan	nan	nan	nan	?	Phosphorylation	7578274,18669648,18691976,19007248,20230923,20068231
+ABL2_Homo sapiens	nan	nan	nan	nan	CAT	nan	nan	nan	nan	?	Phosphorylation	12777400
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CTNNB1	nan	nan	nan	nan	?	Phosphorylation	12432063,12700239
+CSNK2B_Homo sapiens	nan	nan	nan	nan	CTNNB1	nan	nan	nan	nan	?	Phosphorylation	12432063
+FYN_Homo sapiens	nan	nan	nan	nan	CTNNB1	nan	nan	nan	nan	?	Phosphorylation	12640114
+FER_Homo sapiens	nan	nan	nan	nan	CTNNB1	nan	nan	nan	nan	?	Phosphorylation	12640114
+SRC_Homo sapiens	nan	nan	nan	nan	CTNNB1	nan	nan	nan	nan	?	Phosphorylation	11279024
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	CTNNB1	nan	nan	nan	nan	?	Phosphorylation	12000790,11955436
+CSNK1D_Homo sapiens	nan	nan	nan	nan	CTNNB1	nan	nan	nan	nan	?	Phosphorylation	12000790,11955436
+GSK3B_Homo sapiens	nan	nan	nan	nan	CTNNB1	nan	nan	nan	nan	?	Phosphorylation	12000790,12114015,11818547,12051714,12114015,11818547,12000790
+CDK6_Homo sapiens	nan	nan	nan	nan	CTNNB1	nan	nan	nan	nan	?	Phosphorylation	17208333
+CDK1_Homo sapiens	nan	nan	nan	nan	CUX1	nan	nan	nan	nan	?	Phosphorylation	11584018
+GSK3B_Homo sapiens	nan	nan	nan	nan	CEBPA	nan	nan	nan	nan	?	Phosphorylation	10567568
+AKT1_Homo sapiens	nan	nan	nan	nan	CDKN1A	nan	nan	nan	nan	?	Phosphorylation	11756412
+PIM1_Homo sapiens	nan	nan	nan	nan	CDKN1A	nan	nan	nan	nan	?	Phosphorylation	12431783
+MAPK8_Homo sapiens	nan	nan	nan	nan	CDKN1A	nan	nan	nan	nan	?	Phosphorylation	12058028,18669648,19664994,16964243,12058028
+DAPK3_Homo sapiens	nan	nan	nan	nan	CDKN1A	nan	nan	nan	nan	?	Phosphorylation	15001356
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CDK1	nan	nan	nan	nan	?	Phosphorylation	1400350,18691976
+LYN_Homo sapiens	nan	nan	nan	nan	CDK1	nan	nan	nan	nan	?	Phosphorylation	8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876,10564259,8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876
+WEE1_Homo sapiens	nan	nan	nan	nan	CDK1	nan	nan	nan	nan	?	Phosphorylation	8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876,10564259,8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876
+MYT1_Homo sapiens	nan	nan	nan	nan	CDK1	nan	nan	nan	nan	?	Phosphorylation	9001210,9268380,18669648,19413330,19415658,18691976,19651622,19901323,18452278,20068230,20068231,9001210,18669648,19413330,19415658,18691976,19651622,19901323,18452278,20068230,20068231
+PKMYT1_Homo sapiens	nan	nan	nan	nan	CDK1	nan	nan	nan	nan	?	Phosphorylation	9001210,9268380,18669648,19413330,19415658,18691976,19651622,19901323,18452278,20068230,20068231,9001210,18669648,19413330,19415658,18691976,19651622,19901323,18452278,20068230,20068231,8084605,18669648,19413330,19415658,18691976,19651622,16497976,17016520,19901323,18452278,20068231,20058876
+CDK7_Homo sapiens	nan	nan	nan	nan	CDK1	nan	nan	nan	nan	?	Phosphorylation	7944411,16565220,18669648,18691976,19664995,19651622,18452278,18767875,17924679,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	CDK1	nan	nan	nan	nan	?	Phosphorylation	15592455,19413330,18691976,16497976,17016520,19901323,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	CDC25A	nan	nan	nan	nan	?	Phosphorylation	12411508,19413330,12411508
+PIM1_Homo sapiens	nan	nan	nan	nan	CDC25A	nan	nan	nan	nan	?	Phosphorylation	12411508,19413330
+CHEK1_Homo sapiens	nan	nan	nan	nan	CDC25A	nan	nan	nan	nan	?	Phosphorylation	12399544,12676583
+CHEK2_Homo sapiens	nan	nan	nan	nan	CDC25A	nan	nan	nan	nan	?	Phosphorylation	12676583
+CSNK2B_Homo sapiens	nan	nan	nan	nan	CDC34	nan	nan	nan	nan	?	Phosphorylation	11546811
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CDC25B	nan	nan	nan	nan	?	Phosphorylation	12527891
+CDK1_Homo sapiens	nan	nan	nan	nan	CDC25B	nan	nan	nan	nan	?	Phosphorylation	12107172
+AURKA_Homo sapiens	nan	nan	nan	nan	CDC25B	nan	nan	nan	nan	?	Phosphorylation	15128871
+MELK_Homo sapiens	nan	nan	nan	nan	CDC25B	nan	nan	nan	nan	?	Phosphorylation	12400006
+CDK20_Homo sapiens	nan	nan	nan	nan	CDK2	nan	nan	nan	nan	?	Phosphorylation	14597612,18452278,18767875,20068231
+CDK7_Homo sapiens	nan	nan	nan	nan	CDK2	nan	nan	nan	nan	?	Phosphorylation	14597612,18452278,18767875,20068231
+WEE1_Homo sapiens	nan	nan	nan	nan	CDK2	nan	nan	nan	nan	?	Phosphorylation	7743995,18691976,17389395,18212344,16497976,19664994,17016520,18452278
+CDK2_Homo sapiens	nan	nan	nan	nan	CDK2	nan	nan	nan	nan	?	Phosphorylation	17192257,16497976
+CDK4_Homo sapiens	nan	nan	nan	nan	RBL1	nan	nan	nan	nan	?	Phosphorylation	12006580,19664995,19664994,12006580
+AURKB_Homo sapiens	nan	nan	nan	nan	CENPA	nan	nan	nan	nan	?	Phosphorylation	11756469
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CLTB	nan	nan	nan	nan	?	Phosphorylation	3128543,3128543,2874131
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	CLTB	nan	nan	nan	nan	?	Phosphorylation	3128543,2874131
+CAMK2B_Homo sapiens	nan	nan	nan	nan	COL4A3	nan	nan	nan	nan	?	Phosphorylation	7758473
+CSNK2B_Homo sapiens	nan	nan	nan	nan	MME	nan	nan	nan	nan	?	Phosphorylation	8943850,18578522,20166139
+YES1_Homo sapiens	nan	nan	nan	nan	CD46	nan	nan	nan	nan	?	Phosphorylation	11901164
+MAPK1_Homo sapiens	nan	nan	nan	nan	GJA1	nan	nan	nan	nan	?	Phosphorylation	12637502,8631994,9535909,19664994,8631994,9535905,12637502
+PRKCA_Homo sapiens	nan	nan	nan	nan	GJA1	nan	nan	nan	nan	?	Phosphorylation	10871288
+PRKCB_Homo sapiens	nan	nan	nan	nan	GJA1	nan	nan	nan	nan	?	Phosphorylation	10871288
+PRKCG_Homo sapiens	nan	nan	nan	nan	GJA1	nan	nan	nan	nan	?	Phosphorylation	10871288,15459208
+SRC_Homo sapiens	nan	nan	nan	nan	GJA1	nan	nan	nan	nan	?	Phosphorylation	11514593,19901323,11514593
+CSNK1D_Homo sapiens	nan	nan	nan	nan	GJA1	nan	nan	nan	nan	?	Phosphorylation	12270943,12270943,18578522
+MAPK3_Homo sapiens	nan	nan	nan	nan	GJA1	nan	nan	nan	nan	?	Phosphorylation	12637502,8631994,9535909,19664994,8631994,9535905,12637502,8631994,9535905
+MAPK7_Homo sapiens	nan	nan	nan	nan	GJA1	nan	nan	nan	nan	?	Phosphorylation	12637502,8631994,9535909,19664994,8631994,9535905,12637502
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	ATF1	nan	nan	nan	nan	?	Phosphorylation	9685505,18669648,18452278
+CAMK2G_Homo sapiens	nan	nan	nan	nan	ATF1	nan	nan	nan	nan	?	Phosphorylation	8663317,20068231
+RPS6KA4_Homo sapiens	nan	nan	nan	nan	ATF1	nan	nan	nan	nan	?	Phosphorylation	8663317,20068231
+CAMK1_Homo sapiens	nan	nan	nan	nan	ATF1	nan	nan	nan	nan	?	Phosphorylation	8663317,20068231
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	ATF1	nan	nan	nan	nan	?	Phosphorylation	8663317,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	ATF1	nan	nan	nan	nan	?	Phosphorylation	8663317,20068231
+AKT1_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	9829964
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	9687510,11175347,9829964,8688081,11160957
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	9687510,11175347,9829964,8688081,12235136
+RPS6KA2_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	9687510,11175347,9829964,8688081,11698596
+RPS6KA4_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	9687510,11175347,9829964,8688081
+GSK3B_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	12162494
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	9687510,11018520,11909979
+PRKG1_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	9687510,11175347,9829964,8688081
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	8887554
+SGK1_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	15733869
+TSSK4_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	15964553
+ATM_Homo sapiens	nan	nan	nan	nan	CREB1	nan	nan	nan	nan	?	Phosphorylation	16293623,15073328,15073328
+MAPK14_Homo sapiens	nan	nan	nan	nan	ATF2	nan	nan	nan	nan	?	Phosphorylation	7535770,12110590,18669648,19413330,19651622,18767875,20068231,11259586,10085140,19413330
+MAPK9_Homo sapiens	nan	nan	nan	nan	ATF2	nan	nan	nan	nan	?	Phosphorylation	7535770,12110590,18669648,19413330,19651622,18767875,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+CDK1_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+PRKCA_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+PRKACA_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+CAMK2G_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+GSK3B_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+GSK3A_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+CAMK2D_Homo sapiens	nan	nan	nan	nan	CREM	nan	nan	nan	nan	?	Phosphorylation	8404858
+CDK3_Homo sapiens	nan	nan	nan	nan	CDK3	nan	nan	nan	nan	?	Phosphorylation	17192257,17192257,18669648,18691976,17287340,18491316,19664995,19651622,16964243,17016520,18707149,19901323,17192257,18669648,17287340,19664995,19651622,16964243,19901323,17192257,18669648,17192257,18669648,18691976,19651622,20230923
+FYN_Homo sapiens	nan	nan	nan	nan	CDK5	nan	nan	nan	nan	?	Phosphorylation	12372285,19413330,18691976,16497976,19901323,20068231
+ABL1_Homo sapiens	nan	nan	nan	nan	CDK5	nan	nan	nan	nan	?	Phosphorylation	12372285,19413330,18691976,16497976,19901323,20068231
+CSNK1D_Homo sapiens	nan	nan	nan	nan	CDK5	nan	nan	nan	nan	?	Phosphorylation	10500146
+PLK1_Homo sapiens	nan	nan	nan	nan	CCNB1	nan	nan	nan	nan	?	Phosphorylation	11242082
+CDK2_Homo sapiens	nan	nan	nan	nan	CCNE1	nan	nan	nan	nan	?	Phosphorylation	14536078,18691976
+GSK3B_Homo sapiens	nan	nan	nan	nan	CCNE1	nan	nan	nan	nan	?	Phosphorylation	8861947,14536078,18691976,14536078,18691976
+FYN_Homo sapiens	nan	nan	nan	nan	CTLA4	nan	nan	nan	nan	?	Phosphorylation	9973379
+JAK2_Homo sapiens	nan	nan	nan	nan	CTLA4	nan	nan	nan	nan	?	Phosphorylation	10842319
+LCK_Homo sapiens	nan	nan	nan	nan	CTLA4	nan	nan	nan	nan	?	Phosphorylation	9973379
+TXK_Homo sapiens	nan	nan	nan	nan	CTLA4	nan	nan	nan	nan	?	Phosphorylation	9813138
+CDK5_Homo sapiens	nan	nan	nan	nan	EZR	nan	nan	nan	nan	?	Phosphorylation	12769842
+EGFR_Homo sapiens	nan	nan	nan	nan	EZR	nan	nan	nan	nan	?	Phosphorylation	1382070,12560083,1382070
+LCK_Homo sapiens	nan	nan	nan	nan	EZR	nan	nan	nan	nan	?	Phosphorylation	1382070,12560083
+PRKCA_Homo sapiens	nan	nan	nan	nan	EZR	nan	nan	nan	nan	?	Phosphorylation	11387207,10970850
+ROCK1_Homo sapiens	nan	nan	nan	nan	EZR	nan	nan	nan	nan	?	Phosphorylation	11387207,10970850
+CSK_Homo sapiens	nan	nan	nan	nan	CSK	nan	nan	nan	nan	?	Phosphorylation	9148770
+PRKACA_Homo sapiens	nan	nan	nan	nan	CSK	nan	nan	nan	nan	?	Phosphorylation	11181701
+PRKACA_Homo sapiens	nan	nan	nan	nan	EPB49	nan	nan	nan	nan	?	Phosphorylation	7615546
+PRKACA_Homo sapiens	nan	nan	nan	nan	DSP	nan	nan	nan	nan	?	Phosphorylation	7525582,18669648,20068231
+ROCK1_Homo sapiens	nan	nan	nan	nan	DES	nan	nan	nan	nan	?	Phosphorylation	10574968
+AURKB_Homo sapiens	nan	nan	nan	nan	DES	nan	nan	nan	nan	?	Phosphorylation	12686604
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	ARNT	nan	nan	nan	nan	?	Phosphorylation	16129408,18669648
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	DDIT3	nan	nan	nan	nan	?	Phosphorylation	12876286
+MAPK14_Homo sapiens	nan	nan	nan	nan	DDIT3	nan	nan	nan	nan	?	Phosphorylation	8650547
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	LIG1	nan	nan	nan	nan	?	Phosphorylation	10523317,15302935,18669648,19415658,19664995,19651622,17693683,19664994,18452278,18767875,19413330,20230923,20068231,20058876
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	TOP2A	nan	nan	nan	nan	?	Phosphorylation	9804834,8939955,11940573,18669648,19651622,18452278,20068231,7961967,18669648,18691976,17287340,19007248,19664995,19651622,19691289,19664994,18767875,18452278,16964243,20068231,20058876,10942766,18669648,19651622,19691289,18452278,20068231,7961967,16565220,18669648,19007248,19651622,18452278,16964243,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	TOP2A	nan	nan	nan	nan	?	Phosphorylation	7635160,12569090,16565220,18669648,19415658,18691976,19007248,19664995,19651622,19691289,18452278,16964243,20068230,20068231,20058876,7635160,12569090,16565220,18669648,19413330,19415658,18691976,17287340,17924679,19007248,19664995,19651622,19691289,19664994,18767875,18452278,20068231,20058876,7635160,12569090,16565220,18669648,19007248,19651622,19691289,18452278,20068231,7635160,12569090,7635160,12569090,16565220,18669648,19007248,19651622,18452278,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	TOP2A	nan	nan	nan	nan	?	Phosphorylation	7499337,12569090,18691976,19007248,19691289
+PRKCB_Homo sapiens	nan	nan	nan	nan	TOP2A	nan	nan	nan	nan	?	Phosphorylation	7499337,12569090,18691976,19007248,19691289
+PRKCG_Homo sapiens	nan	nan	nan	nan	TOP2A	nan	nan	nan	nan	?	Phosphorylation	7499337,12569090,18691976,19007248,19691289
+SRC_Homo sapiens	nan	nan	nan	nan	DAG1	nan	nan	nan	nan	?	Phosphorylation	12795607
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	EGR1	nan	nan	nan	nan	?	Phosphorylation	8662759
+EGFR_Homo sapiens	nan	nan	nan	nan	EPB41	nan	nan	nan	nan	?	Phosphorylation	1647028
+PRKCB_Homo sapiens	nan	nan	nan	nan	EPB41	nan	nan	nan	nan	?	Phosphorylation	15611095,20068231,15611095
+PRKCD_Homo sapiens	nan	nan	nan	nan	EEF1A1	nan	nan	nan	nan	?	Phosphorylation	7890750,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	EEF1D	nan	nan	nan	nan	?	Phosphorylation	12551973,18669648,19413330,19415658,17287340,17924679,19664995,19651622,19691289,18767875,18691976,18452278,18212344,20068230,20166139,20068231
+EEF2K_Homo sapiens	nan	nan	nan	nan	EEF2	nan	nan	nan	nan	?	Phosphorylation	91085562,20068231,8386634,18669648,17287340,18212344,19651622,18767875,20166139,20068231,8386634,18669648,19413330,19651622,18767875,20068231
+EGFR_Homo sapiens	nan	nan	nan	nan	EGFR	nan	nan	nan	nan	?	Phosphorylation	8845374,16799092,9363897,10635327,16799092,18669648,18691976,17389395,17016520,8845374,11983694,16799092,17016520,8845374,16799092,16729043,17016520,18707149,8845374,16799092,16729043,17389395,19651622,17016520,8845374,16799092,16729043,17426253,18691976,17389395,17016520,20068231
+JAK2_Homo sapiens	nan	nan	nan	nan	EGFR	nan	nan	nan	nan	?	Phosphorylation	9363897,10635327,16799092,18669648,18691976,17389395,17016520
+PRKCD_Homo sapiens	nan	nan	nan	nan	EGFR	nan	nan	nan	nan	?	Phosphorylation	2987962,2984676
+SRC_Homo sapiens	nan	nan	nan	nan	EGFR	nan	nan	nan	nan	?	Phosphorylation	8845374,11983694,16799092,17016520,11983694,8845374,10075741,16729043,11983694,16729043,15951569,16729043,18669648,17389395,17016520
+CAMK2G_Homo sapiens	nan	nan	nan	nan	EGFR	nan	nan	nan	nan	?	Phosphorylation	1309762,10347170,16799092,1309762,10347170
+CAMK2A_Homo sapiens	nan	nan	nan	nan	EGFR	nan	nan	nan	nan	?	Phosphorylation	10347170,18669648,18691976,20068231,1309762,10347170,10347170,16799092,18669648,18691976,20068231,10347170,10347170,16799092,18669648,18691976,17389395,20166139,20068231
+ERBB2_Homo sapiens	nan	nan	nan	nan	EGFR	nan	nan	nan	nan	?	Phosphorylation	9363897,10635327,16799092,18669648,18691976,17389395,17016520
+JAK2_Homo sapiens	nan	nan	nan	nan	EPOR	nan	nan	nan	nan	?	Phosphorylation	12441334
+LCK_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	7539106
+AKT1_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	11139588
+AKT2_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	11507039,11139588,11432835,9528769
+MAPK1_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	12093745,9528769,10409727
+SRC_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	7539106
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	11507039,11139588,11432835,9528769
+MAPK14_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	12138194
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	12093745,9528769,11507039,11139588,11432835,9528769
+PAK1_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	12374744
+MNAT1_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	10949034,10949034,8308015
+CDK7_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	15461668
+PRKCA_Homo sapiens	nan	nan	nan	nan	EIF4E	nan	nan	nan	nan	?	Phosphorylation	8662663
+PRKCB_Homo sapiens	nan	nan	nan	nan	EIF4E	nan	nan	nan	nan	?	Phosphorylation	8662663
+PRKCG_Homo sapiens	nan	nan	nan	nan	EIF4E	nan	nan	nan	nan	?	Phosphorylation	8662663
+MKNK2_Homo sapiens	nan	nan	nan	nan	EIF4E	nan	nan	nan	nan	?	Phosphorylation	9155017,12897141
+MKNK1_Homo sapiens	nan	nan	nan	nan	EIF4E	nan	nan	nan	nan	?	Phosphorylation	9155017,9878069
+PRKCA_Homo sapiens	nan	nan	nan	nan	EWSR1	nan	nan	nan	nan	?	Phosphorylation	9341188
+FGFR3_Homo sapiens	nan	nan	nan	nan	FGFR3	nan	nan	nan	nan	?	Phosphorylation	11294897,19901323,11294897
+FGFR4_Homo sapiens	nan	nan	nan	nan	FGFR4	nan	nan	nan	nan	?	Phosphorylation	10918587,8576110
+SHB_Homo sapiens	nan	nan	nan	nan	FGFR1	nan	nan	nan	nan	?	Phosphorylation	8622701,7516330,12181353
+FLT3_Homo sapiens	nan	nan	nan	nan	FLT3	nan	nan	nan	nan	?	Phosphorylation	11971190
+AKT1_Homo sapiens	nan	nan	nan	nan	FOXO1	nan	nan	nan	nan	?	Phosphorylation	10358014
+PAK1_Homo sapiens	nan	nan	nan	nan	FOXO1	nan	nan	nan	nan	?	Phosphorylation	10358014,12560069
+GSK3B_Homo sapiens	nan	nan	nan	nan	FOXO1	nan	nan	nan	nan	?	Phosphorylation	11980723
+CSNK1G1_Homo sapiens	nan	nan	nan	nan	FOXO1	nan	nan	nan	nan	?	Phosphorylation	11980723
+DYRK1A_Homo sapiens	nan	nan	nan	nan	FOXO1	nan	nan	nan	nan	?	Phosphorylation	11311120
+ADRBK1_Homo sapiens	nan	nan	nan	nan	FPR1	nan	nan	nan	nan	?	Phosphorylation	7836371
+CSK_Homo sapiens	nan	nan	nan	nan	FYN	nan	nan	nan	nan	?	Phosphorylation	1985196,18691976
+FYN_Homo sapiens	nan	nan	nan	nan	FYN	nan	nan	nan	nan	?	Phosphorylation	1985196,16497976,20068231,20058876,9425276
+PDGFRB_Homo sapiens	nan	nan	nan	nan	FYN	nan	nan	nan	nan	?	Phosphorylation	9425276
+PRKCA_Homo sapiens	nan	nan	nan	nan	GABRG2	nan	nan	nan	nan	?	Phosphorylation	1321150
+AKT1_Homo sapiens	nan	nan	nan	nan	GATA2	nan	nan	nan	nan	?	Phosphorylation	15837948
+CSK_Homo sapiens	nan	nan	nan	nan	GSN	nan	nan	nan	nan	?	Phosphorylation	10210201
+CDK1_Homo sapiens	nan	nan	nan	nan	GFAP	nan	nan	nan	nan	?	Phosphorylation	7822264,12177195
+PRKCA_Homo sapiens	nan	nan	nan	nan	GFAP	nan	nan	nan	nan	?	Phosphorylation	2155236,9099667,7822264,2114109,2155236,7822264,2114109
+PRKACA_Homo sapiens	nan	nan	nan	nan	GFAP	nan	nan	nan	nan	?	Phosphorylation	2155236,9099667,7822264,2114109,2155236,7822264,2114109
+ROCK1_Homo sapiens	nan	nan	nan	nan	GFAP	nan	nan	nan	nan	?	Phosphorylation	2155236,9099667,7822264,2114109,2155236,7822264,2114109,9099667
+CAMK2A_Homo sapiens	nan	nan	nan	nan	GFAP	nan	nan	nan	nan	?	Phosphorylation	7822264,2114109,2155236,9099667,7822264,2114109,2155236,7822264,2114109
+MAPK1_Homo sapiens	nan	nan	nan	nan	NR3C1	nan	nan	nan	nan	?	Phosphorylation	12351702,9199329,18669648
+PRKDC_Homo sapiens	nan	nan	nan	nan	NR3C1	nan	nan	nan	nan	?	Phosphorylation	9038175
+MAPK8_Homo sapiens	nan	nan	nan	nan	NR3C1	nan	nan	nan	nan	?	Phosphorylation	12351702,9199329,18669648
+PRKACA_Homo sapiens	nan	nan	nan	nan	SLC2A2	nan	nan	nan	nan	?	Phosphorylation	8626492
+PRKAA1_Homo sapiens	nan	nan	nan	nan	GRIK2	nan	nan	nan	nan	?	Phosphorylation	8094892,8163463
+PRKCA_Homo sapiens	nan	nan	nan	nan	GRIA4	nan	nan	nan	nan	?	Phosphorylation	10366608
+PRKACA_Homo sapiens	nan	nan	nan	nan	GRIA4	nan	nan	nan	nan	?	Phosphorylation	10366608
+CAMK2G_Homo sapiens	nan	nan	nan	nan	GRIA4	nan	nan	nan	nan	?	Phosphorylation	10366608
+PRKCA_Homo sapiens	nan	nan	nan	nan	GRIA1	nan	nan	nan	nan	?	Phosphorylation	8663994
+PRKACA_Homo sapiens	nan	nan	nan	nan	GRIA1	nan	nan	nan	nan	?	Phosphorylation	8663994
+CAMK2G_Homo sapiens	nan	nan	nan	nan	GRIA1	nan	nan	nan	nan	?	Phosphorylation	7877986,12609872,9407043
+FYN_Homo sapiens	nan	nan	nan	nan	GRIN2B	nan	nan	nan	nan	?	Phosphorylation	11024032,11024032,11483655
+PRKCA_Homo sapiens	nan	nan	nan	nan	GRIN2B	nan	nan	nan	nan	?	Phosphorylation	12147342,8940188,11306676,11306676
+PRKCB_Homo sapiens	nan	nan	nan	nan	GRIN2B	nan	nan	nan	nan	?	Phosphorylation	12147342,8940188,11306676,11306676
+PRKCG_Homo sapiens	nan	nan	nan	nan	GRIN2B	nan	nan	nan	nan	?	Phosphorylation	12147342,8940188,11306676,11306676
+SRC_Homo sapiens	nan	nan	nan	nan	GRIN2B	nan	nan	nan	nan	?	Phosphorylation	11024032,11483655
+CAMK2A_Homo sapiens	nan	nan	nan	nan	GRIN2B	nan	nan	nan	nan	?	Phosphorylation	12147342,8940188,11306676,8940188
+CAMK2B_Homo sapiens	nan	nan	nan	nan	GRIN2B	nan	nan	nan	nan	?	Phosphorylation	12147342,8940188,11306676,8940188
+CDK5_Homo sapiens	nan	nan	nan	nan	GRIN2A	nan	nan	nan	nan	?	Phosphorylation	11675505
+PRKCA_Homo sapiens	nan	nan	nan	nan	GRIN2A	nan	nan	nan	nan	?	Phosphorylation	11104776
+SRC_Homo sapiens	nan	nan	nan	nan	GRIN2A	nan	nan	nan	nan	?	Phosphorylation	10195142,10846184
+CAMK2A_Homo sapiens	nan	nan	nan	nan	GRIN2A	nan	nan	nan	nan	?	Phosphorylation	12147342
+CAMK2B_Homo sapiens	nan	nan	nan	nan	GRIN2A	nan	nan	nan	nan	?	Phosphorylation	12147342
+PRKCA_Homo sapiens	nan	nan	nan	nan	GFPT1	nan	nan	nan	nan	?	Phosphorylation	10806197
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	GYS1	nan	nan	nan	nan	?	Phosphorylation	2117608,2117608,18669648,2117608,19651622,2117608,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	GYS1	nan	nan	nan	nan	?	Phosphorylation	2117608,19413330,18691976,2117608
+GSK3B_Homo sapiens	nan	nan	nan	nan	GYS1	nan	nan	nan	nan	?	Phosphorylation	6772446,11427888,18669648,6772446,11427888,18669648,19664994,18691976,2117608,19651622
+PRKACA_Homo sapiens	nan	nan	nan	nan	GP1BB	nan	nan	nan	nan	?	Phosphorylation	2504723,18088087,19651622,20166139,20058876
+HCK_Homo sapiens	nan	nan	nan	nan	CSF3R	nan	nan	nan	nan	?	Phosphorylation	9790917
+AKT1_Homo sapiens	nan	nan	nan	nan	NR4A1	nan	nan	nan	nan	?	Phosphorylation	11274386,18669648
+MAPK1_Homo sapiens	nan	nan	nan	nan	NR4A1	nan	nan	nan	nan	?	Phosphorylation	11883936
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	NR4A1	nan	nan	nan	nan	?	Phosphorylation	11274386,18669648
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	NR4A1	nan	nan	nan	nan	?	Phosphorylation	11274386,18669648
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	NR4A1	nan	nan	nan	nan	?	Phosphorylation	11274386,18669648
+EGFR_Homo sapiens	nan	nan	nan	nan	RASA1	nan	nan	nan	nan	?	Phosphorylation	1850098
+LCK_Homo sapiens	nan	nan	nan	nan	RASA1	nan	nan	nan	nan	?	Phosphorylation	1850098
+PRKCD_Homo sapiens	nan	nan	nan	nan	GNAZ	nan	nan	nan	nan	?	Phosphorylation	8429024,7559455,9166747
+PRKCA_Homo sapiens	nan	nan	nan	nan	GNA15	nan	nan	nan	nan	?	Phosphorylation	12647293
+PRKCA_Homo sapiens	nan	nan	nan	nan	HES1	nan	nan	nan	nan	?	Phosphorylation	9389649
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HSP90AA1	nan	nan	nan	nan	?	Phosphorylation	2492519,17287340,18088087,19651622,18510355,18452278,18767875,20166139,20068231,2492519,18669648,19413330,18691976,17287340,18088087,18212344,19651622,18510355,18452278,18767875,18707149,19415658,20166139,20068231,20187088
+PRKDC_Homo sapiens	nan	nan	nan	nan	HSP90AA1	nan	nan	nan	nan	?	Phosphorylation	2507541
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HSF1	nan	nan	nan	nan	?	Phosphorylation	12659875
+MAPK8_Homo sapiens	nan	nan	nan	nan	HSF1	nan	nan	nan	nan	?	Phosphorylation	10747973,18669648,19651622,18767875,20166139,20068231
+MAPK3_Homo sapiens	nan	nan	nan	nan	HSF1	nan	nan	nan	nan	?	Phosphorylation	8940068,18669648,19413330,18212344,19651622,19664994,20166139,20068231
+GSK3A_Homo sapiens	nan	nan	nan	nan	HSF1	nan	nan	nan	nan	?	Phosphorylation	12665592,18669648,19413330,18212344,19651622,19664994,20166139,20068231
+CAMK2A_Homo sapiens	nan	nan	nan	nan	HSF1	nan	nan	nan	nan	?	Phosphorylation	11447121
+AKT1_Homo sapiens	nan	nan	nan	nan	HMOX1	nan	nan	nan	nan	?	Phosphorylation	15581622
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HMOX2	nan	nan	nan	nan	?	Phosphorylation	14527438
+CSK_Homo sapiens	nan	nan	nan	nan	HCK	nan	nan	nan	nan	?	Phosphorylation	11976726
+HCK_Homo sapiens	nan	nan	nan	nan	HCK	nan	nan	nan	nan	?	Phosphorylation	9407116,11976726,16497976,19664994,17016520,10934191
+PRKCA_Homo sapiens	nan	nan	nan	nan	SDC2	nan	nan	nan	nan	?	Phosphorylation	9244383,19901323
+PRKCB_Homo sapiens	nan	nan	nan	nan	SDC2	nan	nan	nan	nan	?	Phosphorylation	9244383,19901323
+PRKCG_Homo sapiens	nan	nan	nan	nan	SDC2	nan	nan	nan	nan	?	Phosphorylation	9244383,19901323
+CDK1_Homo sapiens	nan	nan	nan	nan	HIST1H1A	nan	nan	nan	nan	?	Phosphorylation	7499230
+PRKCA_Homo sapiens	nan	nan	nan	nan	HLA-A	nan	nan	nan	nan	?	Phosphorylation	2941417
+PRKAR1A_Homo sapiens	nan	nan	nan	nan	HLA-A	nan	nan	nan	nan	?	Phosphorylation	6333425
+SRC_Homo sapiens	nan	nan	nan	nan	HLA-A	nan	nan	nan	nan	?	Phosphorylation	6304688,6333425
+SRC_Homo sapiens	nan	nan	nan	nan	HLA-B	nan	nan	nan	nan	?	Phosphorylation	6304688
+PRKACA_Homo sapiens	nan	nan	nan	nan	HMGCR	nan	nan	nan	nan	?	Phosphorylation	2369897
+CSNK2B_Homo sapiens	nan	nan	nan	nan	HOXB6	nan	nan	nan	nan	?	Phosphorylation	10327653,19413330,19664994
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HOXB7	nan	nan	nan	nan	?	Phosphorylation	11290787
+AKT1_Homo sapiens	nan	nan	nan	nan	HTT	nan	nan	nan	nan	?	Phosphorylation	12062094,19413330,18088087,19651622,20166139
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	YWHAQ	nan	nan	nan	nan	?	Phosphorylation	9360956,18669648,19415658,18691976,19664995,20068231
+BCR_Homo sapiens	nan	nan	nan	nan	YWHAQ	nan	nan	nan	nan	?	Phosphorylation	9360956,18669648,19415658,18691976,19664995,20068231
+PRKCQ_Homo sapiens	nan	nan	nan	nan	ICAM3	nan	nan	nan	nan	?	Phosphorylation	9268366
+JAK1_Homo sapiens	nan	nan	nan	nan	IL2RB	nan	nan	nan	nan	?	Phosphorylation	8700888
+LCK_Homo sapiens	nan	nan	nan	nan	IL2RB	nan	nan	nan	nan	?	Phosphorylation	10214954
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	IGFBP3	nan	nan	nan	nan	?	Phosphorylation	10650937
+FYN_Homo sapiens	nan	nan	nan	nan	FCGR2A	nan	nan	nan	nan	?	Phosphorylation	8756631
+LYN_Homo sapiens	nan	nan	nan	nan	FCGR2A	nan	nan	nan	nan	?	Phosphorylation	8756631
+BLK_Homo sapiens	nan	nan	nan	nan	FCGR2A	nan	nan	nan	nan	?	Phosphorylation	8756631
+SYK_Homo sapiens	nan	nan	nan	nan	FCGR2A	nan	nan	nan	nan	?	Phosphorylation	8756631
+JAK1_Homo sapiens	nan	nan	nan	nan	IL10RA	nan	nan	nan	nan	?	Phosphorylation	10433356
+MAPK1_Homo sapiens	nan	nan	nan	nan	TCF3	nan	nan	nan	nan	?	Phosphorylation	14592976
+MAPK3_Homo sapiens	nan	nan	nan	nan	TCF3	nan	nan	nan	nan	?	Phosphorylation	14592976
+FYN_Homo sapiens	nan	nan	nan	nan	CD79B	nan	nan	nan	nan	?	Phosphorylation	9531288
+LYN_Homo sapiens	nan	nan	nan	nan	CD79B	nan	nan	nan	nan	?	Phosphorylation	9531288
+LCK_Homo sapiens	nan	nan	nan	nan	CD79B	nan	nan	nan	nan	?	Phosphorylation	8077654
+CDK1_Homo sapiens	nan	nan	nan	nan	ITPR1	nan	nan	nan	nan	?	Phosphorylation	14635192,16237118,14635192
+FYN_Homo sapiens	nan	nan	nan	nan	ITPR1	nan	nan	nan	nan	?	Phosphorylation	14761954
+PRKACA_Homo sapiens	nan	nan	nan	nan	ITPR1	nan	nan	nan	nan	?	Phosphorylation	12529267,18669648,19007248,18767875,20166139,20068231,8132598,18669648,19651622,20068231
+PRKG1_Homo sapiens	nan	nan	nan	nan	ITPR1	nan	nan	nan	nan	?	Phosphorylation	8132598,18669648,19651622,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	IGF1R	nan	nan	nan	nan	?	Phosphorylation	8940173,18691976,17016520,8940173,18691976,17389395,17016520,20068231,8940173,8940173,17016520
+PRKCA_Homo sapiens	nan	nan	nan	nan	ITPKA	nan	nan	nan	nan	?	Phosphorylation	9374536,9155020
+PRKACA_Homo sapiens	nan	nan	nan	nan	ITPKA	nan	nan	nan	nan	?	Phosphorylation	9374536,9155020
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	8349691
+CSNK2B_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	8349691
+IGF1R_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	8530377
+JAK1_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	11162588
+MAPK8_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	12351658,11606564,10722755
+IKBKB_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	12351658,12351658,18077418,19651622,12351658,11606564,10722755,12351658,19651622
+SIK2_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	12624099
+MAPK1_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	16131083,16131083,19651622
+PRKCQ_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	15364919
+PRKCG_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	15364919
+PRKCD_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	15364919
+PRKCB_Homo sapiens	nan	nan	nan	nan	ITGB7	nan	nan	nan	nan	?	Phosphorylation	12682249
+PRKCD_Homo sapiens	nan	nan	nan	nan	ITGB7	nan	nan	nan	nan	?	Phosphorylation	12682249
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	IFI16	nan	nan	nan	nan	?	Phosphorylation	11115400
+INSR_Homo sapiens	nan	nan	nan	nan	INSR	nan	nan	nan	nan	?	Phosphorylation	7806540,16497976,7806540,16497976,19901323,11401470,19901323,8504096,8496180
+PRKCA_Homo sapiens	nan	nan	nan	nan	INSR	nan	nan	nan	nan	?	Phosphorylation	7926007,8463287
+PAK1_Homo sapiens	nan	nan	nan	nan	CASP1	nan	nan	nan	nan	?	Phosphorylation	15561713
+JAK3_Homo sapiens	nan	nan	nan	nan	JAK1	nan	nan	nan	nan	?	Phosphorylation	12559972,19901323
+JAK2_Homo sapiens	nan	nan	nan	nan	JAK2	nan	nan	nan	nan	?	Phosphorylation	9111318,11593427,15143187,11818507,9111318,7889566,17027227,15143188,15143187,15143188,15143187,17389395,18491316,15121872,17027227
+ABL1_Homo sapiens	nan	nan	nan	nan	JAK2	nan	nan	nan	nan	?	Phosphorylation	9111318,11593427,15143187
+MAPK1_Homo sapiens	nan	nan	nan	nan	KRT8	nan	nan	nan	nan	?	Phosphorylation	11788583,11781324,9211903,18691976,19007248
+MAPK14_Homo sapiens	nan	nan	nan	nan	KRT8	nan	nan	nan	nan	?	Phosphorylation	11788583,11781324,9211903,18691976,19007248
+MAPK8_Homo sapiens	nan	nan	nan	nan	KRT8	nan	nan	nan	nan	?	Phosphorylation	11788583,11781324,9211903,18691976,19007248
+MAPK3_Homo sapiens	nan	nan	nan	nan	KRT8	nan	nan	nan	nan	?	Phosphorylation	11788583,9054461,18669648,11788583,11781324,9211903,18691976,19007248
+PRKCA_Homo sapiens	nan	nan	nan	nan	KRT18	nan	nan	nan	nan	?	Phosphorylation	7523419,1374067,18669648,17924679,19007248,20068231
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	KRT18	nan	nan	nan	nan	?	Phosphorylation	7523419,1374067,18669648,17924679,19007248,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	KRT18	nan	nan	nan	nan	?	Phosphorylation	9524113,15368451,18669648,19415658,19007248,20068231
+PRKCE_Homo sapiens	nan	nan	nan	nan	KRT18	nan	nan	nan	nan	?	Phosphorylation	7523419,1374067,18669648,17924679,19007248,20068231
+CAMK2A_Homo sapiens	nan	nan	nan	nan	KRT18	nan	nan	nan	nan	?	Phosphorylation	7523419,1374067,18669648,17924679,19007248,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	KIF11	nan	nan	nan	nan	?	Phosphorylation	9235942,8548803,16565220,19413330,19007248,19691289,19664994,20068230,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	LMNA	nan	nan	nan	nan	?	Phosphorylation	7925482,16565220,18669648,19413330,19415658,17924679,19664995,18212344,19651622,19691289,16964243,18767875,20068231,7925482,2344612,16565220,18669648,19413330,19415658,18691976,17287340,17924679,18491316,19007248,19664995,18212344,19651622,19691289,19664994,16964243,18707149,18452278,18767875,20166139,20068231,20058876,7925482,2344612,18669648,19415658,18691976,17924679,18077418,18491316,19007248,19664995,18212344,19651622,19691289,19664994,16964243,18767875,20166139,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	LMNA	nan	nan	nan	nan	?	Phosphorylation	7925482,16565220,18669648,19413330,19415658,17924679,19664995,18212344,19651622,19691289,16964243,18767875,20068231,7925482,19562805,18691976,17924679,19651622,20166139,20068231,7925482,18691976,17924679,19664995,19651622,18707149,20166139,20068231,8477740,7925482
+CDK1_Homo sapiens	nan	nan	nan	nan	LMNB1	nan	nan	nan	nan	?	Phosphorylation	8034666,16565220,18669648,19413330,19415658,18691976,17287340,19007248,19664995,19651622,19691289,19664994,16964243,18767875,20068231,20058876
+PRKCB_Homo sapiens	nan	nan	nan	nan	LMNB1	nan	nan	nan	nan	?	Phosphorylation	8034666,20068231,8034666
+HIPK2_Homo sapiens	nan	nan	nan	nan	RUNX1	nan	nan	nan	nan	?	Phosphorylation	169175071,16917507
+HCK_Homo sapiens	nan	nan	nan	nan	BCR	nan	nan	nan	nan	?	Phosphorylation	9178913,12522270,8955135,9407116,16497976
+FES_Homo sapiens	nan	nan	nan	nan	BCR	nan	nan	nan	nan	?	Phosphorylation	9178913,12522270,8955135,9407116,16497976,8955135,16497976,8955135
+MAPK1_Homo sapiens	nan	nan	nan	nan	BCL2	nan	nan	nan	nan	?	Phosphorylation	10567572,12039864,15225643
+PRKCA_Homo sapiens	nan	nan	nan	nan	BCL2	nan	nan	nan	nan	?	Phosphorylation	9738012
+MAPK8_Homo sapiens	nan	nan	nan	nan	BCL2	nan	nan	nan	nan	?	Phosphorylation	10567572,10567572,12039864,10567572,12039864,15225643
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	STMN1	nan	nan	nan	nan	?	Phosphorylation	8376365,8002936,18669648,19413330,19415658,17287340,17924679,19664995,19651622,19664994,18767875,17693683,18452278,16964243,18212344,20068231,8376365,8002936,18669648,17287340,17924679,19651622,18767875,18212344,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	STMN1	nan	nan	nan	nan	?	Phosphorylation	8376365,11135364,8325880,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18707149,18452278,16964243,18212344,20230923,20068231,20058876,8376365,16427064,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18452278,16964243,18212344,18578522,20230923,20068231,20058876,8376365,8125092,16427064,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18452278,16964243,18212344,18578522,20230923,20068231,20058876,8376365,11135364,8325880,8125092,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18707149,18452278,16964243,18212344,20230923,20068231,20058876
+PRKACA_Homo sapiens	nan	nan	nan	nan	STMN1	nan	nan	nan	nan	?	Phosphorylation	8376365,8002936,18669648,19413330,19415658,17287340,17924679,19664995,19651622,19664994,18767875,17693683,18452278,16964243,18212344,20068231,8376365,8002936,18669648,17287340,17924679,19651622,18767875,18212344,20068231
+MAPK3_Homo sapiens	nan	nan	nan	nan	STMN1	nan	nan	nan	nan	?	Phosphorylation	8376365,11135364,8325880,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18707149,18452278,16964243,18212344,20230923,20068231,20058876,8376365,11135364,8325880,8125092,18669648,19413330,19415658,17287340,17924679,18491316,19664995,19651622,19664994,18767875,17693683,18707149,18452278,16964243,18212344,20230923,20068231,20058876
+MAPK1_Homo sapiens	nan	nan	nan	nan	LIFR	nan	nan	nan	nan	?	Phosphorylation	7777512
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PTPRC	nan	nan	nan	nan	?	Phosphorylation	10066810
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	PTPRC	nan	nan	nan	nan	?	Phosphorylation	10066810
+SRC_Homo sapiens	nan	nan	nan	nan	ANXA1	nan	nan	nan	nan	?	Phosphorylation	2457390
+TRPM7_Homo sapiens	nan	nan	nan	nan	ANXA1	nan	nan	nan	nan	?	Phosphorylation	15485879,20068231
+PRKCI_Homo sapiens	nan	nan	nan	nan	ANXA1	nan	nan	nan	nan	?	Phosphorylation	2457390
+PRKCA_Homo sapiens	nan	nan	nan	nan	ANXA2	nan	nan	nan	nan	?	Phosphorylation	2946940,18669648,18578522,20166139,20068231
+PRKCB_Homo sapiens	nan	nan	nan	nan	ANXA2	nan	nan	nan	nan	?	Phosphorylation	8898866,20068231
+MAPK1_Homo sapiens	nan	nan	nan	nan	LIPE	nan	nan	nan	nan	?	Phosphorylation	11581251
+PRKACA_Homo sapiens	nan	nan	nan	nan	LIPE	nan	nan	nan	nan	?	Phosphorylation	9417067,9417067,14641008
+MAPK3_Homo sapiens	nan	nan	nan	nan	LIPE	nan	nan	nan	nan	?	Phosphorylation	11581251
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	ALOX5	nan	nan	nan	nan	?	Phosphorylation	10779545,11844797
+PRKACA_Homo sapiens	nan	nan	nan	nan	KCNH2	nan	nan	nan	nan	?	Phosphorylation	11953308,10837251,19651622,11953308
+NLK_Homo sapiens	nan	nan	nan	nan	LEF1	nan	nan	nan	nan	?	Phosphorylation	12556497
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CD5	nan	nan	nan	nan	?	Phosphorylation	9834084
+FYN_Homo sapiens	nan	nan	nan	nan	CD5	nan	nan	nan	nan	?	Phosphorylation	11298344,15144186,11298344
+LCK_Homo sapiens	nan	nan	nan	nan	CD5	nan	nan	nan	nan	?	Phosphorylation	11298344,15144186,11298344
+PRKCA_Homo sapiens	nan	nan	nan	nan	CD5	nan	nan	nan	nan	?	Phosphorylation	11123317
+PRKCB_Homo sapiens	nan	nan	nan	nan	CD5	nan	nan	nan	nan	?	Phosphorylation	11123317
+PRKCG_Homo sapiens	nan	nan	nan	nan	CD5	nan	nan	nan	nan	?	Phosphorylation	11123317
+CSK_Homo sapiens	nan	nan	nan	nan	LCK	nan	nan	nan	nan	?	Phosphorylation	12485116,15144186,16497976,19901323,18691976
+FCGR3A_Homo sapiens	nan	nan	nan	nan	LCK	nan	nan	nan	nan	?	Phosphorylation	8945479,8258691,8405050,15144186,18578522
+LCK_Homo sapiens	nan	nan	nan	nan	LCK	nan	nan	nan	nan	?	Phosphorylation	8945479,8258691,8405050,15144186,18578522
+MAPK1_Homo sapiens	nan	nan	nan	nan	LCK	nan	nan	nan	nan	?	Phosphorylation	8506364,8618896
+PRKCA_Homo sapiens	nan	nan	nan	nan	LCK	nan	nan	nan	nan	?	Phosphorylation	8506364
+SYK_Homo sapiens	nan	nan	nan	nan	LCK	nan	nan	nan	nan	?	Phosphorylation	8798764,16497976,19664994
+PRKACA_Homo sapiens	nan	nan	nan	nan	LCK	nan	nan	nan	nan	?	Phosphorylation	8506364
+MAPK3_Homo sapiens	nan	nan	nan	nan	LCK	nan	nan	nan	nan	?	Phosphorylation	8506364,8618896
+PRKACA_Homo sapiens	nan	nan	nan	nan	LCP1	nan	nan	nan	nan	?	Phosphorylation	10446213,19651622,20230923,20166139,20058876
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	LSP1	nan	nan	nan	nan	?	Phosphorylation	8995217,8995217,19413330,20166139,20058876
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	LGALS3	nan	nan	nan	nan	?	Phosphorylation	8253806,10961987,8253806
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	LGALS3	nan	nan	nan	nan	?	Phosphorylation	8253806,10961987,8253806
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	LGALS3	nan	nan	nan	nan	?	Phosphorylation	8253806,10961987,8253806
+AKT1_Homo sapiens	nan	nan	nan	nan	YBX1	nan	nan	nan	nan	?	Phosphorylation	16354698,19664994,19651622
+PRKACA_Homo sapiens	nan	nan	nan	nan	MIP	nan	nan	nan	nan	?	Phosphorylation	2176601
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	MAX	nan	nan	nan	nan	?	Phosphorylation	11535131,8247525,19413330,19651622,20068231,11535131,11535131,19651622,11535131,18452278,11535131,19651622,18452278,11535131,8247525,9115440,19413330,19651622,20068231,9115440,19413330,19651622,20068231,9115440,18691976,19651622,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	MAX	nan	nan	nan	nan	?	Phosphorylation	7479834,11535131,19651622,18452278
+ADRBK1_Homo sapiens	nan	nan	nan	nan	MC4R	nan	nan	nan	nan	?	Phosphorylation	12639913
+PRKACA_Homo sapiens	nan	nan	nan	nan	MC4R	nan	nan	nan	nan	?	Phosphorylation	12639913
+NME1_Homo sapiens	nan	nan	nan	nan	NME1	nan	nan	nan	nan	?	Phosphorylation	8810265,19651622,8810265,8245015,8810265
+NME2_Homo sapiens	nan	nan	nan	nan	NME2	nan	nan	nan	nan	?	Phosphorylation	8245015,1851158
+GSK3B_Homo sapiens	nan	nan	nan	nan	MITF	nan	nan	nan	nan	?	Phosphorylation	10587587
+MARK1_Homo sapiens	nan	nan	nan	nan	MAP2	nan	nan	nan	nan	?	Phosphorylation	8631898
+PRKACA_Homo sapiens	nan	nan	nan	nan	MAP2	nan	nan	nan	nan	?	Phosphorylation	11029056
+CDK1_Homo sapiens	nan	nan	nan	nan	MAP4	nan	nan	nan	nan	?	Phosphorylation	9398320,11683421,20068231,9398320,11683421,19415658,19664995,19691289,20068231
+MARK1_Homo sapiens	nan	nan	nan	nan	MAP4	nan	nan	nan	nan	?	Phosphorylation	8631898,18669648,19415658,19651622,17693683,18452278,18707149,18212344,20166139,20068231,8631898,18767875,20166139,20068231,20058876,8631898,18669648,20166139,20068231
+CDK5_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9832145,12387894,17078951,1330687,9771888,9565682,7566346,9832145,12387894,12226093,9199504,19413330,19415658,9771888,9565682,11181841,12226093,9199504,19413330,19562805,9546672,11311121,9353289,11181841,9832145,12387894,9546672,12435421,9832145,12387894,11104762,11181841,7566346,9832145,12387894,9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17287340,19651622,20068231,9771888,9565682,7566346,9832145,12387894,17287340,19651622,20068231,12387894,9565682,1181841,7566346,9832145,12387894,11181841,9771888,9565682,11181841,7566346,9832145,12387894,19413330,19415658,19651622,9771888,9565682,11181841,12226093,9199504,17078951,19413330,19562805,9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17078951,17287340,19651622,20068231,9565682,1181841,7566346,9832145,12387894,17078951,9771888,9565682,7566346,12387894,1330687,9832145,12226093,9199504,19413330,19415658,9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805,9565682,1181841,7566346,9832145,12387894,9771888,9565682,7566346,12387894,17078951,19413330,9832145,7566346,11181841,9771888,9199504,18510355,9614189
+PHKG1_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	8999860,19651622,20068231,9771888,9735171,10090741,9832145,12387894,7706316,8999860
+MAPK1_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9832145,10737616,9832145,7566346,11181841,9771888,9199504,18510355,1330687,9771888,9565682,7566346,9832145,12387894,12226093,9199504,19413330,19415658,9771888,9565682,7566346,12387894,1330687,9832145,12226093,9199504,19413330,19415658
+GSK3B_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9832145,7566346,11181841,9771888,9199504,17078951,9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17078951,17287340,19651622,20068231,9832145,12387897,18510355,9832145,7566346,11181841,9771888,9199504,18510355,9771888,12387894,12387894,18510355,9771888,11181841,12387894,9771888,7566346,9832145,12387894,9771888,9565682,7566346,12387894,19413330,1330687,9771888,9565682,7566346,9832145,12387894,12226093,9199504,19413330,19415658,9771888,9565682,11181841,12226093,9199504,19413330,19562805,11311121,19562805,9546672,11311121,9353289,11181841,9832145,12387894,11181841,7566346,9832145,12387894,9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17287340,19651622,20068231,9771888,9735171,10090741,9832145,12387894,7706316,8999860,9565682,1181841,7566346,9832145,12387894,7566346,9832145,12387894,19413330,9771888,9565682,11181841,7566346,9832145,12387894,19413330,19415658,19651622,9565682,12387894,9771888,9565682,7566346,12387894,17078951,19413330,9771888,9565682,11181841,12226093,9199504,17078951,19413330,19562805,9565682,1181841,7566346,9832145,12387894,17078951,9771888,9565682,7566346,12387894,1330687,9832145,12226093,9199504,19413330,19415658,9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805
+PRKCD_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9771888,9735171,10090741,9832145,12387894,7706316,8999860,9771888,10737616,9832145,12387894,12435421,7706316
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9546672,11311121,9353289,11181841,9832145,12387894
+PKN1_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9546672,12435421,9832145,12387894,11104762,11104762,11104762,9199504,9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805
+PRKACA_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9771888,11181841,12387894,9771888,7566346,9832145,12387894,9771888,9565682,7566346,12387894,19413330,9546672,11311121,9353289,11181841,9832145,12387894,9546672,12435421,9832145,12387894,11104762,9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17287340,19651622,20068231,9771888,9735171,10090741,9832145,12387894,7706316,8999860,9771888,10737616,9832145,12387894,12435421,7706316,12435421,9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805
+MAPK12_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9832145,7566346,11181841,9771888,9199504,18510355,1330687,9771888,9565682,7566346,9832145,12387894,12226093,9199504,19413330,19415658,9771888,9565682,11181841,12226093,9199504,19413330,19562805,9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17287340,19651622,20068231,11104762,9199504,9771888,9565682,11181841,12226093,9199504,17078951,19413330,19562805,9771888,9565682,9735171,9353289,7566346,9832145,12387894,9199504,17078951,17287340,19651622,20068231,9771888,9565682,7566346,12387894,1330687,9832145,12226093,9199504,19413330,19415658,9771888,9565682,11181841,12226093,9199504,9546672,12435421,9832145,12387894,19413330,19562805
+GSK3A_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	7931292,7706316
+CAMK2A_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9771888,9735171,10090741,9832145,12387894,7706316,8999860,9771888,10737616,9832145,12387894,12435421,7706316
+MARK1_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9771888,9735171,10090741,9832145,12387894,7706316,8999860,7706316,7931292,7706316,9771888,10737616,9832145,12387894,12435421,7706316
+CDK1_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	9614189
+ABL1_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	16014719
+RPS6KB1_Homo sapiens	nan	nan	nan	nan	MAPT	nan	nan	nan	nan	?	Phosphorylation	16364302
+CDK1_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	8119945,8119945,18212344,16964243,18691976,8119945,18669648,8119945,18669648,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
+PLK1_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	11897663
+MARK3_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
+PLK3_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
+CHEK1_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
+CHEK2_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
+BRSK2_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
+BRSK1_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
+PKN1_Homo sapiens	nan	nan	nan	nan	CDC25C	nan	nan	nan	nan	?	Phosphorylation	10557092,9278512,11333986,11551930,9543386,20068231
+EGFR_Homo sapiens	nan	nan	nan	nan	MUC1	nan	nan	nan	nan	?	Phosphorylation	11483589,11483589,11152665
+PRKCD_Homo sapiens	nan	nan	nan	nan	MUC1	nan	nan	nan	nan	?	Phosphorylation	11877440
+GSK3B_Homo sapiens	nan	nan	nan	nan	MUC1	nan	nan	nan	nan	?	Phosphorylation	9819408
+ZAP70_Homo sapiens	nan	nan	nan	nan	MUC1	nan	nan	nan	nan	?	Phosphorylation	14766232
+PRKCA_Homo sapiens	nan	nan	nan	nan	MBP	nan	nan	nan	nan	?	Phosphorylation	2413024
+PRKACA_Homo sapiens	nan	nan	nan	nan	MBP	nan	nan	nan	nan	?	Phosphorylation	2413024
+MAPK1_Homo sapiens	nan	nan	nan	nan	MBP	nan	nan	nan	nan	?	Phosphorylation	12760422,15380617
+FYN_Homo sapiens	nan	nan	nan	nan	MAG	nan	nan	nan	nan	?	Phosphorylation	7525550
+BCR_Homo sapiens	nan	nan	nan	nan	MLLT4	nan	nan	nan	nan	?	Phosphorylation	12808105
+SRC_Homo sapiens	nan	nan	nan	nan	CD33	nan	nan	nan	nan	?	Phosphorylation	10206955
+CDK2_Homo sapiens	nan	nan	nan	nan	MYOD1	nan	nan	nan	nan	?	Phosphorylation	9710583
+PRKCA_Homo sapiens	nan	nan	nan	nan	MYOD1	nan	nan	nan	nan	?	Phosphorylation	1335366
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	MYF5	nan	nan	nan	nan	?	Phosphorylation	9461343
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	MYF5	nan	nan	nan	nan	?	Phosphorylation	9461343
+CDC42BPA_Homo sapiens	nan	nan	nan	nan	MYL2	nan	nan	nan	nan	?	Phosphorylation	9418861
+FYN_Homo sapiens	nan	nan	nan	nan	NMT1	nan	nan	nan	nan	?	Phosphorylation	11594778
+LYN_Homo sapiens	nan	nan	nan	nan	NMT1	nan	nan	nan	nan	?	Phosphorylation	11594778
+PRKACB_Homo sapiens	nan	nan	nan	nan	NGFR	nan	nan	nan	nan	?	Phosphorylation	12682012
+PRKCB_Homo sapiens	nan	nan	nan	nan	GAP43	nan	nan	nan	nan	?	Phosphorylation	8694767,2140056
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	GAP43	nan	nan	nan	nan	?	Phosphorylation	1828073
+MAPK1_Homo sapiens	nan	nan	nan	nan	NEFH	nan	nan	nan	nan	?	Phosphorylation	9592082,18510355,9592082
+AKT1_Homo sapiens	nan	nan	nan	nan	NOS3	nan	nan	nan	nan	?	Phosphorylation	11696579,10376603,20166139
+PRKCA_Homo sapiens	nan	nan	nan	nan	NOS1	nan	nan	nan	nan	?	Phosphorylation	10400690,10874031,12630910,1375933
+PRKACA_Homo sapiens	nan	nan	nan	nan	NOS1	nan	nan	nan	nan	?	Phosphorylation	10400690,10874031,12630910,1375933
+CAMK1_Homo sapiens	nan	nan	nan	nan	NOS1	nan	nan	nan	nan	?	Phosphorylation	10400690,10874031,12630910,1375933,15251453
+CAMK2A_Homo sapiens	nan	nan	nan	nan	NOS1	nan	nan	nan	nan	?	Phosphorylation	10400690,10874031,12630910,1375933
+CAMK4_Homo sapiens	nan	nan	nan	nan	NOS1	nan	nan	nan	nan	?	Phosphorylation	10400690,10874031,12630910,1375933
+ADRBK1_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	10617630,10852916
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	10617630,10852916
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	10617630,10852916
+FYN_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	12096713,11744621,11162638
+FGR_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	12096713,11744621,11162638
+LYN_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	12096713,11744621,11162638
+SYK_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	12096713,11744621,11162638,11744621
+CSNK1D_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	10617630,10852916
+GRK5_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	10617630,10852916
+PTK2B_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	12096713,11744621,11162638
+GRK6_Homo sapiens	nan	nan	nan	nan	SNCA	nan	nan	nan	nan	?	Phosphorylation	10852916
+PRKCA_Homo sapiens	nan	nan	nan	nan	HMGN2	nan	nan	nan	nan	?	Phosphorylation	11438671
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	HMGN2	nan	nan	nan	nan	?	Phosphorylation	11438671
+PRKACA_Homo sapiens	nan	nan	nan	nan	HMGN2	nan	nan	nan	nan	?	Phosphorylation	11438671
+PRKCA_Homo sapiens	nan	nan	nan	nan	HMGN1	nan	nan	nan	nan	?	Phosphorylation	11438671,10739259,20068231,11438671,20068231,11438671,12773393,17924679,20166139
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	HMGN1	nan	nan	nan	nan	?	Phosphorylation	11438671,10739259,20068231,11438671,20068231,11438671,12773393,17924679,20166139
+PRKACA_Homo sapiens	nan	nan	nan	nan	HMGN1	nan	nan	nan	nan	?	Phosphorylation	11438671,10739259,20068231,11438671,20068231,11438671,12773393,17924679,20166139
+RPS6KA4_Homo sapiens	nan	nan	nan	nan	HMGN1	nan	nan	nan	nan	?	Phosphorylation	11438671,12773393,17924679,20166139
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	HMGN1	nan	nan	nan	nan	?	Phosphorylation	11438671,12773393,17924679,20166139
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	NFKBIA	nan	nan	nan	nan	?	Phosphorylation	8622692,8622692,10398585,10398585
+LCK_Homo sapiens	nan	nan	nan	nan	NFKBIA	nan	nan	nan	nan	?	Phosphorylation	8797825,12429743,9792645
+EIF2AK2_Homo sapiens	nan	nan	nan	nan	NFKBIA	nan	nan	nan	nan	?	Phosphorylation	8601309,9721103,9214631,10723127
+SRC_Homo sapiens	nan	nan	nan	nan	NFKBIA	nan	nan	nan	nan	?	Phosphorylation	8797825,12429743,9792645
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	NFKBIA	nan	nan	nan	nan	?	Phosphorylation	8601309,9721103,9214631,10723127
+IKBKB_Homo sapiens	nan	nan	nan	nan	NFKBIA	nan	nan	nan	nan	?	Phosphorylation	8601309,9721103,9214631,10723127,16319058,8601309,9721103,10783893
+TBK1_Homo sapiens	nan	nan	nan	nan	NFKBIA	nan	nan	nan	nan	?	Phosphorylation	8601309,9721103,10783893
+IKBKE_Homo sapiens	nan	nan	nan	nan	NFKBIA	nan	nan	nan	nan	?	Phosphorylation	10421793
+IKBKG_Homo sapiens	nan	nan	nan	nan	NFKBIA	nan	nan	nan	nan	?	Phosphorylation	16319058
+CHUK_Homo sapiens	nan	nan	nan	nan	NFKB1	nan	nan	nan	nan	?	Phosphorylation	10469655,10469655,11158290,11976329
+PRKACA_Homo sapiens	nan	nan	nan	nan	NFKB1	nan	nan	nan	nan	?	Phosphorylation	12947093
+IKBKB_Homo sapiens	nan	nan	nan	nan	NFKB1	nan	nan	nan	nan	?	Phosphorylation	10469655,11158290,11976329
+GSK3B_Homo sapiens	nan	nan	nan	nan	NFKB1	nan	nan	nan	nan	?	Phosphorylation	11425860,11425860,18669648
+MAP3K14_Homo sapiens	nan	nan	nan	nan	NFKB2	nan	nan	nan	nan	?	Phosphorylation	11239468
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	RELA	nan	nan	nan	nan	?	Phosphorylation	10938077
+PRKCZ_Homo sapiens	nan	nan	nan	nan	RELA	nan	nan	nan	nan	?	Phosphorylation	12881425
+PRKACA_Homo sapiens	nan	nan	nan	nan	RELA	nan	nan	nan	nan	?	Phosphorylation	9660950,9150141
+CHUK_Homo sapiens	nan	nan	nan	nan	RELA	nan	nan	nan	nan	?	Phosphorylation	12842894
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HNRNPC	nan	nan	nan	nan	?	Phosphorylation	12564933,18669648,19413330,18691976,17287340,19664995,19651622,17693683,18452278,20166139,20068231,20058876
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	HNRNPC	nan	nan	nan	nan	?	Phosphorylation	12564933,18669648,19413330,18691976,17287340,19664995,19651622,17693683,18452278,20166139,20068231,20058876
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	HNRNPC	nan	nan	nan	nan	?	Phosphorylation	15687492,18669648,18691976,17287340,19664995,19651622,18452278,20166139,20068231,20058876
+CDK1_Homo sapiens	nan	nan	nan	nan	NPM1	nan	nan	nan	nan	?	Phosphorylation	12058066,20068231,11278991,17287340,20068231
+CDK2_Homo sapiens	nan	nan	nan	nan	NPM1	nan	nan	nan	nan	?	Phosphorylation	11278991,17287340,17924679,18212344,19651622,20068231
+PLK1_Homo sapiens	nan	nan	nan	nan	NPM1	nan	nan	nan	nan	?	Phosphorylation	15190079,19413330,19651622,20068231
+MAPK3_Homo sapiens	nan	nan	nan	nan	ETS1	nan	nan	nan	nan	?	Phosphorylation	11948414,12048211
+MAPK7_Homo sapiens	nan	nan	nan	nan	ETS1	nan	nan	nan	nan	?	Phosphorylation	11948414,12048211
+CAMK2A_Homo sapiens	nan	nan	nan	nan	ETS1	nan	nan	nan	nan	?	Phosphorylation	12475968
+CAMK2B_Homo sapiens	nan	nan	nan	nan	ETS1	nan	nan	nan	nan	?	Phosphorylation	12475968
+SRC_Homo sapiens	nan	nan	nan	nan	AKT1	nan	nan	nan	nan	?	Phosphorylation	11445557
+ILK_Homo sapiens	nan	nan	nan	nan	AKT1	nan	nan	nan	nan	?	Phosphorylation	9736715
+PDK1_Homo sapiens	nan	nan	nan	nan	AKT1	nan	nan	nan	nan	?	Phosphorylation	11278835
+PDPK1_Homo sapiens	nan	nan	nan	nan	AKT1	nan	nan	nan	nan	?	Phosphorylation	9368760,10226025,10226025
+CAMKK1_Homo sapiens	nan	nan	nan	nan	AKT1	nan	nan	nan	nan	?	Phosphorylation	10833263
+RHEBL1_Homo sapiens	nan	nan	nan	nan	AKT1	nan	nan	nan	nan	?	Phosphorylation	16098514
+PDPK1_Homo sapiens	nan	nan	nan	nan	AKT2	nan	nan	nan	nan	?	Phosphorylation	12048203,9374542,9512493,12048203,9374542,9374542,12048203
+AKT1_Homo sapiens	nan	nan	nan	nan	BRAF	nan	nan	nan	nan	?	Phosphorylation	10869359,11410590,18669648,19651622,18452278,20230923,20068231,20058876,10869359
+PRKACA_Homo sapiens	nan	nan	nan	nan	BRAF	nan	nan	nan	nan	?	Phosphorylation	11510412
+SGK1_Homo sapiens	nan	nan	nan	nan	BRAF	nan	nan	nan	nan	?	Phosphorylation	10869359,11410590,18669648,19651622,18452278,20230923,20068231,20058876
+RHEB_Homo sapiens	nan	nan	nan	nan	BRAF	nan	nan	nan	nan	?	Phosphorylation	16803888,18669648,18691976,19651622,18452278,20166139,20068231
+BRAF_Homo sapiens	nan	nan	nan	nan	BRAF	nan	nan	nan	nan	?	Phosphorylation	17192257,17192257,20068231,17192257,20230923,20068231,17192257,17924679
+JAK2_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	9689060,11134016,8876196,10205168,8876196
+AKT1_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	10576742,11971957,11997508,18669648,18691976,18767875,20230923,20068231
+RAF1_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	8349614,11971957,9710607,9091312,19007248,19651622,20166139,20068231
+MAPK1_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	15664191,18691976,15664191,19651622,20068231,15664191,18691976,20068231,15664191,18669648,18767875
+PRKCA_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	8321321
+SRC_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	10205168,8876196,17097642,17097642
+PAK3_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	9234708,10205168,11733498,9823899
+PRKACA_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	11997508,10576742,11971957,11997508,18669648,18691976,18767875,20230923,20068231,11971957,11997508,18691976,11971957,9710607,9091312,19007248,19651622,20166139,20068231
+PAK1_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	9234708,10205168,11733498,9823899,12551923
+PRKAA1_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	11971957,9710607,9091312,19007248,19651622,20166139,20068231
+RHEB_Homo sapiens	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	16803888
+RET_Homo sapiens	nan	nan	nan	nan	RET	nan	nan	nan	nan	?	Phosphorylation	8621380,8621380,14711813,15677445,10445857,8621380,14711813,10445857,14711813,8621380,11121408,15588985,14711813,15677445,14711813
+EGFR_Homo sapiens	nan	nan	nan	nan	CRK	nan	nan	nan	nan	?	Phosphorylation	12198159,11956190,9642287,8875975,9480911,17016520,20068231
+IGF1R_Homo sapiens	nan	nan	nan	nan	CRK	nan	nan	nan	nan	?	Phosphorylation	12198159,11956190,9642287,8875975,9480911,17016520,20068231
+ABL2_Homo sapiens	nan	nan	nan	nan	CRK	nan	nan	nan	nan	?	Phosphorylation	12198159,11956190,9642287,8875975,9480911,17016520,20068231
+ABL1_Homo sapiens	nan	nan	nan	nan	CRK	nan	nan	nan	nan	?	Phosphorylation	12198159,11956190,9642287,8875975,9480911,17016520,20068231
+FER_Homo sapiens	nan	nan	nan	nan	CTTN	nan	nan	nan	nan	?	Phosphorylation	9748248,10921917,18669648,19413330,17287340,17389395,18491316,18088087,16497976,17016520,18707149,20068231,9748248,18669648,19413330,17287340,17389395,18491316,18088087,16497976,17016520,18707149,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	CTTN	nan	nan	nan	nan	?	Phosphorylation	9748248,10921917,18669648,19413330,17287340,17389395,18491316,18088087,16497976,17016520,18707149,20068231,9748248,9748248,18669648,19413330,17287340,17389395,18491316,18088087,16497976,17016520,18707149,20068231
+CSF1R_Homo sapiens	nan	nan	nan	nan	CSF1R	nan	nan	nan	nan	?	Phosphorylation	1833648
+AKT1_Homo sapiens	nan	nan	nan	nan	MDM2	nan	nan	nan	nan	?	Phosphorylation	11504915,19664995,11504915,15527798
+ABL1_Homo sapiens	nan	nan	nan	nan	MDM2	nan	nan	nan	nan	?	Phosphorylation	12110584
+ATM_Homo sapiens	nan	nan	nan	nan	MDM2	nan	nan	nan	nan	?	Phosphorylation	11331603
+MAPK1_Homo sapiens	nan	nan	nan	nan	FOS	nan	nan	nan	nan	?	Phosphorylation	7816602,12972619,8248197,18452278,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	FOS	nan	nan	nan	nan	?	Phosphorylation	8248197,1545828,18452278,20068231
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	FOS	nan	nan	nan	nan	?	Phosphorylation	8248197,1545828,18452278,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	MYCN	nan	nan	nan	nan	?	Phosphorylation	1425701
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	MYCN	nan	nan	nan	nan	?	Phosphorylation	1425701
+MET_Homo sapiens	nan	nan	nan	nan	MET	nan	nan	nan	nan	?	Phosphorylation	17192257,18669648,18691976,18452278,20068231,17192257,18669648,18691976,18452278,17192257,18691976,20068231
+EGFR_Homo sapiens	nan	nan	nan	nan	ERBB2	nan	nan	nan	nan	?	Phosphorylation	12354693,1706616,17426253,17389395,11500516,17426253,17389395
+ERBB2_Homo sapiens	nan	nan	nan	nan	ERBB2	nan	nan	nan	nan	?	Phosphorylation	11500516,1706616,16729043,10372802,1706616,16729043,11500516,1706616,12354693,1706616,17426253,17389395,10372802,1706616,11500516,17426253,17389395
+LCK_Homo sapiens	nan	nan	nan	nan	VAV1	nan	nan	nan	nan	?	Phosphorylation	10669745
+YES1_Homo sapiens	nan	nan	nan	nan	YES1	nan	nan	nan	nan	?	Phosphorylation	9794236,18669648,18691976,19651622,18707149
+KIT_Homo sapiens	nan	nan	nan	nan	KIT	nan	nan	nan	nan	?	Phosphorylation	9799234,10377264
+PRKCA_Homo sapiens	nan	nan	nan	nan	KIT	nan	nan	nan	nan	?	Phosphorylation	7539802
+SRC_Homo sapiens	nan	nan	nan	nan	KIT	nan	nan	nan	nan	?	Phosphorylation	12878163
+FGR_Homo sapiens	nan	nan	nan	nan	FGR	nan	nan	nan	nan	?	Phosphorylation	7515063
+CSK_Homo sapiens	nan	nan	nan	nan	FGR	nan	nan	nan	nan	?	Phosphorylation	7515063,8612628
+FLT1_Homo sapiens	nan	nan	nan	nan	FLT1	nan	nan	nan	nan	?	Phosphorylation	11513746
+EPHB2_Homo sapiens	nan	nan	nan	nan	RRAS	nan	nan	nan	nan	?	Phosphorylation	10570155
+LYN_Homo sapiens	nan	nan	nan	nan	LYN	nan	nan	nan	nan	?	Phosphorylation	9171348,18691976,18088087,19901323,20068231
+MATK_Homo sapiens	nan	nan	nan	nan	LYN	nan	nan	nan	nan	?	Phosphorylation	8612628,18669648,18691976,19651622,16497976,18452278,19901323,20068231
+CSK_Homo sapiens	nan	nan	nan	nan	LYN	nan	nan	nan	nan	?	Phosphorylation	8612628,18669648,18691976,19651622,16497976,18452278,19901323,20068231
+ABL1_Homo sapiens	nan	nan	nan	nan	JUN	nan	nan	nan	nan	?	Phosphorylation	10637231
+PRKDC_Homo sapiens	nan	nan	nan	nan	JUN	nan	nan	nan	nan	?	Phosphorylation	1516134,19413330
+MAPK8_Homo sapiens	nan	nan	nan	nan	JUN	nan	nan	nan	nan	?	Phosphorylation	8137421,8654373,8224842,18669648,19413330,19664995,18212344,18707149,18452278,20068231,20058876,12740383,18669648,19664995,18707149
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	JUN	nan	nan	nan	nan	?	Phosphorylation	1516134,1516134,19413330
+MAPK14_Homo sapiens	nan	nan	nan	nan	JUNB	nan	nan	nan	nan	?	Phosphorylation	9889198,8917518,18669648,20068231
+MAPK8_Homo sapiens	nan	nan	nan	nan	JUNB	nan	nan	nan	nan	?	Phosphorylation	9889198,8917518,18669648,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	OPRD1	nan	nan	nan	nan	?	Phosphorylation	11085981
+PRKCE_Homo sapiens	nan	nan	nan	nan	OPRD1	nan	nan	nan	nan	?	Phosphorylation	11085981
+PRKCD_Homo sapiens	nan	nan	nan	nan	OPRD1	nan	nan	nan	nan	?	Phosphorylation	11085981
+ADRBK1_Homo sapiens	nan	nan	nan	nan	OPRD1	nan	nan	nan	nan	?	Phosphorylation	11040053
+EGFR_Homo sapiens	nan	nan	nan	nan	CBL	nan	nan	nan	nan	?	Phosphorylation	11994282,11239464,15556646,17389395,16497976,11994282,11239464,9890970,10092522,10799548,11994282,11239464,15556646
+FYN_Homo sapiens	nan	nan	nan	nan	CBL	nan	nan	nan	nan	?	Phosphorylation	11994282,11239464,9890970,10092522,10799548,15556646
+HCK_Homo sapiens	nan	nan	nan	nan	CBL	nan	nan	nan	nan	?	Phosphorylation	11994282,11239464,9890970,10092522,10799548
+INSR_Homo sapiens	nan	nan	nan	nan	CBL	nan	nan	nan	nan	?	Phosphorylation	11997497,10635327
+PRKCA_Homo sapiens	nan	nan	nan	nan	CBL	nan	nan	nan	nan	?	Phosphorylation	11024037
+PRKACA_Homo sapiens	nan	nan	nan	nan	RHOA	nan	nan	nan	nan	?	Phosphorylation	12654918
+PRKCA_Homo sapiens	nan	nan	nan	nan	SPP1	nan	nan	nan	nan	?	Phosphorylation	8663267
+PRKG1_Homo sapiens	nan	nan	nan	nan	SPP1	nan	nan	nan	nan	?	Phosphorylation	8663267
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SPP1	nan	nan	nan	nan	?	Phosphorylation	8663267
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	SPP1	nan	nan	nan	nan	?	Phosphorylation	8663267
+PRKACA_Homo sapiens	nan	nan	nan	nan	CCND1	nan	nan	nan	nan	?	Phosphorylation	8058338
+GSK3B_Homo sapiens	nan	nan	nan	nan	CCND1	nan	nan	nan	nan	?	Phosphorylation	9832503,10910956
+CDK2_Homo sapiens	nan	nan	nan	nan	PTHLH	nan	nan	nan	nan	?	Phosphorylation	10373465
+PRKCA_Homo sapiens	nan	nan	nan	nan	PAM	nan	nan	nan	nan	?	Phosphorylation	8530412,18669648,8530412
+UHMK1_Homo sapiens	nan	nan	nan	nan	PAM	nan	nan	nan	nan	?	Phosphorylation	10574929,19651622
+PRKACA_Homo sapiens	nan	nan	nan	nan	PLIN1	nan	nan	nan	nan	?	Phosphorylation	11751901
+MAPK1_Homo sapiens	nan	nan	nan	nan	PPARA	nan	nan	nan	nan	?	Phosphorylation	10187842
+MAPK3_Homo sapiens	nan	nan	nan	nan	PPARA	nan	nan	nan	nan	?	Phosphorylation	10187842
+PRKACA_Homo sapiens	nan	nan	nan	nan	PDC	nan	nan	nan	nan	?	Phosphorylation	2394752,11331285
+CAMK2A_Homo sapiens	nan	nan	nan	nan	PDC	nan	nan	nan	nan	?	Phosphorylation	11331285,2394752,11331285
+INSR_Homo sapiens	nan	nan	nan	nan	PIK3R1	nan	nan	nan	nan	?	Phosphorylation	8385099,14729945,8385099,16497976,17016520,8385099,17389395,17016520,20068231
+LCK_Homo sapiens	nan	nan	nan	nan	PIK3R1	nan	nan	nan	nan	?	Phosphorylation	9461588
+PRKCA_Homo sapiens	nan	nan	nan	nan	PFKFB2	nan	nan	nan	nan	?	Phosphorylation	1322130,18669648
+PRKAA2_Homo sapiens	nan	nan	nan	nan	PFKFB2	nan	nan	nan	nan	?	Phosphorylation	12853467,18669648,19413330,17924679,19651622,18767875,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	PFKFB2	nan	nan	nan	nan	?	Phosphorylation	12853467,18669648,19413330,17924679,19651622,18767875,20068231
+PRKAA1_Homo sapiens	nan	nan	nan	nan	PFKFB2	nan	nan	nan	nan	?	Phosphorylation	12853467,18669648,19413330,17924679,19651622,18767875,20068231
+AKT1_Homo sapiens	nan	nan	nan	nan	PFKFB2	nan	nan	nan	nan	?	Phosphorylation	12853467,18669648,19413330,17924679,19651622,18767875,20068231,12853467,18669648,19651622,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	GPI	nan	nan	nan	nan	?	Phosphorylation	11004567,15637053
+PRKACA_Homo sapiens	nan	nan	nan	nan	PLN	nan	nan	nan	nan	?	Phosphorylation	3759968,9468536
+LYN_Homo sapiens	nan	nan	nan	nan	PLCG1	nan	nan	nan	nan	?	Phosphorylation	8657103,1689310,7682059,15144186,17389395,16497976,17016520,20068231,8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	PLCG1	nan	nan	nan	nan	?	Phosphorylation	8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
+SYK_Homo sapiens	nan	nan	nan	nan	PLCG1	nan	nan	nan	nan	?	Phosphorylation	8657103,1689310,7682059,15144186,17389395,16497976,17016520,20068231,8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
+PRKD1_Homo sapiens	nan	nan	nan	nan	PLCG1	nan	nan	nan	nan	?	Phosphorylation	8885868,19651622,20068231
+EGFR_Homo sapiens	nan	nan	nan	nan	PLCG1	nan	nan	nan	nan	?	Phosphorylation	12601080,1689310,19901323,8657103,1689310,7682059,15144186,17389395,16497976,17016520,20068231,8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
+HCK_Homo sapiens	nan	nan	nan	nan	PLCG1	nan	nan	nan	nan	?	Phosphorylation	8885868,7682059,15144186,17389395,17016520,18707149,20068231,8657103,1689310,7682059,15144186,17389395,16497976,17016520,20068231,8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
+RET_Homo sapiens	nan	nan	nan	nan	PLCG1	nan	nan	nan	nan	?	Phosphorylation	8885868,8657103,1689310,7682059,17389395,16497976,17016520,20068231
+PHKG1_Homo sapiens	nan	nan	nan	nan	PHKG1	nan	nan	nan	nan	?	Phosphorylation	7935360
+SRC_Homo sapiens	nan	nan	nan	nan	JUP	nan	nan	nan	nan	?	Phosphorylation	14517306
+FER_Homo sapiens	nan	nan	nan	nan	JUP	nan	nan	nan	nan	?	Phosphorylation	14517306
+FYN_Homo sapiens	nan	nan	nan	nan	JUP	nan	nan	nan	nan	?	Phosphorylation	14517306
+PDGFRB_Homo sapiens	nan	nan	nan	nan	PDGFRB	nan	nan	nan	nan	?	Phosphorylation	8195171,12062403,8617789,7935391,10391677,8940081,10821867
+SRC_Homo sapiens	nan	nan	nan	nan	ITGB3	nan	nan	nan	nan	?	Phosphorylation	11723131,18088087
+PDK1_Homo sapiens	nan	nan	nan	nan	ITGB3	nan	nan	nan	nan	?	Phosphorylation	10896934,18578522
+PDPK1_Homo sapiens	nan	nan	nan	nan	ITGB3	nan	nan	nan	nan	?	Phosphorylation	10896934,18578522
+AKT1_Homo sapiens	nan	nan	nan	nan	ITGB3	nan	nan	nan	nan	?	Phosphorylation	10896934,18578522
+PDGFRA_Homo sapiens	nan	nan	nan	nan	PDGFRA	nan	nan	nan	nan	?	Phosphorylation	7535778,7523122,9546424,10837138,7535778
+CSNK1E_Homo sapiens	nan	nan	nan	nan	APC	nan	nan	nan	nan	?	Phosphorylation	11487578,15327768
+PRKACA_Homo sapiens	nan	nan	nan	nan	APC	nan	nan	nan	nan	?	Phosphorylation	11050185
+GSK3B_Homo sapiens	nan	nan	nan	nan	APC	nan	nan	nan	nan	?	Phosphorylation	15327768
+PRKCA_Homo sapiens	nan	nan	nan	nan	KCNE1	nan	nan	nan	nan	?	Phosphorylation	1553557
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PSMA3	nan	nan	nan	nan	?	Phosphorylation	8619999,19415658,19651622,18767875,20068231
+EIF2AK2_Homo sapiens	nan	nan	nan	nan	EIF2AK2	nan	nan	nan	nan	?	Phosphorylation	9528799,8887659,9528799,8887659,20068231,11337501,16373505
+JAK1_Homo sapiens	nan	nan	nan	nan	EIF2AK2	nan	nan	nan	nan	?	Phosphorylation	17290288
+MAP2K1_Homo sapiens	nan	nan	nan	nan	MAP2K1	nan	nan	nan	nan	?	Phosphorylation	8226933
+MAPK1_Homo sapiens	nan	nan	nan	nan	MAP2K1	nan	nan	nan	nan	?	Phosphorylation	8157000,12594221
+ARAF_Homo sapiens	nan	nan	nan	nan	MAP2K1	nan	nan	nan	nan	?	Phosphorylation	8157000,8621729,8394352,7731720
+PAK1_Homo sapiens	nan	nan	nan	nan	MAP2K1	nan	nan	nan	nan	?	Phosphorylation	9351825
+CDK5_Homo sapiens	nan	nan	nan	nan	MAP2K1	nan	nan	nan	nan	?	Phosphorylation	11684694,18691976
+BRAF_Homo sapiens	nan	nan	nan	nan	MAP2K1	nan	nan	nan	nan	?	Phosphorylation	8157000,8621729,8394352,7731720
+RAF1_Homo sapiens	nan	nan	nan	nan	MAP2K1	nan	nan	nan	nan	?	Phosphorylation	8157000,8621729,8394352,7731720,8157000,8621729,8394352,7731720,10409742,11684694,18691976,8157000,8157000,18691976
+PDGFRB_Homo sapiens	nan	nan	nan	nan	PTPN11	nan	nan	nan	nan	?	Phosphorylation	8041791
+PRKCA_Homo sapiens	nan	nan	nan	nan	PTPN11	nan	nan	nan	nan	?	Phosphorylation	11781100
+PRKCB_Homo sapiens	nan	nan	nan	nan	PTPN11	nan	nan	nan	nan	?	Phosphorylation	11781100
+PRKCH_Homo sapiens	nan	nan	nan	nan	PTPN11	nan	nan	nan	nan	?	Phosphorylation	11781100
+LYN_Homo sapiens	nan	nan	nan	nan	PTPN6	nan	nan	nan	nan	?	Phosphorylation	12468540,8114715,8692915,10488096,10574931
+ABL1_Homo sapiens	nan	nan	nan	nan	PTPN6	nan	nan	nan	nan	?	Phosphorylation	7512963,16497976,12468540,8114715,8692915,10488096,10574931
+LCK_Homo sapiens	nan	nan	nan	nan	PTPN6	nan	nan	nan	nan	?	Phosphorylation	8114715,7512963,16497976,8114715,16497976
+INSR_Homo sapiens	nan	nan	nan	nan	PTPN6	nan	nan	nan	nan	?	Phosphorylation	7512963,16497976,8114715,16497976
+PRKCA_Homo sapiens	nan	nan	nan	nan	PTPN6	nan	nan	nan	nan	?	Phosphorylation	15269224
+PRKCD_Homo sapiens	nan	nan	nan	nan	PTPRA	nan	nan	nan	nan	?	Phosphorylation	11676480,11923305,19651622,11676480,11923305
+SRC_Homo sapiens	nan	nan	nan	nan	PTPRA	nan	nan	nan	nan	?	Phosphorylation	11923305,7518772,17389395,16497976,17016520,18578522,20068231
+CLK2_Homo sapiens	nan	nan	nan	nan	PTPN1	nan	nan	nan	nan	?	Phosphorylation	10480872,11579209,18691976
+CLK1_Homo sapiens	nan	nan	nan	nan	PTPN1	nan	nan	nan	nan	?	Phosphorylation	10480872,11579209,18691976
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PTPN1	nan	nan	nan	nan	?	Phosphorylation	9600099,18691976,20068231,9600099,8491187,9600099
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	PTPN1	nan	nan	nan	nan	?	Phosphorylation	9600099,18691976,20068231,9600099,8491187,9600099
+CDK1_Homo sapiens	nan	nan	nan	nan	PTPN1	nan	nan	nan	nan	?	Phosphorylation	8491187,9600099
+EGFR_Homo sapiens	nan	nan	nan	nan	PTPN1	nan	nan	nan	nan	?	Phosphorylation	11506178,9355745,11106648
+INSR_Homo sapiens	nan	nan	nan	nan	PTPN1	nan	nan	nan	nan	?	Phosphorylation	11506178,11106648,11506178,9355745
+AKT1_Homo sapiens	nan	nan	nan	nan	PTPN1	nan	nan	nan	nan	?	Phosphorylation	11579209,18691976
+MAPK1_Homo sapiens	nan	nan	nan	nan	PTPN7	nan	nan	nan	nan	?	Phosphorylation	10206983,18088087,10206983
+MAPK14_Homo sapiens	nan	nan	nan	nan	PTPN7	nan	nan	nan	nan	?	Phosphorylation	10206983,18088087,10206983
+PRKACA_Homo sapiens	nan	nan	nan	nan	PTPN7	nan	nan	nan	nan	?	Phosphorylation	10559944,20166139
+MAPK3_Homo sapiens	nan	nan	nan	nan	PTPN7	nan	nan	nan	nan	?	Phosphorylation	10206983,18088087,10206983
+PRKAR2A_Homo sapiens	nan	nan	nan	nan	PRKAR2A	nan	nan	nan	nan	?	Phosphorylation	6293815,18669648,19664995,18452278,20230923,20166139,20068231
+PRKAR2B_Homo sapiens	nan	nan	nan	nan	PRKAR2B	nan	nan	nan	nan	?	Phosphorylation	7479855,19664995,19651622,20166139
+JAK1_Homo sapiens	nan	nan	nan	nan	TYK2	nan	nan	nan	nan	?	Phosphorylation	8702790,19901323
+FER_Homo sapiens	nan	nan	nan	nan	FER	nan	nan	nan	nan	?	Phosphorylation	10998246,18691976,19901323,17192257,18691976,17389395,17192257,18691976,20068231
+EPHA8_Homo sapiens	nan	nan	nan	nan	EPHA8	nan	nan	nan	nan	?	Phosphorylation	10498895
+EPHA2_Homo sapiens	nan	nan	nan	nan	EPHA2	nan	nan	nan	nan	?	Phosphorylation	17192257,18669648,19415658,18691976,19651622,18578522,20058876,17192257,18669648,18691976,18578522,17192257,18669648,18691976,19651622,18578522,17192257,18669648,19415658,18691976,19651622,18578522,20068231,20058876,17192257,18669648,18691976
+ZAP70_Homo sapiens	nan	nan	nan	nan	ZAP70	nan	nan	nan	nan	?	Phosphorylation	7961936,7961936,15144186,19901323,10037717
+SHC1_Homo sapiens	nan	nan	nan	nan	ZAP70	nan	nan	nan	nan	?	Phosphorylation	7961936
+LCK_Homo sapiens	nan	nan	nan	nan	ZAP70	nan	nan	nan	nan	?	Phosphorylation	7961936,10318843,7961936,9685404,7961936,15144186
+MAPK1_Homo sapiens	nan	nan	nan	nan	MAPK1	nan	nan	nan	nan	?	Phosphorylation	1712480,1378617,91184134,18669648,19415658,18691976,17389395,19651622,19901323,20068231,16153436,18669648,19415658,18691976,17389395,19651622,16497976,17016520,18707149,19901323,18452278,18578522,20068231,1378617
+RAF1_Homo sapiens	nan	nan	nan	nan	MAPK1	nan	nan	nan	nan	?	Phosphorylation	15664191
+RET_Homo sapiens	nan	nan	nan	nan	MAPK1	nan	nan	nan	nan	?	Phosphorylation	16153436,18669648,19415658,18691976,17389395,19651622,16497976,17016520,18707149,19901323,18452278,18578522,20068231
+MAP2K1_Homo sapiens	nan	nan	nan	nan	MAPK1	nan	nan	nan	nan	?	Phosphorylation	16153436,18669648,19415658,18691976,17389395,19651622,16497976,17016520,18707149,19901323,18452278,18578522,20068231
+MAPK4_Homo sapiens	nan	nan	nan	nan	MAPK4	nan	nan	nan	nan	?	Phosphorylation	1319925
+PRKCZ_Homo sapiens	nan	nan	nan	nan	PRKCA	nan	nan	nan	nan	?	Phosphorylation	12162751,10339425,8856079,18691976,20068231
+SYK_Homo sapiens	nan	nan	nan	nan	PRKCA	nan	nan	nan	nan	?	Phosphorylation	12881490,20068231
+PRKCB_Homo sapiens	nan	nan	nan	nan	PRKCB	nan	nan	nan	nan	?	Phosphorylation	8327493
+PRKCE_Homo sapiens	nan	nan	nan	nan	PRKCE	nan	nan	nan	nan	?	Phosphorylation	16810323,18691976,11062054
+PDPK1_Homo sapiens	nan	nan	nan	nan	PRKCE	nan	nan	nan	nan	?	Phosphorylation	11062054,12640464,10945988
+LYN_Homo sapiens	nan	nan	nan	nan	PRKCD	nan	nan	nan	nan	?	Phosphorylation	10945993,7575560,7575560,10945993
+PRKCD_Homo sapiens	nan	nan	nan	nan	PRKCD	nan	nan	nan	nan	?	Phosphorylation	17322306,18669648,19651622,18691976,20166139,20068231
+PRKCZ_Homo sapiens	nan	nan	nan	nan	PRKCD	nan	nan	nan	nan	?	Phosphorylation	11381116,15302935,18669648,18691976,18452278,20068231,20058876,15302935,18669648,18691976,18452278,20068231,20058876
+PDPK1_Homo sapiens	nan	nan	nan	nan	PRKCD	nan	nan	nan	nan	?	Phosphorylation	11381116,9748166,18669648,19664995,20058876
+LCK_Homo sapiens	nan	nan	nan	nan	PRKCD	nan	nan	nan	nan	?	Phosphorylation	11381116,18691976,17389395,16497976,17016520,11381116,18691976,11381116
+PRKCZ_Homo sapiens	nan	nan	nan	nan	PRKCZ	nan	nan	nan	nan	?	Phosphorylation	9748166,18669648
+PDPK1_Homo sapiens	nan	nan	nan	nan	PRKCZ	nan	nan	nan	nan	?	Phosphorylation	11222751,9748166,14500673,10357815,18691976
+ROCK1_Homo sapiens	nan	nan	nan	nan	RDX	nan	nan	nan	nan	?	Phosphorylation	9456324,20068231,9456324
+PRKCA_Homo sapiens	nan	nan	nan	nan	RRAD	nan	nan	nan	nan	?	Phosphorylation	9677319,7876254,9677319
+PRKCB_Homo sapiens	nan	nan	nan	nan	RRAD	nan	nan	nan	nan	?	Phosphorylation	9677319,7876254,9677319
+PRKACA_Homo sapiens	nan	nan	nan	nan	RRAD	nan	nan	nan	nan	?	Phosphorylation	7876254,9677319
+CAMK2G_Homo sapiens	nan	nan	nan	nan	RRAD	nan	nan	nan	nan	?	Phosphorylation	7876254,9677319
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	RRAD	nan	nan	nan	nan	?	Phosphorylation	9677319,7876254,9677319
+CDK1_Homo sapiens	nan	nan	nan	nan	RAB4A	nan	nan	nan	nan	?	Phosphorylation	1425574
+CDK1_Homo sapiens	nan	nan	nan	nan	RAB5B	nan	nan	nan	nan	?	Phosphorylation	10403367
+PRKACA_Homo sapiens	nan	nan	nan	nan	RAP1A	nan	nan	nan	nan	?	Phosphorylation	9867809
+PRKACA_Homo sapiens	nan	nan	nan	nan	RAP1B	nan	nan	nan	nan	?	Phosphorylation	12089143
+FYN_Homo sapiens	nan	nan	nan	nan	PTPRF	nan	nan	nan	nan	?	Phosphorylation	12496362
+EPHA3_Homo sapiens	nan	nan	nan	nan	EPHA3	nan	nan	nan	nan	?	Phosphorylation	11870224
+ABL1_Homo sapiens	nan	nan	nan	nan	RAD51	nan	nan	nan	nan	?	Phosphorylation	10212258,9461559
+CHEK1_Homo sapiens	nan	nan	nan	nan	RAD51	nan	nan	nan	nan	?	Phosphorylation	15665856
+CDK1_Homo sapiens	nan	nan	nan	nan	RCC1	nan	nan	nan	nan	?	Phosphorylation	15014043
+PRKDC_Homo sapiens	nan	nan	nan	nan	RPA2	nan	nan	nan	nan	?	Phosphorylation	9295339,18669648,9295339
+CDK1_Homo sapiens	nan	nan	nan	nan	RPA2	nan	nan	nan	nan	?	Phosphorylation	9295339,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	RB1	nan	nan	nan	nan	?	Phosphorylation	1756735,18669648,19664995,19651622,19664994,20068231,20058876,1756735,18669648,20068231,1756735,19651622,1756735,18669648,19651622,20068231,20058876,1756735,18669648,19651622,20068231
+CDK2_Homo sapiens	nan	nan	nan	nan	RB1	nan	nan	nan	nan	?	Phosphorylation	10207050,10207050,20068231,10207050,18669648,20068231,9315635,9139732,8626527,18669648,19413330,19651622,19664994,20068231,1756735,18669648,19651622,20068231,20058876,1756735,18669648,19651622,20068231
+CDK4_Homo sapiens	nan	nan	nan	nan	RB1	nan	nan	nan	nan	?	Phosphorylation	9139732,18669648,9139732,9003781,11254678,16326706,19651622,9139732,19651622,19664994,9190208,19664994,9315635,9139732,8626527,18669648,19651622,19664994,20068231
+CCND2_Homo sapiens	nan	nan	nan	nan	RB1	nan	nan	nan	nan	?	Phosphorylation	9003781,11254678,16326706,19651622
+MAPK1_Homo sapiens	nan	nan	nan	nan	RXRA	nan	nan	nan	nan	?	Phosphorylation	12048211
+MAPK7_Homo sapiens	nan	nan	nan	nan	RXRA	nan	nan	nan	nan	?	Phosphorylation	12048211
+PRKCA_Homo sapiens	nan	nan	nan	nan	RHO	nan	nan	nan	nan	?	Phosphorylation	11498053,11910029,8617805,9099669,9099669
+GRK1_Homo sapiens	nan	nan	nan	nan	RHO	nan	nan	nan	nan	?	Phosphorylation	11498053,11910029,8617805,9099669,11498053,11910029,8617805
+GRK1_Homo sapiens	nan	nan	nan	nan	GRK1	nan	nan	nan	nan	?	Phosphorylation	1527025
+CDK1_Homo sapiens	nan	nan	nan	nan	RRM2	nan	nan	nan	nan	?	Phosphorylation	9990288,18669648,19413330,19415658,17924679,19664995,18767875,20058876
+PAK2_Homo sapiens	nan	nan	nan	nan	RPS6	nan	nan	nan	nan	?	Phosphorylation	17322306,18669648,17287340,18767875,17322306,18669648,17287340,19007248,1985906,18669648
+ADRBK1_Homo sapiens	nan	nan	nan	nan	RPLP2	nan	nan	nan	nan	?	Phosphorylation	14729942,12379128,16565220,18669648,18691976,18212344,19691289,18452278,20230923,20166139,20068231,14997482,12379128,16565220,18669648,18691976,18212344,19691289,18452278,20230923,20166139,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	DDX5	nan	nan	nan	nan	?	Phosphorylation	7525583
+PRKACA_Homo sapiens	nan	nan	nan	nan	RYR1	nan	nan	nan	nan	?	Phosphorylation	8380342,14532276
+CAMK2G_Homo sapiens	nan	nan	nan	nan	RYR1	nan	nan	nan	nan	?	Phosphorylation	8380342,14532276
+PRKG1_Homo sapiens	nan	nan	nan	nan	RYR1	nan	nan	nan	nan	?	Phosphorylation	8380342,14532276
+PRKACA_Homo sapiens	nan	nan	nan	nan	RYR2	nan	nan	nan	nan	?	Phosphorylation	10830164
+PRKCD_Homo sapiens	nan	nan	nan	nan	CYTH1	nan	nan	nan	nan	?	Phosphorylation	11438522
+CAMK2G_Homo sapiens	nan	nan	nan	nan	SPR	nan	nan	nan	nan	?	Phosphorylation	11825621
+MAPK1_Homo sapiens	nan	nan	nan	nan	SOS1	nan	nan	nan	nan	?	Phosphorylation	8816480
+PRKACA_Homo sapiens	nan	nan	nan	nan	SPTBN1	nan	nan	nan	nan	?	Phosphorylation	17088250,18669648,20166139,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SPTBN1	nan	nan	nan	nan	?	Phosphorylation	17088250,18669648,20166139,20068231,17088250,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	SPTAN1	nan	nan	nan	nan	?	Phosphorylation	11971983
+MAPK1_Homo sapiens	nan	nan	nan	nan	SREBF1	nan	nan	nan	nan	?	Phosphorylation	10915800,18669648
+MAPK3_Homo sapiens	nan	nan	nan	nan	SREBF1	nan	nan	nan	nan	?	Phosphorylation	10915800,18669648
+MAPK1_Homo sapiens	nan	nan	nan	nan	NR5A1	nan	nan	nan	nan	?	Phosphorylation	10230405
+EPHB4_Homo sapiens	nan	nan	nan	nan	SDC3	nan	nan	nan	nan	?	Phosphorylation	9388509
+DAPK1_Homo sapiens	nan	nan	nan	nan	STX1A	nan	nan	nan	nan	?	Phosphorylation	12730201
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	STX1A	nan	nan	nan	nan	?	Phosphorylation	10844023,9930733,18510355
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	STX1A	nan	nan	nan	nan	?	Phosphorylation	10844023,9930733,18510355
+ITK_Homo sapiens	nan	nan	nan	nan	CD28	nan	nan	nan	nan	?	Phosphorylation	8992971,19901323,8992971,8992971,15144186,19901323,8992971,15144186
+LCK_Homo sapiens	nan	nan	nan	nan	ITK	nan	nan	nan	nan	?	Phosphorylation	9312162,15144186
+ITK_Homo sapiens	nan	nan	nan	nan	ITK	nan	nan	nan	nan	?	Phosphorylation	17192257
+MAPK3_Homo sapiens	nan	nan	nan	nan	TAL1	nan	nan	nan	nan	?	Phosphorylation	8423803,19651622
+SRC_Homo sapiens	nan	nan	nan	nan	TERT	nan	nan	nan	nan	?	Phosphorylation	12808100
+AKT1_Homo sapiens	nan	nan	nan	nan	TERT	nan	nan	nan	nan	?	Phosphorylation	10224060
+CDK1_Homo sapiens	nan	nan	nan	nan	TK1	nan	nan	nan	nan	?	Phosphorylation	9575153,14697231,19413330,20068231
+CDK2_Homo sapiens	nan	nan	nan	nan	PRKAR1A	nan	nan	nan	nan	?	Phosphorylation	16582606,18669648,19413330,19562805,19415658,18691976,17287340,19007248,19651622,19664994,18767875,18707149,18452278,18212344,20166139,20068231,20058876,16582606
+CDK2_Homo sapiens	nan	nan	nan	nan	NFYA	nan	nan	nan	nan	?	Phosphorylation	12857729,12857729,18669648,20068231
+MAPK1_Homo sapiens	nan	nan	nan	nan	SP1	nan	nan	nan	nan	?	Phosphorylation	11904305
+MAPK3_Homo sapiens	nan	nan	nan	nan	SP1	nan	nan	nan	nan	?	Phosphorylation	11904305
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SP1	nan	nan	nan	nan	?	Phosphorylation	9153193
+MAPK1_Homo sapiens	nan	nan	nan	nan	CEBPB	nan	nan	nan	nan	?	Phosphorylation	8384717,19413330
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	CEBPB	nan	nan	nan	nan	?	Phosphorylation	10635333
+CAMK2A_Homo sapiens	nan	nan	nan	nan	CEBPB	nan	nan	nan	nan	?	Phosphorylation	1314426
+GTF2H1_Homo sapiens	nan	nan	nan	nan	E2F1	nan	nan	nan	nan	?	Phosphorylation	10428966
+CHEK2_Homo sapiens	nan	nan	nan	nan	E2F1	nan	nan	nan	nan	?	Phosphorylation	12717439
+ATM_Homo sapiens	nan	nan	nan	nan	E2F1	nan	nan	nan	nan	?	Phosphorylation	11459832
+ATR_Homo sapiens	nan	nan	nan	nan	E2F1	nan	nan	nan	nan	?	Phosphorylation	11459832
+CDK7_Homo sapiens	nan	nan	nan	nan	E2F1	nan	nan	nan	nan	?	Phosphorylation	10428966
+CDK1_Homo sapiens	nan	nan	nan	nan	E2F1	nan	nan	nan	nan	?	Phosphorylation	8087847
+ABL1_Homo sapiens	nan	nan	nan	nan	ABL1	nan	nan	nan	nan	?	Phosphorylation	12522270,16497976,12522270,17192257,18691976
+SRC_Homo sapiens	nan	nan	nan	nan	ABL1	nan	nan	nan	nan	?	Phosphorylation	11781820,18691976,16497976,19901323,12522270,16497976,12522270
+ATM_Homo sapiens	nan	nan	nan	nan	ABL1	nan	nan	nan	nan	?	Phosphorylation	9168116
+CDK1_Homo sapiens	nan	nan	nan	nan	ABL1	nan	nan	nan	nan	?	Phosphorylation	2183353,18669648,18691976,19651622,18452278
+MAPK1_Homo sapiens	nan	nan	nan	nan	MYB	nan	nan	nan	nan	?	Phosphorylation	8960373,19651622
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	MYB	nan	nan	nan	nan	?	Phosphorylation	11313925
+FES_Homo sapiens	nan	nan	nan	nan	FES	nan	nan	nan	nan	?	Phosphorylation	8663427
+MAPK8_Homo sapiens	nan	nan	nan	nan	MYC	nan	nan	nan	nan	?	Phosphorylation	1748630,10551811,18669648,19651622,20068231,10551811,18669648,18767875
+GSK3B_Homo sapiens	nan	nan	nan	nan	MYC	nan	nan	nan	nan	?	Phosphorylation	2663470,18669648,19651622,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	MYC	nan	nan	nan	nan	?	Phosphorylation	2663470,18669648,19651622,20068231
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	MYC	nan	nan	nan	nan	?	Phosphorylation	2663470,18669648,19651622,20068231
+FGR_Homo sapiens	nan	nan	nan	nan	SRC	nan	nan	nan	nan	?	Phosphorylation	12468645,12387813,7678701,9208935
+PRKCA_Homo sapiens	nan	nan	nan	nan	SRC	nan	nan	nan	nan	?	Phosphorylation	2996780
+SRC_Homo sapiens	nan	nan	nan	nan	SRC	nan	nan	nan	nan	?	Phosphorylation	9988270,17389395,19664994,17016520,9988270,14661060,15466214,17389395,19664994,17016520
+PRKACA_Homo sapiens	nan	nan	nan	nan	SRC	nan	nan	nan	nan	?	Phosphorylation	15546918,18088087,19651622,19664994,20166139
+CDK5_Homo sapiens	nan	nan	nan	nan	SRC	nan	nan	nan	nan	?	Phosphorylation	10544291,19415658,18691976
+CSK_Homo sapiens	nan	nan	nan	nan	SRC	nan	nan	nan	nan	?	Phosphorylation	12387813,7678701,9208935,12468645,12387813,7678701,9208935
+CDK5_Homo sapiens	nan	nan	nan	nan	ERBB3	nan	nan	nan	nan	?	Phosphorylation	12824184
+TGFBR2_Homo sapiens	nan	nan	nan	nan	TGFBR1	nan	nan	nan	nan	?	Phosphorylation	8576253
+TGFBR2_Homo sapiens	nan	nan	nan	nan	TGFBR2	nan	nan	nan	nan	?	Phosphorylation	9155023,9169454
+MAPK1_Homo sapiens	nan	nan	nan	nan	ZFP36	nan	nan	nan	nan	?	Phosphorylation	7768935,95286626
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	ZFP36	nan	nan	nan	nan	?	Phosphorylation	14688255,18669648,14688255
+PRKCA_Homo sapiens	nan	nan	nan	nan	TNNT2	nan	nan	nan	nan	?	Phosphorylation	2584239
+MAP3K5_Homo sapiens	nan	nan	nan	nan	TNNT2	nan	nan	nan	nan	?	Phosphorylation	12819028
+PRKACA_Homo sapiens	nan	nan	nan	nan	TPH1	nan	nan	nan	nan	?	Phosphorylation	9109552
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	TSC2	nan	nan	nan	nan	?	Phosphorylation	12582162
+AKT1_Homo sapiens	nan	nan	nan	nan	TSC2	nan	nan	nan	nan	?	Phosphorylation	12150915,15342917,19664994,12438239,15342917,16636147,18707149
+MAPK1_Homo sapiens	nan	nan	nan	nan	TSC2	nan	nan	nan	nan	?	Phosphorylation	15851026
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	TSC2	nan	nan	nan	nan	?	Phosphorylation	15342917,20068231
+SYK_Homo sapiens	nan	nan	nan	nan	TUBA4A	nan	nan	nan	nan	?	Phosphorylation	8617742
+TTBK1_Homo sapiens	nan	nan	nan	nan	TUBB	nan	nan	nan	nan	?	Phosphorylation	7556643
+PDIK1L_Homo sapiens	nan	nan	nan	nan	TNF	nan	nan	nan	nan	?	Phosphorylation	8597870
+EIF2AK2_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	10747897,10348343,10884347,19413330
+MAPK1_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	12091386,14965474,11409876,15116093
+PRKCA_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	9571186,1454855
+MAPK14_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	10747897,10348343,10884347,19413330
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	9765199,9765199,11875057
+CSNK1D_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	10606744
+PRKDC_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	9765199,11551930,11709713,10673501,10747897,11709713,11883897,10951572,11709713,11551930,10673501,11709713,11709713,10673501
+MAPK8_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	11283254
+VRK1_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	10747897,11709713,11883897,10951572
+PLK3_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	11709713,11551930,10673501,12242661,12548019
+CHEK1_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	9765199,11551930,11709713,10673501,11709713,11551930,10673501,11709713,10673501
+GSK3B_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	11483158,12064478
+HIPK2_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	11780126,11875057,16212962
+ATM_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	9765199,11551930,11709713,10673501,11875057,16906133,9843217,15159397,10864201,11709713,11551930,10673501,11875057,11709713,11709713,10673501,11780126,11875057,9765199,11875057
+ATR_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	9765199,11551930,11709713,10673501,16293623,15159397,10747897,11709713,11883897,10951572,11551930,10673501,11709713,11551930,10673501,11709713,10673501
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	10747897,11709713,11883897,10951572,10747897,10348343,10884347,19413330,12628923
+CSNK2B_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	10747897,11709713,11883897,10951572
+CDK2_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	10884347,12064478,19413330,17287340,19664995,10747897,10348343,10884347,19413330
+CDK5_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	10884347,12064478,19413330,17287340,19664995,11483158,12064478
+CDK9_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	16552184,10884347,12064478,19413330,17287340,19664995,10747897,10348343,10884347,19413330
+MAPKAPK5_Homo sapiens	nan	nan	nan	nan	TP53	nan	nan	nan	nan	?	Phosphorylation	17254968
+MAPK1_Homo sapiens	nan	nan	nan	nan	TNFRSF1A	nan	nan	nan	nan	?	Phosphorylation	11606045
+AKT1_Homo sapiens	nan	nan	nan	nan	MAP3K8	nan	nan	nan	nan	?	Phosphorylation	12138205
+PRKACA_Homo sapiens	nan	nan	nan	nan	TH	nan	nan	nan	nan	?	Phosphorylation	11359875
+CAMK2G_Homo sapiens	nan	nan	nan	nan	TH	nan	nan	nan	nan	?	Phosphorylation	6150037,11359875
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	TH	nan	nan	nan	nan	?	Phosphorylation	6150037,11359875,7901013,7901013,6150037,11359875
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	TH	nan	nan	nan	nan	?	Phosphorylation	12421349
+KDR_Homo sapiens	nan	nan	nan	nan	KDR	nan	nan	nan	nan	?	Phosphorylation	10579917,10579917,10368301
+SRC_Homo sapiens	nan	nan	nan	nan	DDR2	nan	nan	nan	nan	?	Phosphorylation	16186108
+NTRK1_Homo sapiens	nan	nan	nan	nan	NTRK1	nan	nan	nan	nan	?	Phosphorylation	11159935
+GSK3B_Homo sapiens	nan	nan	nan	nan	CDH1	nan	nan	nan	nan	?	Phosphorylation	10671552
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CDH1	nan	nan	nan	nan	?	Phosphorylation	10671552
+PRKACA_Homo sapiens	nan	nan	nan	nan	ITGA4	nan	nan	nan	nan	?	Phosphorylation	11533025,18707149,18578522,20166139
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	SLC18A2	nan	nan	nan	nan	?	Phosphorylation	9045708,18088087
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SLC18A2	nan	nan	nan	nan	?	Phosphorylation	9045708,18088087
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	SLC18A2	nan	nan	nan	nan	?	Phosphorylation	9045708,18088087
+SRC_Homo sapiens	nan	nan	nan	nan	VIL1	nan	nan	nan	nan	?	Phosphorylation	15342783
+PRKCA_Homo sapiens	nan	nan	nan	nan	VIM	nan	nan	nan	nan	?	Phosphorylation	2500966,20068231,2500966,18669648,17287340,19691289,20068231,11895474,2500966,17287340,20068231,2500966,18669648,18212344,20068231,11895474,2500966,18669648,17287340,19007248,19691289,18767875,20068231,20058876,2500966,18669648,19415658,19007248,19691289,20068231,2500966,18669648,19664995,18212344,20068231,2500966,19664995,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	VIM	nan	nan	nan	nan	?	Phosphorylation	2500966,18669648,17287340,19691289,20068231,11895474,2500966,18669648,17287340,19007248,19691289,18767875,20068231,20058876,2500966,18669648,17287340,20068231,2500966,18669648,19664995,18212344,20068231
+ROCK1_Homo sapiens	nan	nan	nan	nan	VIM	nan	nan	nan	nan	?	Phosphorylation	9565595,18669648,19007248,20166139,20068231
+PAK2_Homo sapiens	nan	nan	nan	nan	VIM	nan	nan	nan	nan	?	Phosphorylation	11895474,2500966,17287340,20068231,11895474,2500966,18669648,17287340,19007248,19691289,18767875,20068231,20058876,11895474,18669648,19007248,19664995,18212344,19691289,20068231,11895474,18669648,20068231,11895474,18669648,19007248,19651622,18578522,20166139,20068231
+CAMK2D_Homo sapiens	nan	nan	nan	nan	VIM	nan	nan	nan	nan	?	Phosphorylation	10852918,15345747,18669648,20166139,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	VIM	nan	nan	nan	nan	?	Phosphorylation	7983050,15345747,16565220,18669648,19413330,19415658,18691976,17287340,17924679,18491316,19007248,19664995,18212344,19651622,19691289,16964243,18707149,18767875,18578522,20068230,20068231,20058876
+PRKCA_Homo sapiens	nan	nan	nan	nan	VCL	nan	nan	nan	nan	?	Phosphorylation	11741957
+SRC_Homo sapiens	nan	nan	nan	nan	VCL	nan	nan	nan	nan	?	Phosphorylation	15229287
+PRKCA_Homo sapiens	nan	nan	nan	nan	VTN	nan	nan	nan	nan	?	Phosphorylation	9030777
+PRKCB_Homo sapiens	nan	nan	nan	nan	VTN	nan	nan	nan	nan	?	Phosphorylation	9030777
+PRKCG_Homo sapiens	nan	nan	nan	nan	VTN	nan	nan	nan	nan	?	Phosphorylation	9030777
+PRKACA_Homo sapiens	nan	nan	nan	nan	VTN	nan	nan	nan	nan	?	Phosphorylation	1706595
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	VTN	nan	nan	nan	nan	?	Phosphorylation	9733784
+BRSK1_Homo sapiens	nan	nan	nan	nan	WEE1	nan	nan	nan	nan	?	Phosphorylation	15150265
+PLK1_Homo sapiens	nan	nan	nan	nan	WEE1	nan	nan	nan	nan	?	Phosphorylation	15070733
+BRSK2_Homo sapiens	nan	nan	nan	nan	WEE1	nan	nan	nan	nan	?	Phosphorylation	15150265
+WEE1_Homo sapiens	nan	nan	nan	nan	WEE1	nan	nan	nan	nan	?	Phosphorylation	17192257,18691976,19651622
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	XRCC1	nan	nan	nan	nan	?	Phosphorylation	15066279,18452278
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	XRCC1	nan	nan	nan	nan	?	Phosphorylation	15367657,18452278,15066279,18452278
+PRKAA2_Homo sapiens	nan	nan	nan	nan	ACACA	nan	nan	nan	nan	?	Phosphorylation	11052978,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231,7907095,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231
+PRKAA1_Homo sapiens	nan	nan	nan	nan	ACACA	nan	nan	nan	nan	?	Phosphorylation	11052978,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231,7907095,2900138,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231,7907095,2900138,18669648,18212344,19651622,18707149,18767875,20166139,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	ACACA	nan	nan	nan	nan	?	Phosphorylation	2900140,18669648,19413330,19415658,19664995,18212344,19651622,19664994,18767875,18691976,18452278,20166139,20068231
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	ACACA	nan	nan	nan	nan	?	Phosphorylation	2900140,18669648,19413330,19415658,19664995,18212344,19651622,19664994,18767875,18691976,18452278,20166139,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	C1R	nan	nan	nan	nan	?	Phosphorylation	8635594
+PRKACA_Homo sapiens	nan	nan	nan	nan	SI	nan	nan	nan	nan	?	Phosphorylation	8521865
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	F5	nan	nan	nan	nan	?	Phosphorylation	9525959,19824718
+ATM_Homo sapiens	nan	nan	nan	nan	FANCD2	nan	nan	nan	nan	?	Phosphorylation	12086603,20068231,12086603
+MRE11A_Homo sapiens	nan	nan	nan	nan	FANCD2	nan	nan	nan	nan	?	Phosphorylation	12447395
+ATR_Homo sapiens	nan	nan	nan	nan	XPA	nan	nan	nan	nan	?	Phosphorylation	16540648
+PRKDC_Homo sapiens	nan	nan	nan	nan	XPA	nan	nan	nan	nan	?	Phosphorylation	16540648
+ATM_Homo sapiens	nan	nan	nan	nan	XPA	nan	nan	nan	nan	?	Phosphorylation	16540648
+CAMK2G_Homo sapiens	nan	nan	nan	nan	FLNA	nan	nan	nan	nan	?	Phosphorylation	11290523
+AKT1_Homo sapiens	nan	nan	nan	nan	FOXO4	nan	nan	nan	nan	?	Phosphorylation	11313479,16272144,10217147,11313479,16272144,11689711,11313479,19664994
+AKT2_Homo sapiens	nan	nan	nan	nan	FOXO4	nan	nan	nan	nan	?	Phosphorylation	11313479,19664994
+ATM_Homo sapiens	nan	nan	nan	nan	SMC1A	nan	nan	nan	nan	?	Phosphorylation	15302935,18669648,18077418,18452278,20068231,11877377,9789013,18669648,18077418,18452278,20068231
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	RPS6KA3	nan	nan	nan	nan	?	Phosphorylation	17192257,18691976,20230923,17192257,17322306,18669648,18691976,19651622,20230923,17192257,18669648,18691976,17924679,19007248,19651622,19664994,20068231,20058876,17192257,18669648,18691976,19651622,18767875,20230923
+AKT1_Homo sapiens	nan	nan	nan	nan	XIAP	nan	nan	nan	nan	?	Phosphorylation	14645242
+AKT2_Homo sapiens	nan	nan	nan	nan	XIAP	nan	nan	nan	nan	?	Phosphorylation	14645242
+SRC_Homo sapiens	nan	nan	nan	nan	PRKCI	nan	nan	nan	nan	?	Phosphorylation	11713277
+ITK_Homo sapiens	nan	nan	nan	nan	BMX	nan	nan	nan	nan	?	Phosphorylation	12573241
+SRC_Homo sapiens	nan	nan	nan	nan	BMX	nan	nan	nan	nan	?	Phosphorylation	10688651
+BTK_Homo sapiens	nan	nan	nan	nan	BMX	nan	nan	nan	nan	?	Phosphorylation	12573241
+TEC_Homo sapiens	nan	nan	nan	nan	BMX	nan	nan	nan	nan	?	Phosphorylation	12573241
+PTK2_Homo sapiens	nan	nan	nan	nan	BMX	nan	nan	nan	nan	?	Phosphorylation	11331870
+CDK5_Homo sapiens	nan	nan	nan	nan	DCX	nan	nan	nan	nan	?	Phosphorylation	14741103,14741103,15345747
+PAK3_Homo sapiens	nan	nan	nan	nan	PAK3	nan	nan	nan	nan	?	Phosphorylation	11278486,16204230
+IKBKB_Homo sapiens	nan	nan	nan	nan	IKBKG	nan	nan	nan	nan	?	Phosphorylation	12657630,12657630,18691976
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PIN4	nan	nan	nan	nan	?	Phosphorylation	12860119
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	PIN4	nan	nan	nan	nan	?	Phosphorylation	12860119
+PRKACA_Homo sapiens	nan	nan	nan	nan	HDAC8	nan	nan	nan	nan	?	Phosphorylation	14701748
+IRAK1_Homo sapiens	nan	nan	nan	nan	IRAK1	nan	nan	nan	nan	?	Phosphorylation	11960013,12138165
+IRAK4_Homo sapiens	nan	nan	nan	nan	IRAK1	nan	nan	nan	nan	?	Phosphorylation	11960013
+AKT1_Homo sapiens	nan	nan	nan	nan	IRAK1	nan	nan	nan	nan	?	Phosphorylation	11976320
+LYN_Homo sapiens	nan	nan	nan	nan	BTK	nan	nan	nan	nan	?	Phosphorylation	11226282,11598012,8629002,8630736
+PRKCB_Homo sapiens	nan	nan	nan	nan	BTK	nan	nan	nan	nan	?	Phosphorylation	11598012
+ITK_Homo sapiens	nan	nan	nan	nan	BTK	nan	nan	nan	nan	?	Phosphorylation	12445832,8630736,11598012,8629002,12573241,16497976
+ABL1_Homo sapiens	nan	nan	nan	nan	BTK	nan	nan	nan	nan	?	Phosphorylation	12445832,8630736,11598012,8629002,12573241,16497976
+BTK_Homo sapiens	nan	nan	nan	nan	BTK	nan	nan	nan	nan	?	Phosphorylation	12445832,8630736,11598012,8629002,12573241,16497976
+SYK_Homo sapiens	nan	nan	nan	nan	BTK	nan	nan	nan	nan	?	Phosphorylation	11226282,11598012,8629002,8630736
+TEC_Homo sapiens	nan	nan	nan	nan	BTK	nan	nan	nan	nan	?	Phosphorylation	12445832,8630736,11598012,8629002,12573241,16497976
+BTK_Homo sapiens	nan	nan	nan	nan	WAS	nan	nan	nan	nan	?	Phosphorylation	12235133,10068673,12769846,9742969,18088087,16497976,19901323
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	WAS	nan	nan	nan	nan	?	Phosphorylation	12769847,18088087
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	WAS	nan	nan	nan	nan	?	Phosphorylation	12769847,18088087
+HCK_Homo sapiens	nan	nan	nan	nan	WAS	nan	nan	nan	nan	?	Phosphorylation	12235133,10068673,12769846,9742969,18088087,16497976,19901323
+PRKCA_Homo sapiens	nan	nan	nan	nan	GJB1	nan	nan	nan	nan	?	Phosphorylation	8390988
+PRKACA_Homo sapiens	nan	nan	nan	nan	GJB1	nan	nan	nan	nan	?	Phosphorylation	8390988
+AKT1_Homo sapiens	nan	nan	nan	nan	GATA1	nan	nan	nan	nan	?	Phosphorylation	16107690,8206977
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	L1CAM	nan	nan	nan	nan	?	Phosphorylation	8663493
+RPS6KA2_Homo sapiens	nan	nan	nan	nan	L1CAM	nan	nan	nan	nan	?	Phosphorylation	8663493
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	L1CAM	nan	nan	nan	nan	?	Phosphorylation	8592152,8592152,18669648,19651622,18452278,20068231
+PRKCQ_Homo sapiens	nan	nan	nan	nan	MSN	nan	nan	nan	nan	?	Phosphorylation	9516463,9856983
+ROCK1_Homo sapiens	nan	nan	nan	nan	MSN	nan	nan	nan	nan	?	Phosphorylation	9516463,9856983
+MAPK1_Homo sapiens	nan	nan	nan	nan	ELK1	nan	nan	nan	nan	?	Phosphorylation	15782123,12947314
+MAPK14_Homo sapiens	nan	nan	nan	nan	ELK1	nan	nan	nan	nan	?	Phosphorylation	9130707,8548291
+MAPK9_Homo sapiens	nan	nan	nan	nan	ELK1	nan	nan	nan	nan	?	Phosphorylation	9130707,8548291
+TAOK2_Homo sapiens	nan	nan	nan	nan	ELK1	nan	nan	nan	nan	?	Phosphorylation	12665513
+PRKACA_Homo sapiens	nan	nan	nan	nan	CDK16	nan	nan	nan	nan	?	Phosphorylation	12154078,18691976,19651622,20068231,17322306,18691976,19651622,18212344,20068231,12154078,18691976,17322306,18669648,18691976,19651622,18767875,18212344,20068231
+CDK5_Homo sapiens	nan	nan	nan	nan	CDK16	nan	nan	nan	nan	?	Phosphorylation	12084709,18691976
+CDK16_Homo sapiens	nan	nan	nan	nan	CDK16	nan	nan	nan	nan	?	Phosphorylation	17192257,18669648,19413330,18691976,18212344
+PHKA1_Homo sapiens	nan	nan	nan	nan	PHKA1	nan	nan	nan	nan	?	Phosphorylation	2108025,10487978,10487978,2108025,10487978,18669648
+PRKACA_Homo sapiens	nan	nan	nan	nan	PHKA1	nan	nan	nan	nan	?	Phosphorylation	2108025
+PDK1_Homo sapiens	nan	nan	nan	nan	PDHA1	nan	nan	nan	nan	?	Phosphorylation	15302935,19415658,18088087,18767875,18691976,18212344,20166139,20068231,20058876,12676647,11486000,11485553,19415658,18767875,18691976,18212344,20166139,12676647,11486000,11485553,19415658,18691976,18212344,20166139
+PDK2_Homo sapiens	nan	nan	nan	nan	PDHA1	nan	nan	nan	nan	?	Phosphorylation	12676647,11486000,11485553,19415658,18767875,18691976,18212344,20166139,12676647,11486000,11485553,19415658,18691976,18212344,20166139
+PDK3_Homo sapiens	nan	nan	nan	nan	PDHA1	nan	nan	nan	nan	?	Phosphorylation	15302935,19415658,18088087,18767875,18691976,18212344,20166139,20068231,20058876,12676647,11486000,11485553,19415658,18767875,18691976,18212344,20166139
+PDK4_Homo sapiens	nan	nan	nan	nan	PDHA1	nan	nan	nan	nan	?	Phosphorylation	12676647,11486000,11485553,19415658,18767875,18691976,18212344,20166139,12676647,11486000,11485553,19415658,18691976,18212344,20166139
+PRKCA_Homo sapiens	nan	nan	nan	nan	RPL10	nan	nan	nan	nan	?	Phosphorylation	9016777,12138090
+CDK1_Homo sapiens	nan	nan	nan	nan	UBE2A	nan	nan	nan	nan	?	Phosphorylation	11953320
+CDK2_Homo sapiens	nan	nan	nan	nan	UBE2A	nan	nan	nan	nan	?	Phosphorylation	11953320
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SHOX	nan	nan	nan	nan	?	Phosphorylation	16325853
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SAT1	nan	nan	nan	nan	?	Phosphorylation	8954982
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	SAT1	nan	nan	nan	nan	?	Phosphorylation	8954982
+PRKACA_Homo sapiens	nan	nan	nan	nan	SYN1	nan	nan	nan	nan	?	Phosphorylation	10571231,12237306
+CAMK2G_Homo sapiens	nan	nan	nan	nan	SYN1	nan	nan	nan	nan	?	Phosphorylation	3118371
+CAMK1_Homo sapiens	nan	nan	nan	nan	SYN1	nan	nan	nan	nan	?	Phosphorylation	10571231,12237306,9395448,10571231,12237306
+PAK2_Homo sapiens	nan	nan	nan	nan	SYN1	nan	nan	nan	nan	?	Phosphorylation	10571231,12237306
+CDK5_Homo sapiens	nan	nan	nan	nan	SYN1	nan	nan	nan	nan	?	Phosphorylation	8702879
+PAK3_Homo sapiens	nan	nan	nan	nan	SYN1	nan	nan	nan	nan	?	Phosphorylation	12237306
+PAK1_Homo sapiens	nan	nan	nan	nan	SYN1	nan	nan	nan	nan	?	Phosphorylation	12237306
+AKT1_Homo sapiens	nan	nan	nan	nan	AR	nan	nan	nan	nan	?	Phosphorylation	11404460,11156376,11404460
+MAPK1_Homo sapiens	nan	nan	nan	nan	AR	nan	nan	nan	nan	?	Phosphorylation	10318905
+CDK1_Homo sapiens	nan	nan	nan	nan	UBA1	nan	nan	nan	nan	?	Phosphorylation	7673335,20068231,7724583,18669648,19413330,19651622,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	CACNB2	nan	nan	nan	nan	?	Phosphorylation	10441130,10567342,10441130
+PRKACA_Homo sapiens	nan	nan	nan	nan	CIITA	nan	nan	nan	nan	?	Phosphorylation	11416140
+ADRBK2_Homo sapiens	nan	nan	nan	nan	OPRM1	nan	nan	nan	nan	?	Phosphorylation	11060299
+ADRBK1_Homo sapiens	nan	nan	nan	nan	OPRM1	nan	nan	nan	nan	?	Phosphorylation	12123746
+PRKACA_Homo sapiens	nan	nan	nan	nan	ABCA1	nan	nan	nan	nan	?	Phosphorylation	12196520
+MAP3K11_Homo sapiens	nan	nan	nan	nan	MAP3K11	nan	nan	nan	nan	?	Phosphorylation	11053428
+MAP4K1_Homo sapiens	nan	nan	nan	nan	MAP3K11	nan	nan	nan	nan	?	Phosphorylation	11053428
+AKT1_Homo sapiens	nan	nan	nan	nan	MAP3K11	nan	nan	nan	nan	?	Phosphorylation	12458207
+SRC_Homo sapiens	nan	nan	nan	nan	TXK	nan	nan	nan	nan	?	Phosphorylation	11353545
+TXK_Homo sapiens	nan	nan	nan	nan	TXK	nan	nan	nan	nan	?	Phosphorylation	12081135
+FYN_Homo sapiens	nan	nan	nan	nan	TXK	nan	nan	nan	nan	?	Phosphorylation	11353545
+PRKCA_Homo sapiens	nan	nan	nan	nan	ITGB2	nan	nan	nan	nan	?	Phosphorylation	11700305
+PRKCB_Homo sapiens	nan	nan	nan	nan	ITGB2	nan	nan	nan	nan	?	Phosphorylation	11700305
+PRKCD_Homo sapiens	nan	nan	nan	nan	ITGB2	nan	nan	nan	nan	?	Phosphorylation	11700305
+PRKCH_Homo sapiens	nan	nan	nan	nan	ITGB2	nan	nan	nan	nan	?	Phosphorylation	11700305
+PRKCA_Homo sapiens	nan	nan	nan	nan	PTPN12	nan	nan	nan	nan	?	Phosphorylation	7520867,7520867,18669648,19651622,18767875,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	PTPN12	nan	nan	nan	nan	?	Phosphorylation	7520867,7520867,18669648,19651622,18767875,20068231
+LYN_Homo sapiens	nan	nan	nan	nan	SYK	nan	nan	nan	nan	?	Phosphorylation	9820500
+SYK_Homo sapiens	nan	nan	nan	nan	SYK	nan	nan	nan	nan	?	Phosphorylation	9820500,9857068,17389395,16497976,17016520,20058876,8657103,16497976,8657103
+SGK1_Homo sapiens	nan	nan	nan	nan	SLC1A3	nan	nan	nan	nan	?	Phosphorylation	12911626
+PRKACA_Homo sapiens	nan	nan	nan	nan	PDE4B	nan	nan	nan	nan	?	Phosphorylation	12441002
+PRKACA_Homo sapiens	nan	nan	nan	nan	PDE4D	nan	nan	nan	nan	?	Phosphorylation	8663227,8663227,18212344,20068231
+PRKCD_Homo sapiens	nan	nan	nan	nan	CREBBP	nan	nan	nan	nan	?	Phosphorylation	11463380
+CAMK4_Homo sapiens	nan	nan	nan	nan	CREBBP	nan	nan	nan	nan	?	Phosphorylation	11970865
+MST1R_Homo sapiens	nan	nan	nan	nan	MST1R	nan	nan	nan	nan	?	Phosphorylation	10871856
+JAK3_Homo sapiens	nan	nan	nan	nan	JAK3	nan	nan	nan	nan	?	Phosphorylation	15121872,9391116,19901323
+ZAP70_Homo sapiens	nan	nan	nan	nan	DUSP3	nan	nan	nan	nan	?	Phosphorylation	12447358
+PLK1_Homo sapiens	nan	nan	nan	nan	BRCA2	nan	nan	nan	nan	?	Phosphorylation	12815053
+LYN_Homo sapiens	nan	nan	nan	nan	PLCG2	nan	nan	nan	nan	?	Phosphorylation	12181444,7682059,15144186,12181444,7682059,16497976,19901323
+BTK_Homo sapiens	nan	nan	nan	nan	PLCG2	nan	nan	nan	nan	?	Phosphorylation	11507089,11507089,16497976,19901323,12181444,7682059,16497976,19901323
+FYN_Homo sapiens	nan	nan	nan	nan	PLCG2	nan	nan	nan	nan	?	Phosphorylation	12181444,7682059,15144186,12181444,7682059,16497976,19901323
+HCK_Homo sapiens	nan	nan	nan	nan	PLCG2	nan	nan	nan	nan	?	Phosphorylation	12181444,7682059,15144186,12181444,7682059,16497976,19901323
+LCK_Homo sapiens	nan	nan	nan	nan	PLCG2	nan	nan	nan	nan	?	Phosphorylation	12181444,7682059,15144186,12181444,7682059,16497976,19901323
+TEK_Homo sapiens	nan	nan	nan	nan	TEK	nan	nan	nan	nan	?	Phosphorylation	10521483,9632797,11080633
+CAMK2G_Homo sapiens	nan	nan	nan	nan	PLCB3	nan	nan	nan	nan	?	Phosphorylation	15302935,18669648,19651622,20068231
+PRKG1_Homo sapiens	nan	nan	nan	nan	PLCB3	nan	nan	nan	nan	?	Phosphorylation	11278298,19651622,11278298
+PRKG2_Homo sapiens	nan	nan	nan	nan	PLCB3	nan	nan	nan	nan	?	Phosphorylation	11278298,19651622,11278298
+CAMK2B_Homo sapiens	nan	nan	nan	nan	PLCB3	nan	nan	nan	nan	?	Phosphorylation	15302935,18669648,19651622,20068231
+CDK2_Homo sapiens	nan	nan	nan	nan	HIRA	nan	nan	nan	nan	?	Phosphorylation	11238922,19413330,11238922,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	ELK3	nan	nan	nan	nan	?	Phosphorylation	11042694
+MAPK8_Homo sapiens	nan	nan	nan	nan	ELK3	nan	nan	nan	nan	?	Phosphorylation	11042694
+MAPK9_Homo sapiens	nan	nan	nan	nan	ELK3	nan	nan	nan	nan	?	Phosphorylation	11042694
+CDK2_Homo sapiens	nan	nan	nan	nan	COIL	nan	nan	nan	nan	?	Phosphorylation	11102515
+GSK3B_Homo sapiens	nan	nan	nan	nan	NOTCH2	nan	nan	nan	nan	?	Phosphorylation	12794074,15302935,18669648,20068231,12794074,18669648
+CDK2_Homo sapiens	nan	nan	nan	nan	ID3	nan	nan	nan	nan	?	Phosphorylation	9372912
+PRKACA_Homo sapiens	nan	nan	nan	nan	RAP1GAP	nan	nan	nan	nan	?	Phosphorylation	1406653,1406653,18669648
+CDK1_Homo sapiens	nan	nan	nan	nan	RAP1GAP	nan	nan	nan	nan	?	Phosphorylation	1406653,18669648,18767875,20068231
+PRKAA2_Homo sapiens	nan	nan	nan	nan	HNF4A	nan	nan	nan	nan	?	Phosphorylation	12740371
+MAPK14_Homo sapiens	nan	nan	nan	nan	HNF4A	nan	nan	nan	nan	?	Phosphorylation	16351573
+MAP2K6_Homo sapiens	nan	nan	nan	nan	MAPK14	nan	nan	nan	nan	?	Phosphorylation	17322306,18669648,18691976,19651622,18767875,20068231,16153436,18669648,18691976,18088087,19651622,16497976,17016520,19901323,18452278,20068231
+MAP2K3_Homo sapiens	nan	nan	nan	nan	MAPK14	nan	nan	nan	nan	?	Phosphorylation	17322306,18669648,18691976,19651622,18767875,20068231
+RET_Homo sapiens	nan	nan	nan	nan	MAPK14	nan	nan	nan	nan	?	Phosphorylation	16153436,18669648,18691976,18088087,19651622,16497976,17016520,19901323,18452278,20068231
+CAMK2G_Homo sapiens	nan	nan	nan	nan	ADCY3	nan	nan	nan	nan	?	Phosphorylation	8798667,9768837
+CDK2_Homo sapiens	nan	nan	nan	nan	CDX2	nan	nan	nan	nan	?	Phosphorylation	16027724
+GSK3B_Homo sapiens	nan	nan	nan	nan	CDX2	nan	nan	nan	nan	?	Phosphorylation	16027724
+MAPK14_Homo sapiens	nan	nan	nan	nan	CDX2	nan	nan	nan	nan	?	Phosphorylation	16027724
+HCK_Homo sapiens	nan	nan	nan	nan	RAPGEF1	nan	nan	nan	nan	?	Phosphorylation	14551197,12734187,10318861
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	AQP4	nan	nan	nan	nan	?	Phosphorylation	11742978
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	AQP4	nan	nan	nan	nan	?	Phosphorylation	11742978
+PRKCA_Homo sapiens	nan	nan	nan	nan	SNAP25	nan	nan	nan	nan	?	Phosphorylation	12459461
+PRKACA_Homo sapiens	nan	nan	nan	nan	SNAP25	nan	nan	nan	nan	?	Phosphorylation	12459461
+PLK1_Homo sapiens	nan	nan	nan	nan	MYT1	nan	nan	nan	nan	?	Phosphorylation	12738781
+CDK2_Homo sapiens	nan	nan	nan	nan	ID2	nan	nan	nan	nan	?	Phosphorylation	9029153
+PRKCD_Homo sapiens	nan	nan	nan	nan	MEP1B	nan	nan	nan	nan	?	Phosphorylation	12941954
+CDK1_Homo sapiens	nan	nan	nan	nan	FEN1	nan	nan	nan	nan	?	Phosphorylation	12853968
+DDR1_Homo sapiens	nan	nan	nan	nan	DDR1	nan	nan	nan	nan	?	Phosphorylation	9659899
+CDK1_Homo sapiens	nan	nan	nan	nan	AMPH	nan	nan	nan	nan	?	Phosphorylation	11113134
+CDK5_Homo sapiens	nan	nan	nan	nan	AMPH	nan	nan	nan	nan	?	Phosphorylation	11113134
+EGFR_Homo sapiens	nan	nan	nan	nan	VAV2	nan	nan	nan	nan	?	Phosphorylation	12454019,17389395,17016520,11516622,12454019,12454019
+INSR_Homo sapiens	nan	nan	nan	nan	FABP4	nan	nan	nan	nan	?	Phosphorylation	1648089,8463311
+LCK_Homo sapiens	nan	nan	nan	nan	PRKCQ	nan	nan	nan	nan	?	Phosphorylation	10652356
+PRKCQ_Homo sapiens	nan	nan	nan	nan	PRKCQ	nan	nan	nan	nan	?	Phosphorylation	16252004
+NTRK2_Homo sapiens	nan	nan	nan	nan	NTRK2	nan	nan	nan	nan	?	Phosphorylation	10533983
+PRKCA_Homo sapiens	nan	nan	nan	nan	NFATC1	nan	nan	nan	nan	?	Phosphorylation	9072970,12351631
+PRKCD_Homo sapiens	nan	nan	nan	nan	NFE2L2	nan	nan	nan	nan	?	Phosphorylation	12198130
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SUB1	nan	nan	nan	nan	?	Phosphorylation	7809103,7809103,18669648,20068231,7809103,18669648,19651622,20068231
+TAF1_Homo sapiens	nan	nan	nan	nan	GTF2A1	nan	nan	nan	nan	?	Phosphorylation	11278496,11278496,18452278
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	GTF2A1	nan	nan	nan	nan	?	Phosphorylation	11278496,11278496,18452278
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	GTF2A1	nan	nan	nan	nan	?	Phosphorylation	11278496,11278496,18452278
+PRKCA_Homo sapiens	nan	nan	nan	nan	DLX3	nan	nan	nan	nan	?	Phosphorylation	11343707
+PRKACA_Homo sapiens	nan	nan	nan	nan	ETV1	nan	nan	nan	nan	?	Phosphorylation	12569367,12917345,12213813,11551945,12569367,12213813
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	ETV1	nan	nan	nan	nan	?	Phosphorylation	12569367,12917345,12213813,11551945,12569367,12213813
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	ETV1	nan	nan	nan	nan	?	Phosphorylation	12569367
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	ETV1	nan	nan	nan	nan	?	Phosphorylation	11551945
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	NR4A3	nan	nan	nan	nan	?	Phosphorylation	16223362
+KIT_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	9355737
+TYK2_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327,7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
+PRKCD_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7543024,9355737,14963018,11972023,11839738,15322115,7690989,12637327,18669648,18691976,18452278,20068231,20058876
+CAMK2G_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7543024,9355737,14963018,11972023,11839738,15322115,7690989,12637327,18669648,18691976,18452278,20068231,20058876
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7543024,9355737,14963018,11972023,11839738,15322115,7690989,12637327,18669648,18691976,18452278,20068231,20058876
+EGFR_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327,7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
+FGFR3_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327,7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
+FGFR4_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327,7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
+JAK1_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327,10982844,7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
+JAK2_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327,11152457,7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
+LCK_Homo sapiens	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	7657660,11294897,10918587,15322115,7543024,11839738,12817007,7690989,12637327,7657660,7543024,7690989,12637327,10918587,15322115,11839738,12817007
+JAK1_Homo sapiens	nan	nan	nan	nan	STAT2	nan	nan	nan	nan	?	Phosphorylation	9020188
+MAPK14_Homo sapiens	nan	nan	nan	nan	STAT4	nan	nan	nan	nan	?	Phosphorylation	10961885
+MAP2K6_Homo sapiens	nan	nan	nan	nan	STAT4	nan	nan	nan	nan	?	Phosphorylation	10961885
+SRC_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	9685404,15688026,17389395,16497976,17016520,19901323,20068231,9685404,15688026,17389395,16497976,19901323,20068231,10482988,9710204,9388490,17389395,16497976,17016520,19901323,20068231,9710204,9388490,9096689,10482988,17389395,16497976,19901323,20068231
+SYK_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	9685404,15688026,17389395,16497976,17016520,19901323,20068231,9685404,15688026,17389395,16497976,19901323,20068231,10482988,9710204,9388490,17389395,16497976,17016520,19901323,20068231,9710204,9388490,9096689,10482988,17389395,16497976,19901323,20068231
+FLT3_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	10482988,9710204,9388490,17389395,16497976,17016520,19901323,20068231,9710204,9388490,9096689,10482988,17389395,16497976,19901323,20068231,12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231
+FYN_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231
+INSR_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231
+LCK_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	12052829,18669648,19651622,17924679
+ZAP70_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	9685404,15688026,17389395,16497976,17016520,19901323,20068231,9685404,15688026,17389395,16497976,19901323,20068231,12237775,11075717,10764799,9121430,9446569,10816433,10896916,10921922,9741627,9710204,10482988,18669648,17389395,19651622,16497976,19664994,17016520,19901323,18452278,18578522,20230923,20068231,10482988,9710204,9388490,17389395,16497976,17016520,19901323,20068231,9710204,9388490,9096689,10482988,17389395,16497976,19901323,20068231
+TEC_Homo sapiens	nan	nan	nan	nan	TEC	nan	nan	nan	nan	?	Phosphorylation	12573241
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	NKX2-5	nan	nan	nan	nan	?	Phosphorylation	9858576
+PRKDC_Homo sapiens	nan	nan	nan	nan	SRF	nan	nan	nan	nan	?	Phosphorylation	8407951
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	SRF	nan	nan	nan	nan	?	Phosphorylation	10753652,8413226,10318869
+CAMK2A_Homo sapiens	nan	nan	nan	nan	SRF	nan	nan	nan	nan	?	Phosphorylation	10753652,8413226,10318869,10753652
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	SRF	nan	nan	nan	nan	?	Phosphorylation	10753652,8413226,10318869,12171911
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SRF	nan	nan	nan	nan	?	Phosphorylation	1740119,2046671,18669648
+EPHB1_Homo sapiens	nan	nan	nan	nan	EPHB1	nan	nan	nan	nan	?	Phosphorylation	10669731,17389395,8798570
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	EEF1B2	nan	nan	nan	nan	?	Phosphorylation	14729942,15302935,8547318,15345747,18669648,19413330,19415658,17287340,18491316,19664995,19651622,19664994,17693683,18452278,18212344,20230923,20166139,20068231,20058876,8547318,18669648,19413330,19415658,20068231
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	EEF1B2	nan	nan	nan	nan	?	Phosphorylation	14729942,15302935,8547318,15345747,18669648,19413330,19415658,17287340,18491316,19664995,19651622,19664994,17693683,18452278,18212344,20230923,20166139,20068231,20058876,8547318,18669648,19413330,19415658,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	MEF2A	nan	nan	nan	nan	?	Phosphorylation	9858528,10849446,10849446,9858528,9858528
+MAPK7_Homo sapiens	nan	nan	nan	nan	MEF2A	nan	nan	nan	nan	?	Phosphorylation	9858528,10849446,10849446,9858528,10849446
+CDK5_Homo sapiens	nan	nan	nan	nan	MEF2A	nan	nan	nan	nan	?	Phosphorylation	12691662
+MAPK14_Homo sapiens	nan	nan	nan	nan	MEF2C	nan	nan	nan	nan	?	Phosphorylation	10805738,9069290
+MAPK7_Homo sapiens	nan	nan	nan	nan	MEF2C	nan	nan	nan	nan	?	Phosphorylation	9384584
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	MEF2C	nan	nan	nan	nan	?	Phosphorylation	8663403
+CDK1_Homo sapiens	nan	nan	nan	nan	MEF2C	nan	nan	nan	nan	?	Phosphorylation	16478538
+CCNB1_Homo sapiens	nan	nan	nan	nan	MEF2C	nan	nan	nan	nan	?	Phosphorylation	16478538
+MAPK7_Homo sapiens	nan	nan	nan	nan	MEF2D	nan	nan	nan	nan	?	Phosphorylation	10849446,18669648,18767875,18691976,20068231
+MAP3K14_Homo sapiens	nan	nan	nan	nan	CHUK	nan	nan	nan	nan	?	Phosphorylation	9819420,9520446,16286467,9819420,16286467
+AKT1_Homo sapiens	nan	nan	nan	nan	CHUK	nan	nan	nan	nan	?	Phosphorylation	10485710
+AKT2_Homo sapiens	nan	nan	nan	nan	CHUK	nan	nan	nan	nan	?	Phosphorylation	12048203
+PRKCQ_Homo sapiens	nan	nan	nan	nan	CHUK	nan	nan	nan	nan	?	Phosphorylation	17363905
+MAPK1_Homo sapiens	nan	nan	nan	nan	UBTF	nan	nan	nan	nan	?	Phosphorylation	11741541,11741541,18669648,19007248,20068231
+MAPK3_Homo sapiens	nan	nan	nan	nan	UBTF	nan	nan	nan	nan	?	Phosphorylation	11741541,11741541,18669648,19007248,20068231
+CDK2_Homo sapiens	nan	nan	nan	nan	UBTF	nan	nan	nan	nan	?	Phosphorylation	11698641,10202152,18669648,19413330,17287340,19007248,19651622,19691289,18452278,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	PTBP1	nan	nan	nan	nan	?	Phosphorylation	12851456,18669648
+PRKCD_Homo sapiens	nan	nan	nan	nan	IL6ST	nan	nan	nan	nan	?	Phosphorylation	12361954
+CDK1_Homo sapiens	nan	nan	nan	nan	HMGA2	nan	nan	nan	nan	?	Phosphorylation	10636877,19413330,19664994,18707149,10636877
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HMGA1	nan	nan	nan	nan	?	Phosphorylation	2806554,19413330,19415658,18491316,19651622,18452278,20166139,20068231,20187088,2806554,19415658,19651622,18452278,20166139,20068231
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	HMGA1	nan	nan	nan	nan	?	Phosphorylation	2806554,19413330,19415658,18491316,19651622,18452278,20166139,20068231,20187088,2806554,19415658,19651622,18452278,20166139,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	HMGA1	nan	nan	nan	nan	?	Phosphorylation	1939057,18669648,19413330,19664995,17924679,20068231,1939057,1939057,18669648,19413330,17924679,20068230,20068231
+PRKCD_Homo sapiens	nan	nan	nan	nan	HNRNPK	nan	nan	nan	nan	?	Phosphorylation	10329716
+SRC_Homo sapiens	nan	nan	nan	nan	HNRNPK	nan	nan	nan	nan	?	Phosphorylation	12052863
+MAPK10_Homo sapiens	nan	nan	nan	nan	HNRNPK	nan	nan	nan	nan	?	Phosphorylation	15302935,19413330,19415658,18691976,17287340,19664995,19651622,19664994,18767875,18452278,16964243,20166139,20068231,17322306,18669648,19413330,19415658,18691976,17924679,19664995,18212344,19651622,19664994,16964243,18452278,18767875,20230923,20068231,11259409,11231586
+MAPK1_Homo sapiens	nan	nan	nan	nan	DUSP1	nan	nan	nan	nan	?	Phosphorylation	10617468,16286470
+MAPK3_Homo sapiens	nan	nan	nan	nan	DUSP1	nan	nan	nan	nan	?	Phosphorylation	10617468
+PRKACA_Homo sapiens	nan	nan	nan	nan	SYN2	nan	nan	nan	nan	?	Phosphorylation	10571231
+SRC_Homo sapiens	nan	nan	nan	nan	PTK2	nan	nan	nan	nan	?	Phosphorylation	7529876,7529876,9507031,17389395,19664994,17016520,20068231,7529876,9507031,20068231,11927607,8941336,7529876,8816475,7997267,11927607,8941336
+PTK2_Homo sapiens	nan	nan	nan	nan	PTK2	nan	nan	nan	nan	?	Phosphorylation	7529876,11314030,7509446,12370821,17016520,20068231,8816475,7997267,17192257
+INSR_Homo sapiens	nan	nan	nan	nan	PTK2	nan	nan	nan	nan	?	Phosphorylation	7529876,9507031,17389395,19664994,17016520,20068231,7529876,9507031,20068231
+CRK_Homo sapiens	nan	nan	nan	nan	PTK2	nan	nan	nan	nan	?	Phosphorylation	7529876,11314030,7509446,12370821,17016520,20068231
+RET_Homo sapiens	nan	nan	nan	nan	PTK2	nan	nan	nan	nan	?	Phosphorylation	7529876,9507031,17389395,19664994,17016520,20068231,7529876,9507031,20068231
+PTK2B_Homo sapiens	nan	nan	nan	nan	PTK2	nan	nan	nan	nan	?	Phosphorylation	16760434
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	PSEN2	nan	nan	nan	nan	?	Phosphorylation	8972483,8972483,20068231
+CSNK1D_Homo sapiens	nan	nan	nan	nan	PSEN2	nan	nan	nan	nan	?	Phosphorylation	8972483,20068231,9990034,9558331,9558331,8972483
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PSEN2	nan	nan	nan	nan	?	Phosphorylation	8972483,8972483,20068231,9990034,9558331,9558331
+MAPK1_Homo sapiens	nan	nan	nan	nan	SCNN1G	nan	nan	nan	nan	?	Phosphorylation	11805112
+CDK2_Homo sapiens	nan	nan	nan	nan	CDKN1B	nan	nan	nan	nan	?	Phosphorylation	9192873,17254966
+AKT1_Homo sapiens	nan	nan	nan	nan	CDKN1B	nan	nan	nan	nan	?	Phosphorylation	12244301
+LYN_Homo sapiens	nan	nan	nan	nan	CDKN1B	nan	nan	nan	nan	?	Phosphorylation	17254966
+ABL1_Homo sapiens	nan	nan	nan	nan	CDKN1B	nan	nan	nan	nan	?	Phosphorylation	17254966
+SRC_Homo sapiens	nan	nan	nan	nan	CDKN1B	nan	nan	nan	nan	?	Phosphorylation	17254967
+YES1_Homo sapiens	nan	nan	nan	nan	CDKN1B	nan	nan	nan	nan	?	Phosphorylation	17254967
+INSR_Homo sapiens	nan	nan	nan	nan	IRS2	nan	nan	nan	nan	?	Phosphorylation	9195949,9195949,19901323
+FYN_Homo sapiens	nan	nan	nan	nan	CNN1	nan	nan	nan	nan	?	Phosphorylation	15206927
+ATM_Homo sapiens	nan	nan	nan	nan	MRE11A	nan	nan	nan	nan	?	Phosphorylation	10608806
+PRKCD_Homo sapiens	nan	nan	nan	nan	TAGLN	nan	nan	nan	nan	?	Phosphorylation	11053353,18212344,20166139
+SRC_Homo sapiens	nan	nan	nan	nan	INPPL1	nan	nan	nan	nan	?	Phosphorylation	12235291,17389395,16497976,19901323,18669648,12235291,16497976
+DAPK1_Homo sapiens	nan	nan	nan	nan	DAPK1	nan	nan	nan	nan	?	Phosphorylation	11579085
+MAPK1_Homo sapiens	nan	nan	nan	nan	DAPK1	nan	nan	nan	nan	?	Phosphorylation	15616583
+PRKG1_Homo sapiens	nan	nan	nan	nan	RGS2	nan	nan	nan	nan	?	Phosphorylation	14608379
+CSNK1E_Homo sapiens	nan	nan	nan	nan	CSNK1E	nan	nan	nan	nan	?	Phosphorylation	10542239,18691976,10542239
+GRK6_Homo sapiens	nan	nan	nan	nan	GRK6	nan	nan	nan	nan	?	Phosphorylation	10334944,18669648,18691976,10334944,18669648
+GRK5_Homo sapiens	nan	nan	nan	nan	GRK5	nan	nan	nan	nan	?	Phosphorylation	8144599,18669648,19651622,20068231,8144599,18669648,19651622
+PRKDC_Homo sapiens	nan	nan	nan	nan	PRKDC	nan	nan	nan	nan	?	Phosphorylation	12186630,16565220,18077418,19651622,18691976,12186630,16565220,19415658,18077418,19651622,12186630,12186630,16565220,18077418,15302935,18669648,18452278,18691976,20068231
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	PPP1R3A	nan	nan	nan	nan	?	Phosphorylation	10648825
+CAMK2G_Homo sapiens	nan	nan	nan	nan	MYLK	nan	nan	nan	nan	?	Phosphorylation	10748018,2160950,18088087
+PAK1_Homo sapiens	nan	nan	nan	nan	MYLK	nan	nan	nan	nan	?	Phosphorylation	10092231
+PAK2_Homo sapiens	nan	nan	nan	nan	MYLK	nan	nan	nan	nan	?	Phosphorylation	10748018,10748018,2160950,18088087
+PRKACA_Homo sapiens	nan	nan	nan	nan	AANAT	nan	nan	nan	nan	?	Phosphorylation	11336675
+ATM_Homo sapiens	nan	nan	nan	nan	TERF1	nan	nan	nan	nan	?	Phosphorylation	11375976
+PAK3_Homo sapiens	nan	nan	nan	nan	MYO6	nan	nan	nan	nan	?	Phosphorylation	11517222,20068231
+MAPK1_Homo sapiens	nan	nan	nan	nan	SMAD4	nan	nan	nan	nan	?	Phosphorylation	12801888
+EPHB2_Homo sapiens	nan	nan	nan	nan	EPHB2	nan	nan	nan	nan	?	Phosphorylation	10572014,9233798,9632142,17016520,17192257,18691976,18578522,20058876,17192257,18578522
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	MAZ	nan	nan	nan	nan	?	Phosphorylation	10448092
+CAMK2A_Homo sapiens	nan	nan	nan	nan	DLG1	nan	nan	nan	nan	?	Phosphorylation	12933808
+MAPK12_Homo sapiens	nan	nan	nan	nan	SNTA1	nan	nan	nan	nan	?	Phosphorylation	10212242,18669648,19413330,10212242,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	SLC6A9	nan	nan	nan	nan	?	Phosphorylation	7595479
+PKN1_Homo sapiens	nan	nan	nan	nan	PKN1	nan	nan	nan	nan	?	Phosphorylation	10792047,10467162
+PDPK1_Homo sapiens	nan	nan	nan	nan	PKN1	nan	nan	nan	nan	?	Phosphorylation	10792047,10753910,18669648,10792047,18669648
+EGFR_Homo sapiens	nan	nan	nan	nan	CTNND1	nan	nan	nan	nan	?	Phosphorylation	14996911,17389395,17016520,20068231
+GSK3B_Homo sapiens	nan	nan	nan	nan	CTNND1	nan	nan	nan	nan	?	Phosphorylation	12885254,18212344,20166139,12885254
+SRC_Homo sapiens	nan	nan	nan	nan	CTNND1	nan	nan	nan	nan	?	Phosphorylation	11382764,17016520,11382764,14996911,17389395,17016520,20068231,11382764,17389395,17016520,18707149,11382764,17389395,17016520,11382764,17016520,20068231,11382764,18669648,17016520,20068231,11382764,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	CAV1	nan	nan	nan	nan	?	Phosphorylation	8632005,17389395,17016520,18707149,18578522
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CAV1	nan	nan	nan	nan	?	Phosphorylation	8058322
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	CAV1	nan	nan	nan	nan	?	Phosphorylation	8058322
+SRC_Homo sapiens	nan	nan	nan	nan	CAV2	nan	nan	nan	nan	?	Phosphorylation	12091389,18669648,20068231
+SYK_Homo sapiens	nan	nan	nan	nan	IL15RA	nan	nan	nan	nan	?	Phosphorylation	11714793
+PRKACA_Homo sapiens	nan	nan	nan	nan	THOP1	nan	nan	nan	nan	?	Phosphorylation	10969067
+SRC_Homo sapiens	nan	nan	nan	nan	CDH5	nan	nan	nan	nan	?	Phosphorylation	16027153
+MAPK9_Homo sapiens	nan	nan	nan	nan	H3F3A	nan	nan	nan	nan	?	Phosphorylation	11278789,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	FHIT	nan	nan	nan	nan	?	Phosphorylation	15835917
+MAP2K4_Homo sapiens	nan	nan	nan	nan	MAPK8	nan	nan	nan	nan	?	Phosphorylation	16153436,18669648
+MAP2K7_Homo sapiens	nan	nan	nan	nan	MAPK8	nan	nan	nan	nan	?	Phosphorylation	11062067,18669648,18691976
+RET_Homo sapiens	nan	nan	nan	nan	MAPK8	nan	nan	nan	nan	?	Phosphorylation	16153436,18669648
+PRKG1_Homo sapiens	nan	nan	nan	nan	CRIP2	nan	nan	nan	nan	?	Phosphorylation	10681529
+PRKCA_Homo sapiens	nan	nan	nan	nan	CASR	nan	nan	nan	nan	?	Phosphorylation	9694886
+PRKCB_Homo sapiens	nan	nan	nan	nan	CASR	nan	nan	nan	nan	?	Phosphorylation	9694886,12356761
+PRKCG_Homo sapiens	nan	nan	nan	nan	CASR	nan	nan	nan	nan	?	Phosphorylation	9694886
+PTPN11_Homo sapiens	nan	nan	nan	nan	PTK2B	nan	nan	nan	nan	?	Phosphorylation	10880513
+PTK2B_Homo sapiens	nan	nan	nan	nan	PTK2B	nan	nan	nan	nan	?	Phosphorylation	9560226,17684059,17205062,11337490,17016520,11337490,17389395,17016520,9560226,9560226,17684059,17192257,18691976,18088087,19651622,20058876,17192257
+MTOR_Homo sapiens	nan	nan	nan	nan	MTOR	nan	nan	nan	nan	?	Phosphorylation	10702316,18669648
+AKT1_Homo sapiens	nan	nan	nan	nan	MTOR	nan	nan	nan	nan	?	Phosphorylation	10910062,14970221,10910062,19664994,18691976
+RPS6KB1_Homo sapiens	nan	nan	nan	nan	MTOR	nan	nan	nan	nan	?	Phosphorylation	10910062,19664994,18691976
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	MTOR	nan	nan	nan	nan	?	Phosphorylation	15905173,10910062,19664994,18691976
+PRKAA1_Homo sapiens	nan	nan	nan	nan	MTOR	nan	nan	nan	nan	?	Phosphorylation	14970221
+PRKCB_Homo sapiens	nan	nan	nan	nan	DAB2	nan	nan	nan	nan	?	Phosphorylation	10542228
+PRKCD_Homo sapiens	nan	nan	nan	nan	DAB2	nan	nan	nan	nan	?	Phosphorylation	10542228
+PRKCG_Homo sapiens	nan	nan	nan	nan	DAB2	nan	nan	nan	nan	?	Phosphorylation	10542228
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HDAC1	nan	nan	nan	nan	?	Phosphorylation	11602581,18669648,19413330,19415658,17287340,19651622,18452278,18767875,20166139,20068231
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	HDAC1	nan	nan	nan	nan	?	Phosphorylation	11602581,18669648,19413330,19415658,17287340,19651622,18452278,18767875,20166139,20068231
+MAP2K2_Homo sapiens	nan	nan	nan	nan	MAP2K2	nan	nan	nan	nan	?	Phosphorylation	17192257,17192257,18669648,20068231,17322306,18669648,18691976,18088087,19651622,16964243,20166139,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	DUT	nan	nan	nan	nan	?	Phosphorylation	8631817,20068231,8631817,19415658,19664995,18212344,19651622,20068231
+JAK2_Homo sapiens	nan	nan	nan	nan	CCR2	nan	nan	nan	nan	?	Phosphorylation	9670957
+PRKCA_Homo sapiens	nan	nan	nan	nan	GPM6A	nan	nan	nan	nan	?	Phosphorylation	12359212
+CDK1_Homo sapiens	nan	nan	nan	nan	PLEC1	nan	nan	nan	nan	?	Phosphorylation	8626512
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	YWHAZ	nan	nan	nan	nan	?	Phosphorylation	9360956,19415658,18077418,19651622,18691976,18452278,20068231
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	YWHAZ	nan	nan	nan	nan	?	Phosphorylation	12861023
+PRKCD_Homo sapiens	nan	nan	nan	nan	YWHAZ	nan	nan	nan	nan	?	Phosphorylation	9705322
+AKT1_Homo sapiens	nan	nan	nan	nan	YWHAZ	nan	nan	nan	nan	?	Phosphorylation	11956222
+MAPK8_Homo sapiens	nan	nan	nan	nan	YWHAZ	nan	nan	nan	nan	?	Phosphorylation	15696159
+STK25_Homo sapiens	nan	nan	nan	nan	YWHAZ	nan	nan	nan	nan	?	Phosphorylation	15037601
+PRKCZ_Homo sapiens	nan	nan	nan	nan	YWHAB	nan	nan	nan	nan	?	Phosphorylation	10620507
+FGR_Homo sapiens	nan	nan	nan	nan	HCLS1	nan	nan	nan	nan	?	Phosphorylation	10066823
+LYN_Homo sapiens	nan	nan	nan	nan	HCLS1	nan	nan	nan	nan	?	Phosphorylation	10066823,9104825
+SYK_Homo sapiens	nan	nan	nan	nan	HCLS1	nan	nan	nan	nan	?	Phosphorylation	9104825
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HCLS1	nan	nan	nan	nan	?	Phosphorylation	10806407
+PRKACA_Homo sapiens	nan	nan	nan	nan	HNRNPD	nan	nan	nan	nan	?	Phosphorylation	12819195,11903055,17287340,19651622
+GSK3B_Homo sapiens	nan	nan	nan	nan	HNRNPD	nan	nan	nan	nan	?	Phosphorylation	12819195,11903055,18669648,19413330,19415658,17287340,18212344,19651622,18452278,18691976,20068230,20166139,20068231
+ROCK1_Homo sapiens	nan	nan	nan	nan	LIMK1	nan	nan	nan	nan	?	Phosphorylation	10652353,11340065,10559936
+PAK1_Homo sapiens	nan	nan	nan	nan	LIMK1	nan	nan	nan	nan	?	Phosphorylation	10652353,11340065,10559936
+CDC42BPA_Homo sapiens	nan	nan	nan	nan	LIMK1	nan	nan	nan	nan	?	Phosphorylation	10652353,11340065,10559936
+LIMK1_Homo sapiens	nan	nan	nan	nan	LIMK1	nan	nan	nan	nan	?	Phosphorylation	17192257,19413330,18691976,17192257,18669648,19413330,19664994,18707149,18691976
+MAP2K4_Homo sapiens	nan	nan	nan	nan	MAP2K4	nan	nan	nan	nan	?	Phosphorylation	9162092
+AKT1_Homo sapiens	nan	nan	nan	nan	MAP2K4	nan	nan	nan	nan	?	Phosphorylation	11707464
+TGFBR1_Homo sapiens	nan	nan	nan	nan	SMAD2	nan	nan	nan	nan	?	Phosphorylation	9892009,9892009,9346908
+ACVR1B_Homo sapiens	nan	nan	nan	nan	SMAD2	nan	nan	nan	nan	?	Phosphorylation	9892009
+MAPK3_Homo sapiens	nan	nan	nan	nan	SMAD2	nan	nan	nan	nan	?	Phosphorylation	12193595,11027280,19413330,18691976,18491316,19651622,20068231
+CAMK2A_Homo sapiens	nan	nan	nan	nan	SMAD2	nan	nan	nan	nan	?	Phosphorylation	11027280
+MAPK1_Homo sapiens	nan	nan	nan	nan	SMAD2	nan	nan	nan	nan	?	Phosphorylation	10197981
+ADRBK2_Homo sapiens	nan	nan	nan	nan	CCR5	nan	nan	nan	nan	?	Phosphorylation	10085131
+CDK1_Homo sapiens	nan	nan	nan	nan	KAT5	nan	nan	nan	nan	?	Phosphorylation	12468530,18669648
+CCNB1_Homo sapiens	nan	nan	nan	nan	KAT5	nan	nan	nan	nan	?	Phosphorylation	12468530,18669648
+CDK2_Homo sapiens	nan	nan	nan	nan	MYBL2	nan	nan	nan	nan	?	Phosphorylation	10593981,20068231,10593981,10095772,9840932,10095772,10593981
+PRKCA_Homo sapiens	nan	nan	nan	nan	DGKZ	nan	nan	nan	nan	?	Phosphorylation	9716136
+LIMK1_Homo sapiens	nan	nan	nan	nan	CFL1	nan	nan	nan	nan	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
+TESK1_Homo sapiens	nan	nan	nan	nan	CFL1	nan	nan	nan	nan	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
+LIMK2_Homo sapiens	nan	nan	nan	nan	CFL1	nan	nan	nan	nan	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
+TESK2_Homo sapiens	nan	nan	nan	nan	CFL1	nan	nan	nan	nan	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
+NRK_Homo sapiens	nan	nan	nan	nan	CFL1	nan	nan	nan	nan	?	Phosphorylation	9655398,11418599,11340065,11925442,18669648,19413330,18491316,19651622,18702456,18578522,20068231,20058876
+LIMK1_Homo sapiens	nan	nan	nan	nan	CFL2	nan	nan	nan	nan	?	Phosphorylation	9655398,12684437,8824278,19413330,19651622,20068231
+MAPK1_Homo sapiens	nan	nan	nan	nan	PPARG	nan	nan	nan	nan	?	Phosphorylation	9030579
+MAPK8_Homo sapiens	nan	nan	nan	nan	PPARG	nan	nan	nan	nan	?	Phosphorylation	9030579
+PRKCD_Homo sapiens	nan	nan	nan	nan	NCF4	nan	nan	nan	nan	?	Phosphorylation	9804763
+BTK_Homo sapiens	nan	nan	nan	nan	STAT5A	nan	nan	nan	nan	?	Phosphorylation	8617237,7925280,11413148,17389395,16497976,17016520
+JAK2_Homo sapiens	nan	nan	nan	nan	STAT5A	nan	nan	nan	nan	?	Phosphorylation	8617237,7925280,11413148,17389395,16497976,17016520
+PRKG1_Homo sapiens	nan	nan	nan	nan	SF1	nan	nan	nan	nan	?	Phosphorylation	10449420,17287340
+SRC_Homo sapiens	nan	nan	nan	nan	GRB10	nan	nan	nan	nan	?	Phosphorylation	10871840
+FYN_Homo sapiens	nan	nan	nan	nan	GRB10	nan	nan	nan	nan	?	Phosphorylation	10871840
+MAPK1_Homo sapiens	nan	nan	nan	nan	GRB10	nan	nan	nan	nan	?	Phosphorylation	15952796,15952796,18669648,20068231,15952796,18669648
+GRK6_Homo sapiens	nan	nan	nan	nan	LTB4R	nan	nan	nan	nan	?	Phosphorylation	12077128,20058876
+NUAK1_Homo sapiens	nan	nan	nan	nan	CASP6	nan	nan	nan	nan	?	Phosphorylation	15273717
+AKT1_Homo sapiens	nan	nan	nan	nan	ATXN1	nan	nan	nan	nan	?	Phosphorylation	12757707,12741986
+PRKCA_Homo sapiens	nan	nan	nan	nan	ADD3	nan	nan	nan	nan	?	Phosphorylation	11895774,18669648,19651622,18452278,20166139,20068231
+AKT1_Homo sapiens	nan	nan	nan	nan	EZH2	nan	nan	nan	nan	?	Phosphorylation	16224021
+TGFBR1_Homo sapiens	nan	nan	nan	nan	SMAD1	nan	nan	nan	nan	?	Phosphorylation	9748228,9136927,10085121,9748228,9136927,10085121,19651622
+ACVR1_Homo sapiens	nan	nan	nan	nan	SMAD1	nan	nan	nan	nan	?	Phosphorylation	9748228,9136927,10085121,19651622,9748228,9136927,10085121
+MAPK1_Homo sapiens	nan	nan	nan	nan	SMAD1	nan	nan	nan	nan	?	Phosphorylation	9335504
+ZAP70_Homo sapiens	nan	nan	nan	nan	LCP2	nan	nan	nan	nan	?	Phosphorylation	8702662,9047237,10660534,8702662
+TXK_Homo sapiens	nan	nan	nan	nan	LCP2	nan	nan	nan	nan	?	Phosphorylation	8702662,9047237,10660534
+LCK_Homo sapiens	nan	nan	nan	nan	LCP2	nan	nan	nan	nan	?	Phosphorylation	8702662
+EIF2AK2_Homo sapiens	nan	nan	nan	nan	PPP2R5A	nan	nan	nan	nan	?	Phosphorylation	10866685
+SRC_Homo sapiens	nan	nan	nan	nan	GTF2I	nan	nan	nan	nan	?	Phosphorylation	9837922,9012831,11373296,11313464,11934902,11934902
+BTK_Homo sapiens	nan	nan	nan	nan	GTF2I	nan	nan	nan	nan	?	Phosphorylation	9837922,9012831,11373296,11313464,11934902,11373296,11373296,20068231
+PRKG1_Homo sapiens	nan	nan	nan	nan	GTF2I	nan	nan	nan	nan	?	Phosphorylation	12082086,12082086,19651622,20068231
+JAK2_Homo sapiens	nan	nan	nan	nan	GTF2I	nan	nan	nan	nan	?	Phosphorylation	9837922,9012831,11373296,11313464,11934902
+MAPK1_Homo sapiens	nan	nan	nan	nan	RPS6KA1	nan	nan	nan	nan	?	Phosphorylation	9430688,18669648,18691976,18212344,19651622,20068231,9430688,12618428,18669648,18691976,19651622,20068231
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	RPS6KA1	nan	nan	nan	nan	?	Phosphorylation	9430688,12618428,10648825,18669648,18691976,19651622,20068231,17192257,20068231,17192257,18669648
+PDPK1_Homo sapiens	nan	nan	nan	nan	RPS6KA1	nan	nan	nan	nan	?	Phosphorylation	10480933,9430688,18767875,20058876
+RPS6KA2_Homo sapiens	nan	nan	nan	nan	RPS6KA2	nan	nan	nan	nan	?	Phosphorylation	17192257
+PRKACA_Homo sapiens	nan	nan	nan	nan	VASP	nan	nan	nan	nan	?	Phosphorylation	12576312,20058876,12576312,17287340,20166139,8182057
+PRKG1_Homo sapiens	nan	nan	nan	nan	VASP	nan	nan	nan	nan	?	Phosphorylation	12576312,20058876,8182057,12576312,17287340,20166139
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	EIF5	nan	nan	nan	nan	?	Phosphorylation	11861906,18669648,19413330,19415658,18691976,17287340,19651622,18452278,20068231,11861906
+CSNK2B_Homo sapiens	nan	nan	nan	nan	EIF5	nan	nan	nan	nan	?	Phosphorylation	11861906,11861906,18669648,19413330,19415658,18691976,17287340,19651622,18452278,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	GMFB	nan	nan	nan	nan	?	Phosphorylation	9030586
+PRKACA_Homo sapiens	nan	nan	nan	nan	GMFB	nan	nan	nan	nan	?	Phosphorylation	9030586
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	GMFB	nan	nan	nan	nan	?	Phosphorylation	9030586
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	GMFB	nan	nan	nan	nan	?	Phosphorylation	9030586,7598724
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PTEN	nan	nan	nan	nan	?	Phosphorylation	12297295
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	PTEN	nan	nan	nan	nan	?	Phosphorylation	12297295
+AKT1_Homo sapiens	nan	nan	nan	nan	PTEN	nan	nan	nan	nan	?	Phosphorylation	12077256,10866658,12077256,12297295
+STK11_Homo sapiens	nan	nan	nan	nan	PTEN	nan	nan	nan	nan	?	Phosphorylation	15987703
+PRKACA_Homo sapiens	nan	nan	nan	nan	CUL5	nan	nan	nan	nan	?	Phosphorylation	10898738
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	VDR	nan	nan	nan	nan	?	Phosphorylation	8622969
+ATM_Homo sapiens	nan	nan	nan	nan	H2AFX	nan	nan	nan	nan	?	Phosphorylation	9488723,11893489,11571274,20068231
+TESK1_Homo sapiens	nan	nan	nan	nan	TESK1	nan	nan	nan	nan	?	Phosphorylation	10207045
+CDK5_Homo sapiens	nan	nan	nan	nan	PPP1R2	nan	nan	nan	nan	?	Phosphorylation	11320080
+GSK3B_Homo sapiens	nan	nan	nan	nan	PPP1R2	nan	nan	nan	nan	?	Phosphorylation	12761178,11320080
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PPP1R2	nan	nan	nan	nan	?	Phosphorylation	8288648,19415658,17287340,18491316,18088087,18212344,19651622,20166139,20068231,8288648,19415658,17287340,18491316,18088087,18212344,19651622,18767875,20166139,20068231,8288648,18669648,18491316
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	PPP1R2	nan	nan	nan	nan	?	Phosphorylation	8288648,19415658,17287340,18491316,18088087,18212344,19651622,20166139,20068231,8288648,19415658,17287340,18491316,18088087,18212344,19651622,18767875,20166139,20068231,8288648,18669648,18491316
+MAP2K2_Homo sapiens	nan	nan	nan	nan	MAPK3	nan	nan	nan	nan	?	Phosphorylation	7687743,8626767,18669648,18691976,17389395,19651622,15580310,18669648,18691976,17389395,19651622,16497976,18707149,19901323,20068231
+MAPK3_Homo sapiens	nan	nan	nan	nan	MAPK3	nan	nan	nan	nan	?	Phosphorylation	7687743,8626767,18669648,18691976,17389395,19651622,15580310,18669648,18691976,17389395,19651622,16497976,18707149,19901323,20068231,17192257,18669648,18691976,17389395,19651622
+PRKCA_Homo sapiens	nan	nan	nan	nan	DGKD	nan	nan	nan	nan	?	Phosphorylation	15228384
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	NR4A2	nan	nan	nan	nan	?	Phosphorylation	16223362
+PRKDC_Homo sapiens	nan	nan	nan	nan	LIG4	nan	nan	nan	nan	?	Phosphorylation	15194694
+EPHB3_Homo sapiens	nan	nan	nan	nan	EPHB3	nan	nan	nan	nan	?	Phosphorylation	9674711
+PTK2_Homo sapiens	nan	nan	nan	nan	TRIO	nan	nan	nan	nan	?	Phosphorylation	12551902
+CDK2_Homo sapiens	nan	nan	nan	nan	ORC1L	nan	nan	nan	nan	?	Phosphorylation	11931757,20068231,11931757,19413330,20068231,11931757
+CHUK_Homo sapiens	nan	nan	nan	nan	NCOA3	nan	nan	nan	nan	?	Phosphorylation	16135815,15383283,18669648,19413330,19651622,16964243,20068231,16135815,15383283,15302935,18669648,19413330,19651622,16964243,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	NCOA3	nan	nan	nan	nan	?	Phosphorylation	16135815,15383283,16456540,16135815,15383283,16456540,20068231,16135815,15383283,16456540,18669648,19413330,16964243,20068231
+IKBKB_Homo sapiens	nan	nan	nan	nan	NCOA3	nan	nan	nan	nan	?	Phosphorylation	16135815,15383283,18669648,19413330,19651622,16964243,20068231,16135815,15383283,15302935,18669648,19413330,19651622,16964243,20068231
+AKT1_Homo sapiens	nan	nan	nan	nan	S1PR1	nan	nan	nan	nan	?	Phosphorylation	11583630
+LYN_Homo sapiens	nan	nan	nan	nan	MAP4K1	nan	nan	nan	nan	?	Phosphorylation	11514608
+ABL1_Homo sapiens	nan	nan	nan	nan	MAP4K1	nan	nan	nan	nan	?	Phosphorylation	11278340
+SYK_Homo sapiens	nan	nan	nan	nan	MAP4K1	nan	nan	nan	nan	?	Phosphorylation	11514608
+MAP4K1_Homo sapiens	nan	nan	nan	nan	MAP4K1	nan	nan	nan	nan	?	Phosphorylation	17192257
+ROCK1_Homo sapiens	nan	nan	nan	nan	LIMK2	nan	nan	nan	nan	?	Phosphorylation	11018042,11340065
+CDC42BPA_Homo sapiens	nan	nan	nan	nan	LIMK2	nan	nan	nan	nan	?	Phosphorylation	11340065
+ABL1_Homo sapiens	nan	nan	nan	nan	TP73	nan	nan	nan	nan	?	Phosphorylation	10391251
+CDK1_Homo sapiens	nan	nan	nan	nan	TP73	nan	nan	nan	nan	?	Phosphorylation	12676926
+CDK2_Homo sapiens	nan	nan	nan	nan	TP73	nan	nan	nan	nan	?	Phosphorylation	12676926
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	BID	nan	nan	nan	nan	?	Phosphorylation	11583622
+CSNK1E_Homo sapiens	nan	nan	nan	nan	BID	nan	nan	nan	nan	?	Phosphorylation	11583622
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	BID	nan	nan	nan	nan	?	Phosphorylation	11583622
+CSNK2B_Homo sapiens	nan	nan	nan	nan	BID	nan	nan	nan	nan	?	Phosphorylation	11583622
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	BID	nan	nan	nan	nan	?	Phosphorylation	11583622
+PTK6_Homo sapiens	nan	nan	nan	nan	PTK6	nan	nan	nan	nan	?	Phosphorylation	12121988,12121988,17389395,17016520
+ROCK1_Homo sapiens	nan	nan	nan	nan	PPP1R12A	nan	nan	nan	nan	?	Phosphorylation	12600888,10601309,11931630,12220642,18669648,18077418,18767875,18212344,12563012,12220642,10601309
+ILK_Homo sapiens	nan	nan	nan	nan	PPP1R12A	nan	nan	nan	nan	?	Phosphorylation	12600888,10601309,11931630,12220642,18669648,18077418,18767875,18212344
+ROCK2_Homo sapiens	nan	nan	nan	nan	PPP1R12A	nan	nan	nan	nan	?	Phosphorylation	12563012,12220642,10601309,12600888,11931630
+DMPK_Homo sapiens	nan	nan	nan	nan	PPP1R12A	nan	nan	nan	nan	?	Phosphorylation	12600888,10601309,11931630,12220642,18669648,18077418,18767875,18212344
+PRKACA_Homo sapiens	nan	nan	nan	nan	PDE3B	nan	nan	nan	nan	?	Phosphorylation	8626720,8163498,10454575
+AKT1_Homo sapiens	nan	nan	nan	nan	PDE3B	nan	nan	nan	nan	?	Phosphorylation	10454575,10454575,18669648
+AKT1_Homo sapiens	nan	nan	nan	nan	RAC1	nan	nan	nan	nan	?	Phosphorylation	10617634,18669648,10617634
+PRKCE_Homo sapiens	nan	nan	nan	nan	TRPV1	nan	nan	nan	nan	?	Phosphorylation	14523239,14523239,11884385
+SYK_Homo sapiens	nan	nan	nan	nan	SH3BP2	nan	nan	nan	nan	?	Phosphorylation	12709437,11390470
+PRKCA_Homo sapiens	nan	nan	nan	nan	PA2G4	nan	nan	nan	nan	?	Phosphorylation	11325528,20068231,11325528
+PRKCB_Homo sapiens	nan	nan	nan	nan	PA2G4	nan	nan	nan	nan	?	Phosphorylation	11325528,20068231,11325528
+PRKCG_Homo sapiens	nan	nan	nan	nan	PA2G4	nan	nan	nan	nan	?	Phosphorylation	11325528,20068231,11325528
+PLK3_Homo sapiens	nan	nan	nan	nan	VRK1	nan	nan	nan	nan	?	Phosphorylation	19103756,20068231
+EPHA4_Homo sapiens	nan	nan	nan	nan	EPHA4	nan	nan	nan	nan	?	Phosphorylation	8622893
+GSK3B_Homo sapiens	nan	nan	nan	nan	BICD1	nan	nan	nan	nan	?	Phosphorylation	17139249
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	STK11	nan	nan	nan	nan	?	Phosphorylation	11297520,11853558
+PRKACA_Homo sapiens	nan	nan	nan	nan	STK11	nan	nan	nan	nan	?	Phosphorylation	11297520,11853558
+STK11_Homo sapiens	nan	nan	nan	nan	STK11	nan	nan	nan	nan	?	Phosphorylation	11668633
+ATM_Homo sapiens	nan	nan	nan	nan	STK11	nan	nan	nan	nan	?	Phosphorylation	11853558,12234250
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	STK11	nan	nan	nan	nan	?	Phosphorylation	11297520
+RPS6KB1_Homo sapiens	nan	nan	nan	nan	STK11	nan	nan	nan	nan	?	Phosphorylation	11297520,11853558
+MAPK1_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	11777913,18669648,19413330,19664995,19651622,20068231,11777913,18669648,17287340,19664995,19651622,18767875,20068231,12747827,18669648,17287340,19664995,19651622,20068231,9405468,9092573,10779345,18669648
+MAPK14_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	11777913,18669648,19413330,19664995,19651622,20068231,11777913,18669648,17287340,19664995,19651622,18767875,20068231
+MTOR_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	11777913,18669648,19413330,19664995,19651622,20068231,11777913,18669648,17287340,19664995,19651622,18767875,20068231,12747827,18669648,17287340,19664995,19651622,20068231,9405468,9092573,10779345,18669648
+ATM_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	9806882,11146653,12588975,18212344
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	11777913,18669648,20068231,11777913,18669648,19413330,20068231,11777913,18669648,17287340,19664995,19651622,18767875,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	9806882,11146653,12588975,18212344
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	9806882,11146653,12588975,18212344
+AKT1_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	11777913,18669648,19413330,19664995,19651622,20068231,11777913,18669648,17287340,19664995,19651622,18767875,20068231
+RHEBL1_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	11777913,18669648,17287340,19664995,19651622,18767875,20068231
+RORC_Homo sapiens	nan	nan	nan	nan	EIF4EBP1	nan	nan	nan	nan	?	Phosphorylation	11777913,18669648,20068231,11777913,18669648,19413330,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	TCF7L2	nan	nan	nan	nan	?	Phosphorylation	11711551,11711551,18452278
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	TCF7L2	nan	nan	nan	nan	?	Phosphorylation	11711551,11711551,18452278
+MAP2K1_Homo sapiens	nan	nan	nan	nan	CASP9	nan	nan	nan	nan	?	Phosphorylation	12792650,18669648,12792650
+MAPK1_Homo sapiens	nan	nan	nan	nan	CASP9	nan	nan	nan	nan	?	Phosphorylation	12792650,18669648,12792650
+ABL1_Homo sapiens	nan	nan	nan	nan	CASP9	nan	nan	nan	nan	?	Phosphorylation	15657060
+MAP2K2_Homo sapiens	nan	nan	nan	nan	CASP9	nan	nan	nan	nan	?	Phosphorylation	12792650,18669648,12792650
+MAPK3_Homo sapiens	nan	nan	nan	nan	CASP9	nan	nan	nan	nan	?	Phosphorylation	12792650,18669648,12792650
+AKT1_Homo sapiens	nan	nan	nan	nan	CASP9	nan	nan	nan	nan	?	Phosphorylation	9812896
+PRKCZ_Homo sapiens	nan	nan	nan	nan	CASP9	nan	nan	nan	nan	?	Phosphorylation	16287866
+PRKCA_Homo sapiens	nan	nan	nan	nan	KCNQ2	nan	nan	nan	nan	?	Phosphorylation	12754513
+STK25_Homo sapiens	nan	nan	nan	nan	STK25	nan	nan	nan	nan	?	Phosphorylation	15037601,18452278
+CDK1_Homo sapiens	nan	nan	nan	nan	FOXM1	nan	nan	nan	nan	?	Phosphorylation	15024056
+CDK2_Homo sapiens	nan	nan	nan	nan	FOXM1	nan	nan	nan	nan	?	Phosphorylation	15024056
+PRKCA_Homo sapiens	nan	nan	nan	nan	NRGN	nan	nan	nan	nan	?	Phosphorylation	8080473
+PRKCB_Homo sapiens	nan	nan	nan	nan	NRGN	nan	nan	nan	nan	?	Phosphorylation	8080473
+PRKCG_Homo sapiens	nan	nan	nan	nan	NRGN	nan	nan	nan	nan	?	Phosphorylation	8080473
+ZAP70_Homo sapiens	nan	nan	nan	nan	LAT	nan	nan	nan	nan	?	Phosphorylation	11368773
+PRKCQ_Homo sapiens	nan	nan	nan	nan	WIPF1	nan	nan	nan	nan	?	Phosphorylation	12504004
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	RANGAP1	nan	nan	nan	nan	?	Phosphorylation	16428860,18669648
+ILK_Homo sapiens	nan	nan	nan	nan	ILK	nan	nan	nan	nan	?	Phosphorylation	11313365
+FYN_Homo sapiens	nan	nan	nan	nan	CNN3	nan	nan	nan	nan	?	Phosphorylation	15206927
+PRKCA_Homo sapiens	nan	nan	nan	nan	DNM1	nan	nan	nan	nan	?	Phosphorylation	10766777
+SRC_Homo sapiens	nan	nan	nan	nan	DNM1	nan	nan	nan	nan	?	Phosphorylation	9880482,9880482,12011079
+CDK5_Homo sapiens	nan	nan	nan	nan	DNM1	nan	nan	nan	nan	?	Phosphorylation	12855954,18088087,19651622
+PRKCA_Homo sapiens	nan	nan	nan	nan	PLD1	nan	nan	nan	nan	?	Phosphorylation	10441128
+EGFR_Homo sapiens	nan	nan	nan	nan	PLD2	nan	nan	nan	nan	?	Phosphorylation	9837959
+PRKACA_Homo sapiens	nan	nan	nan	nan	NOLC1	nan	nan	nan	nan	?	Phosphorylation	17322306,18669648,19664995,19651622,20068231,12167624,18669648,19651622,18212344,20068231
+MAP2K6_Homo sapiens	nan	nan	nan	nan	MAPK12	nan	nan	nan	nan	?	Phosphorylation	11062067
+MAP2K4_Homo sapiens	nan	nan	nan	nan	MAPK12	nan	nan	nan	nan	?	Phosphorylation	11062067,19413330
+MAP2K3_Homo sapiens	nan	nan	nan	nan	MAPK12	nan	nan	nan	nan	?	Phosphorylation	11062067
+MAPK12_Homo sapiens	nan	nan	nan	nan	MAPK12	nan	nan	nan	nan	?	Phosphorylation	10567720,19413330
+PRKCA_Homo sapiens	nan	nan	nan	nan	HAND1	nan	nan	nan	nan	?	Phosphorylation	14636580
+PRKACA_Homo sapiens	nan	nan	nan	nan	HAND1	nan	nan	nan	nan	?	Phosphorylation	14636580
+PRKCA_Homo sapiens	nan	nan	nan	nan	CFTR	nan	nan	nan	nan	?	Phosphorylation	1377674
+PRKACA_Homo sapiens	nan	nan	nan	nan	CFTR	nan	nan	nan	nan	?	Phosphorylation	1377674
+PRKG1_Homo sapiens	nan	nan	nan	nan	CFTR	nan	nan	nan	nan	?	Phosphorylation	1377674
+MAP3K5_Homo sapiens	nan	nan	nan	nan	MAP3K5	nan	nan	nan	nan	?	Phosphorylation	11920685
+AKT1_Homo sapiens	nan	nan	nan	nan	MAP3K5	nan	nan	nan	nan	?	Phosphorylation	11154276
+CDK1_Homo sapiens	nan	nan	nan	nan	BUB1	nan	nan	nan	nan	?	Phosphorylation	16760428
+HIPK3_Homo sapiens	nan	nan	nan	nan	FADD	nan	nan	nan	nan	?	Phosphorylation	11034606,10640736,19413330,19664995,20230923,20068231
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	FADD	nan	nan	nan	nan	?	Phosphorylation	11034606,10640736,19413330,19664995,20230923,20068231
+JAK2_Homo sapiens	nan	nan	nan	nan	SIRPA	nan	nan	nan	nan	?	Phosphorylation	10842184,17389395,17016520
+ROCK1_Homo sapiens	nan	nan	nan	nan	DPYSL2	nan	nan	nan	nan	?	Phosphorylation	10818093
+GSK3B_Homo sapiens	nan	nan	nan	nan	DPYSL2	nan	nan	nan	nan	?	Phosphorylation	15652488,18669648,19413330,18491316,19651622,16964243
+PLK1_Homo sapiens	nan	nan	nan	nan	PKMYT1	nan	nan	nan	nan	?	Phosphorylation	12738781,12738781,18691976
+PRKCA_Homo sapiens	nan	nan	nan	nan	CYTH2	nan	nan	nan	nan	?	Phosphorylation	10531036
+PRKCB_Homo sapiens	nan	nan	nan	nan	CYTH2	nan	nan	nan	nan	?	Phosphorylation	10531036
+PRKCG_Homo sapiens	nan	nan	nan	nan	CYTH2	nan	nan	nan	nan	?	Phosphorylation	10531036
+MAPK1_Homo sapiens	nan	nan	nan	nan	KHDRBS1	nan	nan	nan	nan	?	Phosphorylation	12478298,19664995,18691976,20068231,12478298
+CDK1_Homo sapiens	nan	nan	nan	nan	KHDRBS1	nan	nan	nan	nan	?	Phosphorylation	9315091
+PTK6_Homo sapiens	nan	nan	nan	nan	KHDRBS1	nan	nan	nan	nan	?	Phosphorylation	16179349
+PTK2_Homo sapiens	nan	nan	nan	nan	PXN	nan	nan	nan	nan	?	Phosphorylation	9230116,18669648,17389395,18707149,20068231,9658172,11337490
+MAPK8_Homo sapiens	nan	nan	nan	nan	PXN	nan	nan	nan	nan	?	Phosphorylation	12853963,20068231
+CSK_Homo sapiens	nan	nan	nan	nan	PXN	nan	nan	nan	nan	?	Phosphorylation	11695992,11695992,17389395,18707149
+PRKACA_Homo sapiens	nan	nan	nan	nan	RGS14	nan	nan	nan	nan	?	Phosphorylation	12534294
+LYN_Homo sapiens	nan	nan	nan	nan	RGS16	nan	nan	nan	nan	?	Phosphorylation	12588871,11602604
+SRC_Homo sapiens	nan	nan	nan	nan	RGS16	nan	nan	nan	nan	?	Phosphorylation	12588871,11602604
+CSK_Homo sapiens	nan	nan	nan	nan	RGS16	nan	nan	nan	nan	?	Phosphorylation	12588871,11602604
+EGFR_Homo sapiens	nan	nan	nan	nan	RGS16	nan	nan	nan	nan	?	Phosphorylation	12588871,11602604,11602604
+PRKCA_Homo sapiens	nan	nan	nan	nan	RGS7	nan	nan	nan	nan	?	Phosphorylation	12077120
+PDK1_Homo sapiens	nan	nan	nan	nan	PDK1	nan	nan	nan	nan	?	Phosphorylation	12177059
+PRKCA_Homo sapiens	nan	nan	nan	nan	SNAP23	nan	nan	nan	nan	?	Phosphorylation	12930825,18578522,20166139,12930825,20068231,12930825,19651622
+PRKACA_Homo sapiens	nan	nan	nan	nan	MAP3K3	nan	nan	nan	nan	?	Phosphorylation	12392720,18691976,19651622,12392720,18691976
+MAP3K3_Homo sapiens	nan	nan	nan	nan	MAP3K3	nan	nan	nan	nan	?	Phosphorylation	16407301
+PDK1_Homo sapiens	nan	nan	nan	nan	PKN2	nan	nan	nan	nan	?	Phosphorylation	10753910,18669648,10753910
+PDPK1_Homo sapiens	nan	nan	nan	nan	PKN2	nan	nan	nan	nan	?	Phosphorylation	10753910,18669648,10753910
+GRK5_Homo sapiens	nan	nan	nan	nan	SNCB	nan	nan	nan	nan	?	Phosphorylation	10852916
+CDK1_Homo sapiens	nan	nan	nan	nan	GOLGA2	nan	nan	nan	nan	?	Phosphorylation	10769027,9753325,18669648,19007248,19691289,18691976,16964243,20068231
+PDPK1_Homo sapiens	nan	nan	nan	nan	PAK1	nan	nan	nan	nan	?	Phosphorylation	10995762
+PAK1_Homo sapiens	nan	nan	nan	nan	PAK1	nan	nan	nan	nan	?	Phosphorylation	9032240,11278486,19664994,20068231,9032240,11278486,9032240,9032240,19664994,10805734,9032240,16204230
+OXSR1_Homo sapiens	nan	nan	nan	nan	PAK1	nan	nan	nan	nan	?	Phosphorylation	14707132
+CDK5_Homo sapiens	nan	nan	nan	nan	PAK1	nan	nan	nan	nan	?	Phosphorylation	11604394,19413330,19664995,19664994,20058876
+MAPK1_Homo sapiens	nan	nan	nan	nan	PAK1	nan	nan	nan	nan	?	Phosphorylation	11604394,19413330,19664995,19664994,20058876
+MAP3K7_Homo sapiens	nan	nan	nan	nan	MAP3K7	nan	nan	nan	nan	?	Phosphorylation	10838074,10838074,16845370
+CDK2_Homo sapiens	nan	nan	nan	nan	CDC6	nan	nan	nan	nan	?	Phosphorylation	10339564,9889196,10339564,18691976,20068231,9889196,10339564
+LYN_Homo sapiens	nan	nan	nan	nan	PPP1R8	nan	nan	nan	nan	?	Phosphorylation	11104670
+PRKACA_Homo sapiens	nan	nan	nan	nan	PPP1R8	nan	nan	nan	nan	?	Phosphorylation	9407077,18669648,20068231,9407077
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PPP1R8	nan	nan	nan	nan	?	Phosphorylation	9407077
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	PPP1R8	nan	nan	nan	nan	?	Phosphorylation	9407077
+ATM_Homo sapiens	nan	nan	nan	nan	NBN	nan	nan	nan	nan	?	Phosphorylation	10839544,10839544,11252893,10839545,10608806,18669648,19413330,20068231,11252893,10839545,18669648,20068231
+SGK1_Homo sapiens	nan	nan	nan	nan	FOXO3	nan	nan	nan	nan	?	Phosphorylation	11154281,20068231,11154281
+AKT1_Homo sapiens	nan	nan	nan	nan	FOXO3	nan	nan	nan	nan	?	Phosphorylation	11154281,20068231,10102273,11154281
+PRKACA_Homo sapiens	nan	nan	nan	nan	AURKA	nan	nan	nan	nan	?	Phosphorylation	11039908
+PRKCD_Homo sapiens	nan	nan	nan	nan	FSCN1	nan	nan	nan	nan	?	Phosphorylation	8999969,8647875,19651622,20068231
+MAPK1_Homo sapiens	nan	nan	nan	nan	NCOA1	nan	nan	nan	nan	?	Phosphorylation	10660621,10660621,20068231
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	NFATC3	nan	nan	nan	nan	?	Phosphorylation	9630228
+MAPK9_Homo sapiens	nan	nan	nan	nan	NFATC3	nan	nan	nan	nan	?	Phosphorylation	9374467
+PRKCD_Homo sapiens	nan	nan	nan	nan	EP300	nan	nan	nan	nan	?	Phosphorylation	12379484,11020388
+AKT1_Homo sapiens	nan	nan	nan	nan	EP300	nan	nan	nan	nan	?	Phosphorylation	11116148
+CHEK1_Homo sapiens	nan	nan	nan	nan	MDM4	nan	nan	nan	nan	?	Phosphorylation	16163388,16163388,17110929
+CHEK2_Homo sapiens	nan	nan	nan	nan	MDM4	nan	nan	nan	nan	?	Phosphorylation	16163388,16163388,16511560
+AKT1_Homo sapiens	nan	nan	nan	nan	MDM4	nan	nan	nan	nan	?	Phosphorylation	16163388,16511560
+ATM_Homo sapiens	nan	nan	nan	nan	MDM4	nan	nan	nan	nan	?	Phosphorylation	15788536,16163388,16511560
+FYN_Homo sapiens	nan	nan	nan	nan	FYB	nan	nan	nan	nan	?	Phosphorylation	10570256
+MAPK1_Homo sapiens	nan	nan	nan	nan	DUSP6	nan	nan	nan	nan	?	Phosphorylation	15632084
+RPS6KA3_Homo sapiens	nan	nan	nan	nan	HIST3H3	nan	nan	nan	nan	?	Phosphorylation	10436156
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	HIST3H3	nan	nan	nan	nan	?	Phosphorylation	12773393,10469656,12773393,18691976,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	PTPRR	nan	nan	nan	nan	?	Phosphorylation	10601328
+MAPK1_Homo sapiens	nan	nan	nan	nan	PTPRR	nan	nan	nan	nan	?	Phosphorylation	11493009
+MAPK3_Homo sapiens	nan	nan	nan	nan	PTPRR	nan	nan	nan	nan	?	Phosphorylation	11493009
+PRKACA_Homo sapiens	nan	nan	nan	nan	RGS10	nan	nan	nan	nan	?	Phosphorylation	11443111
+PRKACA_Homo sapiens	nan	nan	nan	nan	ACCN2	nan	nan	nan	nan	?	Phosphorylation	12578970
+PRKCA_Homo sapiens	nan	nan	nan	nan	OCLN	nan	nan	nan	nan	?	Phosphorylation	11502742
+PRKCB_Homo sapiens	nan	nan	nan	nan	OCLN	nan	nan	nan	nan	?	Phosphorylation	11502742
+PRKCG_Homo sapiens	nan	nan	nan	nan	OCLN	nan	nan	nan	nan	?	Phosphorylation	11502742
+CSNK2B_Homo sapiens	nan	nan	nan	nan	OCLN	nan	nan	nan	nan	?	Phosphorylation	12804768,12804768,20166139
+MAP2K4_Homo sapiens	nan	nan	nan	nan	MAPK9	nan	nan	nan	nan	?	Phosphorylation	11062067
+MAP2K7_Homo sapiens	nan	nan	nan	nan	MAPK9	nan	nan	nan	nan	?	Phosphorylation	11062067
+RET_Homo sapiens	nan	nan	nan	nan	MAPK9	nan	nan	nan	nan	?	Phosphorylation	16153436
+MAP2K4_Homo sapiens	nan	nan	nan	nan	MAPK10	nan	nan	nan	nan	?	Phosphorylation	10715136,19651622
+CDK5_Homo sapiens	nan	nan	nan	nan	MAPK10	nan	nan	nan	nan	?	Phosphorylation	11823425
+PRKCD_Homo sapiens	nan	nan	nan	nan	KLF5	nan	nan	nan	nan	?	Phosphorylation	12682370
+MAPK6_Homo sapiens	nan	nan	nan	nan	MAPK6	nan	nan	nan	nan	?	Phosphorylation	11741894,8621539,18669648,19651622
+PRKACA_Homo sapiens	nan	nan	nan	nan	CLDN3	nan	nan	nan	nan	?	Phosphorylation	15905176
+PRKACA_Homo sapiens	nan	nan	nan	nan	CACNG2	nan	nan	nan	nan	?	Phosphorylation	11805122
+PRKCB_Homo sapiens	nan	nan	nan	nan	EIF6	nan	nan	nan	nan	?	Phosphorylation	14654845
+MAPK3_Homo sapiens	nan	nan	nan	nan	RCAN1	nan	nan	nan	nan	?	Phosphorylation	12063245,19413330,19651622,20068231
+GSK3B_Homo sapiens	nan	nan	nan	nan	RCAN1	nan	nan	nan	nan	?	Phosphorylation	12063245,19651622,20068231
+INSR_Homo sapiens	nan	nan	nan	nan	DOK1	nan	nan	nan	nan	?	Phosphorylation	11551902,16497976,11551902,16497976,19901323
+LCK_Homo sapiens	nan	nan	nan	nan	DOK1	nan	nan	nan	nan	?	Phosphorylation	10799545
+RET_Homo sapiens	nan	nan	nan	nan	DOK1	nan	nan	nan	nan	?	Phosphorylation	11551902,16497976,19901323
+PRKAR2B_Homo sapiens	nan	nan	nan	nan	LASP1	nan	nan	nan	nan	?	Phosphorylation	12571245,18669648,17287340,18077418,18088087,18212344,20166139,20068231,12432067,20068231
+CDK7_Homo sapiens	nan	nan	nan	nan	LASP1	nan	nan	nan	nan	?	Phosphorylation	12571245,18669648,17287340,18077418,18088087,18212344,20166139,20068231
+PRKG2_Homo sapiens	nan	nan	nan	nan	LASP1	nan	nan	nan	nan	?	Phosphorylation	12571245,18669648,17287340,18077418,18088087,18212344,20166139,20068231,12571245
+PRKCA_Homo sapiens	nan	nan	nan	nan	STXBP1	nan	nan	nan	nan	?	Phosphorylation	8631738,12519779,8631738,12950453,12519779,12519779
+PRKCB_Homo sapiens	nan	nan	nan	nan	STXBP1	nan	nan	nan	nan	?	Phosphorylation	8631738,12519779,8631738,12950453,12519779,12519779
+PRKCG_Homo sapiens	nan	nan	nan	nan	STXBP1	nan	nan	nan	nan	?	Phosphorylation	8631738,12519779,8631738,12950453,12519779,12519779
+SRC_Homo sapiens	nan	nan	nan	nan	BCAR1	nan	nan	nan	nan	?	Phosphorylation	12972425,12972425,17389395,17016520,12972425,17016520,12972425,17389395,17016520,19901323
+PTK2_Homo sapiens	nan	nan	nan	nan	BCAR1	nan	nan	nan	nan	?	Phosphorylation	9360983,12119061,9360968,9360983
+CDK1_Homo sapiens	nan	nan	nan	nan	FANCG	nan	nan	nan	nan	?	Phosphorylation	15367677
+MAPK7_Homo sapiens	nan	nan	nan	nan	SGK1	nan	nan	nan	nan	?	Phosphorylation	11254654,18691976
+NEK6_Homo sapiens	nan	nan	nan	nan	SGK1	nan	nan	nan	nan	?	Phosphorylation	12023960,10191262,12023960
+PDPK1_Homo sapiens	nan	nan	nan	nan	SGK1	nan	nan	nan	nan	?	Phosphorylation	10191262,10357815,10191262
+MAPK1_Homo sapiens	nan	nan	nan	nan	IER3	nan	nan	nan	nan	?	Phosphorylation	12356731
+GRK5_Homo sapiens	nan	nan	nan	nan	SNCG	nan	nan	nan	nan	?	Phosphorylation	10852916,18669648
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	IL16	nan	nan	nan	nan	?	Phosphorylation	12450396
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	IL16	nan	nan	nan	nan	?	Phosphorylation	12450396
+CDK1_Homo sapiens	nan	nan	nan	nan	IL16	nan	nan	nan	nan	?	Phosphorylation	12450396
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	KIF1C	nan	nan	nan	nan	?	Phosphorylation	10559254,18669648,20068231
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	KIF1C	nan	nan	nan	nan	?	Phosphorylation	10559254,18669648,20068231
+ATR_Homo sapiens	nan	nan	nan	nan	CHEK1	nan	nan	nan	nan	?	Phosphorylation	11390642,11252893,15665856,18669648,18691976,11390642,15665856
+AKT1_Homo sapiens	nan	nan	nan	nan	CHEK1	nan	nan	nan	nan	?	Phosphorylation	12062056,18669648,19664995,18691976,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	SMAD3	nan	nan	nan	nan	?	Phosphorylation	14512875
+MAP3K7_Homo sapiens	nan	nan	nan	nan	SMAD3	nan	nan	nan	nan	?	Phosphorylation	9380693
+MAPK1_Homo sapiens	nan	nan	nan	nan	SMAD3	nan	nan	nan	nan	?	Phosphorylation	16156666,10197981,10197981,16156666,10197981
+CDK2_Homo sapiens	nan	nan	nan	nan	SMAD3	nan	nan	nan	nan	?	Phosphorylation	15241418,19413330,20068231,15241418
+CDK4_Homo sapiens	nan	nan	nan	nan	SMAD3	nan	nan	nan	nan	?	Phosphorylation	15241418,19413330,20068231,15241418
+PRKACA_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	10949026,18669648,18707149,20166139,10880354,10837486,10949026,10949026,10837486,18669648,18707149,20166139
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	10949026,18669648,18707149,20166139,10880354,10837486,10949026,9381178,10880354,10521512,12897128,10837486,10949026,10837486,18669648,18707149,20166139
+RPS6KA2_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	10949026,18669648,18707149,20166139,9381178,10880354,10521512,12897128,10837486,10949026,10837486,18669648,18707149,20166139
+PAK7_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	9381178,10880354,10521512,12897128,10837486
+AKT1_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	10949026,18669648,18707149,20166139,9381178,9381178,9651683,18669648,19664994,10949026,10837486,18669648,18707149,20166139,9381178,10880354,10521512,12897128,10837486
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	10880354
+PIM1_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	10949026,10837486,18669648,18707149,20166139,16403219,9381178,9651683,18669648,19664994,10949026,18669648,18707149,20166139
+PIM2_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	10949026,10837486,18669648,18707149,20166139,9381178,9651683,18669648,19664994,16403219,10949026,18669648,18707149,20166139
+PIM3_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	10949026,10837486,18669648,18707149,20166139,9381178,9651683,18669648,19664994,16403219,10949026,18669648,18707149,20166139
+PAK1_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	10949026,10837486,18669648,18707149,20166139,16413544,20166139
+PRKACA_Homo sapiens	nan	nan	nan	nan	CETN1	nan	nan	nan	nan	?	Phosphorylation	11279195
+PRKCZ_Homo sapiens	nan	nan	nan	nan	IKBKB	nan	nan	nan	nan	?	Phosphorylation	10195894,9689078,10779355,10022904
+CHUK_Homo sapiens	nan	nan	nan	nan	IKBKB	nan	nan	nan	nan	?	Phosphorylation	10195894,9689078,10779355,10022904
+MAP3K7_Homo sapiens	nan	nan	nan	nan	IKBKB	nan	nan	nan	nan	?	Phosphorylation	10195894,9689078,10779355,10022904,11460167
+IKBKB_Homo sapiens	nan	nan	nan	nan	IKBKB	nan	nan	nan	nan	?	Phosphorylation	10195894,20068231,10195894,18669648,19413330,18691976,19651622,19664994,20068231,10195894,16319058
+MAP3K14_Homo sapiens	nan	nan	nan	nan	IKBKB	nan	nan	nan	nan	?	Phosphorylation	10195894,9689078,10779355,10022904
+PRKCQ_Homo sapiens	nan	nan	nan	nan	IKBKB	nan	nan	nan	nan	?	Phosphorylation	17363905
+PRKG1_Homo sapiens	nan	nan	nan	nan	PDE5A	nan	nan	nan	nan	?	Phosphorylation	2168396
+MAPK1_Homo sapiens	nan	nan	nan	nan	PPP1R9B	nan	nan	nan	nan	?	Phosphorylation	15728359
+PRKACA_Homo sapiens	nan	nan	nan	nan	PPP1R9B	nan	nan	nan	nan	?	Phosphorylation	12417592,18669648,20068231,12417592,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	SLC4A4	nan	nan	nan	nan	?	Phosphorylation	11744745
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HIF1A	nan	nan	nan	nan	?	Phosphorylation	17382325
+CDK1_Homo sapiens	nan	nan	nan	nan	BIRC5	nan	nan	nan	nan	?	Phosphorylation	11861764,11069302,16565220,18691976,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	SPAG1	nan	nan	nan	nan	?	Phosphorylation	11517287
+CSNK1E_Homo sapiens	nan	nan	nan	nan	PER2	nan	nan	nan	nan	?	Phosphorylation	11232563,9349507,17218255
+CSNK1D_Homo sapiens	nan	nan	nan	nan	PER2	nan	nan	nan	nan	?	Phosphorylation	16097765
+PRKCA_Homo sapiens	nan	nan	nan	nan	PEA15	nan	nan	nan	nan	?	Phosphorylation	9721757,17287340,19651622,20068231
+CAMK2G_Homo sapiens	nan	nan	nan	nan	PEA15	nan	nan	nan	nan	?	Phosphorylation	12808093,9721757,18669648,19413330,17287340,19664995,18212344,19651622,18767875,18452278,18578522,20166139,20068231
+AKT1_Homo sapiens	nan	nan	nan	nan	PEA15	nan	nan	nan	nan	?	Phosphorylation	12808093,9721757,18669648,19413330,17287340,19664995,18212344,19651622,18767875,18452278,18578522,20166139,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	DAB1	nan	nan	nan	nan	?	Phosphorylation	11279201,10959835
+CDK5_Homo sapiens	nan	nan	nan	nan	DAB1	nan	nan	nan	nan	?	Phosphorylation	12077184
+FYN_Homo sapiens	nan	nan	nan	nan	SLAMF1	nan	nan	nan	nan	?	Phosphorylation	11806999
+GSK3B_Homo sapiens	nan	nan	nan	nan	LRP6	nan	nan	nan	nan	?	Phosphorylation	16365045
+AURKA_Homo sapiens	nan	nan	nan	nan	MBD3	nan	nan	nan	nan	?	Phosphorylation	12354758
+MAP2K1_Homo sapiens	nan	nan	nan	nan	RPS6KA4	nan	nan	nan	nan	?	Phosphorylation	10806207,10806207,18691976,19651622,20068231,10806207,18691976,19651622,16964243,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	RPS6KA4	nan	nan	nan	nan	?	Phosphorylation	10806207,18691976,19651622,16964243,20068231,10806207,10806207,18691976,19651622,20068231
+RPS6KA4_Homo sapiens	nan	nan	nan	nan	RPS6KA4	nan	nan	nan	nan	?	Phosphorylation	17192257,18691976,19664994,18767875
+BUB1_Homo sapiens	nan	nan	nan	nan	CDC20	nan	nan	nan	nan	?	Phosphorylation	15525512,18669648,19413330,15525512,18767875,15525512
+CDK2_Homo sapiens	nan	nan	nan	nan	FZR1	nan	nan	nan	nan	?	Phosphorylation	12560341,18669648,20068231,12560341
+PRKCA_Homo sapiens	nan	nan	nan	nan	GRIA2	nan	nan	nan	nan	?	Phosphorylation	8848293,10501226,12805550,11007883,12058067
+PRKCZ_Homo sapiens	nan	nan	nan	nan	NUMB	nan	nan	nan	nan	?	Phosphorylation	17203073,17203073,18767875
+ABL1_Homo sapiens	nan	nan	nan	nan	RAD9A	nan	nan	nan	nan	?	Phosphorylation	11971963
+ATM_Homo sapiens	nan	nan	nan	nan	RAD9A	nan	nan	nan	nan	?	Phosphorylation	12709442,11278446,18669648
+GSK3B_Homo sapiens	nan	nan	nan	nan	AXIN1	nan	nan	nan	nan	?	Phosphorylation	10581160
+MAPK8_Homo sapiens	nan	nan	nan	nan	BCL2L11	nan	nan	nan	nan	?	Phosphorylation	12591950,12818176,12818176,18691976
+MAPK9_Homo sapiens	nan	nan	nan	nan	BCL2L11	nan	nan	nan	nan	?	Phosphorylation	12818176,12818176,18691976
+MAPK10_Homo sapiens	nan	nan	nan	nan	BCL2L11	nan	nan	nan	nan	?	Phosphorylation	12818176,12818176,18691976
+CSNK2B_Homo sapiens	nan	nan	nan	nan	RNF7	nan	nan	nan	nan	?	Phosphorylation	12748192
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	BAG2	nan	nan	nan	nan	?	Phosphorylation	15271996,19651622,20068231
+EIF2AK2_Homo sapiens	nan	nan	nan	nan	EIF2S1	nan	nan	nan	nan	?	Phosphorylation	10542257,9819435,1677563,16179258
+PRKCD_Homo sapiens	nan	nan	nan	nan	EIF2S1	nan	nan	nan	nan	?	Phosphorylation	10542257,9819435,1677563
+EIF2AK3_Homo sapiens	nan	nan	nan	nan	EIF2S1	nan	nan	nan	nan	?	Phosphorylation	10542257,9819435,1677563,8099443
+PRKRIR_Homo sapiens	nan	nan	nan	nan	EIF2S1	nan	nan	nan	nan	?	Phosphorylation	10542257,9819435,1677563
+EIF2AK1_Homo sapiens	nan	nan	nan	nan	EIF2S1	nan	nan	nan	nan	?	Phosphorylation	10542257,9819435,1677563
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	EIF2S2	nan	nan	nan	nan	?	Phosphorylation	8024572,18691976,19651622,18452278,20068231,8024572,18669648,19651622,18452278,20068231
+CDK19_Homo sapiens	nan	nan	nan	nan	EIF3F	nan	nan	nan	nan	?	Phosphorylation	12446680
+RPS6KB1_Homo sapiens	nan	nan	nan	nan	EIF4B	nan	nan	nan	nan	?	Phosphorylation	16763566,17924679,19664995,19651622,18707149,20068231
+CSNK1A1_Homo sapiens	nan	nan	nan	nan	EIF2B5	nan	nan	nan	nan	?	Phosphorylation	11500362
+GSK3B_Homo sapiens	nan	nan	nan	nan	EIF2B5	nan	nan	nan	nan	?	Phosphorylation	12133000,11500362,9468292,11500362,15302935,18669648,19413330,18691976,19007248,18088087,19651622,19664994,18707149,18452278,20166139,20068231
+GSK3A_Homo sapiens	nan	nan	nan	nan	EIF2B5	nan	nan	nan	nan	?	Phosphorylation	11500362,9468292,11500362,15302935,18669648,19413330,18691976,19007248,18088087,19651622,19664994,18707149,18452278,20166139,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	EIF2B5	nan	nan	nan	nan	?	Phosphorylation	11500362,18669648
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	EIF2B5	nan	nan	nan	nan	?	Phosphorylation	11500362,18669648
+PRKCA_Homo sapiens	nan	nan	nan	nan	GRM5	nan	nan	nan	nan	?	Phosphorylation	9242710,15894802
+PRKCB_Homo sapiens	nan	nan	nan	nan	GRM5	nan	nan	nan	nan	?	Phosphorylation	15894802
+PRKCG_Homo sapiens	nan	nan	nan	nan	GRM5	nan	nan	nan	nan	?	Phosphorylation	15894802
+PRKCZ_Homo sapiens	nan	nan	nan	nan	GRM5	nan	nan	nan	nan	?	Phosphorylation	15894802
+PRKCE_Homo sapiens	nan	nan	nan	nan	GRM5	nan	nan	nan	nan	?	Phosphorylation	15894802
+PRKCQ_Homo sapiens	nan	nan	nan	nan	GRM5	nan	nan	nan	nan	?	Phosphorylation	15894802
+PRKCD_Homo sapiens	nan	nan	nan	nan	GRM5	nan	nan	nan	nan	?	Phosphorylation	15894802
+ATM_Homo sapiens	nan	nan	nan	nan	RBBP8	nan	nan	nan	nan	?	Phosphorylation	10910365,11689934,10910365
+SYK_Homo sapiens	nan	nan	nan	nan	TYROBP	nan	nan	nan	nan	?	Phosphorylation	9490415
+CDK1_Homo sapiens	nan	nan	nan	nan	PTTG1	nan	nan	nan	nan	?	Phosphorylation	10656688,18669648,19664995,19651622,18767875,20068230,20068231,20058876
+AKT1_Homo sapiens	nan	nan	nan	nan	DLC1	nan	nan	nan	nan	?	Phosphorylation	16338927
+SRC_Homo sapiens	nan	nan	nan	nan	STAT5B	nan	nan	nan	nan	?	Phosphorylation	12621061
+EGFR_Homo sapiens	nan	nan	nan	nan	STAT5B	nan	nan	nan	nan	?	Phosphorylation	11751923,17016520,11751923
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SSRP1	nan	nan	nan	nan	?	Phosphorylation	15659405,15659405,17287340,19007248,20068231
+PLK1_Homo sapiens	nan	nan	nan	nan	CHEK2	nan	nan	nan	nan	?	Phosphorylation	10973490,12024051,12493754,11901158,12242661,10973490,12493754
+PLK3_Homo sapiens	nan	nan	nan	nan	CHEK2	nan	nan	nan	nan	?	Phosphorylation	11901158,12242661,10973490,12493754
+CHEK2_Homo sapiens	nan	nan	nan	nan	CHEK2	nan	nan	nan	nan	?	Phosphorylation	11390408,12805407,11390408,11901158,12242661,10973490,12493754
+ATM_Homo sapiens	nan	nan	nan	nan	CHEK2	nan	nan	nan	nan	?	Phosphorylation	11901158,12242661,10973490,12493754,16794575,10973490,10973490,12024051,12493754,10973490,12024051,11901158,12242661,10973490,12493754
+ATR_Homo sapiens	nan	nan	nan	nan	CHEK2	nan	nan	nan	nan	?	Phosphorylation	10973490,10973490,12024051,12493754,10973490,12024051
+EGFR_Homo sapiens	nan	nan	nan	nan	HGS	nan	nan	nan	nan	?	Phosphorylation	12953068,17016520
+SRC_Homo sapiens	nan	nan	nan	nan	MPZL1	nan	nan	nan	nan	?	Phosphorylation	10681522,11751924,20068231,10681522,11751924,18669648,19664994,17016520,18707149,18578522,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	PPP1R1B	nan	nan	nan	nan	?	Phosphorylation	10604473
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PPP1R1B	nan	nan	nan	nan	?	Phosphorylation	2557337
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	PPP1R1B	nan	nan	nan	nan	?	Phosphorylation	2557337
+CDK5_Homo sapiens	nan	nan	nan	nan	PPP1R1B	nan	nan	nan	nan	?	Phosphorylation	10604473
+PRKACA_Homo sapiens	nan	nan	nan	nan	GNA13	nan	nan	nan	nan	?	Phosphorylation	12399457
+AURKB_Homo sapiens	nan	nan	nan	nan	INCENP	nan	nan	nan	nan	?	Phosphorylation	12925766,18669648,18691976,20068231,12925766,18669648,18691976,12925766,16565220,18669648,18691976
+EGFR_Homo sapiens	nan	nan	nan	nan	GAB1	nan	nan	nan	nan	?	Phosphorylation	10978177,17389395,16497976,10734310,10734310,16497976,10734310,17389395,16497976,17016520,19901323,10734310,17389395,17016520,20068231,10734310,18669648,17389395,16497976
+INSR_Homo sapiens	nan	nan	nan	nan	GAB1	nan	nan	nan	nan	?	Phosphorylation	10978177,10978177,16497976,10978177,17389395,16497976,10734310,17389395,17016520,20068231,10734310,18669648,17389395,16497976
+MET_Homo sapiens	nan	nan	nan	nan	GAB1	nan	nan	nan	nan	?	Phosphorylation	10734310,10734310,16497976,10978177,17389395,16497976,10734310,17389395,16497976,17016520,19901323,10734310,17389395,17016520,20068231,10734310,18669648,17389395,16497976
+MAPK1_Homo sapiens	nan	nan	nan	nan	GAB1	nan	nan	nan	nan	?	Phosphorylation	15379552
+MAPK3_Homo sapiens	nan	nan	nan	nan	GAB1	nan	nan	nan	nan	?	Phosphorylation	15379552
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	FAF1	nan	nan	nan	nan	?	Phosphorylation	11378439,11713579
+MAP3K6_Homo sapiens	nan	nan	nan	nan	MAP3K6	nan	nan	nan	nan	?	Phosphorylation	17210579
+PRKCA_Homo sapiens	nan	nan	nan	nan	GRM1	nan	nan	nan	nan	?	Phosphorylation	10823959
+TTN_Homo sapiens	nan	nan	nan	nan	TCAP	nan	nan	nan	nan	?	Phosphorylation	9804419
+MAPK14_Homo sapiens	nan	nan	nan	nan	PPARGC1A	nan	nan	nan	nan	?	Phosphorylation	11741533
+DYRK1B_Homo sapiens	nan	nan	nan	nan	DYRK1B	nan	nan	nan	nan	?	Phosphorylation	10910078,10910078,15144186,18669648,19664995,18212344,17016520,19901323
+ATM_Homo sapiens	nan	nan	nan	nan	WRN	nan	nan	nan	nan	?	Phosphorylation	11252893,10839545,10608806
+MAPK8_Homo sapiens	nan	nan	nan	nan	MAPK8IP1	nan	nan	nan	nan	?	Phosphorylation	12756254
+MAP3K8_Homo sapiens	nan	nan	nan	nan	MAP3K14	nan	nan	nan	nan	?	Phosphorylation	11278268,9742107
+PRKG1_Homo sapiens	nan	nan	nan	nan	MRVI1	nan	nan	nan	nan	?	Phosphorylation	11309393
+FYN_Homo sapiens	nan	nan	nan	nan	TOM1L1	nan	nan	nan	nan	?	Phosphorylation	11711534
+MERTK_Homo sapiens	nan	nan	nan	nan	MERTK	nan	nan	nan	nan	?	Phosphorylation	8702477
+NEK9_Homo sapiens	nan	nan	nan	nan	NEK6	nan	nan	nan	nan	?	Phosphorylation	12840024
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CTDP1	nan	nan	nan	nan	?	Phosphorylation	12591939,12591939,18669648,19664995,19664994
+CSNK2B_Homo sapiens	nan	nan	nan	nan	CTDP1	nan	nan	nan	nan	?	Phosphorylation	12591939,12591939,18669648,19664995,19664994
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	CTDP1	nan	nan	nan	nan	?	Phosphorylation	12591939,12591939,18669648,19664995,19664994
+STK4_Homo sapiens	nan	nan	nan	nan	STK4	nan	nan	nan	nan	?	Phosphorylation	12223493,18452278,12223493,12223493,18691976
+AURKB_Homo sapiens	nan	nan	nan	nan	RACGAP1	nan	nan	nan	nan	?	Phosphorylation	12689593,14744859,19007248,14744859,14744859,18669648,19007248,14744859,17287340
+CDK1_Homo sapiens	nan	nan	nan	nan	RACGAP1	nan	nan	nan	nan	?	Phosphorylation	16565220,18669648,18201571,16964243,20068231
+GRK6_Homo sapiens	nan	nan	nan	nan	SLC9A3R1	nan	nan	nan	nan	?	Phosphorylation	15302935,18669648,18088087,19664995,18452278,19413330,20166139
+LYN_Homo sapiens	nan	nan	nan	nan	DOK2	nan	nan	nan	nan	?	Phosphorylation	10428862,10428862,16497976,19901323
+HCK_Homo sapiens	nan	nan	nan	nan	DOK2	nan	nan	nan	nan	?	Phosphorylation	10428862,10428862,16497976,19901323
+SRC_Homo sapiens	nan	nan	nan	nan	DOK2	nan	nan	nan	nan	?	Phosphorylation	10428862,10428862,16497976,19901323
+CAMK1_Homo sapiens	nan	nan	nan	nan	CAMK1	nan	nan	nan	nan	?	Phosphorylation	7641687
+CAMKK2_Homo sapiens	nan	nan	nan	nan	CAMK1	nan	nan	nan	nan	?	Phosphorylation	9822657
+PRKACA_Homo sapiens	nan	nan	nan	nan	GSK3B	nan	nan	nan	nan	?	Phosphorylation	12054501,18669648,18691976
+SGK3_Homo sapiens	nan	nan	nan	nan	GSK3B	nan	nan	nan	nan	?	Phosphorylation	12054501,18691976,12054501,18669648,18691976
+AKT1_Homo sapiens	nan	nan	nan	nan	GSK3B	nan	nan	nan	nan	?	Phosphorylation	12054501,18669648,18691976
+SRC_Homo sapiens	nan	nan	nan	nan	PAK2	nan	nan	nan	nan	?	Phosphorylation	12215529
+PAK2_Homo sapiens	nan	nan	nan	nan	PAK2	nan	nan	nan	nan	?	Phosphorylation	10075701,16204230,18669648,19413330,19415658,19664995,18212344,19651622,19664994,16964243,18767875,20166139,20068231,20058876,10075701,10075701,18212344,20068231,9786869,16204230,16837009,20068231
+STK3_Homo sapiens	nan	nan	nan	nan	STK3	nan	nan	nan	nan	?	Phosphorylation	12554736
+CDK5_Homo sapiens	nan	nan	nan	nan	WASF1	nan	nan	nan	nan	?	Phosphorylation	16862120
+ABL1_Homo sapiens	nan	nan	nan	nan	WASL	nan	nan	nan	nan	?	Phosphorylation	16199863,16199863,19415658,17389395,19664994,18707149,19901323,18452278,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	CDC37	nan	nan	nan	nan	?	Phosphorylation	12930845,15082798,19413330,20068231
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	CDC37	nan	nan	nan	nan	?	Phosphorylation	12930845,15082798,19413330,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	EEA1	nan	nan	nan	nan	?	Phosphorylation	16138080
+MAPK1_Homo sapiens	nan	nan	nan	nan	RGS19	nan	nan	nan	nan	?	Phosphorylation	10993892
+PRKCA_Homo sapiens	nan	nan	nan	nan	RGS19	nan	nan	nan	nan	?	Phosphorylation	10993892,10760275,10993892
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	RGS19	nan	nan	nan	nan	?	Phosphorylation	10760275,10993892
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	RGS19	nan	nan	nan	nan	?	Phosphorylation	10760275,10993892
+ZAP70_Homo sapiens	nan	nan	nan	nan	SH2B3	nan	nan	nan	nan	?	Phosphorylation	9169414
+LCK_Homo sapiens	nan	nan	nan	nan	SH2B3	nan	nan	nan	nan	?	Phosphorylation	9169414
+SRC_Homo sapiens	nan	nan	nan	nan	WWOX	nan	nan	nan	nan	?	Phosphorylation	15070730
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HDAC2	nan	nan	nan	nan	?	Phosphorylation	12082111,16565220,18669648,19413330,19415658,18691976,17287340,19007248,19651622,18510355,18452278,20230923,20068231,12082111,18669648,19413330,19415658,17287340,18212344,19651622,18452278,20166139,20068231,12082111,18669648,19413330,19415658,17287340,18212344,19651622,19691289,18452278,20166139,20068231
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	HDAC2	nan	nan	nan	nan	?	Phosphorylation	12082111,16565220,18669648,19413330,19415658,18691976,17287340,19007248,19651622,18510355,18452278,20230923,20068231,12082111,18669648,19413330,19415658,17287340,18212344,19651622,18452278,20166139,20068231,12082111,18669648,19413330,19415658,17287340,18212344,19651622,19691289,18452278,20166139,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	PDPK1	nan	nan	nan	nan	?	Phosphorylation	11481331
+PDPK1_Homo sapiens	nan	nan	nan	nan	PDPK1	nan	nan	nan	nan	?	Phosphorylation	10455013,15144186,18669648,19413330,19415658,18691976,19664995,19651622,19664994,18452278,20230923,20166139,20068231,20058876,11481331
+ATM_Homo sapiens	nan	nan	nan	nan	TP53BP1	nan	nan	nan	nan	?	Phosphorylation	12697768,12447390,12697768,12697768,18077418
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	NOL3	nan	nan	nan	nan	?	Phosphorylation	12191471
+PRKACA_Homo sapiens	nan	nan	nan	nan	NDRG1	nan	nan	nan	nan	?	Phosphorylation	17220478,18669648,19413330,19651622,19664994,18767875,16964243,20166139,20068231,17220478,18669648,19651622,18491316,20166139,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	GRLF1	nan	nan	nan	nan	?	Phosphorylation	9819392,11309200,16497976,17016520,19901323,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	TSC1	nan	nan	nan	nan	?	Phosphorylation	14551205
+CAMK4_Homo sapiens	nan	nan	nan	nan	HDAC4	nan	nan	nan	nan	?	Phosphorylation	11470791,18669648,11470791,18669648,19651622,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	GTF2A1L	nan	nan	nan	nan	?	Phosphorylation	12107178
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	GTF2A1L	nan	nan	nan	nan	?	Phosphorylation	12107178
+LYN_Homo sapiens	nan	nan	nan	nan	TRPV4	nan	nan	nan	nan	?	Phosphorylation	12538589
+ABL1_Homo sapiens	nan	nan	nan	nan	PRKD1	nan	nan	nan	nan	?	Phosphorylation	12637538
+SRC_Homo sapiens	nan	nan	nan	nan	PRKD1	nan	nan	nan	nan	?	Phosphorylation	12637538
+PRKD1_Homo sapiens	nan	nan	nan	nan	PRKD1	nan	nan	nan	nan	?	Phosphorylation	10867018,19664994,10867018,11741879,10867018,18669648,10867018,19413330
+PRKCH_Homo sapiens	nan	nan	nan	nan	PRKD1	nan	nan	nan	nan	?	Phosphorylation	10867018,11741879
+PAK4_Homo sapiens	nan	nan	nan	nan	PAK4	nan	nan	nan	nan	?	Phosphorylation	17192257,18691976,20068231,17192257,18691976,18212344,17192257,18691976,17192257,18669648,18691976,19651622,18707149,18452278,20230923,20068231,17322306,18669648,18691976,19651622,18707149,18452278,20068231,17192257,18691976,19651622,20068231,17192257,18669648,18691976,20068231,17192257
+PRKCA_Homo sapiens	nan	nan	nan	nan	CD163	nan	nan	nan	nan	?	Phosphorylation	11298324,11298324,20166139
+CSNK2B_Homo sapiens	nan	nan	nan	nan	CD163	nan	nan	nan	nan	?	Phosphorylation	11298324
+PAK1_Homo sapiens	nan	nan	nan	nan	FOXL2	nan	nan	nan	nan	?	Phosphorylation	12560069
+LCK_Homo sapiens	nan	nan	nan	nan	DAPP1	nan	nan	nan	nan	?	Phosphorylation	10880360,17389395,19901323
+SRC_Homo sapiens	nan	nan	nan	nan	DAPP1	nan	nan	nan	nan	?	Phosphorylation	10880360,17389395,19901323
+BTK_Homo sapiens	nan	nan	nan	nan	DAPP1	nan	nan	nan	nan	?	Phosphorylation	10880360,17389395,19901323
+LYN_Homo sapiens	nan	nan	nan	nan	DAPP1	nan	nan	nan	nan	?	Phosphorylation	10880360,17389395,19901323
+ATM_Homo sapiens	nan	nan	nan	nan	DCLRE1C	nan	nan	nan	nan	?	Phosphorylation	15723659
+EGFR_Homo sapiens	nan	nan	nan	nan	PKIA	nan	nan	nan	nan	?	Phosphorylation	2434500
+CDK5_Homo sapiens	nan	nan	nan	nan	PIP5K1C	nan	nan	nan	nan	?	Phosphorylation	17290217
+ZAP70_Homo sapiens	nan	nan	nan	nan	GAB2	nan	nan	nan	nan	?	Phosphorylation	11572860
+MAPK1_Homo sapiens	nan	nan	nan	nan	GAB2	nan	nan	nan	nan	?	Phosphorylation	15356145
+MAPK3_Homo sapiens	nan	nan	nan	nan	GAB2	nan	nan	nan	nan	?	Phosphorylation	15356145
+AKT1_Homo sapiens	nan	nan	nan	nan	GAB2	nan	nan	nan	nan	?	Phosphorylation	11782427
+EGFR_Homo sapiens	nan	nan	nan	nan	STAM2	nan	nan	nan	nan	?	Phosphorylation	11687594,10993906,17389395,19901323
+BMPR1B_Homo sapiens	nan	nan	nan	nan	STAMBP	nan	nan	nan	nan	?	Phosphorylation	11483516
+MAPK8_Homo sapiens	nan	nan	nan	nan	BMF	nan	nan	nan	nan	?	Phosphorylation	12591950
+ABL1_Homo sapiens	nan	nan	nan	nan	PSTPIP1	nan	nan	nan	nan	?	Phosphorylation	11163214
+SGK1_Homo sapiens	nan	nan	nan	nan	NEDD4L	nan	nan	nan	nan	?	Phosphorylation	12911626,11742982,12911626,11742982,18669648,19413330,18691976,19664995,19651622,18767875,20230923,20166139,20068231
+TEC_Homo sapiens	nan	nan	nan	nan	PTPN18	nan	nan	nan	nan	?	Phosphorylation	14679216
+PRKACA_Homo sapiens	nan	nan	nan	nan	GNMT	nan	nan	nan	nan	?	Phosphorylation	12697024,2722853
+PRKCA_Homo sapiens	nan	nan	nan	nan	TRPV6	nan	nan	nan	nan	?	Phosphorylation	11248124
+PRKCA_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
+PRKCB_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
+PRKCD_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
+PRKCG_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
+PRKACA_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
+PRKD3_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
+SGK3_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
+AKT1_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
+SGK1_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	11035810,11884598,11749387,12054501,19413330,18691976
+GSK3A_Homo sapiens	nan	nan	nan	nan	GSK3A	nan	nan	nan	nan	?	Phosphorylation	15592455,19413330,19415658,17389395,18088087,19664994,18452278,18767875,17192257
+MAPK3_Homo sapiens	nan	nan	nan	nan	SPIB	nan	nan	nan	nan	?	Phosphorylation	8632909
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	SPIB	nan	nan	nan	nan	?	Phosphorylation	10618498
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	SPIB	nan	nan	nan	nan	?	Phosphorylation	10618498
+NEK9_Homo sapiens	nan	nan	nan	nan	NEK7	nan	nan	nan	nan	?	Phosphorylation	12840024,18691976,18452278
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	VAMP4	nan	nan	nan	nan	?	Phosphorylation	14608369,15345747,18669648,18691976,19651622,19664994,18452278,18578522,20166139,20068231,20058876
+EGFR_Homo sapiens	nan	nan	nan	nan	SCAMP1	nan	nan	nan	nan	?	Phosphorylation	9658162
+EGFR_Homo sapiens	nan	nan	nan	nan	SCAMP3	nan	nan	nan	nan	?	Phosphorylation	9658162,15144186
+PRKCD_Homo sapiens	nan	nan	nan	nan	PTPN22	nan	nan	nan	nan	?	Phosphorylation	18056643
+FYN_Homo sapiens	nan	nan	nan	nan	TNK2	nan	nan	nan	nan	?	Phosphorylation	14506255,17389395
+PRKACA_Homo sapiens	nan	nan	nan	nan	SNAPIN	nan	nan	nan	nan	?	Phosphorylation	11283605
+PRKACA_Homo sapiens	nan	nan	nan	nan	WT1	nan	nan	nan	nan	?	Phosphorylation	9366517
+HIPK2_Homo sapiens	nan	nan	nan	nan	PAX6	nan	nan	nan	nan	?	Phosphorylation	16407227
+PRKCA_Homo sapiens	nan	nan	nan	nan	PLCB1	nan	nan	nan	nan	?	Phosphorylation	11278470
+PRKCD_Homo sapiens	nan	nan	nan	nan	PLCB1	nan	nan	nan	nan	?	Phosphorylation	11278470
+MAPK3_Homo sapiens	nan	nan	nan	nan	PLCB1	nan	nan	nan	nan	?	Phosphorylation	11287604
+AKT1_Homo sapiens	nan	nan	nan	nan	FANCA	nan	nan	nan	nan	?	Phosphorylation	11855836
+CAMK2A_Homo sapiens	nan	nan	nan	nan	ITGB1BP1	nan	nan	nan	nan	?	Phosphorylation	9813144
+CDK1_Homo sapiens	nan	nan	nan	nan	EPN1	nan	nan	nan	nan	?	Phosphorylation	10764745
+NEK2_Homo sapiens	nan	nan	nan	nan	NDC80	nan	nan	nan	nan	?	Phosphorylation	12386167
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PACS1	nan	nan	nan	nan	?	Phosphorylation	14633983,16977309
+PASK_Homo sapiens	nan	nan	nan	nan	PASK	nan	nan	nan	nan	?	Phosphorylation	11459942
+CDK5_Homo sapiens	nan	nan	nan	nan	NDEL1	nan	nan	nan	nan	?	Phosphorylation	12796778,18669648,20068231,12796778,19413330,12796778,12796778,20068231
+ATM_Homo sapiens	nan	nan	nan	nan	ATM	nan	nan	nan	nan	?	Phosphorylation	12556884,16858402,16906133,17486112,16293623,15159397,18691976,10608806,16858402,16906133
+PDPK1_Homo sapiens	nan	nan	nan	nan	SGK2	nan	nan	nan	nan	?	Phosphorylation	10548550
+PDPK1_Homo sapiens	nan	nan	nan	nan	SGK3	nan	nan	nan	nan	?	Phosphorylation	10548550
+CDK1_Homo sapiens	nan	nan	nan	nan	NUP210	nan	nan	nan	nan	?	Phosphorylation	8672508,18669648,20068231
+NTRK2_Homo sapiens	nan	nan	nan	nan	FRS3	nan	nan	nan	nan	?	Phosphorylation	11432792
+CAMKK1_Homo sapiens	nan	nan	nan	nan	CAMK1D	nan	nan	nan	nan	?	Phosphorylation	12935886,18669648
+PRKCA_Homo sapiens	nan	nan	nan	nan	HSPB8	nan	nan	nan	nan	?	Phosphorylation	11342557,11342557,18212344
+MAPK3_Homo sapiens	nan	nan	nan	nan	HSPB8	nan	nan	nan	nan	?	Phosphorylation	11342557,18212344,11342557,20068231
+PAK7_Homo sapiens	nan	nan	nan	nan	PAK7	nan	nan	nan	nan	?	Phosphorylation	11756552
+SRC_Homo sapiens	nan	nan	nan	nan	PDCD6IP	nan	nan	nan	nan	?	Phosphorylation	15557335
+MAPK1_Homo sapiens	nan	nan	nan	nan	CAD	nan	nan	nan	nan	?	Phosphorylation	12438317
+PRKACA_Homo sapiens	nan	nan	nan	nan	CAD	nan	nan	nan	nan	?	Phosphorylation	11986331,4092695,18669648,18691976,20068231,17322306,18669648,18691976,19664995,19651622,19664994,18707149,18767875,20068231
+CAD_Homo sapiens	nan	nan	nan	nan	CAD	nan	nan	nan	nan	?	Phosphorylation	11986331,12438317
+PRKCD_Homo sapiens	nan	nan	nan	nan	AKT3	nan	nan	nan	nan	?	Phosphorylation	12162751
+PRKCZ_Homo sapiens	nan	nan	nan	nan	AKT3	nan	nan	nan	nan	?	Phosphorylation	12162751,9512493
+PDK1_Homo sapiens	nan	nan	nan	nan	AKT3	nan	nan	nan	nan	?	Phosphorylation	9512493
+PDPK1_Homo sapiens	nan	nan	nan	nan	AKT3	nan	nan	nan	nan	?	Phosphorylation	12162751,9512493
+CAMK2A_Homo sapiens	nan	nan	nan	nan	CAMK2A	nan	nan	nan	nan	?	Phosphorylation	9452388,12408851
+ZAP70_Homo sapiens	nan	nan	nan	nan	DBNL	nan	nan	nan	nan	?	Phosphorylation	14557276
+CDK2_Homo sapiens	nan	nan	nan	nan	TSPYL2	nan	nan	nan	nan	?	Phosphorylation	11395479,18669648,20068231,11395479
+CDK1_Homo sapiens	nan	nan	nan	nan	PTPN2	nan	nan	nan	nan	?	Phosphorylation	15030318,18669648,19413330,19651622,18767875,20068231
+CDK2_Homo sapiens	nan	nan	nan	nan	PTPN2	nan	nan	nan	nan	?	Phosphorylation	15030318,18669648,19413330,19651622,18767875,20068231
+CDK5_Homo sapiens	nan	nan	nan	nan	PTPN2	nan	nan	nan	nan	?	Phosphorylation	15030318,18669648,19413330,19651622,18767875,20068231
+OXSR1_Homo sapiens	nan	nan	nan	nan	SLC12A2	nan	nan	nan	nan	?	Phosphorylation	16669787
+PRKD1_Homo sapiens	nan	nan	nan	nan	EPAS1	nan	nan	nan	nan	?	Phosphorylation	17024177
+MAPK1_Homo sapiens	nan	nan	nan	nan	RPS6KA5	nan	nan	nan	nan	?	Phosphorylation	11994045,11994045,19651622,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	RPS6KA5	nan	nan	nan	nan	?	Phosphorylation	11994045,14578350,11994045,19651622,20068231
+MAPK3_Homo sapiens	nan	nan	nan	nan	RPS6KA5	nan	nan	nan	nan	?	Phosphorylation	11994045,11994045,19651622,20068231
+STK10_Homo sapiens	nan	nan	nan	nan	STK10	nan	nan	nan	nan	?	Phosphorylation	17192257,18669648,19413330,19651622,19664994,20068231
+CAMK1_Homo sapiens	nan	nan	nan	nan	EIF4G3	nan	nan	nan	nan	?	Phosphorylation	14507913
+PRKACA_Homo sapiens	nan	nan	nan	nan	C7orf16	nan	nan	nan	nan	?	Phosphorylation	10051666
+PRKG1_Homo sapiens	nan	nan	nan	nan	C7orf16	nan	nan	nan	nan	?	Phosphorylation	10051666
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	METTL1	nan	nan	nan	nan	?	Phosphorylation	15861136
+AKT1_Homo sapiens	nan	nan	nan	nan	METTL1	nan	nan	nan	nan	?	Phosphorylation	15861136
+LYN_Homo sapiens	nan	nan	nan	nan	FCGR2B	nan	nan	nan	nan	?	Phosphorylation	8756631
+BLK_Homo sapiens	nan	nan	nan	nan	FCGR2B	nan	nan	nan	nan	?	Phosphorylation	8756631
+PRKCA_Homo sapiens	nan	nan	nan	nan	PEBP1	nan	nan	nan	nan	?	Phosphorylation	14654844,12551925,20166139,20068231
+PRKCB_Homo sapiens	nan	nan	nan	nan	PEBP1	nan	nan	nan	nan	?	Phosphorylation	14654844,12551925,20166139,20068231
+PRKCD_Homo sapiens	nan	nan	nan	nan	PEBP1	nan	nan	nan	nan	?	Phosphorylation	14654844,12551925,20166139,20068231
+PRKCG_Homo sapiens	nan	nan	nan	nan	PEBP1	nan	nan	nan	nan	?	Phosphorylation	14654844,12551925,20166139,20068231
+PRKCZ_Homo sapiens	nan	nan	nan	nan	PEBP1	nan	nan	nan	nan	?	Phosphorylation	14654844,12551925,20166139,20068231
+PAK1_Homo sapiens	nan	nan	nan	nan	NF2	nan	nan	nan	nan	?	Phosphorylation	11719502,18669648,19651622,19691289,20068231
+PRKAA2_Homo sapiens	nan	nan	nan	nan	ACACB	nan	nan	nan	nan	?	Phosphorylation	9148944,12413941,14532170,14613924,20166139
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	PGR	nan	nan	nan	nan	?	Phosphorylation	7983041
+CAMKK1_Homo sapiens	nan	nan	nan	nan	CAMK4	nan	nan	nan	nan	?	Phosphorylation	7615569,8621423
+CAMKK2_Homo sapiens	nan	nan	nan	nan	CAMK4	nan	nan	nan	nan	?	Phosphorylation	9822657
+CAMK4_Homo sapiens	nan	nan	nan	nan	CAMK4	nan	nan	nan	nan	?	Phosphorylation	17192257,19413330,17192257
+PRKACA_Homo sapiens	nan	nan	nan	nan	KLF1	nan	nan	nan	nan	?	Phosphorylation	9722526
+CSNK1D_Homo sapiens	nan	nan	nan	nan	BACE1	nan	nan	nan	nan	?	Phosphorylation	11278841
+CHUK_Homo sapiens	nan	nan	nan	nan	NFKBIB	nan	nan	nan	nan	?	Phosphorylation	8657102,9689078
+IKBKB_Homo sapiens	nan	nan	nan	nan	NFKBIB	nan	nan	nan	nan	?	Phosphorylation	8657102,9689078
+STK11_Homo sapiens	nan	nan	nan	nan	MARK1	nan	nan	nan	nan	?	Phosphorylation	14976552,14517247,18691976,14976552,18691976
+TAOK1_Homo sapiens	nan	nan	nan	nan	MARK1	nan	nan	nan	nan	?	Phosphorylation	14976552,14517247,18691976
+PRKACA_Homo sapiens	nan	nan	nan	nan	RASGRF1	nan	nan	nan	nan	?	Phosphorylation	12538592
+MAPK14_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	12171600
+PRKAA2_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	11500364,14709557,15024086,11171059,14709557,15024086,15024086,14709557
+MAPK8_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	12171600
+PRKACA_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	11500364,14709557,15024086,11171059,11171059
+RPS6KA1_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	11500364,14709557,15024086,11171059
+MAPKAPK3_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	12171600
+MAPK12_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	12171600
+PRKAA1_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	11500364,14709557,15024086,11171059,14709557,15024086,15024086,14709557
+MAPK9_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	12171600
+MAPK11_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	12171600
+MAPK13_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	11500363,12171600,12171600
+MAPKAPK5_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	12171600
+RPS6KB1_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	11500364,14709557,15024086,11171059
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	EEF2K	nan	nan	nan	nan	?	Phosphorylation	12171600
+CDK7_Homo sapiens	nan	nan	nan	nan	PCGF6	nan	nan	nan	nan	?	Phosphorylation	12167161
+SRC_Homo sapiens	nan	nan	nan	nan	STAP2	nan	nan	nan	nan	?	Phosphorylation	12540842
+JAK2_Homo sapiens	nan	nan	nan	nan	STAP2	nan	nan	nan	nan	?	Phosphorylation	12540842
+PRKCA_Homo sapiens	nan	nan	nan	nan	CHAT	nan	nan	nan	nan	?	Phosphorylation	12486117,10861222,15381704,15381704
+CAMK2G_Homo sapiens	nan	nan	nan	nan	CHAT	nan	nan	nan	nan	?	Phosphorylation	12486117
+CAMK2A_Homo sapiens	nan	nan	nan	nan	CHAT	nan	nan	nan	nan	?	Phosphorylation	12486117,10861222
+PRKCB_Homo sapiens	nan	nan	nan	nan	CHAT	nan	nan	nan	nan	?	Phosphorylation	15381704
+PRKCG_Homo sapiens	nan	nan	nan	nan	CHAT	nan	nan	nan	nan	?	Phosphorylation	15381704
+PRKCD_Homo sapiens	nan	nan	nan	nan	CHAT	nan	nan	nan	nan	?	Phosphorylation	15381704
+PRKCE_Homo sapiens	nan	nan	nan	nan	CHAT	nan	nan	nan	nan	?	Phosphorylation	15381704
+PRKCZ_Homo sapiens	nan	nan	nan	nan	CHAT	nan	nan	nan	nan	?	Phosphorylation	15381704
+PRKCA_Homo sapiens	nan	nan	nan	nan	MARCKS	nan	nan	nan	nan	?	Phosphorylation	17322306,18669648,19413330,19664995,19651622,19664994,18510355,18707149,18452278,18767875,18578522,20068231,8034575,18669648,19413330,19664995,18707149,18452278,20166139,20068231,11930178,8557118,18767875,20068231,11930178,8557118,18669648,17287340,20068231,2473066,18669648,19413330,17287340,17924679,18212344,19651622,18767875,20068231,17322306,18669648,19413330,17287340,19664995,18212344,19651622,18707149,18767875,18578522,20166139,20068231,20058876,17322306,18669648,19413330,17287340,17924679,18491316,19664995,19651622,18452278,18767875,18578522,20068231,8034575,18669648,19413330,19651622,19664994,18510355,20068231,8034575,18669648,19413330,19651622,19664994,18452278,20068231
+PRKCB_Homo sapiens	nan	nan	nan	nan	MARCKS	nan	nan	nan	nan	?	Phosphorylation	11930178,8557118,18767875,20068231,11930178,8557118,18669648,17287340,20068231,17322306,18669648,19413330,17287340,19664995,18212344,19651622,18707149,18767875,18578522,20166139,20068231,20058876
+PKN1_Homo sapiens	nan	nan	nan	nan	MARCKS	nan	nan	nan	nan	?	Phosphorylation	11930178,8557118,18767875,20068231,11930178,8557118,18669648,17287340,20068231,17322306,18669648,19413330,17287340,19664995,18212344,19651622,18707149,18767875,18578522,20166139,20068231,20058876
+MAPK1_Homo sapiens	nan	nan	nan	nan	GORASP2	nan	nan	nan	nan	?	Phosphorylation	11408587,19413330,17287340,19651622,18767875,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	SDC4	nan	nan	nan	nan	?	Phosphorylation	11916978
+PRKCD_Homo sapiens	nan	nan	nan	nan	SDC4	nan	nan	nan	nan	?	Phosphorylation	11916978,9556568
+RAD17_Homo sapiens	nan	nan	nan	nan	ATR	nan	nan	nan	nan	?	Phosphorylation	11418864,10608806
+PRKACA_Homo sapiens	nan	nan	nan	nan	DNAJC5	nan	nan	nan	nan	?	Phosphorylation	17322306,18669648,17924679,18088087,19664995,19651622,18767875,18707149,18452278,20230923,20166139,20068231,20058876
+AURKB_Homo sapiens	nan	nan	nan	nan	NSUN2	nan	nan	nan	nan	?	Phosphorylation	17215513
+PRKACA_Homo sapiens	nan	nan	nan	nan	GJA5	nan	nan	nan	nan	?	Phosphorylation	10728420
+PRKCD_Homo sapiens	nan	nan	nan	nan	PLSCR1	nan	nan	nan	nan	?	Phosphorylation	10770950
+ABL1_Homo sapiens	nan	nan	nan	nan	PLSCR1	nan	nan	nan	nan	?	Phosphorylation	11390389
+MAPK1_Homo sapiens	nan	nan	nan	nan	MCL1	nan	nan	nan	nan	?	Phosphorylation	15241487
+GSK3B_Homo sapiens	nan	nan	nan	nan	MCL1	nan	nan	nan	nan	?	Phosphorylation	16543145
+GSK3A_Homo sapiens	nan	nan	nan	nan	MCL1	nan	nan	nan	nan	?	Phosphorylation	16543145
+FYN_Homo sapiens	nan	nan	nan	nan	ACP1	nan	nan	nan	nan	?	Phosphorylation	9038134,9038134,17016520
+LCK_Homo sapiens	nan	nan	nan	nan	ACP1	nan	nan	nan	nan	?	Phosphorylation	9038134,9038134,17016520
+PRKCA_Homo sapiens	nan	nan	nan	nan	PRKG1	nan	nan	nan	nan	?	Phosphorylation	12609995
+ADRBK1_Homo sapiens	nan	nan	nan	nan	PDE6G	nan	nan	nan	nan	?	Phosphorylation	12624098
+MAPK3_Homo sapiens	nan	nan	nan	nan	PDE6G	nan	nan	nan	nan	?	Phosphorylation	12624098
+LCK_Homo sapiens	nan	nan	nan	nan	CD3E	nan	nan	nan	nan	?	Phosphorylation	11855827
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HDAC3	nan	nan	nan	nan	?	Phosphorylation	15805470,18452278
+PRKCA_Homo sapiens	nan	nan	nan	nan	PTGIR	nan	nan	nan	nan	?	Phosphorylation	9722557
+EGFR_Homo sapiens	nan	nan	nan	nan	EPS15	nan	nan	nan	nan	?	Phosphorylation	10953014,17389395,17016520
+PRKCD_Homo sapiens	nan	nan	nan	nan	KCNJ1	nan	nan	nan	nan	?	Phosphorylation	8621594
+SRC_Homo sapiens	nan	nan	nan	nan	KCNB1	nan	nan	nan	nan	?	Phosphorylation	12615930
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	PLA2G4A	nan	nan	nan	nan	?	Phosphorylation	10978317,18669648,18212344,19664994,16964243,20068231
+MAPKAPK5_Homo sapiens	nan	nan	nan	nan	PLA2G4A	nan	nan	nan	nan	?	Phosphorylation	10978317,18669648,18212344,19664994,16964243,20068231
+MKNK1_Homo sapiens	nan	nan	nan	nan	PLA2G4A	nan	nan	nan	nan	?	Phosphorylation	10978317,18669648,18212344,19664994,16964243,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	PLA2G4A	nan	nan	nan	nan	?	Phosphorylation	10978317,8636128,20068231
+PRKACA_Homo sapiens	nan	nan	nan	nan	STMN2	nan	nan	nan	nan	?	Phosphorylation	9525956,9126608
+MAPK3_Homo sapiens	nan	nan	nan	nan	STMN2	nan	nan	nan	nan	?	Phosphorylation	9525956,9126608
+CDK1_Homo sapiens	nan	nan	nan	nan	STMN2	nan	nan	nan	nan	?	Phosphorylation	9525956,9126608
+PRKCA_Homo sapiens	nan	nan	nan	nan	RALBP1	nan	nan	nan	nan	?	Phosphorylation	16087181
+DYRK1A_Homo sapiens	nan	nan	nan	nan	DYRK1A	nan	nan	nan	nan	?	Phosphorylation	17229891,18691976,17229891
+CDK1_Homo sapiens	nan	nan	nan	nan	NES	nan	nan	nan	nan	?	Phosphorylation	12832492,11278541,18669648,20068231
+CDK5_Homo sapiens	nan	nan	nan	nan	NES	nan	nan	nan	nan	?	Phosphorylation	12832492,12832492,11278541,18669648,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	ERH	nan	nan	nan	nan	?	Phosphorylation	9074495
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	ERH	nan	nan	nan	nan	?	Phosphorylation	9074495
+CDK8_Homo sapiens	nan	nan	nan	nan	CCNH	nan	nan	nan	nan	?	Phosphorylation	10993082
+MAPK3_Homo sapiens	nan	nan	nan	nan	CCDC6	nan	nan	nan	nan	?	Phosphorylation	14712216,15302935,15144186,18669648,19415658,17287340,19664995,19651622,19664994,19413330,18691976,16964243,18212344,20166139,20068231
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	HSPB1	nan	nan	nan	nan	?	Phosphorylation	1332886,16565220,18669648,19562805,18691976,19007248,18088087,18212344,19651622,19664994,18767875,20230923,20166139,20068231,20058876,1332886,18212344,18767875,20068231,20058876,1332886,16565220,18669648,19562805,19415658,18691976,17924679,19007248,18088087,19664995,18212344,19651622,19691289,19664994,16964243,18707149,18767875,18578522,20166139,20068231,20058876
+MAPKAPK3_Homo sapiens	nan	nan	nan	nan	HSPB1	nan	nan	nan	nan	?	Phosphorylation	1332886,16565220,18669648,19562805,18691976,19007248,18088087,18212344,19651622,19664994,18767875,20230923,20166139,20068231,20058876,1332886,18212344,18767875,20068231,20058876,1332886,16565220,18669648,19562805,19415658,18691976,17924679,19007248,18088087,19664995,18212344,19651622,19691289,19664994,16964243,18707149,18767875,18578522,20166139,20068231,20058876
+PRKACA_Homo sapiens	nan	nan	nan	nan	KCNJ12	nan	nan	nan	nan	?	Phosphorylation	11181181
+CDK2_Homo sapiens	nan	nan	nan	nan	MCM4	nan	nan	nan	nan	?	Phosphorylation	16519687,19651622,20068231,16517729,12714602,16964243,20068231,12714602,18669648,20068231,12714602,18669648,17924679,20068231,16519687
+CDK1_Homo sapiens	nan	nan	nan	nan	MCM4	nan	nan	nan	nan	?	Phosphorylation	16519687,12714602,16964243,20068231,12714602,18669648,20068231,12714602,18669648,17924679,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	NFATC4	nan	nan	nan	nan	?	Phosphorylation	11997522
+MAP2K6_Homo sapiens	nan	nan	nan	nan	MAPK13	nan	nan	nan	nan	?	Phosphorylation	9218798
+ATM_Homo sapiens	nan	nan	nan	nan	RAD17	nan	nan	nan	nan	?	Phosphorylation	11418864,10608806,10608806,11418864
+ATR_Homo sapiens	nan	nan	nan	nan	RAD17	nan	nan	nan	nan	?	Phosphorylation	11418864,10608806,10608806,11418864
+PRKD1_Homo sapiens	nan	nan	nan	nan	HDAC7	nan	nan	nan	nan	?	Phosphorylation	15623513,16956611,18767875,15623513,16956611,18669648,15738054,20068231
+CSNK2B_Homo sapiens	nan	nan	nan	nan	USO1	nan	nan	nan	nan	?	Phosphorylation	9478999,11396975,10931861,18669648,19413330,19415658,19664995,19651622,18452278,20166139,20068231
+CSNK1E_Homo sapiens	nan	nan	nan	nan	PER3	nan	nan	nan	nan	?	Phosphorylation	11865049
+CDK17_Homo sapiens	nan	nan	nan	nan	CDK17	nan	nan	nan	nan	?	Phosphorylation	17192257,18669648,18691976,17192257,18691976,18212344,17192257,18669648,18691976,20068231,17192257,18691976
+CDK1_Homo sapiens	nan	nan	nan	nan	LATS1	nan	nan	nan	nan	?	Phosphorylation	12372621,12372621,18691976
+ZRANB2_Homo sapiens	nan	nan	nan	nan	ZRANB2	nan	nan	nan	nan	?	Phosphorylation	15302935,18669648,19413330,17287340,19651622,19664994,18452278,18767875,20166139,20068231
+CDK3_Homo sapiens	nan	nan	nan	nan	KIR3DL1	nan	nan	nan	nan	?	Phosphorylation	11733001
+PRKCA_Homo sapiens	nan	nan	nan	nan	EDF1	nan	nan	nan	nan	?	Phosphorylation	10816571
+CAMK1_Homo sapiens	nan	nan	nan	nan	HDAC5	nan	nan	nan	nan	?	Phosphorylation	15367659,11114197,11081517
+PRKD1_Homo sapiens	nan	nan	nan	nan	HDAC5	nan	nan	nan	nan	?	Phosphorylation	15367659,11114197,11081517
+CHEK1_Homo sapiens	nan	nan	nan	nan	CLSPN	nan	nan	nan	nan	?	Phosphorylation	16963448
+CDK1_Homo sapiens	nan	nan	nan	nan	KIF20B	nan	nan	nan	nan	?	Phosphorylation	11470801
+MAPK1_Homo sapiens	nan	nan	nan	nan	TOB1	nan	nan	nan	nan	?	Phosphorylation	12050114,12050114,20068231
+DYRK1A_Homo sapiens	nan	nan	nan	nan	SF3B1	nan	nan	nan	nan	?	Phosphorylation	16512921,20068231
+GSK3B_Homo sapiens	nan	nan	nan	nan	MYOCD	nan	nan	nan	nan	?	Phosphorylation	16141410
+MARK4_Homo sapiens	nan	nan	nan	nan	MARK4	nan	nan	nan	nan	?	Phosphorylation	17192257
+ATR_Homo sapiens	nan	nan	nan	nan	TREX1	nan	nan	nan	nan	?	Phosphorylation	15451423
+AKT1_Homo sapiens	nan	nan	nan	nan	YAP1	nan	nan	nan	nan	?	Phosphorylation	12535517,18669648,19651622,20068231
+ABL1_Homo sapiens	nan	nan	nan	nan	YAP1	nan	nan	nan	nan	?	Phosphorylation	18280240
+CDK1_Homo sapiens	nan	nan	nan	nan	NSFL1C	nan	nan	nan	nan	?	Phosphorylation	12810701,18669648,19651622,20068231,12810701
+MAPK14_Homo sapiens	nan	nan	nan	nan	MAPKAPK5	nan	nan	nan	nan	?	Phosphorylation	9628874,18669648
+MAPK11_Homo sapiens	nan	nan	nan	nan	MAPKAPK5	nan	nan	nan	nan	?	Phosphorylation	9628874,18669648
+MAPK3_Homo sapiens	nan	nan	nan	nan	MKNK1	nan	nan	nan	nan	?	Phosphorylation	9155018
+PAK2_Homo sapiens	nan	nan	nan	nan	MKNK1	nan	nan	nan	nan	?	Phosphorylation	15234964
+STK38_Homo sapiens	nan	nan	nan	nan	STK38	nan	nan	nan	nan	?	Phosphorylation	12493777
+PRKD2_Homo sapiens	nan	nan	nan	nan	PRKD2	nan	nan	nan	nan	?	Phosphorylation	11062248,18691976
+MAPK1_Homo sapiens	nan	nan	nan	nan	DUSP16	nan	nan	nan	nan	?	Phosphorylation	12794087
+PRKCQ_Homo sapiens	nan	nan	nan	nan	STK39	nan	nan	nan	nan	?	Phosphorylation	10980603
+CAMK2D_Homo sapiens	nan	nan	nan	nan	CAMK2D	nan	nan	nan	nan	?	Phosphorylation	17192257,18691976,20166139,17192257,19413330,18691976,17192257,18691976,17192257,18691976,20068231,17192257,18691976,20166139,20068231,17192257,18691976,18452278,20166139
+ATM_Homo sapiens	nan	nan	nan	nan	TOPBP1	nan	nan	nan	nan	?	Phosphorylation	11756551,11756551,18077418
+PRKCA_Homo sapiens	nan	nan	nan	nan	ADAP1	nan	nan	nan	nan	?	Phosphorylation	12893243
+PRKCE_Homo sapiens	nan	nan	nan	nan	ADAP1	nan	nan	nan	nan	?	Phosphorylation	12893243
+SRC_Homo sapiens	nan	nan	nan	nan	AFAP1	nan	nan	nan	nan	?	Phosphorylation	9655255
+ROCK1_Homo sapiens	nan	nan	nan	nan	ARHGAP24	nan	nan	nan	nan	?	Phosphorylation	16862148
+DAPK2_Homo sapiens	nan	nan	nan	nan	DAPK2	nan	nan	nan	nan	?	Phosphorylation	11230133
+CAMK2A_Homo sapiens	nan	nan	nan	nan	LRRC7	nan	nan	nan	nan	?	Phosphorylation	11160423
+MAPK1_Homo sapiens	nan	nan	nan	nan	ERF	nan	nan	nan	nan	?	Phosphorylation	10330152,10330152,18669648,10330152,18669648,18212344,19664994
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HSPH1	nan	nan	nan	nan	?	Phosphorylation	12558502,10772927
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	HSPH1	nan	nan	nan	nan	?	Phosphorylation	12558502,10772927
+PRKCZ_Homo sapiens	nan	nan	nan	nan	WWC1	nan	nan	nan	nan	?	Phosphorylation	15081397
+PLK1_Homo sapiens	nan	nan	nan	nan	NUDC	nan	nan	nan	nan	?	Phosphorylation	12852857
+MTOR_Homo sapiens	nan	nan	nan	nan	RPS6KB1	nan	nan	nan	nan	?	Phosphorylation	12586835,9271440,18669648,11279232,18669648,20068231,12604610
+PDPK1_Homo sapiens	nan	nan	nan	nan	RPS6KB1	nan	nan	nan	nan	?	Phosphorylation	10601311,9271440,9427642,10601311,9271440
+CDK1_Homo sapiens	nan	nan	nan	nan	RPS6KB1	nan	nan	nan	nan	?	Phosphorylation	12586835,9271440,18669648,12586835,9271440
+PIK3CA_Homo sapiens	nan	nan	nan	nan	RPS6KB1	nan	nan	nan	nan	?	Phosphorylation	11279232,18669648,20068231
+PDK1_Homo sapiens	nan	nan	nan	nan	RPS6KB1	nan	nan	nan	nan	?	Phosphorylation	11279232,18669648,20068231
+MTOR_Homo sapiens	nan	nan	nan	nan	RPS6KB2	nan	nan	nan	nan	?	Phosphorylation	11733037
+PDPK1_Homo sapiens	nan	nan	nan	nan	RPS6KB2	nan	nan	nan	nan	?	Phosphorylation	11733037
+CDK2_Homo sapiens	nan	nan	nan	nan	CDC7	nan	nan	nan	nan	?	Phosphorylation	10846177
+PAK1_Homo sapiens	nan	nan	nan	nan	ARPC1B	nan	nan	nan	nan	?	Phosphorylation	14749719
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	AIP	nan	nan	nan	nan	?	Phosphorylation	12361709
+PAK1_Homo sapiens	nan	nan	nan	nan	ARHGEF2	nan	nan	nan	nan	?	Phosphorylation	14970201,18669648
+PRKG1_Homo sapiens	nan	nan	nan	nan	SEPT3	nan	nan	nan	nan	?	Phosphorylation	15107017
+AKT1_Homo sapiens	nan	nan	nan	nan	PPARGC1B	nan	nan	nan	nan	?	Phosphorylation	17554339
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	ACCN3	nan	nan	nan	nan	?	Phosphorylation	9886053
+GSK3B_Homo sapiens	nan	nan	nan	nan	CABYR	nan	nan	nan	nan	?	Phosphorylation	15752768
+DYRK1A_Homo sapiens	nan	nan	nan	nan	CCNL2	nan	nan	nan	nan	?	Phosphorylation	14623875,19664995,19651622,18767875,20068231,14623875,20068231,14623875,18669648,19413330,19664995,19651622,19664994,18452278
+CDK2_Homo sapiens	nan	nan	nan	nan	-	nan	nan	nan	nan	?	Phosphorylation	12361598,12361598,19413330
+CDK12_Homo sapiens	nan	nan	nan	nan	CDK12	nan	nan	nan	nan	?	Phosphorylation	17192257,18691976,19651622,20230923,17192257,18669648,18691976,19651622,20230923,20068231,17192257,18669648,19413330,18691976,19664995,19651622,18452278,20068231,17322306,18669648,18691976,19664995,19651622,18452278,18767875,20068231,17322306,18691976,19651622,20230923
+LCK_Homo sapiens	nan	nan	nan	nan	DEF6	nan	nan	nan	nan	?	Phosphorylation	12923183
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	HES6	nan	nan	nan	nan	?	Phosphorylation	12972610
+PLK1_Homo sapiens	nan	nan	nan	nan	NINL	nan	nan	nan	nan	?	Phosphorylation	12852856
+AKT1_Homo sapiens	nan	nan	nan	nan	CCDC88A	nan	nan	nan	nan	?	Phosphorylation	16139227,20068231
+NEK9_Homo sapiens	nan	nan	nan	nan	NEK9	nan	nan	nan	nan	?	Phosphorylation	17192257,18691976,17192257,18669648,18691976,19651622,20068231,17192257,17192257,18669648,19413330,18767875,20068231
+CDC42BPA_Homo sapiens	nan	nan	nan	nan	PPP1R12C	nan	nan	nan	nan	?	Phosphorylation	11399775,18077418
+SLK_Homo sapiens	nan	nan	nan	nan	TAOK3	nan	nan	nan	nan	?	Phosphorylation	10559204
+ABL1_Homo sapiens	nan	nan	nan	nan	GPX1	nan	nan	nan	nan	?	Phosphorylation	12893824
+ABL2_Homo sapiens	nan	nan	nan	nan	GPX1	nan	nan	nan	nan	?	Phosphorylation	12893824
+PIK3CG_Homo sapiens	nan	nan	nan	nan	TPM2	nan	nan	nan	nan	?	Phosphorylation	16094730
+PRKCA_Homo sapiens	nan	nan	nan	nan	TNNI3	nan	nan	nan	nan	?	Phosphorylation	2584239,15134451,14596793,11121119,15134451,14596793,11904166,9346285,15134451,2584239
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	FKBP4	nan	nan	nan	nan	?	Phosphorylation	9405642
+PRKG2_Homo sapiens	nan	nan	nan	nan	PTS	nan	nan	nan	nan	?	Phosphorylation	10531334,7493990,20166139,20068231
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	TSPY1	nan	nan	nan	nan	?	Phosphorylation	16426576
+ABL1_Homo sapiens	nan	nan	nan	nan	RAD52	nan	nan	nan	nan	?	Phosphorylation	12379650
+CDK1_Homo sapiens	nan	nan	nan	nan	ECT2	nan	nan	nan	nan	?	Phosphorylation	16247472,18669648
+PLK1_Homo sapiens	nan	nan	nan	nan	ECT2	nan	nan	nan	nan	?	Phosphorylation	16247472,18669648
+MAPK14_Homo sapiens	nan	nan	nan	nan	MAPKAPK2	nan	nan	nan	nan	?	Phosphorylation	7592979,8846784,7592979,18669648,8846784,8846784,7592979
+NME1_Homo sapiens	nan	nan	nan	nan	CNKSR1	nan	nan	nan	nan	?	Phosphorylation	12105213
+MAPKAPK2_Homo sapiens	nan	nan	nan	nan	ARPC5	nan	nan	nan	nan	?	Phosphorylation	12829704,20068231
+PRKCE_Homo sapiens	nan	nan	nan	nan	GAD1	nan	nan	nan	nan	?	Phosphorylation	15147202
+MAPK10_Homo sapiens	nan	nan	nan	nan	MAPK8IP3	nan	nan	nan	nan	?	Phosphorylation	10523642
+MAPK8_Homo sapiens	nan	nan	nan	nan	MAPK8IP3	nan	nan	nan	nan	?	Phosphorylation	10629060
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	CABP1	nan	nan	nan	nan	?	Phosphorylation	14685260
+MAPK12_Homo sapiens	nan	nan	nan	nan	SH3BP5	nan	nan	nan	nan	?	Phosphorylation	15158451,15158451,18669648,19413330,16964243,20068231
+MAPK9_Homo sapiens	nan	nan	nan	nan	SH3BP5	nan	nan	nan	nan	?	Phosphorylation	15158451,18669648,19413330,16964243,20068231,15158451
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	F11R	nan	nan	nan	nan	?	Phosphorylation	7646439
+PRKCA_Homo sapiens	nan	nan	nan	nan	F11R	nan	nan	nan	nan	?	Phosphorylation	7646439
+HCK_Homo sapiens	nan	nan	nan	nan	ELMO1	nan	nan	nan	nan	?	Phosphorylation	15952790
+CAMK2B_Homo sapiens	nan	nan	nan	nan	CAMK2B	nan	nan	nan	nan	?	Phosphorylation	3417668,2842767,14565989
+CHEK1_Homo sapiens	nan	nan	nan	nan	TLK1	nan	nan	nan	nan	?	Phosphorylation	12660173,12955071,18669648,20068231
+CHEK2_Homo sapiens	nan	nan	nan	nan	AATF	nan	nan	nan	nan	?	Phosphorylation	17157788
+SIK2_Homo sapiens	nan	nan	nan	nan	CRTC2	nan	nan	nan	nan	?	Phosphorylation	15454081,18669648
+SIK3_Homo sapiens	nan	nan	nan	nan	CRTC2	nan	nan	nan	nan	?	Phosphorylation	15454081,18669648,16306228,16306228,18669648
+SIK1_Homo sapiens	nan	nan	nan	nan	CRTC2	nan	nan	nan	nan	?	Phosphorylation	16306228,18669648,15454081,18669648,16306228
+AKT1_Homo sapiens	nan	nan	nan	nan	AKT1S1	nan	nan	nan	nan	?	Phosphorylation	12524439,14973226,18669648,19413330,19651622,20068231
+AKT2_Homo sapiens	nan	nan	nan	nan	AKT1S1	nan	nan	nan	nan	?	Phosphorylation	12524439,14973226,18669648,19413330,19651622,20068231
+MAPK1_Homo sapiens	nan	nan	nan	nan	CEP55	nan	nan	nan	nan	?	Phosphorylation	16198290,18669648,19413330,18691976,16964243,19415658,20068231,16198290,18669648,19413330,19691289,19664994,18767875,18691976,18452278,19415658,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	CEP55	nan	nan	nan	nan	?	Phosphorylation	16198290,18669648,19413330,18691976,16964243,19415658,20068231,16198290,18669648,19413330,19691289,19664994,18767875,18691976,18452278,19415658,20068231
+PLK1_Homo sapiens	nan	nan	nan	nan	CEP55	nan	nan	nan	nan	?	Phosphorylation	16198290,18669648,19413330,19691289,19664994,16964243,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	HABP4	nan	nan	nan	nan	?	Phosphorylation	14699138
+PRKCB_Homo sapiens	nan	nan	nan	nan	HABP4	nan	nan	nan	nan	?	Phosphorylation	14699138
+PRKCD_Homo sapiens	nan	nan	nan	nan	HABP4	nan	nan	nan	nan	?	Phosphorylation	14699138
+PRKCG_Homo sapiens	nan	nan	nan	nan	HABP4	nan	nan	nan	nan	?	Phosphorylation	14699138
+PRKCZ_Homo sapiens	nan	nan	nan	nan	HABP4	nan	nan	nan	nan	?	Phosphorylation	14699138
+PRKCQ_Homo sapiens	nan	nan	nan	nan	HABP4	nan	nan	nan	nan	?	Phosphorylation	14699138
+RPS6KA5_Homo sapiens	nan	nan	nan	nan	HIST3H2A	nan	nan	nan	nan	?	Phosphorylation	15010469
+STK11_Homo sapiens	nan	nan	nan	nan	STRADA	nan	nan	nan	nan	?	Phosphorylation	12805220
+MAPK1_Homo sapiens	nan	nan	nan	nan	MAFA	nan	nan	nan	nan	?	Phosphorylation	11416124
+MAPK14_Homo sapiens	nan	nan	nan	nan	MAFA	nan	nan	nan	nan	?	Phosphorylation	11416124
+LCK_Homo sapiens	nan	nan	nan	nan	MED28	nan	nan	nan	nan	?	Phosphorylation	16899217
+MAPK1_Homo sapiens	nan	nan	nan	nan	NDE1	nan	nan	nan	nan	?	Phosphorylation	12556484,18669648,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	NDE1	nan	nan	nan	nan	?	Phosphorylation	12556484,18669648,20068231
+NEK8_Homo sapiens	nan	nan	nan	nan	NEK8	nan	nan	nan	nan	?	Phosphorylation	11864968
+AURKB_Homo sapiens	nan	nan	nan	nan	SEPT1	nan	nan	nan	nan	?	Phosphorylation	16179162,20058876,16179162
+FYN_Homo sapiens	nan	nan	nan	nan	SNX26	nan	nan	nan	nan	?	Phosphorylation	16777849
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	UBE2R2	nan	nan	nan	nan	?	Phosphorylation	12037680,18669648
+CSNK2A2_Homo sapiens	nan	nan	nan	nan	UBE2R2	nan	nan	nan	nan	?	Phosphorylation	12037680,18669648
+MAPK14_Homo sapiens	nan	nan	nan	nan	ZFYVE20	nan	nan	nan	nan	?	Phosphorylation	16138080,20068231
+MAPK14_Homo sapiens	nan	nan	nan	nan	ZNHIT1	nan	nan	nan	nan	?	Phosphorylation	17380123
+CCNA2_Homo sapiens	nan	nan	nan	nan	BTG1	nan	nan	nan	nan	?	Phosphorylation	9820826
+MAPK1_Homo sapiens	nan	nan	nan	nan	GABRR1	nan	nan	nan	nan	?	Phosphorylation	12175859
+PRKCA_Homo sapiens	nan	nan	nan	nan	GABRR1	nan	nan	nan	nan	?	Phosphorylation	12175859,12175859,10779366
+PRKACA_Homo sapiens	nan	nan	nan	nan	GABRR1	nan	nan	nan	nan	?	Phosphorylation	12175859
+CSNK2A1_Homo sapiens	nan	nan	nan	nan	GABRR1	nan	nan	nan	nan	?	Phosphorylation	12175859
+PRKG1_Homo sapiens	nan	nan	nan	nan	GABRR1	nan	nan	nan	nan	?	Phosphorylation	12175859
+MAP3K9_Homo sapiens	nan	nan	nan	nan	MAP3K9	nan	nan	nan	nan	?	Phosphorylation	15610029
+PLK1_Homo sapiens	nan	nan	nan	nan	TPT1	nan	nan	nan	nan	?	Phosphorylation	12167714,18669648,17287340,20068231,12167714
+CDK1_Homo sapiens	nan	nan	nan	nan	CDK7	nan	nan	nan	nan	?	Phosphorylation	11113184,18669648,18691976,19651622,20068231,11113184,18669648,18691976,19664995,18212344,19651622,18767875,20166139,20068231
+CDK2_Homo sapiens	nan	nan	nan	nan	CDK7	nan	nan	nan	nan	?	Phosphorylation	11113184,18669648,18691976,19651622,20068231,11113184,18669648,18691976,19664995,18212344,19651622,18767875,20166139,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	TRPC3	nan	nan	nan	nan	?	Phosphorylation	9853757
+PRKG1_Homo sapiens	nan	nan	nan	nan	TRPC3	nan	nan	nan	nan	?	Phosphorylation	14983059
+CAMK2A_Homo sapiens	nan	nan	nan	nan	SYNGAP1	nan	nan	nan	nan	?	Phosphorylation	15358237,14970204,15358237,14970204
+CHUK_Homo sapiens	nan	nan	nan	nan	PIAS1	nan	nan	nan	nan	?	Phosphorylation	17540171
+AKT1_Homo sapiens	nan	nan	nan	nan	SH2B2	nan	nan	nan	nan	?	Phosphorylation	16141217
+MAP2K1_Homo sapiens	nan	nan	nan	nan	PARVA	nan	nan	nan	nan	?	Phosphorylation	15353548,18669648,19651622,20166139,15353548,18669648,19651622,15353548,18669648,19664995,19651622,20166139,15353548,19651622,18691976,20068231
+PRKCA_Homo sapiens	nan	nan	nan	nan	PPP1R14A	nan	nan	nan	nan	?	Phosphorylation	15003508
+PRKCE_Homo sapiens	nan	nan	nan	nan	PPP1R14A	nan	nan	nan	nan	?	Phosphorylation	15003508
+PRKCZ_Homo sapiens	nan	nan	nan	nan	PPP1R14A	nan	nan	nan	nan	?	Phosphorylation	15003508
+PRKD1_Homo sapiens	nan	nan	nan	nan	PPP1R14A	nan	nan	nan	nan	?	Phosphorylation	15003508
+MAPK14_Homo sapiens	nan	nan	nan	nan	JDP2	nan	nan	nan	nan	?	Phosphorylation	12225289,11602244
+MAPK8_Homo sapiens	nan	nan	nan	nan	JDP2	nan	nan	nan	nan	?	Phosphorylation	12225289,11602244
+MAPK9_Homo sapiens	nan	nan	nan	nan	JDP2	nan	nan	nan	nan	?	Phosphorylation	12225289,11602244
+TESK2_Homo sapiens	nan	nan	nan	nan	DSTN	nan	nan	nan	nan	?	Phosphorylation	11418599,19413330,19651622,20068231
+CDK3_Homo sapiens	nan	nan	nan	nan	CABLES1	nan	nan	nan	nan	?	Phosphorylation	11733001,18691976
+CCNE1_Homo sapiens	nan	nan	nan	nan	CABLES1	nan	nan	nan	nan	?	Phosphorylation	11733001,18691976
+PRKCA_Homo sapiens	nan	nan	nan	nan	THOC5	nan	nan	nan	nan	?	Phosphorylation	15221008,15221008,20068231
+SRC_Homo sapiens	nan	nan	nan	nan	CDCP1	nan	nan	nan	nan	?	Phosphorylation	14739293
+PRKCA_Homo sapiens	nan	nan	nan	nan	CORO1B	nan	nan	nan	nan	?	Phosphorylation	16027158
+MAPK15_Homo sapiens	nan	nan	nan	nan	MAPK15	nan	nan	nan	nan	?	Phosphorylation	11875070
+CSK_Homo sapiens	nan	nan	nan	nan	MAPK15	nan	nan	nan	nan	?	Phosphorylation	11875070
+PRKG1_Homo sapiens	nan	nan	nan	nan	GKAP1	nan	nan	nan	nan	?	Phosphorylation	10671526
+PRKD1_Homo sapiens	nan	nan	nan	nan	KIDINS220	nan	nan	nan	nan	?	Phosphorylation	10998417,18669648,18578522,20068231
+CDK1_Homo sapiens	nan	nan	nan	nan	PBK	nan	nan	nan	nan	?	Phosphorylation	15541388,19413330,20068231
+CCNB1_Homo sapiens	nan	nan	nan	nan	PBK	nan	nan	nan	nan	?	Phosphorylation	15541388,19413330,20068231
+PKN3_Homo sapiens	nan	nan	nan	nan	PKN3	nan	nan	nan	nan	?	Phosphorylation	17192257,18669648,18691976,19651622,17192257
+CDK2_Homo sapiens	nan	nan	nan	nan	PRC1	nan	nan	nan	nan	?	Phosphorylation	9885575,20068230,9885575,18691976,18212344
+CDK1_Homo sapiens	nan	nan	nan	nan	C13orf15	nan	nan	nan	nan	?	Phosphorylation	11687586
+STK11_Homo sapiens	nan	nan	nan	nan	SNRK	nan	nan	nan	nan	?	Phosphorylation	15733851
+TNIK_Homo sapiens	nan	nan	nan	nan	TNIK	nan	nan	nan	nan	?	Phosphorylation	17192257,18669648,19413330,18088087,19664995,19651622,19664994,18691976,17192257,18088087,19664995,19651622,18691976,17192257
+MAPK1_Homo sapiens	nan	nan	nan	nan	KSR1	nan	nan	nan	nan	?	Phosphorylation	9858547,9858547,18669648
