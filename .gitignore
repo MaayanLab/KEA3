@@ -10,7 +10,9 @@ RegPhos_Phos_human.txt
 RegPhos_Phos_mouse.txt
 Swiss_phos_putative(1).tab
 Kinase_Substrate_Dataset(1)
-PPI/Combined_ppisig.txt
+<<<<<<< HEAD
+=======
+>>>>>>> working
 =======
 Swiss_phos_putative(1).tab
 Kinase_Substrate_Dataset(1)
@@ -19,5 +21,7 @@ POST_TRANSLATIONAL_MODIFICATIONS.txt
 RegPhos_Phos_human.txt
 RegPhos_Phos_mouse.txt
 Swiss_phos_exp(1).tab
-PPI/Combined_ppisig.txt
+<<<<<<< HEAD
+=======
+>>>>>>> working
 >>>>>>> working
