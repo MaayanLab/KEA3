@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<title>Home</title>
+	 <div class="topnav" id="myTopnav">
+ 		<a href="/kryptonite">About</a>
+  		<a href="/kryptonite/kinases">Home</a>
+  	</div>
+
+	<div id="title-row" class="row">
+		<div class="col text-center">
+		<h1>Kinase-Substrate Network Resources</h1>
+		</div>
+	</div>
+
+<table>
+
+<!-- Define the table -->
+
+<table>
+	
+<!-- Define the table headers -->
+
+<tr>
+	
+	{% for column_name in kinase_dataframe.columns %}
+
+		<th>{{column_name.replace('_', ' ').title()}}</th>
+	{% endfor %}
+		<th>PMID</th>
+
+</tr>
+
+<!-- Fill in the data -->
+
+	{% for index, rowData in kinase_dataframe.iterrows() %}
+
+<tr>
+
+		{% for value in rowData.values %}
+
+			<td> {{value}} </td>
+
+		{% endfor %}
+
+		{% for p_index, database in pubmed.database_fk.iteritems() %}
+
+
+			{% if database == rowData.id %}
+				<td><a id = 'l' href="{{(pubmed.link[p_index])}}" target="blank">{{pubmed.pmid[p_index]}}</a>|</td>
+			{% endif %}
+
+		{% endfor %}
+
+</tr>
+
+	{% endfor %}
+
+
+</table>
+
+</body>
+</html>

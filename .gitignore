@@ -2,6 +2,7 @@ MINT_MiTab.txt
 networkin_human_predictions.tsv
 Combined.sig
 PPI/Combined_ppisig.txt
+Website/static/db_connection.json
 <<<<<<< HEAD
 Swiss_phos_exp(1).tab
 POST_TRANSLATIONAL_MODIFICATIONS.txt
