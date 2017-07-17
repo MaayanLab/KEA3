@@ -13,6 +13,7 @@ h1 {
 	font-size: 35px;
 }
 
+
 #title-row2 {
 	text-align: center;
 	font-family: "Arial";
@@ -120,8 +121,8 @@ h2 {
 
 #display {
 	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 100px;
+	padding-top: 15px;
+	padding-bottom: 50px;
 }
 
 
@@ -132,7 +133,7 @@ table, th, td {
 }
 
 th, td {
-    padding: 15px;
+    padding: 5px;
 }
 
 tr:nth-child(even) {

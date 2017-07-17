@@ -78,7 +78,7 @@ def About():
 	return render_template('help.html')
 
 #########################
-### 2. Table test
+### 2. Kinases Table
 #########################
 
 @app.route(entry_point+'/kinases')
@@ -101,7 +101,7 @@ def index():
 
 	colnames = ['Kinase-Substrate Database', 'Jupyter Notebook', 'Kinases', 'Substrates',
 	'Total Unique Terms', 'Average Substrates per Kinase', 'Processed Files', 'Date Retrieved',
-	'PMID']
+	'PMIDs']
 	print(colnames)
 
 	return render_template('index.html', kinase_dataframe=kinase_dataframe, pubmed=pubmed_dataframe, 
@@ -109,19 +109,37 @@ def index():
 
 
 #########################
-### 3. Table test
+### 3. PPI Table
 #########################
 
 @app.route(entry_point+'/proteins')
 
-def table_test2():
+def ppi():
 
-	return 'kinases'
+	# Get the data stored in the MySQL table 'kinase_db'
+	ppi_dataframe = pd.read_sql_query('SELECT * FROM ppi_db', engine)
+	print(ppi_dataframe)
 
+	#Get the data stored in the MySQL table 'kin_pubmed_data'
+	pubmed_dataframe = pd.read_sql_query('SELECT * FROM ppi_pubmed_data', engine) 
+	print(pubmed_dataframe)
+
+	jupyter_dataframe = pd.read_sql_query('SELECT * FROM ppi_notebooks', engine)
+	print(jupyter_dataframe)
+
+	file_dataframe = pd.read_sql_query('SELECT * FROM ppi_processed_files', engine)
+	print(file_dataframe)
+
+	colnames = ['PPI Database', 'Jupyter Notebook', 'Total Number of Proteins', 'Interactions', 'Hub Proteins(GMT)', 'Average Number Interactions per Protein', 'Processed Files',
+	'Date Retrieved', 'PMIDs']
+	print(colnames)
+
+	return render_template('index.html', ppi_dataframe=ppi_dataframe, pubmed=pubmed_dataframe, 
+		jupyter = jupyter_dataframe, files = file_dataframe, colnames = colnames)
 
 
 #######################################################
-########## 3. Run Flask App ###########################
+########## 5. Run Flask App ###########################
 #######################################################
 # Run App
 if __name__ == "__main__":
