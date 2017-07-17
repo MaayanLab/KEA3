@@ -3,7 +3,7 @@
 <head>
 	<title>Home</title>
 	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
-	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
 <title>Home</title>
@@ -48,14 +48,15 @@
 
 		{% endfor %}
 
+		<td>
 		{% for p_index, database in pubmed.database_fk.iteritems() %}
 
-
 			{% if database == rowData.id %}
-				<td><a id = 'l' href="{{(pubmed.link[p_index])}}" target="blank">{{pubmed.pmid[p_index]}}</a>|</td>
+			<a id = 'l' href="{{(pubmed.link[p_index])}}" target="blank">{{pubmed.pmid[p_index]}}</a>|
 			{% endif %}
 
 		{% endfor %}
+		</td>
 
 </tr>
 

@@ -93,7 +93,19 @@ def index():
 	pubmed_dataframe = pd.read_sql_query('SELECT * FROM kin_pubmed_data', engine) 
 	print(pubmed_dataframe)
 
-	return render_template('index.html', kinase_dataframe=kinase_dataframe, pubmed=pubmed_dataframe)
+	jupyter_dataframe = pd.read_sql_query('SELECT * FROM kin_notebooks', engine)
+	print(jupyter_dataframe)
+
+	file_dataframe = pd.read_sql_query('SELECT * FROM kin_processed_files', engine)
+	print(file_dataframe)
+
+	colnames = ['Kinase-Substrate Database', 'Jupyter Notebook', 'Kinases', 'Substrates',
+	'Total Unique Terms', 'Average Substrates per Kinase', 'Processed Files', 'Date Retrieved',
+	'PMID']
+	print(colnames)
+
+	return render_template('index.html', kinase_dataframe=kinase_dataframe, pubmed=pubmed_dataframe, 
+		jupyter = jupyter_dataframe, files = file_dataframe, colnames = colnames)
 
 
 #########################
