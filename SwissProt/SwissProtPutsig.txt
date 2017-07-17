@@ -401,9 +401,7 @@ kinase_Mus musculus	nan	nan	nan	nan	MK11	nan	nan	nan	nan	?	Phosphorylation	17517
 kinase_Homo sapiens	nan	nan	nan	nan	MK12	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 kinase_Mus musculus	nan	nan	nan	nan	MK12	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 kinase_Mus musculus	nan	nan	nan	nan	MK13	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
-regulates_Mus musculus	nan	nan	nan	nan	MKNK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 kinase_Mus musculus	nan	nan	nan	nan	MKNK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
-regulates_Mus musculus	nan	nan	nan	nan	MKNK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 MLCK_Homo sapiens	nan	nan	nan	nan	MLRM	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 MLCK_Mus musculus	nan	nan	nan	nan	MLRN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 RAF_Mus musculus	nan	nan	nan	nan	MP2K1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
@@ -543,8 +541,6 @@ PKG_Mus musculus	nan	nan	nan	nan	SF01	nan	nan	nan	nan	?	Phosphorylation	17517770
 PDPK1_Mus musculus	nan	nan	nan	nan	SGK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 PDPK1_Mus musculus	nan	nan	nan	nan	SGK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 PDPK1_Mus musculus	nan	nan	nan	nan	SGK3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
-in_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
-in_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 Probable_Homo sapiens	nan	nan	nan	nan	SHC2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 Probable_Mus musculus	nan	nan	nan	nan	SHC2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 Tyr-kinases_Homo sapiens	nan	nan	nan	nan	SHPS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
@@ -668,14 +664,10 @@ ISPK_Homo sapiens	nan	nan	nan	nan	PPR3A	nan	nan	nan	nan	?	Phosphorylation	175177
 ISPK_Mus musculus	nan	nan	nan	nan	PPR3A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 MAPK3_Mus musculus	nan	nan	nan	nan	RGS19	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 PKG_Homo sapiens	nan	nan	nan	nan	RYR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
-isoform_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 P66SHC_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 P46SHC_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
-andisoform_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 P52SHC_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
-isoform_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 P46_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
-andisoform_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 P52_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 RPS6KA5_Mus musculus	nan	nan	nan	nan	TF65	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
 PKG_Mus musculus	nan	nan	nan	nan	VASP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
