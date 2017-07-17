@@ -1,612 +1,681 @@
-MAPK12_Homo sapiens	nan	nan	nan	nan	3BP5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK12_Mus musculus	nan	nan	nan	nan	3BP5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	A4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK1_Mus musculus	nan	nan	nan	nan	A4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	AAKB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	AAKB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	AAPK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	AAPK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	ABCA1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	ABL1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	ABL1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Homo sapiens	nan	nan	nan	nan	ACHB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Mus musculus	nan	nan	nan	nan	ACHB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Homo sapiens	nan	nan	nan	nan	ACHD	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Mus musculus	nan	nan	nan	nan	ACHD	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	ACLY	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	ACLY	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-FAK1_Mus musculus	nan	nan	nan	nan	ACTN1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Mus musculus	nan	nan	nan	nan	ADA17	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	ADA1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	ADA1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	ADDA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ROCK1_Mus musculus	nan	nan	nan	nan	ADDA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	ADDA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	ADDB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	ADDB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	ADDG	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	ADDG	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	ADRB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	ADRB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	ADRB2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-BARK_Homo sapiens	nan	nan	nan	nan	ADRB2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	ADRB2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-BARK_Mus musculus	nan	nan	nan	nan	ADRB2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PDPK1_Mus musculus	nan	nan	nan	nan	AKT1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	ALK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	ALK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	ANXA1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK8_Mus musculus	nan	nan	nan	nan	AP1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	AP2A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	AP2B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	AP2B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	AP2C	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	AP2C	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	AT12A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	AT12A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	AT1A1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	AT1A1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	AT1A1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	AT1A1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	AT1A2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	AT1A3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	AT1A3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	AT1A4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	AT1A4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	AT2B2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	AT2B2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	AT2B2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	AT2B2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	AT2B3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	AT2B4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK1_Mus musculus	nan	nan	nan	nan	ATF1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK14_Mus musculus	nan	nan	nan	nan	ATF2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	ATP4A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	ATP4A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	BCKD	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	BCKD	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	BCL2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	BLK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	BLK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	BMX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	BMX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ATM_Mus musculus	nan	nan	nan	nan	BRCA1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	BTK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	BTK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	C1R	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CAC1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CAC1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CAC1B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CAC1B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CAC1C	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CAC1C	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CAC1D	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CAC1E	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CAC1E	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CAC1F	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CAC1S	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CAC1S	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CAC2D	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CAC2D	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	CALD1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK4_Homo sapiens	nan	nan	nan	nan	CALM	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK4_Mus musculus	nan	nan	nan	nan	CALM	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-INSR_Homo sapiens	nan	nan	nan	nan	CAV1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CAYP1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	CCNE2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDK8_Mus musculus	nan	nan	nan	nan	CCNH	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Mus musculus	nan	nan	nan	nan	CD22	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	CD44	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CAK_Homo sapiens	nan	nan	nan	nan	CDC2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CAK_Mus musculus	nan	nan	nan	nan	CDC2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CAK_Mus musculus	nan	nan	nan	nan	CDK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CAK_Homo sapiens	nan	nan	nan	nan	CDK4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ABL1_Homo sapiens	nan	nan	nan	nan	CDK5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	CND1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	CND1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	COF1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	CP2B6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CP2B9	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CP2BA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CP2BJ	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	CP2BK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	CSF1R	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	CSK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	CSK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	CSTF2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKG_Homo sapiens	nan	nan	nan	nan	CSTF2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-HIPK2_Mus musculus	nan	nan	nan	nan	CTBP2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-GSK3-beta_Mus musculus	nan	nan	nan	nan	CTNB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CSK_Mus musculus	nan	nan	nan	nan	CTNB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDK5_Homo sapiens	nan	nan	nan	nan	DAB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	DAPK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	DAPK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	DAXX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	DCOR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	DCX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ABL_Homo sapiens	nan	nan	nan	nan	DCX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	DCX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Homo sapiens	nan	nan	nan	nan	DCX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ABL_Mus musculus	nan	nan	nan	nan	DCX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	DCX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	DCX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Mus musculus	nan	nan	nan	nan	DCX	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	DDR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	DDR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	DDR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	DDR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	DESP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-INSR_Mus musculus	nan	nan	nan	nan	DOK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK_Mus musculus	nan	nan	nan	nan	DOPO	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK1_Homo sapiens	nan	nan	nan	nan	DSPP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	DSPP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK1_Mus musculus	nan	nan	nan	nan	DSPP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	DYR1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	DYR1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	DYR1B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	E2AK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	E2AK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	E2AK4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	E2AK4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-SRC_Homo sapiens	nan	nan	nan	nan	EFS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	EGFR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EGFR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK1_Mus musculus	nan	nan	nan	nan	ELK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-EGFR_Homo sapiens	nan	nan	nan	nan	EP15	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	EPB42	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA7	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA7	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA8	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHB2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHB2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHB3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHB3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHB4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	EPHB4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK2_Homo sapiens	nan	nan	nan	nan	EPOR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	ERBB2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	ERBB4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK1_Mus musculus	nan	nan	nan	nan	ERF	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDK2_Mus musculus	nan	nan	nan	nan	ESR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	ESR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Mus musculus	nan	nan	nan	nan	ESR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Mus musculus	nan	nan	nan	nan	ESR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Homo sapiens	nan	nan	nan	nan	ETS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	EWS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	EWS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PDGFR_Mus musculus	nan	nan	nan	nan	EZRI	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	F261	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	F262	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	F262	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	F262	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	F262	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	F263	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	F263	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	F264	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Homo sapiens	nan	nan	nan	nan	FABPA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Mus musculus	nan	nan	nan	nan	FABPA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Homo sapiens	nan	nan	nan	nan	FABPH	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Mus musculus	nan	nan	nan	nan	FABPH	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	FADD	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FAK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	FAK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FER	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FES	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	FES	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FGFR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	FGFR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FGFR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	FGFR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FGFR3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	FGFR3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FGFR4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	FGFR4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FGR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	FGR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-SRC_Mus musculus	nan	nan	nan	nan	FHIT	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	FKBP4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	FKBP4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	FOXM1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKB/AKT1_Homo sapiens	nan	nan	nan	nan	FOXO3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FRK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	FSCN1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	FURIN	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	FYN	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	FYN	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	FYN	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	GA45B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	GA45B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	GA45B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	GBRG2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	GLU2B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	GLU2B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	GOGA2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Homo sapiens	nan	nan	nan	nan	GORS2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Mus musculus	nan	nan	nan	nan	GORS2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	GP1BB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKG_Homo sapiens	nan	nan	nan	nan	GPSM2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	GPSM2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	GPSM2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	GRIK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	GRK5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	GRK5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	GRK6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	GRK6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKG_Homo sapiens	nan	nan	nan	nan	GSUB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-BTK_Homo sapiens	nan	nan	nan	nan	GTF2I	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Homo sapiens	nan	nan	nan	nan	GTF2I	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-BTK_Mus musculus	nan	nan	nan	nan	GTF2I	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Mus musculus	nan	nan	nan	nan	GTF2I	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	HCK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	HCK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK_Mus musculus	nan	nan	nan	nan	HDAC5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Mus musculus	nan	nan	nan	nan	I12R2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-HRI_Homo sapiens	nan	nan	nan	nan	IF2A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-HRI_Mus musculus	nan	nan	nan	nan	IF2A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK1_Mus musculus	nan	nan	nan	nan	IF4G3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK1_Mus musculus	nan	nan	nan	nan	IF6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	IGF1R	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	IGF1R	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	IKBE	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKB/AKT1_Mus musculus	nan	nan	nan	nan	IKKA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAP3K14_Mus musculus	nan	nan	nan	nan	IKKA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	IL1R1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	IL4RA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Mus musculus	nan	nan	nan	nan	IL4RA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	IL7RA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	IL7RA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-TYK2_Homo sapiens	nan	nan	nan	nan	INAR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	INSRR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	INSRR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	INSR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	IPP1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-GSK3_Homo sapiens	nan	nan	nan	nan	IPP2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	IPP2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-GSK3_Mus musculus	nan	nan	nan	nan	IPP2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	IPP2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-INSR_Homo sapiens	nan	nan	nan	nan	IRS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	IRS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-INSR_Mus musculus	nan	nan	nan	nan	IRS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-SNF1LK2_Mus musculus	nan	nan	nan	nan	IRS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-INSR_Homo sapiens	nan	nan	nan	nan	IRS2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-INSR_Mus musculus	nan	nan	nan	nan	IRS2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Homo sapiens	nan	nan	nan	nan	ITB7	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	ITK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	ITK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	ITPR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	ITPR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	JAK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	JAK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	JAK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	JAK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	JAK3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	JAK3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Homo sapiens	nan	nan	nan	nan	JIP3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KAP2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KAP2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KAPCG	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KBF1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	KBF1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KBF1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAP3K14_Mus musculus	nan	nan	nan	nan	KBF2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KCC2A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KCC2A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KCC4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KCNA1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KCNA1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KCNA2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KCNA2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KCNA3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KCNA3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KCNA4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KCNA4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KCNA5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KCNA5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KCNA6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KCNA6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	KCNE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	KCNE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KCNQ2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KGP1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Mus musculus	nan	nan	nan	nan	KIRR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KIT	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KIT	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KPB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KPB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KPB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KPB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KPBB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	KPBB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KPBB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KPCA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KPCA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KPCB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KPCB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KPCE	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KPCE	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KPCG	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KPCG	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KPSH1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	KPYR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KS6A1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KS6A2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KS6A3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MARK3_Homo sapiens	nan	nan	nan	nan	KSR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MARK3_Homo sapiens	nan	nan	nan	nan	KSR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-LYN_Homo sapiens	nan	nan	nan	nan	KSYK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	KSYK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-LYN_Mus musculus	nan	nan	nan	nan	KSYK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	KSYK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-STK6_Mus musculus	nan	nan	nan	nan	LATS2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Homo sapiens	nan	nan	nan	nan	LAT	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Mus musculus	nan	nan	nan	nan	LAT	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	LCK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK2_Homo sapiens	nan	nan	nan	nan	LEPR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ROCK1_Mus musculus	nan	nan	nan	nan	LIMK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	LIPS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-AMPK_Homo sapiens	nan	nan	nan	nan	LIPS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	LIPS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-AMPK_Mus musculus	nan	nan	nan	nan	LIPS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	LSP1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	LTK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	LTK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	LYN	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	LYN	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Homo sapiens	nan	nan	nan	nan	MACS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	MAPK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Homo sapiens	nan	nan	nan	nan	MAPK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	MEF2A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	MEF2C	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	MEL18	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	MERTK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	MERTK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	MET	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-GSK3_Mus musculus	nan	nan	nan	nan	MITF	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MLCK_Homo sapiens	nan	nan	nan	nan	MLRM	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MLCK_Mus musculus	nan	nan	nan	nan	MLRN	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-RAF_Mus musculus	nan	nan	nan	nan	MP2K1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-RAF_Homo sapiens	nan	nan	nan	nan	MP2K2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-RAF_Mus musculus	nan	nan	nan	nan	MP2K2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	MP2K6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Mus musculus	nan	nan	nan	nan	MP2K6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	MRP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	MRP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	MUSK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	MUSK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDK2_Mus musculus	nan	nan	nan	nan	MYBB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	MYCN	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Mus musculus	nan	nan	nan	nan	MYCS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ROCK1_Homo sapiens	nan	nan	nan	nan	MYPT1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ROCK1_Mus musculus	nan	nan	nan	nan	MYPT1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	NEB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	NEK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	NEK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	NEK3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	NEK4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK8	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	NEK8	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK9	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	NEK9	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	NEUG	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	NEUG	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	NEUM	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	NEUM	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	NEUM	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	NEUM	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	NFAM1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Mus musculus	nan	nan	nan	nan	NFAM1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	NMDZ1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	NMDZ1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	NOLC1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	NOS2A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	NPM	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	NPT2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	NPT2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	NR4A1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	NR4A1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	NRF1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	NRIF3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	NSF1C	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	NSF1C	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	NTRK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	NTRK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	NTRK3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	P2RY4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PRPK_Mus musculus	nan	nan	nan	nan	P53	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-VRK1_Mus musculus	nan	nan	nan	nan	P53	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Mus musculus	nan	nan	nan	nan	PA24A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	PDK4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	PDK4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	PDPK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	PEA15	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK2_Homo sapiens	nan	nan	nan	nan	PEA15	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	PEBB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	PGFRA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	PGFRB	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	PH4H	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	PH4H	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	PHOS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	PHOS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PHK_Mus musculus	nan	nan	nan	nan	PHS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PHK_Mus musculus	nan	nan	nan	nan	PHS2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PHK_Mus musculus	nan	nan	nan	nan	PHS3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	PLCB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	PLCB1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	PLEC1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ABL_Mus musculus	nan	nan	nan	nan	PLS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	PLS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	PLS2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	PLS2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ABL_Homo sapiens	nan	nan	nan	nan	PLS4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PLK_Mus musculus	nan	nan	nan	nan	PMYT1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	PP1RA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Homo sapiens	nan	nan	nan	nan	PPAT	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-MAPK_Mus musculus	nan	nan	nan	nan	PPAT	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	PPLA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK_Homo sapiens	nan	nan	nan	nan	PPLA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	PPLA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK_Mus musculus	nan	nan	nan	nan	PPLA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-GSK3_Homo sapiens	nan	nan	nan	nan	PPR3A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	PPR3A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-GSK3_Mus musculus	nan	nan	nan	nan	PPR3A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	PPR3A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK_Mus musculus	nan	nan	nan	nan	PRGR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	PRKDC	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	PTEN	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	PTK6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	PTK6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	PTPRR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	PTTG1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	RAB1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	RAB1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	RAB4A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	RAF1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	RBBP9	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	RBBP9	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	RBF1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	REL	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	REL	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	RET	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-EGFR_Mus musculus	nan	nan	nan	nan	RGS16	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	RGS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	RGS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	RGS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	RGS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKD_Mus musculus	nan	nan	nan	nan	RIN1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	RK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	RK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	RON	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	RON	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	ROR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	ROR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	ROR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	ROR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	ROS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	RYK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	RYK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK_Homo sapiens	nan	nan	nan	nan	RYR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	S25BP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	SC5A5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	SC5A5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	SCN7A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKG_Mus musculus	nan	nan	nan	nan	SF01	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PDPK1_Mus musculus	nan	nan	nan	nan	SGK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PDPK1_Mus musculus	nan	nan	nan	nan	SGK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PDPK1_Mus musculus	nan	nan	nan	nan	SGK3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	SHC2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Mus musculus	nan	nan	nan	nan	SHC2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Homo sapiens	nan	nan	nan	nan	SHPS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Tyr-kinases_Mus musculus	nan	nan	nan	nan	SHPS1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ABL2_Mus musculus	nan	nan	nan	nan	SIVA	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	SLBP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	SLBP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ATM_Mus musculus	nan	nan	nan	nan	SMC1A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	SRC	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	SRMS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	SRMS	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	SSR5	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	ST38L	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Mus musculus	nan	nan	nan	nan	STA5A	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Homo sapiens	nan	nan	nan	nan	STA5B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Mus musculus	nan	nan	nan	nan	STA5B	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	STAR	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Mus musculus	nan	nan	nan	nan	STAT1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Homo sapiens	nan	nan	nan	nan	STAT2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Mus musculus	nan	nan	nan	nan	STAT2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Homo sapiens	nan	nan	nan	nan	STAT3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Mus musculus	nan	nan	nan	nan	STAT3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Homo sapiens	nan	nan	nan	nan	STAT4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Mus musculus	nan	nan	nan	nan	STAT4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Homo sapiens	nan	nan	nan	nan	STAT6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-JAK_Mus musculus	nan	nan	nan	nan	STAT6	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	STK38	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	STK3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK2_Mus musculus	nan	nan	nan	nan	SYN1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PLK_Mus musculus	nan	nan	nan	nan	TCTP	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDK2_Homo sapiens	nan	nan	nan	nan	TDP1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDK2_Mus musculus	nan	nan	nan	nan	TDP1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDK2_Homo sapiens	nan	nan	nan	nan	TDP2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDK2_Mus musculus	nan	nan	nan	nan	TDP2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	TEC	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	TEC	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-ATM_Mus musculus	nan	nan	nan	nan	TERF1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	TESK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	TESK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	TESK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	TESK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	TIE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	TIE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	TIE2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	TIP60	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	TLE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	TLE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	TLE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	TLE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	TLE2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	TLE2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	TLE2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	TLE2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Homo sapiens	nan	nan	nan	nan	TLE3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	TLE3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CK2_Mus musculus	nan	nan	nan	nan	TLE3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	TLE3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	TLE4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	TLE4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	TPH1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	TPH1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Mus musculus	nan	nan	nan	nan	TRHDE	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	TXK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	TXK	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	TY3H	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK2_Mus musculus	nan	nan	nan	nan	TY3H	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	TY3H	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	TYK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	TYK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	TYRO3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	TYRO3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	UFO	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	UFO	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-EGFR_Mus musculus	nan	nan	nan	nan	VAV2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	VGFR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	VGFR1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	VGFR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	VGFR2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	VGFR3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	VGFR3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKC_Homo sapiens	nan	nan	nan	nan	VIME	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Homo sapiens	nan	nan	nan	nan	VIME	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	VIME	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CaMK2_Homo sapiens	nan	nan	nan	nan	VIME	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	VIME	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Homo sapiens	nan	nan	nan	nan	VINC	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-Probable_Mus musculus	nan	nan	nan	nan	VINC	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PKA_Mus musculus	nan	nan	nan	nan	VTNC	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Homo sapiens	nan	nan	nan	nan	WEE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-CDC2_Mus musculus	nan	nan	nan	nan	WEE1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	WNK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	WNK1	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	WNK2	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	WNK3	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	WNK4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PRKDC_Mus musculus	nan	nan	nan	nan	XRCC4	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Homo sapiens	nan	nan	nan	nan	YES	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	YES	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-autocatalysis_Mus musculus	nan	nan	nan	nan	ZAP70	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
-PDPK_Homo sapiens	nan	nan	nan	nan	ZBT16	?	Phosphorylation	Huang, H.-D., Lee, T.-Y., Tzeng, S.-W., & Horng, J.-T. (2005). KinasePhos: a web tool for identifying protein kinase-specific phosphorylation sites. Nucleic Acids Research, 33(Web Server issue), W226–W229.
+MAPK12_Homo sapiens	nan	nan	nan	nan	3BP5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK12_Mus musculus	nan	nan	nan	nan	3BP5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK1_Homo sapiens	nan	nan	nan	nan	4EBP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK1_Mus musculus	nan	nan	nan	nan	4EBP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK1_Homo sapiens	nan	nan	nan	nan	4EBP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK1_Mus musculus	nan	nan	nan	nan	4EBP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+APP-kinase_Homo sapiens	nan	nan	nan	nan	A4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	A4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK1_Mus musculus	nan	nan	nan	nan	A4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+APP-kinase_Mus musculus	nan	nan	nan	nan	A4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	AAKB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	AAKB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	AAPK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	AAPK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	ABCA1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	ABL1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	ABL1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Homo sapiens	nan	nan	nan	nan	ACHB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Mus musculus	nan	nan	nan	nan	ACHB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Homo sapiens	nan	nan	nan	nan	ACHD	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Mus musculus	nan	nan	nan	nan	ACHD	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	ACLY	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	ACLY	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+FAK1_Mus musculus	nan	nan	nan	nan	ACTN1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Mus musculus	nan	nan	nan	nan	ADA17	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	ADA1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	ADA1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	ADDA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ROCK1_Mus musculus	nan	nan	nan	nan	ADDA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	ADDA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	ADDB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	ADDB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	ADDG	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	ADDG	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	ADRB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	ADRB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	ADRB2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+BARK_Homo sapiens	nan	nan	nan	nan	ADRB2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	ADRB2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+BARK_Mus musculus	nan	nan	nan	nan	ADRB2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PDPK1_Mus musculus	nan	nan	nan	nan	AKT1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	ALK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	ALK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	ANXA1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK8_Mus musculus	nan	nan	nan	nan	AP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	AP2A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	AP2B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	AP2B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	AP2C	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	AP2C	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	AT12A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	AT12A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	AT1A1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	AT1A1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	AT1A1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	AT1A1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	AT1A2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	AT1A3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	AT1A3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	AT1A4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	AT1A4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	AT2B2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	AT2B2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	AT2B2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	AT2B2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	AT2B3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	AT2B4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK1_Mus musculus	nan	nan	nan	nan	ATF1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK14_Mus musculus	nan	nan	nan	nan	ATF2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	ATP4A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	ATP4A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	BCKD	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	BCKD	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	BCL2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	BLK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	BLK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	BMX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	BMX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ATM_Mus musculus	nan	nan	nan	nan	BRCA1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	BTK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	BTK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	C1R	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK2_Homo sapiens	nan	nan	nan	nan	CABL1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CAC1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CAC1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CAC1B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CAC1B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CAC1C	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CAC1C	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CAC1D	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CAC1E	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CAC1E	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CAC1F	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CAC1S	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CAC1S	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CAC2D	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CAC2D	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	CALD1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK4_Homo sapiens	nan	nan	nan	nan	CALM	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK4_Mus musculus	nan	nan	nan	nan	CALM	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+INSR_Homo sapiens	nan	nan	nan	nan	CAV1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CAYP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	CCNE2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK8_Mus musculus	nan	nan	nan	nan	CCNH	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Mus musculus	nan	nan	nan	nan	CD22	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	CD44	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CAK_Homo sapiens	nan	nan	nan	nan	CDC2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CAK_Mus musculus	nan	nan	nan	nan	CDC2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CAK_Mus musculus	nan	nan	nan	nan	CDK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CAK_Homo sapiens	nan	nan	nan	nan	CDK4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ABL1_Homo sapiens	nan	nan	nan	nan	CDK5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Homo sapiens	nan	nan	nan	nan	CDKL5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	CND1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	CND1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	COF1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	CP2B6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CP2B9	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CP2BA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CP2BJ	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	CP2BK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	CSF1R	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	CSK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	CSK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	CSTF2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKG_Homo sapiens	nan	nan	nan	nan	CSTF2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+HIPK2_Mus musculus	nan	nan	nan	nan	CTBP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+GSK3-beta_Mus musculus	nan	nan	nan	nan	CTNB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CSK_Mus musculus	nan	nan	nan	nan	CTNB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK5_Homo sapiens	nan	nan	nan	nan	DAB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	DAPK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	DAPK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	DAXX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	DCOR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	DCX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ABL_Homo sapiens	nan	nan	nan	nan	DCX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	DCX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Homo sapiens	nan	nan	nan	nan	DCX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ABL_Mus musculus	nan	nan	nan	nan	DCX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	DCX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	DCX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Mus musculus	nan	nan	nan	nan	DCX	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	DDR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	DDR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	DDR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	DDR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	DESP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+INSR_Mus musculus	nan	nan	nan	nan	DOK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK_Mus musculus	nan	nan	nan	nan	DOPO	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK1_Homo sapiens	nan	nan	nan	nan	DSPP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	DSPP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK1_Mus musculus	nan	nan	nan	nan	DSPP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	DYR1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	DYR1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	DYR1B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	E2AK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	E2AK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	E2AK4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	E2AK4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+SRC_Homo sapiens	nan	nan	nan	nan	EFS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	EGFR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EGFR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK1_Mus musculus	nan	nan	nan	nan	ELK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+EGFR_Homo sapiens	nan	nan	nan	nan	EP15	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	EPB42	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA7	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHA7	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHA8	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHB2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHB2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHB3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHB3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	EPHB4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	EPHB4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK2_Homo sapiens	nan	nan	nan	nan	EPOR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	ERBB2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	ERBB4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK1_Mus musculus	nan	nan	nan	nan	ERF	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK2_Mus musculus	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Mus musculus	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Mus musculus	nan	nan	nan	nan	ESR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Homo sapiens	nan	nan	nan	nan	ETS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	EWS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	EWS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PDGFR_Mus musculus	nan	nan	nan	nan	EZRI	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	F261	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	F262	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	F262	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	F262	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	F262	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	F263	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	F263	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	F264	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Homo sapiens	nan	nan	nan	nan	FABPA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Mus musculus	nan	nan	nan	nan	FABPA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Homo sapiens	nan	nan	nan	nan	FABPH	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Mus musculus	nan	nan	nan	nan	FABPH	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	FADD	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FAK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	FAK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FER	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FES	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	FES	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FGFR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	FGFR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FGFR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	FGFR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FGFR3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	FGFR3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FGFR4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	FGFR4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FGR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	FGR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+SRC_Mus musculus	nan	nan	nan	nan	FHIT	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	FKBP4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	FKBP4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	FOXM1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKB/AKT1_Homo sapiens	nan	nan	nan	nan	FOXO3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FRK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	FSCN1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	FURIN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	FYN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	FYN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	FYN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	GA45B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	GA45B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	GA45B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	GBRG2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	GLU2B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	GLU2B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	GOGA2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Homo sapiens	nan	nan	nan	nan	GORS2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Mus musculus	nan	nan	nan	nan	GORS2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	GP1BB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKG_Homo sapiens	nan	nan	nan	nan	GPSM2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	GPSM2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	GPSM2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	GRIK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	GRK5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	GRK5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	GRK6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	GRK6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKG_Homo sapiens	nan	nan	nan	nan	GSUB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+BTK_Homo sapiens	nan	nan	nan	nan	GTF2I	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Homo sapiens	nan	nan	nan	nan	GTF2I	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+BTK_Mus musculus	nan	nan	nan	nan	GTF2I	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Mus musculus	nan	nan	nan	nan	GTF2I	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	HCK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	HCK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK_Mus musculus	nan	nan	nan	nan	HDAC5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	HSPB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Mus musculus	nan	nan	nan	nan	I12R2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Mus musculus	nan	nan	nan	nan	ICK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+HRI_Homo sapiens	nan	nan	nan	nan	IF2A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+HRI_Mus musculus	nan	nan	nan	nan	IF2A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK1_Mus musculus	nan	nan	nan	nan	IF4G3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK1_Mus musculus	nan	nan	nan	nan	IF6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	IGF1R	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	IGF1R	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	IKBE	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKB/AKT1_Mus musculus	nan	nan	nan	nan	IKKA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAP3K14_Mus musculus	nan	nan	nan	nan	IKKA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	IL1R1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	IL4RA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Mus musculus	nan	nan	nan	nan	IL4RA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	IL7RA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	IL7RA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+TYK2_Homo sapiens	nan	nan	nan	nan	INAR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	INSRR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	INSRR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	INSR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	IPP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+GSK3_Homo sapiens	nan	nan	nan	nan	IPP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	IPP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+GSK3_Mus musculus	nan	nan	nan	nan	IPP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	IPP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+INSR_Homo sapiens	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+INSR_Mus musculus	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+SNF1LK2_Mus musculus	nan	nan	nan	nan	IRS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+INSR_Homo sapiens	nan	nan	nan	nan	IRS2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+INSR_Mus musculus	nan	nan	nan	nan	IRS2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Homo sapiens	nan	nan	nan	nan	ITB7	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	ITK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	ITK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	ITPR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	ITPR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	JAK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	JAK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	JAK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	JAK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	JAK3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	JAK3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK8_Mus musculus	nan	nan	nan	nan	JIP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Homo sapiens	nan	nan	nan	nan	JIP3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK2_Mus musculus	nan	nan	nan	nan	K2C8	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KAP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KAP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KAPCG	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KBF1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	KBF1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KBF1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAP3K14_Mus musculus	nan	nan	nan	nan	KBF2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMKK1_Mus musculus	nan	nan	nan	nan	KCC1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMKK1_Mus musculus	nan	nan	nan	nan	KCC1D	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KCC2A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KCC2A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KCC4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KCNA1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KCNA1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KCNA2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KCNA2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KCNA3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KCNA3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KCNA4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KCNA4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KCNA5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	KCNA5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KCNA5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KCNA6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KCNA6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	KCNE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	KCNE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KCNQ2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KGP1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Mus musculus	nan	nan	nan	nan	KIRR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KIT	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KIT	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KPB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KPB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KPB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KPB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KPBB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	KPBB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KPBB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KPCA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KPCA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KPCB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KPCB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KPCE	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KPCE	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KPCG	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KPCG	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KPSH1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	KPYR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KS6A1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KS6A2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KS6A3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MARK3_Homo sapiens	nan	nan	nan	nan	KSR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MARK3_Homo sapiens	nan	nan	nan	nan	KSR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+LYN_Homo sapiens	nan	nan	nan	nan	KSYK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	KSYK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+LYN_Mus musculus	nan	nan	nan	nan	KSYK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	KSYK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+STK6_Mus musculus	nan	nan	nan	nan	LATS2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Homo sapiens	nan	nan	nan	nan	LAT	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Mus musculus	nan	nan	nan	nan	LAT	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	LCK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK2_Homo sapiens	nan	nan	nan	nan	LEPR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ROCK1_Mus musculus	nan	nan	nan	nan	LIMK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	LIPS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+AMPK_Homo sapiens	nan	nan	nan	nan	LIPS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	LIPS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+AMPK_Mus musculus	nan	nan	nan	nan	LIPS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	LSP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	LTK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	LTK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	LYN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	LYN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Homo sapiens	nan	nan	nan	nan	MACS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	MAPK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Homo sapiens	nan	nan	nan	nan	MAPK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	MEF2A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	MEF2C	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	MEL18	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	MERTK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	MERTK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	MET	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+GSK3_Mus musculus	nan	nan	nan	nan	MITF	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Homo sapiens	nan	nan	nan	nan	MK01	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Mus musculus	nan	nan	nan	nan	MK03	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Homo sapiens	nan	nan	nan	nan	MK07	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Mus musculus	nan	nan	nan	nan	MK07	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Mus musculus	nan	nan	nan	nan	MK10	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Homo sapiens	nan	nan	nan	nan	MK11	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Mus musculus	nan	nan	nan	nan	MK11	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Homo sapiens	nan	nan	nan	nan	MK12	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Mus musculus	nan	nan	nan	nan	MK12	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Mus musculus	nan	nan	nan	nan	MK13	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+regulates_Mus musculus	nan	nan	nan	nan	MKNK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Mus musculus	nan	nan	nan	nan	MKNK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+regulates_Mus musculus	nan	nan	nan	nan	MKNK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MLCK_Homo sapiens	nan	nan	nan	nan	MLRM	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MLCK_Mus musculus	nan	nan	nan	nan	MLRN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+RAF_Mus musculus	nan	nan	nan	nan	MP2K1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+RAF_Homo sapiens	nan	nan	nan	nan	MP2K2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+RAF_Mus musculus	nan	nan	nan	nan	MP2K2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	MP2K6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Mus musculus	nan	nan	nan	nan	MP2K6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	MRP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	MRP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	MUSK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	MUSK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK2_Mus musculus	nan	nan	nan	nan	MYBB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	MYCN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Mus musculus	nan	nan	nan	nan	MYCS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	MYPC3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	MYPC3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ROCK1_Homo sapiens	nan	nan	nan	nan	MYPT1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ROCK1_Mus musculus	nan	nan	nan	nan	MYPT1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	NEB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	NEK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	NEK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	NEK3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	NEK4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK8	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	NEK8	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	NEK9	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	NEK9	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	NEUG	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	NEUG	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	NEUM	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	NEUM	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	NEUM	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	NEUM	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	NFAM1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Mus musculus	nan	nan	nan	nan	NFAM1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	NMDZ1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	NMDZ1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	NOLC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	NOS2A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	NPM	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	NPT2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	NPT2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	NR4A1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	NR4A1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	NRF1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	NRIF3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	NSF1C	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	NSF1C	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	NTRK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	NTRK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	NTRK3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	P2RY4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PRPK_Mus musculus	nan	nan	nan	nan	P53	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+VRK1_Mus musculus	nan	nan	nan	nan	P53	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Mus musculus	nan	nan	nan	nan	PA24A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	PDK4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	PDK4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	PDPK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	PEA15	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK2_Homo sapiens	nan	nan	nan	nan	PEA15	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	PEBB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	PGFRA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	PGFRB	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	PH4H	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	PH4H	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	PHOS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	PHOS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PHK_Mus musculus	nan	nan	nan	nan	PHS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PHK_Mus musculus	nan	nan	nan	nan	PHS2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PHK_Mus musculus	nan	nan	nan	nan	PHS3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	PLCB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	PLCB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	PLEC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ABL_Mus musculus	nan	nan	nan	nan	PLS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	PLS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	PLS2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	PLS2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ABL_Homo sapiens	nan	nan	nan	nan	PLS4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PLK_Mus musculus	nan	nan	nan	nan	PMYT1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	PP1RA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Homo sapiens	nan	nan	nan	nan	PPAT	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Mus musculus	nan	nan	nan	nan	PPAT	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	PPLA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK_Homo sapiens	nan	nan	nan	nan	PPLA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	PPLA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK_Mus musculus	nan	nan	nan	nan	PPLA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+GSK3_Homo sapiens	nan	nan	nan	nan	PPR3A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	PPR3A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+GSK3_Mus musculus	nan	nan	nan	nan	PPR3A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	PPR3A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK_Mus musculus	nan	nan	nan	nan	PRGR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	PRKDC	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	PTEN	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	PTK6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	PTK6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	PTPRR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	PTTG1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	RAB1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	RAB1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	RAB4A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	RAF1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	RBBP9	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	RBBP9	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	RBF1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	REL	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	REL	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	RET	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+EGFR_Mus musculus	nan	nan	nan	nan	RGS16	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK1_Mus musculus	nan	nan	nan	nan	RGS19	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	RGS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	RGS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	RGS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	RGS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKD_Mus musculus	nan	nan	nan	nan	RIN1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	RK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	RK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	RON	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	RON	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	ROR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	ROR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	ROR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	ROR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	ROS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	RYK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	RYK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	RYR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK_Homo sapiens	nan	nan	nan	nan	RYR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	S25BP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	SC5A5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	SC5A5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	SCN7A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKG_Mus musculus	nan	nan	nan	nan	SF01	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PDPK1_Mus musculus	nan	nan	nan	nan	SGK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PDPK1_Mus musculus	nan	nan	nan	nan	SGK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PDPK1_Mus musculus	nan	nan	nan	nan	SGK3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+in_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+in_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	SHC2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Mus musculus	nan	nan	nan	nan	SHC2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Homo sapiens	nan	nan	nan	nan	SHPS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Tyr-kinases_Mus musculus	nan	nan	nan	nan	SHPS1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ABL2_Mus musculus	nan	nan	nan	nan	SIVA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	SLBP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	SLBP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ATM_Mus musculus	nan	nan	nan	nan	SMC1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	SRC	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	SRMS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	SRMS	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	SSR5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	ST38L	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Mus musculus	nan	nan	nan	nan	STA5A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Homo sapiens	nan	nan	nan	nan	STA5B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Mus musculus	nan	nan	nan	nan	STA5B	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	STAR	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Mus musculus	nan	nan	nan	nan	STAT1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Homo sapiens	nan	nan	nan	nan	STAT2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Mus musculus	nan	nan	nan	nan	STAT2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Homo sapiens	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Mus musculus	nan	nan	nan	nan	STAT3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Homo sapiens	nan	nan	nan	nan	STAT4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Mus musculus	nan	nan	nan	nan	STAT4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Homo sapiens	nan	nan	nan	nan	STAT6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+JAK_Mus musculus	nan	nan	nan	nan	STAT6	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	STK38	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	STK3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK2_Mus musculus	nan	nan	nan	nan	SYN1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+BARK1_Mus musculus	nan	nan	nan	nan	SYUA	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PLK_Mus musculus	nan	nan	nan	nan	TCTP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK2_Homo sapiens	nan	nan	nan	nan	TDP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK2_Mus musculus	nan	nan	nan	nan	TDP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK2_Homo sapiens	nan	nan	nan	nan	TDP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK2_Mus musculus	nan	nan	nan	nan	TDP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	TEC	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	TEC	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ATM_Mus musculus	nan	nan	nan	nan	TERF1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	TESK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	TESK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	TESK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	TESK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+RPS6KA4_Mus musculus	nan	nan	nan	nan	TF65	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	TIE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	TIE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	TIE2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	TIP60	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	TLE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	TLE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	TLE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	TLE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	TLE2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	TLE2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	TLE2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	TLE2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Homo sapiens	nan	nan	nan	nan	TLE3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	TLE3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CK2_Mus musculus	nan	nan	nan	nan	TLE3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	TLE3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	TLE4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	TLE4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	TPH1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	TPH1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	TRHDE	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	TXK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	TXK	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	TY3H	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK2_Mus musculus	nan	nan	nan	nan	TY3H	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	TY3H	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	TYK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	TYK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	TYRO3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	TYRO3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	UFO	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	UFO	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	VASP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+EGFR_Mus musculus	nan	nan	nan	nan	VAV2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	VGFR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	VGFR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	VGFR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	VGFR2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	VGFR3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	VGFR3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Homo sapiens	nan	nan	nan	nan	VIME	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	VIME	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	VIME	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMK2_Homo sapiens	nan	nan	nan	nan	VIME	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	VIME	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Homo sapiens	nan	nan	nan	nan	VINC	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+Probable_Mus musculus	nan	nan	nan	nan	VINC	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKA_Mus musculus	nan	nan	nan	nan	VTNC	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Homo sapiens	nan	nan	nan	nan	WEE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDC2_Mus musculus	nan	nan	nan	nan	WEE1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	WNK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	WNK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	WNK2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	WNK3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	WNK4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PRKDC_Mus musculus	nan	nan	nan	nan	XRCC4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Homo sapiens	nan	nan	nan	nan	YES	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	YES	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+autocatalysis_Mus musculus	nan	nan	nan	nan	ZAP70	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PDPK_Homo sapiens	nan	nan	nan	nan	ZBT16	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK9_Homo sapiens	nan	nan	nan	nan	3BP5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK9_Mus musculus	nan	nan	nan	nan	3BP5	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK3_Homo sapiens	nan	nan	nan	nan	4EBP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK3_Mus musculus	nan	nan	nan	nan	4EBP1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK3_Homo sapiens	nan	nan	nan	nan	4EBP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK3_Mus musculus	nan	nan	nan	nan	4EBP2	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+I_Homo sapiens	nan	nan	nan	nan	A4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+I_Mus musculus	nan	nan	nan	nan	A4	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKB_Homo sapiens	nan	nan	nan	nan	BAD	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CDK3_Homo sapiens	nan	nan	nan	nan	CABL1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	HSPB1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK_Mus musculus	nan	nan	nan	nan	K2C8	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+CaMKK2_Mus musculus	nan	nan	nan	nan	KCC1A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+kinase_Mus musculus	nan	nan	nan	nan	MKNK1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Homo sapiens	nan	nan	nan	nan	MYPC3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKC_Mus musculus	nan	nan	nan	nan	MYPC3	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ISPK_Homo sapiens	nan	nan	nan	nan	PPR3A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+ISPK_Mus musculus	nan	nan	nan	nan	PPR3A	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+MAPK3_Mus musculus	nan	nan	nan	nan	RGS19	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKG_Homo sapiens	nan	nan	nan	nan	RYR1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+isoform_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+P66SHC_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+P46SHC_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+andisoform_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+P52SHC_Homo sapiens	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+isoform_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+P46_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+andisoform_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+P52_Mus musculus	nan	nan	nan	nan	SHC1	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+RPS6KA5_Mus musculus	nan	nan	nan	nan	TF65	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
+PKG_Mus musculus	nan	nan	nan	nan	VASP	nan	nan	nan	nan	?	Phosphorylation	17517770, 15980458
