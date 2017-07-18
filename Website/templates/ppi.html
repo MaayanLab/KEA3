@@ -53,8 +53,8 @@
 				<td>
 					{% for j_index, database in jupyter.database_fk.iteritems() %}
 
-						{% if database == rowData.id %}
-						<a id = 'l' href="{{(jupyter.notebook_link[j_index])}}" target="blank"><img class="img" id="j-logo" src="{{ url_for('static', filename='css/jupyter.png')}}" title="{{jupyter.notebook_name[j_index]}}"</a>
+						{% if rowData.id in database %}
+							<a id = 'l' href="{{(jupyter.notebook_link[j_index])}}" target="blank"><img class="img" id="j-logo" src="{{ url_for('static', filename='css/jupyter.png')}}" title="{{jupyter.notebook_name[j_index]}}"</a>
 						{% endif %}
 
 					{% endfor %}
@@ -95,7 +95,12 @@
 					{% for p_index, database in pubmed.database_fk.iteritems() %}
 
 						{% if database == rowData.id %}
-						<li><a id = 'l' href="{{(pubmed.link[p_index])}}" target="blank">{{pubmed.pmid[p_index]}}</a>
+							{% if pubmed.link != '#' %}
+							<li><a id = 'l' href="{{(pubmed.link[p_index])}}" target="blank">{{pubmed.pmid[p_index]}}</a>
+							}
+							{%else%}
+								{{pubmed.pmid[p_index]}}
+							{%endif%}
 						{% endif %}
 
 					{% endfor %}
