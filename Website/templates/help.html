@@ -1,22 +1,25 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>About</title>
+	<title>Help</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
-</head>
+	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
 
 <body>
 
 <div class="topnav" id="myTopnav">
-  <a href="/kryptonite">About</a>
-  <a href="/kryptonite/kinases">Home</a>
-</div> 
+ 		<a href="/BINDer">Home</a>
+ 		<a href="/BINDer/help">Help</a>
+ 		<a href="/BINDer/kinases">Kinases</a>
+  		<a href="/BINDer/proteins">PPI</a>
+  		<a href="/BINDer/tf">TF</a>
+  </div>
 
 
 	<div id="title-row" class="row">
 					<div class="col text-center">
-						<h1>About</h1>
+						<h1>Help</h1>
 					</div>
 				</div>
 

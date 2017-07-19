@@ -24,7 +24,7 @@ from flask_sqlalchemy import SQLAlchemy
 app = Flask(__name__)
 
 # Setup entry point
-entry_point = '/kryptonite'
+entry_point = '/BINDer'
 
 # Read data
 connection_file = 'static/db_connection.json'
@@ -68,17 +68,27 @@ engine = SQLAlchemy(app).engine
 # 	return render_template('index.html', variable2=variable2)
 
 #########################
-### 1. About Page
+###  Home Page
 #########################
 
 @app.route(entry_point)
 
-def About():
+def Home():
+	
+	return render_template('home.html')
+
+#########################
+###  Help Page
+#########################
+
+@app.route(entry_point+'/help')
+
+def Help():
 	
 	return render_template('help.html')
 
 #########################
-### 2. Kinases Table
+### Kinases Table
 #########################
 
 @app.route(entry_point+'/kinases')
@@ -109,7 +119,7 @@ def index():
 
 
 #########################
-### 3. PPI Table
+###  PPI Table
 #########################
 
 @app.route(entry_point+'/proteins')
@@ -130,16 +140,29 @@ def ppi():
 	file_dataframe = pd.read_sql_query('SELECT * FROM ppi_processed_files', engine)
 	print(file_dataframe)
 
-	colnames = ['PPI Database', 'Jupyter Notebook', 'Total Number of Proteins', 'Interactions', 'Hub Proteins(GMT)', 'Average Number Interactions per Protein', 'Processed Files',
+	ppi_nr = pd.read_sql_query('SELECT * FROM ppi_nr', engine)
+
+	colnames = ['PPI Database', 'Jupyter Notebook', 'Total Number of Proteins', 'Interactions', 
+	'Hub Proteins (GMT)', 'Average Number Interactions per Protein', 'Processed Files (Filtered/Unfiltered)',
 	'Date Retrieved', 'PMIDs']
 	print(colnames)
 
-	return render_template('index.html', ppi_dataframe=ppi_dataframe, pubmed=pubmed_dataframe, 
-		jupyter = jupyter_dataframe, files = file_dataframe, colnames = colnames)
+	return render_template('ppi.html', ppi_dataframe=ppi_dataframe, pubmed=pubmed_dataframe, 
+		jupyter = jupyter_dataframe, files = file_dataframe, colnames = colnames, ppi_nr = ppi_nr)
+
+#########################
+###  TF Page
+#########################
+
+@app.route(entry_point+'/tf')
+
+def TF():
+	
+	return render_template('tf.html')
 
 
 #######################################################
-########## 5. Run Flask App ###########################
+##########  Run Flask App ###########################
 #######################################################
 # Run App
 if __name__ == "__main__":
