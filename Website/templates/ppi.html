@@ -1,17 +1,20 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 	<title>PPI</title>
 	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
 </head>
 <body>
 <title>PPI</title>
 	 <div class="topnav" id="myTopnav">
- 		<a href="/kryptonite">About</a>
- 		<a href="/kryptonite/kinases">Kinases</a>
-  		<a href="/kryptonite/proteins">PPI</a>
-  	</div>
+ 		<a href="/BINDer">Home</a>
+ 		<a href="/BINDer/help">Help</a>
+ 		<a href="/BINDer/kinases">Kinases</a>
+  		<a href="/BINDer/proteins">PPI</a>
+  </div>
 
 	<div id="title-row" class="row">
 		<div class="col text-center">
@@ -21,7 +24,7 @@
 
 	<div id="Resources-row" class="container-fluid">
 	<div class="container text-center">
-		<table id= "ppi-table" style="width:100%">
+		<table id= "ppi-table">
 
 			<!-- Define the table -->
 
@@ -33,27 +36,30 @@
 				
 				{% for column_name in colnames %}
 
-					<th>{{column_name.title()}}</th>
+					<th>{{column_name}}</th>
 				{% endfor %}
 
 			</tr>
 
 			<!-- Fill in the data -->
 
-				{% for index, rowData in kinase_dataframe.iterrows() %}
+				{% for index, rowData in ppi_dataframe.iterrows() %}
 
 			<tr>
 
 			<!-- Fill in Database data -->
-
-				<td><a id = "l" href="{{(rowData.db_url)}}">{{rowData.db_name}}</a></td>
+					{% if rowData.db_url != '#' %}
+					<td><a id = "l" href="{{(rowData.db_url)}}">{{rowData.db_name}}</a></td>
+					{%else%}
+					<td>{{rowData.db_name}}</td>
+					{%endif%}
 
 			<!-- Fill in Jupyter Notebook data -->
-
+			<!-- Don't forget to include Utilities on website! -->
 				<td>
 					{% for j_index, database in jupyter.database_fk.iteritems() %}
 
-						{% if rowData.id in database %}
+						{% if database == rowData.id %}
 							<a id = 'l' href="{{(jupyter.notebook_link[j_index])}}" target="blank"><img class="img" id="j-logo" src="{{ url_for('static', filename='css/jupyter.png')}}" title="{{jupyter.notebook_name[j_index]}}"</a>
 						{% endif %}
 
@@ -61,12 +67,25 @@
 
 				</td>
 
-
-					{% for value in rowData.values[3:7] %}
-
-						<td> {{value}} </td>
-
-					{% endfor %}
+			<!-- Fill in Statistics Data -->
+			<!-- Range representative of columns we wish to subset (columns with data) -->
+			{% for i in range(2, 6) %}
+			<td><ul>
+				{% for n_index, data in ppi_nr.iterrows() %}
+					{% if data.database_fk == rowData.id %}
+							{% if ppi_nr.kind[n_index] == 'Filtered' %}
+								<li>{{data[i]}} (Filtered)</li>
+							{%endif%}
+							{% if ppi_nr.kind[n_index] == 'Unfiltered' %}
+								<li>{{data[i]}} (Unfiltered)</li>
+							{%endif%}
+							{% if ppi_nr.kind[n_index] == 'Pre-2017' %}
+								{{data[i]}}
+							{%endif%}
+					{%endif%}
+				{% endfor %}
+			</ul></td>
+			{%endfor%}
 
 
 			<!-- Fill in Processed File data -->
@@ -74,7 +93,7 @@
 				<td><ul>
 					{% for f_index, database in files.database_fk.iteritems() %}
 
-						{% if database == rowData.id %}
+						{% if database == rowData.id%}
 							<li><a id="l" href = "{{(files.file_link[f_index])}}" target="blank">{{files.file_type[f_index]}} </a></li>
 						{% endif %}
 
@@ -95,9 +114,8 @@
 					{% for p_index, database in pubmed.database_fk.iteritems() %}
 
 						{% if database == rowData.id %}
-							{% if pubmed.link != '#' %}
+							{% if pubmed.link[p_index] != '#' %}
 							<li><a id = 'l' href="{{(pubmed.link[p_index])}}" target="blank">{{pubmed.pmid[p_index]}}</a>
-							}
 							{%else%}
 								{{pubmed.pmid[p_index]}}
 							{%endif%}
@@ -114,7 +132,8 @@
 			</table>
 		</div>
 	</div>
-
+<link rel="stylesheet" href="/static/css/reset.css?q=1280549780"
+   type="text/css" media="screen" charset="utf-8" />
 
 </body>
 </html>

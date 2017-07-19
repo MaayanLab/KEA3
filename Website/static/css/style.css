@@ -13,6 +13,52 @@ h1 {
 	font-size: 35px;
 }
 
+#intro {
+
+	font-size: 18px;
+}
+
+#logo{
+	height: 150px;
+	width: 400px;
+	display: block;
+	margin: auto;
+}
+
+
+#stat {
+	height: 500px;
+	width: 700px;
+	background-color: #1D2541;
+	color: white;
+	font-size: 20px;
+
+}
+
+.glyphicon.glyphicon-download{
+	font-size: 300px;
+	display: block;
+	padding-top: 50px;
+	text-align: center;
+}
+
+#glyph:hover {
+
+	text-decoration: none;
+}
+
+.carousel {
+	height: 500px;
+	width: 700px;
+	color: white;
+	font-size: 40px;
+}
+
+.carousel-inner > .item > col{
+    margin: auto;
+    text-align: center;
+}
+
 
 #title-row2 {
 	text-align: center;
@@ -32,14 +78,6 @@ h1 {
 	background-color: white;
 }
 
-#R-logo {
-	width: 50px;
-	height: 50px;
-	border: 3px solid #808080;
-	border-radius: 5px;
-	padding: 5px;
-	background-color: white;
-}
 
 #info-row {
 	font-family: "Arial";
@@ -51,7 +89,7 @@ h1 {
 
 
 body {
-	background-color: #D3EEF1;
+	background-color: white;
 	padding-top: 50 px;
 	padding-bottom: 50 px;
 	font-family: "Arial";
@@ -59,7 +97,7 @@ body {
 
 
 h2 {
-	font-size: 18px;
+	font-size: 60px;
 	padding-top: 10px;
 	text-align: center;
 }
@@ -130,6 +168,7 @@ table, th, td {
     border: 3px solid black;
     border-collapse: collapse;
     font-size: 12px;
+    table-layout:fixed;
 }
 
 th, td {
@@ -144,8 +183,22 @@ tr:nth-child(odd) {
     background-color: #fff;
 }
 
+td{
+	width:1px;
+	white-space:nowrap;
+}
+
+
 th {
     text-align: left;
     color: white;
     background-color: black;
+}
+
+ul    {
+
+ list-style:inside;
+ margin:3px; 
+ padding:0px;
+
 }
