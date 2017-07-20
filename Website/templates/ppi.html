@@ -7,20 +7,27 @@
 	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
 </head>
-<body>
-<title>PPI</title>
-	 <div class="topnav" id="myTopnav">
- 		<a href="/BINDer">Home</a>
- 		<a href="/BINDer/help">Help</a>
- 		<a href="/BINDer/kinases">Kinases</a>
-  		<a href="/BINDer/proteins">PPI</a>
-  </div>
+<body id="home">
 
-	<div id="title-row" class="row">
-		<div class="col text-center">
-		<h1>PPI Network Resources</h1>
+<div id="logo-row" class="row">
+		<div class="col-4 text-center">
+			<img id= "logo" src="{{url_for('static', filename='Logo.png')}}" align="left">
+		</div>
+		<div id="t" class="col-4 text-center">
+		<p>Protein-Protein Networks</p>
 		</div>
 	</div>
+
+<title>PPI</title>
+<div class="topnav" id="myTopnav">
+ 		<a href="/BINDer">Home</a>
+ 		<a href="/BINDer/help">Help</a>
+  		<a href="/BINDer/contribute">Contribute</a>
+ 		<a href="/BINDer/kinases">Kinase-Substrate Networks</a>
+  		<a href="/BINDer/proteins">Protein-Protein Networks</a>
+  		<a href="/BINDer/tf">TF-Target Networks</a>
+  </div>
+
 
 	<div id="Resources-row" class="container-fluid">
 	<div class="container text-center">

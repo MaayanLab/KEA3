@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>KEA3</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+ <div class="topnav" id="myTopnav">
+  <a href="index.html">KEA3</a>
+  <a href="citations.html"> KEA3 Citations</a>
+  <a href="ppi.html"> Protein-Protein Interactions (PPI)</a>
+  <a href="ppi_citations.html"> PPI citations</a>
+</div> 
+
+
+	<div id="title-row" class="row">
+					<div class="col text-center">
+						<h1>Protein-Protein Interactions (PPI)</h1>
+					</div>
+				</div>
+
+	<div id = "info-row" class="container-fluid">
+	<div class="container">
+		<div class="row text-center">
+
+			<div class= "col-6">
+				<h2> Overview </h2>
+				<hr width="50%" class="my-2">
+				<p> In addition to kinase-substrate interactions related to the KEA3 project, this website will also host data related to protein-protein interactions. Data was collected from eight different databases, and all data was converted into the .sig file format. These .SIG files were later processed into the .GMT file format. The methods used to transform the original data and into the .sig and .gmt files for the protein-protein interactions can be found in the Jupyter Notebooks linked below. </p>
+		<p>
+					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI-Human Data.ipynb">PPI-Human Data </a>
+		|
+					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/PPI- Mouse Data.ipynb">PPI- Mouse Data</a> |
+		</p>
+		<p>
+				<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/working/PPI/PPI.ipynb">PPI-Combined</a>
+		|
+					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/Create%20SIG%20Files.ipynb">Create SIG File </a> |
+		</p>
+		<p>
+					<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/SIG_to_GMT%20conversion.ipynb">SIG_to_GMT</a>
+		</p>
+			</div>
+
+			<div class="col-6">
+				<h2> Methods </h2>
+				<hr width="50%" class="my-2">
+				<p>There are five Jupyter Notebooks (which each process all of the databases in a single notebook) detailing the methods used to process the data. The 'PPI-Human Data' notebook filters data related to PPI-Human Data protein-protein interactions for all of the databases, and the 'PPI- Mouse Data' notebook filters data related to PPI-Mouse Data protein-protein interactions for all of the databases. The 'PPI-Combined' notebook combines PPI-Human Data and PPI- Mouse Data data together for each database, and the 'Create Sig File' notebook creates a .SIG file for each database using the combined data. Finally, the 'SIG_to_GMT' notebook takes the .SIG files and converts them to .GMT files. for the .GMT file, only proteins which had at least five interactions and no more than 2000 interactions were included in the .gmt files.</p>
+	
+			</div>
+		</div>
+	</div>
+	</div>
+
+
+
+	<div id = "title-row2" class="row">
+		<div class="col text-center">
+			<h2> Resource Files </h2>
+		</div>
+		</div>
+
+	<div id = "Resources-row" class="container-fluid">
+		<div class="container">
+
+		 <table id = "ppi-table" style="width:100%">
+  			<tr>
+    			<th>Database</th>
+    			<th>Processed Files</th>
+    			<th>Date Retrieved</th>
+  			</tr>
+  			<tr>
+    			<td>BioGrid</td>
+    			<td><a id = 'l' href = "https://github.com/mlatif1/KEA3/blob/master/PPI/biogrid_ppi.gmt" >GMT</a>
+				|
+				<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/biogrid_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td>January 25 2017</td>
+  			</tr>
+  			<tr>
+    			<td>DIP</td>
+    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi.gmt" >GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/dip_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td>January 25 2017</td>
+  			</tr>
+
+  			<tr>
+    			<td>InnatedDB</td>
+    			<td><a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi.gmt" >GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/innatedb_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td>January 25 2017</td>
+  			</tr>
+
+  			<tr>
+    			<td>IntAct</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/intact_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td>January 26 2017</td>
+  			</tr>
+
+  			<tr>
+    			<td>KEA</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/kea_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td>February 1 2017</td>
+  			</tr>
+
+  			<tr>
+    			<td>mentha</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mentha_ppi_2017_06_28sig.txt">.SIG</a></td>
+   
+    			<td>January 26 2017</td>
+  			</tr>
+
+  			<tr>
+    			<td>MINT</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/mint_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td>January 23 2017</td>
+  			</tr>
+
+  			<tr>
+    			<td>SNAVI</td>
+    			<td><a  id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi.gmt">.GMT</a>
+							|
+							<a id = 'l' href = "http://nbviewer.jupyter.org/github/mlatif1/KEA3/blob/master/PPI/savi_ppi_2017_06_28sig.txt">.SIG</a></td>
+    			<td>February 1 2017</td>
+  			</tr>
+
+		</table> 
+
+
+			</div>
+
+		</div>
+
+
+	<div id="scripts">
+		<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+	</div>
+</body>
+</html>

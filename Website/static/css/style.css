@@ -1,28 +1,105 @@
+#home {
+
+	background-color: #f6f6f6;
+}
+
+#file-img{
+
+	position: absolute;  
+        max-height: 100%;  
+        max-width: 100%; 
+        width: auto;
+        height: auto;    
+        top: 0;  /*Centering the image*/
+        bottom: 0;    /*Centering the image*/
+        left: 0;   /*Centering the image*/
+        right: 0;   /*Centering the image*/
+        margin: auto;
+        border: 1px solid grey;
+}
+
+#J{
+
+		position: absolute;  
+		top: 0;  /*Centering the image*/
+    	bottom: 0;    /*Centering the image*/
+   		 left: 0;   /*Centering the image*/
+    	right: 0;   /*Centering the image*/
+        height: 160px;  
+        width: 450px; 
+        margin: auto;
+        border: 1px solid grey;
+}
+
+#f{
+	position: absolute;  
+		top: 0;  /*Centering the image*/
+    	bottom: 0;    /*Centering the image*/
+   		 left: 0;   /*Centering the image*/
+    	right: 0; 
+	height: 130px;
+	width: 500px;
+	margin: auto;
+        border: 1px solid grey;
+}
+
 #title-row {
 
-	padding: 20px;
+	padding: 15px;
+	font-size: 40px;
 	text-align: center;
-	font-family: 'Arial';
+	font-family: 'Ubuntu';
 	background-color: powderblue;
-	margin-bottom: 15px;
 	border-style: solid;
 }
 
-h1 {
+#logo-row {
 
+	background-color: white;
+	border-style: solid;
+	margin: auto;
+	font-family: 'Ubuntu';
+}
+
+#logo{
+	padding-top: 10px;
+	height: 65px;
+	width: 200px;
+	display: block;
+	float: 0;
+	margin: 0px;
+}
+
+#t1 {
+	padding-top: 10px;
+	font-size: 40px;
+	color: black;
+	padding-bottom: 9px;
+}
+
+#t {
+	padding-top: 10px;
+	font-size: 40px;
+	color: black;
+}
+
+#info-row {
+	font-family: "Arial";
+	padding: 10px;
+	font-size: 13px;
+
+}
+
+#about {
+	text-align: center;
 	font-size: 35px;
+	margin-top: 15px;
 }
 
 #intro {
 
 	font-size: 18px;
-}
-
-#logo{
-	height: 150px;
-	width: 400px;
-	display: block;
-	margin: auto;
+	float: 0;
 }
 
 
@@ -52,6 +129,7 @@ h1 {
 	width: 700px;
 	color: white;
 	font-size: 40px;
+	margin: 30px;
 }
 
 .carousel-inner > .item > col{
@@ -79,15 +157,6 @@ h1 {
 }
 
 
-#info-row {
-	font-family: "Arial";
-	padding-bottom: 5px;
-	font-size: 13px;
-	background-clip: content-box;
-
-}
-
-
 body {
 	background-color: white;
 	padding-top: 50 px;
@@ -95,12 +164,6 @@ body {
 	font-family: "Arial";
 }
 
-
-h2 {
-	font-size: 60px;
-	padding-top: 10px;
-	text-align: center;
-}
 
 
 /* Add a black background color to the top navigation */
@@ -163,6 +226,10 @@ h2 {
 	padding-bottom: 50px;
 }
 
+table{
+
+	margin-top: 25px;
+}
 
 table, th, td {
     border: 3px solid black;
@@ -199,6 +266,6 @@ ul    {
 
  list-style:inside;
  margin:3px; 
- padding:0px;
+ padding-left:0px;
 
 }

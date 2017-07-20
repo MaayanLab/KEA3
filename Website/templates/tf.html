@@ -7,22 +7,26 @@
 	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
 </head>
 
-<body>
+<body id="home">
 
-
- <div class="topnav" id="myTopnav">
- 	<a href="/BINDer">Home</a>
- 		<a href="/BINDer/help">Help</a>
- 		<a href="/BINDer/kinases">Kinases</a>
-  		<a href="/BINDer/proteins">PPI</a>
-  		<a href="/BINDer/tf">TF</a>
-</div> 
-
-<div id="title-row" class="row">
-	<div class="col text-center">
-		<h1>Transcription Factor-Target Network Resources</h1>
+<div id="logo-row" class="row">
+		<div class="col-4 text-center">
+			<img id= "logo" src="{{url_for('static', filename='Logo.png')}}" align="left">
+		</div>
+		<div id="t" class="col-4 text-center">
+		<p>TF-Target Networks</p>
+		</div>
 	</div>
-</div>
+
+<title>Kinases</title>
+<div class="topnav" id="myTopnav">
+ 		<a href="/BINDer">Home</a>
+ 		<a href="/BINDer/help">Help</a>
+  		<a href="/BINDer/contribute">Contribute</a>
+ 		<a href="/BINDer/kinases">Kinase-Substrate Networks</a>
+  		<a href="/BINDer/proteins">Protein-Protein Networks</a>
+  		<a href="/BINDer/tf">TF-Target Networks</a>
+  </div>
 
 	<div id="scripts">
 		<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>

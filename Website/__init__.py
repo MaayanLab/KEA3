@@ -27,7 +27,8 @@ app = Flask(__name__)
 entry_point = '/BINDer'
 
 # Read data
-connection_file = 'static/db_connection.json'
+# connection_file = 'static/db_connection.json'
+connection_file = '/binder/Website/static/db_connection.json'
 if os.path.exists(connection_file):
 	with open(connection_file) as openfile:
 		connectionDict = json.loads(openfile.read())
@@ -143,7 +144,7 @@ def ppi():
 	ppi_nr = pd.read_sql_query('SELECT * FROM ppi_nr', engine)
 
 	colnames = ['PPI Database', 'Jupyter Notebook', 'Total Number of Proteins', 'Interactions', 
-	'Hub Proteins (GMT)', 'Average Number Interactions per Protein', 'Processed Files (Filtered/Unfiltered)',
+	'Hub Proteins (GMT)', 'Average Number Interactions per Protein', 'Processed Files',
 	'Date Retrieved', 'PMIDs']
 	print(colnames)
 
@@ -159,6 +160,16 @@ def ppi():
 def TF():
 	
 	return render_template('tf.html')
+
+#########################
+###  Contribute
+#########################
+
+@app.route(entry_point+'/contribute')
+
+def Contribute():
+
+	return render_template('contribute.html')
 
 
 #######################################################
