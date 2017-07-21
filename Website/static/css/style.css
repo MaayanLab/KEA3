@@ -170,6 +170,7 @@ body {
 .topnav {
     background-color: #333;
     overflow: hidden;
+    margin-bottom: 15px;
 }
 
 /* Style the links inside the navigation bar */
@@ -232,7 +233,8 @@ table{
 }
 
 table, th, td {
-    border: 3px solid black;
+	margin-top: 5px;
+    border: 1px solid black;
     border-collapse: collapse;
     font-size: 12px;
     table-layout:fixed;

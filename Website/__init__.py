@@ -27,8 +27,8 @@ app = Flask(__name__)
 entry_point = '/BINDer'
 
 # Read data
-# connection_file = 'static/db_connection.json'
-connection_file = '/binder/Website/static/db_connection.json'
+connection_file = 'static/db_connection.json'
+#connection_file = '/binder/Website/static/db_connection.json'
 if os.path.exists(connection_file):
 	with open(connection_file) as openfile:
 		connectionDict = json.loads(openfile.read())
