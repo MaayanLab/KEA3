@@ -169,7 +169,13 @@ def TF():
 
 def Contribute():
 
-	return render_template('contribute.html')
+	species_df = pd.read_sql_query('SELECT * FROM species', engine)
+	print(species_df)
+
+	interaction_type_df = pd.read_sql_query('SELECT * FROM interaction_type', engine)
+	print(interaction_type_df)
+
+	return render_template('contribute.html', int_type_df = interaction_type_df, species_df=species_df)
 
 
 #######################################################
