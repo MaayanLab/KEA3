@@ -1,3 +1,8 @@
+#gene-select {
+
+	margin: auto;
+}
+
 .panel {
 
 	margin: 60px;
@@ -255,8 +260,14 @@ table, th, td {
     table-layout:fixed;
 }
 
+#genes > .td {
+    text-align:center; 
+    vertical-align:middle;
+    margin-left: 2px;
+}
 th, td {
     padding: 5px;
+    text-align: center;
 }
 
 tr:nth-child(even) {
@@ -274,7 +285,7 @@ td{
 
 
 th {
-    text-align: left;
+    text-align: center;
     color: white;
     background-color: black;
 }
