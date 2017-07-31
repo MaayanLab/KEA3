@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Genes</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/dt-1.10.15/b-1.3.1/b-colvis-1.3.1/r-2.1.1/datatables.min.css"/>
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/css/bootstrap-select.min.css" />
+
+<body id="home">
+
+<div id="logo-row" class="row">
+		<div class="col-4 text-center">
+			<img id= "logo" src="{{url_for('static', filename='Logo.png')}}" align="left">
+		</div>
+		<div id="t" class="col-4 text-center">
+		<p>Genes</p>
+		</div>
+	</div>
+
+<title>Contribute</title>
+<div class="topnav" id="myTopnav">
+ 		<a href="/BINDer">Home</a>
+ 		<a href="/BINDer/help">Help</a>
+  		<a href="/BINDer/contribute">Contribute</a>
+ 		<a href="/BINDer/kinases">Kinase-Substrate Networks</a>
+  		<a href="/BINDer/proteins">Protein-Protein Networks</a>
+  		<a href="/BINDer/tf">TF-Target Networks</a>
+  		<a href="/BINDer/gene">Genes</a>
+  </div>
+
+      	<div align = "center" >
+    		<h1>Looking for a specific gene? Use the search tool below to find the gene of interest!</h1>
+    		<form>
+    			<select class="selectpicker" name = 'gene_symbol' data-live-search="true">
+    				<option selected>Please Select a Gene</option>
+    				{% for key, rowData in genes.iterrows() %}
+      					<option data-tokens="">{{rowData.gene_symbol}}</option>
+    				{%endfor%}
+    			</select>
+          <button type="submit" class="btn btn-primary">Submit</button>
+          </form>
+          </div>
+
+{% if gene_s != 'None' %}
+    	<div align="center">
+    		<div class="panel panel-default">
+    		<div class="panel-heading text-center" id="panel-heading">
+    			<h2><b>Gene : {{gene_s}}</b></h2>
+    				Species: {{organism}}
+    				<!-- Check to see if no better way to index -->
+    				<br>Description: {{gene.description[gene_id]}}
+    		</div>
+      		<div class="panel-body">
+      			<h2>Interactions</h2>
+
+      <div align="left">
+      	<h3>...where this gene is the source</h3>
+      		<br>
+            {% if source_df.empty %}
+              No interactions where this gene is the source.
+
+            {%else%}
+                <table style="width:100%">
+                    <thead>
+                      <th>Interacts with...</th>
+                      <th>Interaction Type</th>
+                      <th>Resource</th>
+                    </thead>
+                    <tbody>
+                    
+                {% for index, rowData in source_df.iterrows()%}
+                      <tr>
+                      <td>{{genes.gene_symbol[rowData.target_gene_fk]}} </td>
+                      <td>{{rowData.interaction}}</td>
+                      <td>{{rowData.resources}}</td> 
+                      </tr>
+                {% endfor %}
+                  </tbody>
+                  </table>
+              {%endif%}
+
+
+      	<h3>...where this gene is the target</h3>
+      		<br>
+            {% if target_df.empty %}
+              No interactions where this gene is a target.
+            {%else%}
+                <table style="width:100%">
+                    <thead>
+                      <th>Interacts with...</th>
+                      <th>Interaction Type</th>
+                      <th>Resource</th>
+                    </thead>
+                    <tbody>
+                    
+                {% for index, rowData in target_df.iterrows()%}
+                      <tr>
+                      <td>{{genes.gene_symbol[rowData.source_gene_fk]}}</td>
+                      <td>{{rowData.interaction}}</td>
+                      <td>{{rowData.resources}}</td> 
+                      </tr>
+                {% endfor %}
+                  </tbody>
+                  </table>
+              {%endif%}
+      	</div>
+        </div>
+        </div>
+        </div>
+
+{%endif%}
+
+<div id="scripts">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/js/bootstrap-select.min.js"></script>
+
+	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+</div>
+</body>
+</html>
