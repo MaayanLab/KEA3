@@ -25,6 +25,7 @@
  		<a href="/BINDer/kinases">Kinase-Substrate Networks</a>
   		<a href="/BINDer/proteins">Protein-Protein Networks</a>
   		<a href="/BINDer/tf">TF-Target Networks</a>
+      <a href="/BINDer/gene">Genes</a>
   </div>
 
 
@@ -33,74 +34,95 @@
 		<h2><b>Interested in Adding Files to this Website? Fill out the form below!</b></h2>
 	</div>
   <div class="panel-body">
-  	<form>
+  	<form data-toggle="validator" role="form" action="{{url_for('upload')}}" method = "POST" 
+         enctype = "multipart/form-data">
   		<div class="form-group">
-    		<label for="InputEmai1">Email address</label>
-    		<input type="email" class="form-control" id="InputEmail" aria-describedby="emailHelp" placeholder="Enter email">
-    		<small id="emailHelp" class="form-text text-muted">E-mail and Password Necessary to Contribute to Directory</small>
+    		<label for="text-input">User Name*</label>
+    		<input class="form-control" name="input_user" aria-describedby="userHelp" placeholder="Enter User Name" data-error="This user name is invalid">
   		</div>
   		<div class="form-group">
-    		<label for="InputPassword">Password</label>
-    		<input type="password" class="form-control" id="InputPassword" placeholder="Password">
+    		<label for="InputPassword">Password*</label>
+    		<input type="password" class="form-control" name="input_password" placeholder="Password" >
  		</div>
+      <div class="form-group row">
+        <label for="text-input" class="col-3 col-form-label">Submission Name*</label>
+        <div class="col-12">
+          <input name = "new_submission_name" class="form-control" type="text" placeholder="Please input new submission name" id="text-input">
+        </div>
+      </div>
   		<div class="form-group">
-    		<label for="Select-Interaction">Select Interaction Type</label>
-    		<select class="form-control" id="Select-Interaction">
-	      		{% for rowData in int_type_df.kind.iteritems()%}
-	      		<option value="{{rowData[0]}}">{{rowData[1]}}</option>
+    		<label for="Select-Interaction">Select Interaction Type*</label>
+    		<select class="form-control" name="input_interaction" >
+	      		{% for index, rowData in int_type_df.interaction_name.iteritems()%}
+	      		<option value="{{int_type_df.id[index]}}">{{rowData}}</option>
 	      		{% endfor %}
     		</select>
   		</div>
   		<div class="form-group">
     		<label for="Select-Species">Select Organism</label>
-    		<select class="form-control" id="Select-Species">
-	      		{% for rowData in species_df.kind.iteritems()%}
-	      		<option value="{{rowData[0]}}">{{rowData[1]}}</option>
+    		<select class="form-control" name="input_species">
+	      		{% for index, rowData in species_df.iterrows()%}
+	      		<option value="{{rowData.species_name}}">{{rowData.species_name}}</option>
 	      		{% endfor %}
     		</select>
   		</div>
   		<div class="form-group">
     		<label for="Select-Resource">Select Resource (if already exists)</label>
-    		<select class="form-control" id="Select-Resource">
-	      		<option>1</option>
-    		</select>
-  		</div>
-  		<p><b>Resource not available? Add the resource to the website!</b></p>
-  		<div class="form-group row">
-  			<label for="text-input" class="col-3 col-form-label text-center">Resource Name</label>
-  			<div class="col-4">
-    			<input class="form-control" type="text" placeholder="Please input new resource name" id="text-input">
-  			</div>
-  		</div>
-  		<div class="form-group row">
-  			<label for="text-input" class="col-3 col-form-label text-center">Resource Decription</label>
-  			<div class="col-4">
-    			<input class="form-control" type="text" placeholder="Please add brief description of resource" id="text-input">
-  			</div>
-  		</div>
-  		<div class="form-group row">
-  			<label for="text-input" class="col-3 col-form-label text-center">Resource URL</label>
-  			<div class="col-4">
-    			<input class="form-control" type="text" placeholder="Please add link to resource" id="text-input">
-  			</div>
-  		</div>
-  		<div class="form-group">
-    		<label for="Select-Type">Select File Type</label>
-    		<select class="form-control" id="Select-Type">
-	      		<option>GMT</option>
-	      		<option>SIG</option>
+    		<select class="form-control" name="input_resource">
+            {% for index, rowdata in resources.db_name.iteritems() %}
+	      		<option value="{{resources.id[index]}}">{{rowdata}}</option>
+            {%endfor%}
     		</select>
   		</div>
   		<div class="form-group">
-   			<label for="InputFile">Upload File</label>
-    		<input type="file" class="form-control-file" id="InputFile" aria-describedby="fileHelp">
-    		<small id="fileHelp" class="form-text text-muted">Please upload file corresponding to resource</small>
+    		<label for="Select-Type">Select File Type*</label>
+    		<select class="form-control" name="input_type" >
+	      		{% for index, rowdata in file_types.type_name.iteritems() %}
+            <option value="{{file_types.id[index]}}">{{rowdata}}</option>
+            {%endfor%}    		
+        </select>
+  		</div>
+  		<div class="form-group">
+   			<label for="InputFile">Upload File*</label>
+    		<input name = "input_file" type="file" class="form-control-file"  aria-describedby="fileHelp" <input>
+    		<small id="fileHelp" class="form-text text-muted">Please upload file corresponding to resource. Only <b>tab-separated</b>files will be processed correctly, so please format your file accordingly.</small>
   		</div>
   		<button type="submit" class="btn btn-primary">Submit</button>
   	</form>
+    </div>
+  </div>
+
+
+  <div class="panel panel-default">
+  <div class="panel-heading text-center" id="panel-heading">
+    <h2><b>Resource not available? Add a resource to the website!</b></h2>
+  </div>
+  <div class="panel-body">  
+   <form data-toggle="validator" role="form" action="{{url_for('upload')}}" method = "POST" 
+         enctype = "multipart/form-data">
+      <div class="form-group row">
+        <label for="text-input" class="col-3 col-form-label">Resource Name</label>
+        <div class="col-4">
+          <input name = "new_resource_name" class="form-control" type="text" placeholder="Please input new resource name" id="text-input">
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="text-input" class="col-3 col-form-label">Resource Decription</label>
+        <div class="col-4">
+          <input name = "new_input_description" class="form-control" type="text" placeholder="If available, add a brief description of resource" id="text-input">
+        </div>
+      </div>
+      <div class="form-group row">
+        <label for="text-input" class="col-3 col-form-label">Resource URL</label>
+        <div class="col-4">
+          <input name="new_resource_url" class="form-control" type="text" placeholder="Please add link to resource" id="text-input">
+          <small id="resourceHelp" class="form-text text-muted">If url not available, please input '#' instead.</small>
+        </div>
+      </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
 </div>
-
-
+</div>
 
 	<div id="scripts">
 		<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
