@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>PPI</title>
+	 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/dt-1.10.15/b-1.3.1/b-colvis-1.3.1/r-2.1.1/datatables.min.css"/>
+
+</head>
+<body id="home">
+
+<div class="topnav" id="myTopnav">
+ 	<a id= "home-page-link" href="/bionetbay"><img id="favicon" src="{{url_for('static', filename='favicon.ico')}}"></img>   BioNetBay</a>
+ 	<a id= "page-link" href="/bionetbay/kinases">Kinase-Substrate Networks</a>
+  	<a id= "page-link" href="/bionetbay/proteins">Protein-Protein Networks</a>
+  	<a id= "page-link" href="/bionetbay/tf">TF-Target Networks</a>
+  	<a id= "page-link" href="/bionetbay/gene">Genes</a>
+    <a id= "page-link" href="/bionetbay/contribute">Contribute</a>
+    <a id= "page-link" href="/bionetbay/help">Help</a>
+    <a id= "page-link" href="/bionetbay/about">About</a>
+  </div>
+
+
+	<div id="Resources-row" class="container-fluid">
+	<div class="container text-center">
+
+		<table style="width:100%">
+				
+			<!-- Define the table headers -->
+		<thead>
+
+			<tr>
+				
+				{% for column_name in colnames %}
+
+					<th>{{column_name}}</th>
+				{% endfor %}
+
+			</tr>
+		</thead>
+
+		<tbody>
+			<!-- Fill in the data -->
+
+				{% for index, rowData in ppi_dataframe.iterrows() %}
+
+			<tr>
+
+			<!-- Fill in Database data -->
+					{% if rowData.db_url != '#' %}
+					<td><a id = "l" href="{{(rowData.db_url)}}">{{rowData.db_name}}</a></td>
+					{%else%}
+					<td>{{rowData.db_name}}</td>
+					{%endif%}
+
+			<!-- Fill in Jupyter Notebook data -->
+			<!-- Don't forget to include Utilities on website! -->
+				<td>
+					{% for j_index, database in jupyter.database_fk.iteritems() %}
+
+						{% if database == rowData.id %}
+							<a id = 'l' href="{{(jupyter.notebook_link[j_index])}}" target="blank"><img class="img" id="j-logo" src="{{ url_for('static', filename='css/jupyter.png')}}" title="{{jupyter.notebook_name[j_index]}}"</a>
+						{% endif %}
+
+					{% endfor %}
+
+				</td>
+
+			<!-- Fill in Statistics Data -->
+			<!-- Range representative of columns we wish to subset (columns with data) -->
+			{% for i in range(2, 6) %}
+			<td><ul>
+				{% for n_index, data in ppi_nr.iterrows() %}
+					{% if data.database_fk == rowData.id %}
+							{% if ppi_nr.kind[n_index] == 'Filtered' %}
+								<li>{{data[i]}} (Filtered)</li>
+							{%endif%}
+							{% if ppi_nr.kind[n_index] == 'Unfiltered' %}
+								<li>{{data[i]}} (Unfiltered)</li>
+							{%endif%}
+							{% if ppi_nr.kind[n_index] == 'Pre-2017' %}
+								{{data[i]}}
+							{%endif%}
+					{%endif%}
+				{% endfor %}
+			</ul></td>
+			{%endfor%}
+
+
+			<!-- Fill in Processed File data -->
+
+				<td><ul>
+					{% for f_index, database in files.database_fk.iteritems() %}
+
+						{% if database == rowData.id%}
+							<li><a id="l" href = "{{(files.file_link[f_index])}}" target="blank">{{files.file_type[f_index]}} </a></li>
+						{% endif %}
+
+					{% endfor %}
+
+				</ul></td>
+
+			<!-- fill in Date Retrieved -->
+				{% for value in rowData.values[-1:] %}
+
+						<td> {{value}} </td>
+
+					{% endfor %}
+
+			<!-- Fill in PMID -->
+
+					<td><ul>
+					{% for p_index, database in pubmed.database_fk.iteritems() %}
+
+						{% if database == rowData.id %}
+							{% if pubmed.link[p_index] != '#' %}
+							<li><a id = 'l' href="{{(pubmed.link[p_index])}}" target="blank">{{pubmed.pmid[p_index]}}</a>
+							{%else%}
+								{{pubmed.pmid[p_index]}}
+							{%endif%}
+						{% endif %}
+
+					{% endfor %}
+					</li></ul></td>
+
+			</tr>
+
+				{% endfor %}
+			</tbody>
+			</table>
+		</div>
+	</div>
+
+<div id="scripts">
+
+<!-- Data Table JS -->
+ 	<script type="text/javascript" src="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/dt-1.10.15/b-1.3.1/b-colvis-1.3.1/r-2.1.1/datatables.min.js"></script>
+	<script src = "js/jquery.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery.datatables.min.js"></script>
+	<script src="js/datatables.bootstrap.min.js"></script>
+	<script>
+		$("table").dataTable();
+	</script>
+
+<!-- Bootstrap JS -->
+
+	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+	</div>
+
+</body>
+</html>
