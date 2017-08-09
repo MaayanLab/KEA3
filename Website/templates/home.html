@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body id="home">
+
+<div class="topnav" id="myTopnav">
+ 		<a id= "home-page-link" href="/bionetbay"><img id="favicon" src="{{url_for('static', filename='favicon.ico')}}"></img>   BioNetBay</a>
+ 		<a id= "page-link" href="/bionetbay/kinases">Kinase-Substrate Networks</a>
+  	<a id= "page-link" href="/bionetbay/proteins">Protein-Protein Networks</a>
+  	<a id= "page-link" href="/bionetbay/tf">TF-Target Networks</a>
+    <a id= "page-link" href="/bionetbay/submission">Submissions</a>
+  	<a id= "page-link" href="/bionetbay/gene">Genes</a>
+    <a id= "page-link" href="/bionetbay/contribute">Contribute</a>
+    <a id= "page-link" href="/bionetbay/help">Help</a>
+    <a id= "page-link" href="/bionetbay/about">About</a>
+  </div>
+
+
+  <div align="center">
+    <h1 id="title" >BioNetBay</h1>
+    <h3>A Repository for Molecular Networks and Gene Sets</h3>
+
+<div id = "info-row" class="container">
+      <div class= "col-12">
+        <h2 id="about"> What You Can Find in BioNetBay </h2>
+        <hr width="40%" class="my-2" style="border-color: lightgrey">
+      </div>
+  </div>
+
+
+  <div id="stat-row" class="container">
+  <div class="container text-center">
+
+            <div id="stat" class="col-sm-4">        
+            <a id= "glyph" href="/bionetbay/kinases"><span class="glyphicon glyphicon-signal"></span></a>
+                <h4>Kinase-Substrate Interactions</h4>
+                <p>31,800+</p>
+            </div>
+
+            <div id="stat" class="col-sm-4">
+            <a id= "glyph" href="/bionetbay/proteins"><span class="glyphicon glyphicon-signal"></span></a>
+              <h4>Protein-Protein Interactions</h4>
+              <p>335,800+</p>
+
+              <!-- Make sure to edit this number so that it is accurate!-->
+            </div>
+              <div id="stat" class="col-sm-4">
+              <a id= "glyph" href="/bionetbay/tf"><span class="glyphicon glyphicon-signal"></span></a>
+                <h4>Transcription Factor-Target Interactions</h4>
+                <p>10,000+</p>
+              </div>
+  </div>
+  </div>
+
+  <div id = "info-row" class="container">
+      <div class= "col-12">
+        <h2 id="about"> Access Gene Sets and Molecular Networks </h2>
+        <hr width="60%" class="my-2" style="border-color: lightgrey">
+      </div>
+  </div>
+
+  <div id = "options-row" class="container">
+      <div id="option" class="col-sm-4">        
+            <a id= "glyph" href="/bionetbay/gene"><span class="glyphicon glyphicon-search"></span></a>
+                <h4>Query Gene Molecular Networks</h4>
+      </div>
+      <div id="option" class="col-sm-4">        
+            <a id= "glyph" href="/bionetbay/submission"><span class="glyphicon glyphicon-download"></span></a>
+                <h4>View Gene Sets</h4>
+      </div>
+      <div id="option" class="col-sm-4">        
+            <a id= "glyph" href="/bionetbay/contribute"><span class="glyphicon glyphicon-plus"></span></a>
+                <h4>Contribute to the Repository</h4>
+      </div>
+      
+  </div>
+
+
+  </div>
+
+
+<div id="scripts">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+</div>
+
+</body>
+</html>

@@ -2,6 +2,7 @@ FROM ubuntu:14.04
 
 MAINTAINER Marina Latif <marina.latif@mssm.edu>
 
+<<<<<<< HEAD
 
 RUN apt-get update && apt-get install -y python3
 RUN apt-get update && apt-get install -y libmysqlclient-dev
@@ -24,3 +25,20 @@ WORKDIR /bionetbay
 RUN rm static/db_connection.json
 
 ENTRYPOINT python3 __init__.py
+=======
+RUN apt-get update && apt-get install -y python
+RUN apt-get update && apt-get install -y python-pip
+RUN apt-get update && apt-get install -y python-dev
+RUN apt-get update && apt-get install -y python-MySQLdb
+
+RUN pip install numpy
+RUN pip install pandas
+RUN pip install Flask
+RUN pip install sqlalchemy
+RUN pip install flask-sqlalchemy
+
+RUN mkdir binder
+COPY . /binder
+
+ENTRYPOINT python /binder/Website/__init__.py
+>>>>>>> 7fe1b72c8dabd1d86e9f403250d22f264589eb2f

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Genes</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
+	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/dt-1.10.15/b-1.3.1/b-colvis-1.3.1/r-2.1.1/datatables.min.css"/>
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/css/bootstrap-select.min.css" />
+
+<body id="home">
+
+<div class="topnav" id="myTopnav">
+    <a id= "home-page-link" href="/bionetbay"><img id="favicon" src="{{url_for('static', filename='favicon.ico')}}"></img>   BioNetBay</a>
+    <a id= "page-link" href="/bionetbay/kinases">Kinase-Substrate Networks</a>
+    <a id= "page-link" href="/bionetbay/proteins">Protein-Protein Networks</a>
+    <a id= "page-link" href="/bionetbay/tf">TF-Target Networks</a>
+    <a id= "page-link" href="/bionetbay/submission">Submissions</a>
+    <a id= "page-link" href="/bionetbay/gene">Genes</a>
+    <a id= "page-link" href="/bionetbay/contribute">Contribute</a>
+    <a id= "page-link" href="/bionetbay/help">Help</a>
+    <a id= "page-link" href="/bionetbay/about">About</a>
+  </div>
+
+  <div align = "center" >
+    <form id="input_gene">
+    		<div class="form-group">
+        <div class="col-4">
+          <input name = "input_gene" class="form-control" type="text" placeholder="Please input gene symbol to search the data">
+        </div>
+      </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+  </div>
+
+{% if gene_string != None %}
+<div align="center">
+    <br>
+    <h3>Your search for <b>{{gene_string}}</b> returned the following results...</h3>
+    {% if contains.empty%}
+        <br>
+        <br>
+        <br>
+        <h4>No interactions listed in the database. If you'd like to add an interaction resource including this gene, please visit the 'Contribute' page.</h4>
+    {% else %}
+        
+         <table style="width:50%">
+            <thead>
+              <tr>
+                  <th>Gene Symbol</th>
+                  <th>Species</th>
+              </tr>
+            </thead>
+
+            <tbody>
+
+            {% for index, rowData in contains.iterrows()%}
+
+            <tr>
+                <td><a href="{{'/bionetbay/interactions?gene_symbol=%s' %(rowData.gene_symbol + '_' + species.loc[rowData.species_fk][0])}}">{{rowData.gene_symbol}}</td>
+                <td>{{species.loc[rowData.species_fk][0]}}</td>
+            </tr>
+
+            {%endfor%}
+
+            </tbody>
+          </table>
+    {%endif%}
+  </div>
+  {%endif%}
+
+
+<div id="scripts">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.3/js/bootstrap-select.min.js"></script>
+
+	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+</div>
+</body>
+</html>
