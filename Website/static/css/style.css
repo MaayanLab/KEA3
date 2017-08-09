@@ -1,3 +1,43 @@
+<<<<<<< HEAD
+=======
+#home-page-link {
+
+	font-size: 28px;
+}
+
+#favicon{
+
+	height: 20px;
+	width: 20px;
+	margin-bottom: 6px;
+
+}
+
+#page-link {
+
+margin-top: 12px;
+
+}
+
+
+#title {
+
+	font-size: 60px;
+}
+
+#section-head {
+	margin-top: 50px;
+	margin-bottom: 10px;
+}
+
+#new_resource_modal {
+
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+
+
+>>>>>>> working
 #gene-select {
 
 	margin: auto;
@@ -34,6 +74,7 @@
         border: 1px solid grey;
 }
 
+<<<<<<< HEAD
 #help-text{
 
 }
@@ -50,6 +91,8 @@
         margin: auto;
         border: 1px solid grey;
 }
+=======
+>>>>>>> working
 
 #f{
 	position: absolute;  
@@ -57,10 +100,18 @@
     	bottom: 0;    /*Centering the image*/
    		 left: 0;   /*Centering the image*/
     	right: 0; 
+<<<<<<< HEAD
 	height: 130px;
 	width: 500px;
 	margin: auto;
         border: 1px solid grey;
+=======
+		height: 120px;
+		width: 500px;
+		margin-top: 15px;
+		margin-left: 35px;
+       border: 1px solid grey;
+>>>>>>> working
 }
 
 #title-row {
@@ -68,11 +119,16 @@
 	padding: 15px;
 	font-size: 40px;
 	text-align: center;
+<<<<<<< HEAD
 	font-family: 'Ubuntu';
+=======
+	font-family: "Arial", Sans-serif;
+>>>>>>> working
 	background-color: powderblue;
 	border-style: solid;
 }
 
+<<<<<<< HEAD
 #logo-row {
 
 	background-color: white;
@@ -97,6 +153,28 @@
 	padding-bottom: 9px;
 }
 
+=======
+#input_gene{
+
+	margin-top: 60px;
+}
+
+#logo-row {
+
+	background-color: white;
+	border-style: solid;
+	font-family: "Arial", Sans-serif;
+	margin-top: 0;
+}
+
+#t1 {
+	padding-top: 10px;
+	font-size: 40px;
+	color: black;
+	padding-bottom: 9px;
+}
+
+>>>>>>> working
 #t {
 	padding-top: 10px;
 	font-size: 40px;
@@ -104,9 +182,16 @@
 }
 
 #info-row {
+<<<<<<< HEAD
 	font-family: "Arial";
 	padding: 10px;
 	font-size: 13px;
+=======
+	font-family: "Arial", Sans-serif;
+	padding: 10px;
+	font-size: 13px;
+	margin-top: 40px;
+>>>>>>> working
 
 }
 
@@ -120,6 +205,7 @@
 
 	font-size: 18px;
 	float: 0;
+<<<<<<< HEAD
 }
 
 
@@ -129,10 +215,39 @@
 	background-color: #1D2541;
 	color: white;
 	font-size: 20px;
+=======
+}
+
+#options-row {
+	margin-top: 20px;
+}
+
+
+#option {
+	height: 200px;
+	width: 250px;
+	background-color: #1D2541;
+	color: white;
+	margin-left: 100px;
+	border-radius: 15px;
+
+}
+
+#stat {
+	height: 200px;
+	width: 250px;
+	background-color: #1D2541;
+	color: white;
+	font-size: 15px;
+	margin-top: 50px;
+	margin-left: 90px;
+	border-radius: 15px;
+>>>>>>> working
 
 }
 
 .glyphicon.glyphicon-download{
+<<<<<<< HEAD
 	font-size: 300px;
 	display: block;
 	padding-top: 50px;
@@ -155,12 +270,44 @@
 .carousel-inner > .item > col{
     margin: auto;
     text-align: center;
+=======
+	font-size: 70px;
+	display: block;
+	margin: 25px;
+	text-align: center;
+}
+
+.glyphicon.glyphicon-search{
+	font-size: 70px;
+	display: block;
+	margin: 25px;
+	text-align: center;
+}
+
+.glyphicon.glyphicon-plus{
+	font-size: 70px;
+	display: block;
+	margin: 25px;
+	text-align: center;
+}
+
+.glyphicon.glyphicon-signal{
+	font-size: 70px;
+	display: block;
+	margin: 25px;
+	text-align: center;
+}
+
+#glyph:hover {
+
+	text-decoration: none;
+>>>>>>> working
 }
 
 
 #title-row2 {
 	text-align: center;
-	font-family: "Arial";
+	font-family: "Arial", Sans-serif;
 	padding: 5px 5px;
 	border-style: solid;
 	background-color: lightgrey;
@@ -181,7 +328,7 @@ body {
 	background-color: white;
 	padding-top: 50 px;
 	padding-bottom: 50 px;
-	font-family: "Arial";
+	font-family: "Arial", Sans-serif;
 }
 
 
@@ -190,7 +337,11 @@ body {
 .topnav {
     background-color: #333;
     overflow: hidden;
+<<<<<<< HEAD
     margin-bottom: 15px;
+=======
+    margin-bottom: 0px;
+>>>>>>> working
 }
 
 /* Style the links inside the navigation bar */
@@ -215,6 +366,7 @@ body {
     background-color: #4CAF50;
     color: white;
 }
+
 /*
 .container {
 	width: 1100px;
@@ -228,6 +380,7 @@ body {
 
 }
 
+<<<<<<< HEAD
 /*D3 network styling*/
 
 
@@ -258,6 +411,23 @@ table, th, td {
     border-collapse: collapse;
     font-size: 12px;
     table-layout:fixed;
+=======
+table, th, td {
+	margin-top: 25px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 12px;
+    table-layout: fixed;
+    vertical-align: middle;
+    max-width:100%;
+    word-wrap:break-word; width:75px;
+}
+
+#genes > .td {
+    text-align:center; 
+    vertical-align: middle;
+    margin-left: 2px;
+>>>>>>> working
 }
 
 #genes > .td {
@@ -268,19 +438,31 @@ table, th, td {
 th, td {
     padding: 5px;
     text-align: center;
+<<<<<<< HEAD
+=======
+    vertical-align: middle;
+    max-width:100%;
+>>>>>>> working
 }
 
 tr:nth-child(even) {
     background-color: #e7e7e7;
+    text-align: center;
 }
 
 tr:nth-child(odd) {
     background-color: #fff;
+    text-align: center;
+    margin:auto;
 }
 
 td{
+<<<<<<< HEAD
 	width:1px;
 	white-space:nowrap;
+=======
+	max-width:100%;
+>>>>>>> working
 }
 
 
@@ -288,6 +470,16 @@ th {
     text-align: center;
     color: white;
     background-color: black;
+    vertical-align: middle;
+    margin-left: 15px;
+}
+
+ul    {
+
+ list-style:inside;
+ margin:3px; 
+ padding-left:0px;
+
 }
 
 ul    {

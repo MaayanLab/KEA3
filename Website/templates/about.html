@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Home</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
+	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body id="home">
+
+<div class="topnav" id="myTopnav">
+ 		<a id= "home-page-link" href="/bionetbay"><img id="favicon" src="{{url_for('static', filename='favicon.ico')}}"></img>   BioNetBay</a>
+ 		<a id= "page-link" href="/bionetbay/kinases">Kinase-Substrate Networks</a>
+  	<a id= "page-link" href="/bionetbay/proteins">Protein-Protein Networks</a>
+  	<a id= "page-link" href="/bionetbay/tf">TF-Target Networks</a>
+    <a id= "page-link" href="/bionetbay/submission">Submissions</a>
+  	<a id= "page-link" href="/bionetbay/gene">Genes</a>
+    <a id= "page-link" href="/bionetbay/contribute">Contribute</a>
+    <a id= "page-link" href="/bionetbay/help">Help</a>
+    <a id= "page-link" href="/bionetbay/about">About</a>
+  </div>
+
+		<div align="center">
+				<h1 id="section-head"> BioNetBay: Repository Overview </h1>
+			</div>
+
+		<div id = "info-row" class="container">
+			<div class= "col-12">
+				<p id = "intro"> 
+				 <b>BioNetBay</b> is an online repository that stores gene sets pertaining to molecular interaction networks. Currently, network data stored in the repository focuses on three different interaction types: kinase-substrate (phosphorylation), protein-protein (binding), and transcription factor-target interactions.
+
+				<br>
+
+				<br> In addition to storing gene sets, BioNetBay also allows users to query genes in the database. These queries will return a list of genes matching your query and, once the gene of interest is chosen, the interaction data for this gene will be shown. Interaction data will include the interaction type, interacting gene, resource from which the data originated, and the role of the gene in this interaction (if any).
+
+				<br> 
+
+				<br>To contribute interaction data, add a new resource, or add a new interaction type to the repository, please visit the 'Contribute' page.
+				</p>
+
+				<br>
+				<br>
+				<br>
+
+				<h3>Methods</h3>
+
+				<p id="intro">
+				<br>The data currently stored within the database was obtained through the following procedure:
+
+				<ol>
+				<br>
+					<li>Collecting raw data from interaction databases such as NetworKIN, BioPlex, ChEA, etc.</li>
+					<br>
+					<li>Processing the data by certain criteria (such as species) and transforming into desired file formats (SIG, GMT)</li>
+					<br>
+					<li>Uploading files into the repository as submissions</li>
+				</ol>
+
+				<br>
+
+				</p>
+			</div>
+		</div>
+
+
+
+
+<div id="scripts">
+  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+</div>
+
+</body>
+</html>

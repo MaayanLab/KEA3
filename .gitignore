@@ -8,6 +8,10 @@ TF/ENCODE/ENCODE_TF_ChIP-seq_2015
 ENRICHR_Data/ENCODE_2015.sig
 ENRICHR_Data/TF/ENCODE/ENCODEsig.txt
 <<<<<<< HEAD
+=======
+PPI/MINT/mint_unfiltered_ppi_2017_07_12.sig
+>>>>>>> working
+<<<<<<< HEAD
 Swiss_phos_exp(1).tab
 POST_TRANSLATIONAL_MODIFICATIONS.txt
 phosphoELM_all_2015-04.txt

@@ -8,6 +8,7 @@
 
 <body id="home">
 
+<<<<<<< HEAD
 <div id="logo-row" class="row">
 		<div class="col-4 text-center">
 			<img id= "logo" src="{{url_for('static', filename='Logo.png')}}" align="left">
@@ -26,6 +27,18 @@
   		<a href="/BINDer/proteins">Protein-Protein Networks</a>
   		<a href="/BINDer/tf">TF-Target Networks</a>
   		<a href="/BINDer/gene">Genes</a>
+=======
+<div class="topnav" id="myTopnav">
+ 		<a id= "home-page-link" href="/bionetbay"><img id="favicon" src="{{url_for('static', filename='favicon.ico')}}"></img>   BioNetBay</a>
+ 		<a id= "page-link" href="/bionetbay/kinases">Kinase-Substrate Networks</a>
+  	<a id= "page-link" href="/bionetbay/proteins">Protein-Protein Networks</a>
+  	<a id= "page-link" href="/bionetbay/tf">TF-Target Networks</a>
+    <a id= "page-link" href="/bionetbay/submission">Submissions</a>
+  	<a id= "page-link" href="/bionetbay/gene">Genes</a>
+    <a id= "page-link" href="/bionetbay/contribute">Contribute</a>
+    <a id= "page-link" href="/bionetbay/help">Help</a>
+    <a id= "page-link" href="/bionetbay/about">About</a>
+>>>>>>> working
   </div>
 
 
@@ -39,14 +52,58 @@
 			</div>
 		<div class="row">
 			<div class="col-6">
+<<<<<<< HEAD
 				<img src="{{url_for('static', filename='HelpDownload.png')}}" id="J">
+=======
+				<img src="{{url_for('static', filename='HelpDownload.png')}}" id="file-img">
+>>>>>>> working
 			</div>
 			<div class="col-6" id="help-text">
 				<p> <b> How do I download the raw data? </b>
 				<br>For most of the interactions databases, the name of the database in the data tables will also serve as a link to the original website. From there, you can directly download the raw data from the website. Some databases no longer exist, so data may not be available for download.
+<<<<<<< HEAD
+=======
 				</p>
 			</div>
 		</div>
+			<br>
+			<br>
+		<div class="row">
+			<div class="col-6">
+				<img src="{{url_for('static', filename='GMT.png')}}" id="file-img">
+			</div>
+			<div class="col-6" id="help-text">
+				<p> <b> What is a GMT file? </b>
+				<br>GMT files are used to describe gene sets, as each row corresponds to a different gene set. Each row lists a name (for example, a kinase in kinase-substrate interactions), a description, and the genes in the gene set (in this example, all of the substrates that interact with the kinase). Gene sets must have a minimum of five genes and a maximum of 2000 genes in order to be included in the gmt file. Only mice and human samples from the original data are included in the GMT file.
+				</p>
+			</div>
+		</div>
+				<br>
+		<div class="row">
+			<div class="col-6">
+				<img src="{{url_for('static', filename='SIG.png')}}" id="file-img">
+			</div>
+			<div class="col-6" id="help-text">
+				<p> <b> What is a SIG file? </b>
+				<br>SIG files represent gene interaction networks, also listed by row. In each row, the columns represent: source name, source human accession, source mouse accession, source type, source location, target name, target human accession, target mouse accession, target type, target location, effect, type of interaction, and lastly PubMed IDs. Some of these fields may be filled with 'NA' if information is not available to fill the column. All gene interactions are included in the SIG file, regardless of whether the aggregated gene set has fewer than five or more than 2000 genes. Only mice and human samples from the original data are included in the SIG file.
+				</p>
+			</div>
+		</div>
+
+			<br>
+		<div class="row">
+			<div class="col-6">
+				<img src="{{url_for('static', filename='Notebook.png')}}" id="file-img">
+			</div>
+			<div class="col-6" id="help-text">
+				<p> <b> What is a Jupyter Notebook? </b>
+				<br>A Jupyter Notebook is a document containing live code, which can be created using the Jupyter web application. The data processing for all of the databases is written in Python 3, and the Jupyter Notebook for each interaction database can be viewed by selecting the Jupyter icon in the data tables. There, the code for data processing should be clearly annotated by comments explaining the methods.
+>>>>>>> working
+				</p>
+			</div>
+
+		</div>
+<<<<<<< HEAD
 			<br>
 			<br>
 		<div class="row">
@@ -96,6 +153,26 @@
 				</p>
 			</div>
 		</div>
+=======
+
+		<br>
+		<br>
+		<br>
+
+		
+		<div class="row">
+			<div class="col-6">
+			<br>
+			<br>
+				<img src="{{url_for('static', filename='Filtering.png')}}" id="f">
+			</div>
+			<div class="col-6" id="help-text">
+				<p> <b> What do 'Filtered' and 'Unfiltered' refer to? </b>
+				<br>For protein-protein networks, two options are available to download: 'Filtered' or 'Unfiltered' files. The 'Filtered' GMT and SIG files remove data related to PMIDs that correspond to more than ten interactions, while the 'Unfiltered' GMT and SIG files include these itneractions regardless of PMID.
+				</p>
+			</div>
+		</div>
+>>>>>>> working
 </div>
 </div>
 
