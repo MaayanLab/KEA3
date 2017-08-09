@@ -11,6 +11,7 @@
 
 <body id="home">
 
+<<<<<<< HEAD
 <div id="logo-row" class="row">
 		<div class="col-4 text-center">
 			<img id= "logo" src="{{url_for('static', filename='Logo.png')}}" align="left">
@@ -112,6 +113,67 @@
         </div>
 
 {%endif%}
+=======
+<div class="topnav" id="myTopnav">
+    <a id= "home-page-link" href="/bionetbay"><img id="favicon" src="{{url_for('static', filename='favicon.ico')}}"></img>   BioNetBay</a>
+    <a id= "page-link" href="/bionetbay/kinases">Kinase-Substrate Networks</a>
+    <a id= "page-link" href="/bionetbay/proteins">Protein-Protein Networks</a>
+    <a id= "page-link" href="/bionetbay/tf">TF-Target Networks</a>
+    <a id= "page-link" href="/bionetbay/submission">Submissions</a>
+    <a id= "page-link" href="/bionetbay/gene">Genes</a>
+    <a id= "page-link" href="/bionetbay/contribute">Contribute</a>
+    <a id= "page-link" href="/bionetbay/help">Help</a>
+    <a id= "page-link" href="/bionetbay/about">About</a>
+  </div>
+
+  <div align = "center" >
+    <form id="input_gene">
+    		<div class="form-group">
+        <div class="col-4">
+          <input name = "input_gene" class="form-control" type="text" placeholder="Please input gene symbol to search the data">
+        </div>
+      </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+  </div>
+
+{% if gene_string != None %}
+<div align="center">
+    <br>
+    <h3>Your search for <b>{{gene_string}}</b> returned the following results...</h3>
+    {% if contains.empty%}
+        <br>
+        <br>
+        <br>
+        <h4>No interactions listed in the database. If you'd like to add an interaction resource including this gene, please visit the 'Contribute' page.</h4>
+    {% else %}
+        
+         <table style="width:50%">
+            <thead>
+              <tr>
+                  <th>Gene Symbol</th>
+                  <th>Species</th>
+              </tr>
+            </thead>
+
+            <tbody>
+
+            {% for index, rowData in contains.iterrows()%}
+
+            <tr>
+                <td><a href="{{'/bionetbay/interactions?gene_symbol=%s' %(rowData.gene_symbol + '_' + species.loc[rowData.species_fk][0])}}">{{rowData.gene_symbol}}</td>
+                <td>{{species.loc[rowData.species_fk][0]}}</td>
+            </tr>
+
+            {%endfor%}
+
+            </tbody>
+          </table>
+    {%endif%}
+  </div>
+  {%endif%}
+
+>>>>>>> working
 
 <div id="scripts">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>

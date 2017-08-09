@@ -10,6 +10,7 @@
 </head>
 <body id="home">
 
+<<<<<<< HEAD
 	<div id="logo-row" class="row">
 		<div class="col-4 text-center">
 			<img id= "logo" src="{{url_for('static', filename='Logo.png')}}" align="left">
@@ -59,6 +60,48 @@
 
 			<tr>
 
+=======
+<div class="topnav" id="myTopnav">
+ 	<a id= "home-page-link" href="/bionetbay"><img id="favicon" src="{{url_for('static', filename='favicon.ico')}}"></img>   BioNetBay</a>
+ 	<a id= "page-link" href="/bionetbay/kinases">Kinase-Substrate Networks</a>
+  	<a id= "page-link" href="/bionetbay/proteins">Protein-Protein Networks</a>
+  	<a id= "page-link" href="/bionetbay/tf">TF-Target Networks</a>
+  	<a id= "page-link" href="/bionetbay/gene">Genes</a>
+    <a id= "page-link" href="/bionetbay/contribute">Contribute</a>
+    <a id= "page-link" href="/bionetbay/help">Help</a>
+    <a id= "page-link" href="/bionetbay/about">About</a>
+  </div>
+
+
+	<div id="Resources-row" class="container-fluid">
+	<div class="container text-center">
+		
+
+			<!-- Define the table -->
+	<table style="width:100%">
+				
+			<!-- Define the table headers -->
+			<thead>
+
+			<tr>
+				
+				{% for column_name in colnames %}
+
+					<th>{{column_name.title()}}</th>
+				{% endfor %}
+
+			</tr>
+
+			</thead>
+
+			<!-- Fill in the data -->
+			<tbody>
+
+				{% for index, rowData in kinase_dataframe.iterrows() %}
+
+			<tr>
+
+>>>>>>> working
 			<!-- Fill in Database data -->
 
 				<td><a id = "l" href="{{(rowData.db_url)}}">{{rowData.db_name}}</a></td>
