@@ -1,23 +1,8 @@
 import pandas as pd
 import numpy as np
 
-<<<<<<< HEAD
-#Create engine for localhost
-from sqlalchemy import create_engine
-engine = create_engine('mysql+pymysql://root:systemsbiology@localhost:3306/test')
-
-#Read in species dataframe for use in program
-species_dataframe = pd.read_sql_query('SELECT * FROM species', engine)
-species_dataframe.head()
-
-def GMT_to_SIG(gmt):
-    with open(gmt, 'r') as openfile:
-        gmt_data = [x.strip().split('\t') for x in openfile.readlines()]
-        
-=======
 def GMT_to_SIG(gmt_data, filename):
      
->>>>>>> working
     gmt_dict = {x[0]: x[2:] for x in gmt_data}
                 
     sig = pd.DataFrame([[x[0], y] for x in gmt_data for y in x[2:]])
@@ -33,11 +18,7 @@ def GMT_to_SIG(gmt_data, filename):
     sig.insert(7, 'NA-6', str(np.nan))
     sig.insert(8, 'NA-7', str(np.nan))
     sig.insert(9, 'NA-8', str(np.nan))
-<<<<<<< HEAD
-                
-=======
 
->>>>>>> working
     #Insert column corresponding to sign 
     sig.insert(10, 'Sign', str(np.nan))
                 
@@ -55,11 +36,7 @@ def GMT_to_SIG(gmt_data, filename):
         line = ('\t'.join(rowData))
         sigd[index] = line
 
-<<<<<<< HEAD
-    gmt_name = gmt.split(".", 2)[0]
-=======
     gmt_name = filename.split(".", 2)[0]
->>>>>>> working
 
     #Transfer tab-separated info into a new txt file
     #Make sure to include in ReadMe corresponding column names
@@ -71,10 +48,6 @@ def GMT_to_SIG(gmt_data, filename):
 
     return sig
 
-<<<<<<< HEAD
-def SIG_to_Genes(sig, submission_fk, organism):
-    
-=======
 def SIG_to_Genes(sig, submission_fk, organism, engine):
 
     if len(sig.columns) != 13:
@@ -84,18 +57,13 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
     species_dataframe = pd.read_sql_query('SELECT * FROM species', engine)
     species_dataframe.head()
 
->>>>>>> working
     sig = pd.DataFrame(sig)
     
     #Add species_fk to all of the interactions
     interaction_dataframe = sig[[0, 5]]
     
-<<<<<<< HEAD
-    if '_' in interaction_dataframe[0].iloc[0]:
-=======
     #Must obtain Organism of the individual kinases (if none available, use organism submitted by users)
     if interaction_dataframe[0].str.contains('_').all():
->>>>>>> working
         interaction_dataframe['species'] = [x.split('_')[-1] for x in interaction_dataframe[0]]
 
         for index, species in interaction_dataframe.species.iteritems():
@@ -103,8 +71,6 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
                 interaction_dataframe.species[index] = 'Homo sapiens'
             if species in ['MOUSE', 'mouse', 'Mouse']:
                 interaction_dataframe.species[index] = 'Mus musculus'
-<<<<<<< HEAD
-=======
             else:
                 interaction_dataframe.species[index] = '%s' %organism
 
@@ -118,33 +84,11 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
                 interaction_dataframe.species[index] = 'Mus musculus' 
             else:
                 interaction_dataframe.species[index] = '%s' %organism      
->>>>>>> working
     else:
         interaction_dataframe['species'] = '%s' %organism
         print(organism)
     
     pairs = interaction_dataframe.merge(species_dataframe, left_on='species', right_on='species_name', how='left')
-<<<<<<< HEAD
-    pairs.drop('species', axis = 1, inplace = True)
-    pairs.drop('species_name', axis =1, inplace = True)
-    pairs.columns = ['source', 'target', 'species_id']
-    
-    #View Dataframe
-    #No need to drop duplicates (no duplicates in this dataframe)
-    #Remove indication of species from name of the source
-    pairs['source'] = [x.split('_')[:-1] for x in interaction_dataframe[0]]
-    pairs['source'] = ['_'.join(x) for x in pairs['source']]
-    
-    # Need to lowercase and title names of mouse kinases to later
-    #prevent id-ing of these kinases to the human equivalent
-    for index,rowData in pairs.iterrows():
-        if rowData.species_id == 2:
-            pairs.source[index] = rowData.source.lower()
-            pairs.target[index] = rowData.target.lower()
-        if rowData.species_id == 1:
-            pairs.source[index] = rowData.source.upper()
-            pairs.target[index] = rowData.target.upper()
-=======
 
     #Remove indication of species from name of the source and drop unnecessary columns if needed
     if interaction_dataframe[0].str.contains('_').all():
@@ -168,7 +112,6 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
     pairs['source'] = [name.upper() for name in pairs.source]
     pairs['target'] = [name.upper() for name in pairs.target]
 
->>>>>>> working
     pairs.drop_duplicates(inplace=True)
     
     #Create separate dataframes for the source and target genes
@@ -191,22 +134,6 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
     
     #Use genes table to isolate fk of these source and target genes
     #fk will later be used when creating the interaction database
-<<<<<<< HEAD
-    source_fk = pairs.merge(genes_df, left_on='source', right_on='gene_symbol', how='left')
-    source_fk.drop_duplicates(['source', 'target', 'species_id'], inplace = True)
-    source_fk.drop(['source', 'target', 'species_id', 'species_fk',
-                           'gene_symbol', 'description'], axis=1, inplace=True)
-    target_fk = pairs.merge(genes_df, left_on='target', right_on='gene_symbol', how='left')
-    target_fk.drop_duplicates(['source','target'], inplace = True)
-    target_fk.drop(['source', 'target', 'species_id', 
-                           'gene_symbol', 'species_fk', 'description'], axis=1, inplace=True)
-    
-    interactions=pd.concat([source_fk, target_fk], axis = 1)
-    
-    interactions.insert(2, 'submission_fk', submission_fk)
-    interactions.columns = ['source_gene_fk', 'target_gene_fk', 'submission_fk']
-    return interactions
-=======
     source_fk = pairs.merge(genes_df, how='left', left_on=['source', 'species_id'], 
                           right_on=['gene_symbol', 'species_fk'])
     source_fk.drop_duplicates(['source', 'target', 'species_id'], inplace = True)
@@ -223,4 +150,3 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
     interactions.insert(2, 'submission_fk', submission_fk)
     interactions.columns = ['source_gene_fk', 'target_gene_fk', 'submission_fk']
     return interactions
->>>>>>> working

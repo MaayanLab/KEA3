@@ -10,57 +10,6 @@
 </head>
 <body id="home">
 
-<<<<<<< HEAD
-	<div id="logo-row" class="row">
-		<div class="col-4 text-center">
-			<img id= "logo" src="{{url_for('static', filename='Logo.png')}}" align="left">
-		</div>
-		<div id="t1" class="col-4 text-center">
-		<p>Kinase-Substrate Networks</p>
-		</div>
-	</div>
-
-<title>Kinases</title>
-<div class="topnav" id="myTopnav">
- 		<a href="/BINDer">Home</a>
- 		<a href="/BINDer/help">Help</a>
-  		<a href="/BINDer/contribute">Contribute</a>
- 		<a href="/BINDer/kinases">Kinase-Substrate Networks</a>
-  		<a href="/BINDer/proteins">Protein-Protein Networks</a>
-  		<a href="/BINDer/tf">TF-Target Networks</a>
-  		<a href="/BINDer/gene">Genes</a>
-  </div>
-
-
-	<div id="Resources-row" class="container-fluid">
-	<div class="container text-center">
-		
-
-			<!-- Define the table -->
-	<table style="width:100%">
-				
-			<!-- Define the table headers -->
-			<thead>
-
-			<tr>
-				
-				{% for column_name in colnames %}
-
-					<th>{{column_name.title()}}</th>
-				{% endfor %}
-
-			</tr>
-
-			</thead>
-
-			<!-- Fill in the data -->
-			<tbody>
-
-				{% for index, rowData in kinase_dataframe.iterrows() %}
-
-			<tr>
-
-=======
 <div class="topnav" id="myTopnav">
  	<a id= "home-page-link" href="/bionetbay"><img id="favicon" src="{{url_for('static', filename='favicon.ico')}}"></img>   BioNetBay</a>
  	<a id= "page-link" href="/bionetbay/kinases">Kinase-Substrate Networks</a>
@@ -101,7 +50,6 @@
 
 			<tr>
 
->>>>>>> working
 			<!-- Fill in Database data -->
 
 				<td><a id = "l" href="{{(rowData.db_url)}}">{{rowData.db_name}}</a></td>

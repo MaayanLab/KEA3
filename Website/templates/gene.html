@@ -11,109 +11,6 @@
 
 <body id="home">
 
-<<<<<<< HEAD
-<div id="logo-row" class="row">
-		<div class="col-4 text-center">
-			<img id= "logo" src="{{url_for('static', filename='Logo.png')}}" align="left">
-		</div>
-		<div id="t" class="col-4 text-center">
-		<p>Genes</p>
-		</div>
-	</div>
-
-<title>Contribute</title>
-<div class="topnav" id="myTopnav">
- 		<a href="/BINDer">Home</a>
- 		<a href="/BINDer/help">Help</a>
-  		<a href="/BINDer/contribute">Contribute</a>
- 		<a href="/BINDer/kinases">Kinase-Substrate Networks</a>
-  		<a href="/BINDer/proteins">Protein-Protein Networks</a>
-  		<a href="/BINDer/tf">TF-Target Networks</a>
-  		<a href="/BINDer/gene">Genes</a>
-  </div>
-
-      	<div align = "center" >
-    		<h1>Looking for a specific gene? Use the search tool below to find the gene of interest!</h1>
-    		<form>
-    			<select class="selectpicker" name = 'gene_symbol' data-live-search="true">
-    				<option selected>Please Select a Gene</option>
-    				{% for key, rowData in genes.iterrows() %}
-      					<option data-tokens="">{{rowData.gene_symbol}}</option>
-    				{%endfor%}
-    			</select>
-          <button type="submit" class="btn btn-primary">Submit</button>
-          </form>
-          </div>
-
-{% if gene_s != 'None' %}
-    	<div align="center">
-    		<div class="panel panel-default">
-    		<div class="panel-heading text-center" id="panel-heading">
-    			<h2><b>Gene : {{gene_s}}</b></h2>
-    				Species: {{organism}}
-    				<!-- Check to see if no better way to index -->
-    				<br>Description: {{gene.description[gene_id]}}
-    		</div>
-      		<div class="panel-body">
-      			<h2>Interactions</h2>
-
-      <div align="left">
-      	<h3>...where this gene is the source</h3>
-      		<br>
-            {% if source_df.empty %}
-              No interactions where this gene is the source.
-
-            {%else%}
-                <table style="width:100%">
-                    <thead>
-                      <th>Interacts with...</th>
-                      <th>Interaction Type</th>
-                      <th>Resource</th>
-                    </thead>
-                    <tbody>
-                    
-                {% for index, rowData in source_df.iterrows()%}
-                      <tr>
-                      <td>{{genes.gene_symbol[rowData.target_gene_fk]}} </td>
-                      <td>{{rowData.interaction}}</td>
-                      <td>{{rowData.resources}}</td> 
-                      </tr>
-                {% endfor %}
-                  </tbody>
-                  </table>
-              {%endif%}
-
-
-      	<h3>...where this gene is the target</h3>
-      		<br>
-            {% if target_df.empty %}
-              No interactions where this gene is a target.
-            {%else%}
-                <table style="width:100%">
-                    <thead>
-                      <th>Interacts with...</th>
-                      <th>Interaction Type</th>
-                      <th>Resource</th>
-                    </thead>
-                    <tbody>
-                    
-                {% for index, rowData in target_df.iterrows()%}
-                      <tr>
-                      <td>{{genes.gene_symbol[rowData.source_gene_fk]}}</td>
-                      <td>{{rowData.interaction}}</td>
-                      <td>{{rowData.resources}}</td> 
-                      </tr>
-                {% endfor %}
-                  </tbody>
-                  </table>
-              {%endif%}
-      	</div>
-        </div>
-        </div>
-        </div>
-
-{%endif%}
-=======
 <div class="topnav" id="myTopnav">
     <a id= "home-page-link" href="/bionetbay"><img id="favicon" src="{{url_for('static', filename='favicon.ico')}}"></img>   BioNetBay</a>
     <a id= "page-link" href="/bionetbay/kinases">Kinase-Substrate Networks</a>
@@ -173,7 +70,6 @@
   </div>
   {%endif%}
 
->>>>>>> working
 
 <div id="scripts">
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>

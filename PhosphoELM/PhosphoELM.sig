@@ -1,6 +1,4 @@
 <<<<<<< HEAD
-=======
-<<<<<<< HEAD
 PAK2_Mus musculus	nan	nan	nan	nan	Mknk1	nan	nan	nan	nan	?	Phosphorylation	15234964
 Lck_Homo sapiens	nan	nan	nan	nan	SOCS3	nan	nan	nan	nan	?	Phosphorylation	12783885,15173187
 PKB_group_Homo sapiens	nan	nan	nan	nan	TERT	nan	nan	nan	nan	?	Phosphorylation	10224060
@@ -2126,7 +2124,6 @@ AAK1_Homo sapiens	nan	nan	nan	nan	AP2M1	nan	nan	nan	nan	?	Phosphorylation	118774
 CDK5_Homo sapiens	nan	nan	nan	nan	CDK5R1	nan	nan	nan	nan	?	Phosphorylation	18326489
 TTK_Homo sapiens	nan	nan	nan	nan	HSPA9	nan	nan	nan	nan	?	Phosphorylation	17573779
 =======
->>>>>>> working
 PKA_group_Homo sapiens	nan	nan	nan	nan	HIST1H2BI	nan	nan	nan	nan	nan	nan	nan
 PKA_group_Homo sapiens	nan	nan	nan	nan	FGA	nan	nan	nan	nan	nan	nan	nan
 PKA_group_Homo sapiens	nan	nan	nan	nan	ESR1	nan	nan	nan	nan	nan	nan	nan
@@ -3788,7 +3785,4 @@ p70S6K_Homo sapiens	nan	nan	nan	nan	RPS6KB1	nan	nan	nan	nan	nan	nan	nan
 p70S6K_Homo sapiens	nan	nan	nan	nan	MTOR	nan	nan	nan	nan	nan	nan	nan
 p70S6K_Homo sapiens	nan	nan	nan	nan	EIF4B	nan	nan	nan	nan	nan	nan	nan
 p70S6K_Homo sapiens	nan	nan	nan	nan	POLDIP3	nan	nan	nan	nan	nan	nan	nan
-<<<<<<< HEAD
-=======
 >>>>>>> 7fe1b72c8dabd1d86e9f403250d22f264589eb2f
->>>>>>> working
