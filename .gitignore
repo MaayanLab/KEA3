@@ -1,33 +1,33 @@
-MINT_MiTab.txt
-networkin_human_predictions.tsv
+Kinase_Datasets/MINT_MiTab.txt
+Kinase_Datasets/networkin_human_predictions.tsv
 Combined.sig
 PPI/Combined_ppisig.txt
 Website/static/db_connection.json
 TF/ENCODE/ENCODE_TF_ChIP-seq_2014.txt
 TF/ENCODE/ENCODE_TF_ChIP-seq_2015
 ENRICHR_Data/ENCODE_2015.sig
-ENRICHR_Data/TF/ENCODE/ENCODEsig.txt
+TF/ENCODE/ENCODEsig.txt
 PPI/MINT/mint_unfiltered_ppi_2017_07_12.sig
 <<<<<<< HEAD
 =======
 
 >>>>>>> working
 <<<<<<< HEAD
-Swiss_phos_exp(1).tab
-POST_TRANSLATIONAL_MODIFICATIONS.txt
-phosphoELM_all_2015-04.txt
-RegPhos_Phos_human.txt
-RegPhos_Phos_mouse.txt
-Swiss_phos_putative(1).tab
-Kinase_Substrate_Dataset(1)
+Kinase_Datasets/Swiss_phos_exp(1).tab
+Kinase_Datasets/POST_TRANSLATIONAL_MODIFICATIONS.txt
+Kinase_Datasets/phosphoELM_all_2015-04.txt
+Kinase_Datasets/RegPhos_Phos_human.txt
+Kinase_Datasets/RegPhos_Phos_mouse.txt
+Kinase_Datasets/Swiss_phos_putative(1).tab
+Kinase_Datasets/Kinase_Substrate_Dataset(1)
 =======
-Swiss_phos_putative(1).tab
-Kinase_Substrate_Dataset(1)
-phosphoELM_all_2015-04.txt
-POST_TRANSLATIONAL_MODIFICATIONS.txt
-RegPhos_Phos_human.txt
-RegPhos_Phos_mouse.txt
-Swiss_phos_exp(1).tab
+Kinase_Datasets/Swiss_phos_putative(1).tab
+Kinase_Datasets/Kinase_Substrate_Dataset(1)
+Kinase_Datasets/phosphoELM_all_2015-04.txt
+Kinase_Datasets/POST_TRANSLATIONAL_MODIFICATIONS.txt
+Kinase_Datasets/RegPhos_Phos_human.txt
+Kinase_Datasets/RegPhos_Phos_mouse.txt
+Kinase_Datasets/Swiss_phos_exp(1).tab
 >>>>>>> working
 
 
