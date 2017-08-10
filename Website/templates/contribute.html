@@ -5,29 +5,6 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
 	<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 	<link rel='shortcut icon' type = 'image/ico' href="{{url_for('static', filename='favicon.ico')}}" >
-<<<<<<< HEAD
-	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/dt-1.10.15/b-1.3.1/b-colvis-1.3.1/r-2.1.1/datatables.min.css"/>
-<body id="home">
-
-<div id="logo-row" class="row">
-		<div class="col-4 text-center">
-			<img id= "logo" src="{{url_for('static', filename='Logo.png')}}" align="left">
-		</div>
-		<div id="t" class="col-4 text-center">
-		<p>Contribute</p>
-		</div>
-	</div>
-
-<title>Contribute</title>
-<div class="topnav" id="myTopnav">
- 		<a href="/BINDer">Home</a>
- 		<a href="/BINDer/help">Help</a>
-  		<a href="/BINDer/contribute">Contribute</a>
- 		<a href="/BINDer/kinases">Kinase-Substrate Networks</a>
-  		<a href="/BINDer/proteins">Protein-Protein Networks</a>
-  		<a href="/BINDer/tf">TF-Target Networks</a>
-      <a href="/BINDer/gene">Genes</a>
-=======
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs-3.3.7/jq-2.2.4/dt-1.10.15/b-1.3.1/b-colvis-1.3.1/r-2.1.1/datatables.min.css"/>
@@ -43,7 +20,6 @@
     <a id= "page-link" href="/bionetbay/contribute">Contribute</a>
     <a id= "page-link" href="/bionetbay/help">Help</a>
     <a id= "page-link" href="/bionetbay/about">About</a>
->>>>>>> working
   </div>
 
 
@@ -52,27 +28,6 @@
 		<h2><b>Interested in Adding Files to this Website? Fill out the form below!</b></h2>
 	</div>
   <div class="panel-body">
-<<<<<<< HEAD
-  	<form data-toggle="validator" role="form" action="{{url_for('upload')}}" method = "POST" 
-         enctype = "multipart/form-data">
-  		<div class="form-group">
-    		<label for="text-input">User Name*</label>
-    		<input class="form-control" name="input_user" aria-describedby="userHelp" placeholder="Enter User Name" data-error="This user name is invalid">
-  		</div>
-  		<div class="form-group">
-    		<label for="InputPassword">Password*</label>
-    		<input type="password" class="form-control" name="input_password" placeholder="Password" >
- 		</div>
-      <div class="form-group row">
-        <label for="text-input" class="col-3 col-form-label">Submission Name*</label>
-        <div class="col-12">
-          <input name = "new_submission_name" class="form-control" type="text" placeholder="Please input new submission name" id="text-input">
-        </div>
-      </div>
-  		<div class="form-group">
-    		<label for="Select-Interaction">Select Interaction Type*</label>
-    		<select class="form-control" name="input_interaction" >
-=======
   	<form id = "data" data-toggle="validator" role="form" action="{{url_for('upload')}}" method = "POST" 
          enctype = "multipart/form-data">
   		<div class="form-group">
@@ -109,61 +64,33 @@
   		<div class="form-group">
     		<label for="Select-Interaction">Select Interaction Type</label>
     		<select class="form-control" name="input_interaction" size="1">
->>>>>>> working
 	      		{% for index, rowData in int_type_df.interaction_name.iteritems()%}
 	      		<option value="{{int_type_df.id[index]}}">{{rowData}}</option>
 	      		{% endfor %}
     		</select>
-<<<<<<< HEAD
-  		</div>
-  		<div class="form-group">
-    		<label for="Select-Species">Select Organism</label>
-    		<select class="form-control" name="input_species">
-=======
         <small class="form-text text-muted"> Interaction type not available? Click <a href="{{url_for('int_type')}}">Here</a> to add a new interaction type to the repository</small>
   		</div>
   		<div class="form-group">
     		<label for="Select-Species">Select Organism</label>
     		<select class="form-control" name="input_species" size="1">
->>>>>>> working
 	      		{% for index, rowData in species_df.iterrows()%}
 	      		<option value="{{rowData.species_name}}">{{rowData.species_name}}</option>
 	      		{% endfor %}
     		</select>
   		</div>
-<<<<<<< HEAD
-  		<div class="form-group">
-    		<label for="Select-Resource">Select Resource (if already exists)</label>
-    		<select class="form-control" name="input_resource">
-            {% for index, rowdata in resources.db_name.iteritems() %}
-	      		<option value="{{resources.id[index]}}">{{rowdata}}</option>
-            {%endfor%}
-    		</select>
-  		</div>
-  		<div class="form-group">
-    		<label for="Select-Type">Select File Type*</label>
-    		<select class="form-control" name="input_type" >
-=======
 
   		<div class="form-group">
     		<label for="Select-Type">Select File Type</label>
     		<select class="form-control" name="input_type" size="1">
->>>>>>> working
 	      		{% for index, rowdata in file_types.type_name.iteritems() %}
             <option value="{{file_types.id[index]}}">{{rowdata}}</option>
             {%endfor%}    		
         </select>
   		</div>
   		<div class="form-group">
-<<<<<<< HEAD
-   			<label for="InputFile">Upload File*</label>
-    		<input name = "input_file" type="file" class="form-control-file"  aria-describedby="fileHelp" <input>
-    		<small id="fileHelp" class="form-text text-muted">Please upload file corresponding to resource. Only <b>tab-separated</b>files will be processed correctly, so please format your file accordingly.</small>
-=======
    			<label for="InputFile">Upload File</label>
     		<input required name = "input_file" type="file" class="form-control-file"  aria-describedby="fileHelp" <input>
     		<small id="fileHelp" class="form-text text-muted">Please upload file corresponding to resource. Only <b>tab-separated</b> files will be processed correctly, so please format your file accordingly.</small>
->>>>>>> working
   		</div>
   		<button type="submit" class="btn btn-primary">Submit</button>
   	</form>
@@ -171,45 +98,10 @@
   </div>
 
 
-<<<<<<< HEAD
-  <div class="panel panel-default">
-  <div class="panel-heading text-center" id="panel-heading">
-    <h2><b>Resource not available? Add a resource to the website!</b></h2>
-  </div>
-  <div class="panel-body">  
-   <form data-toggle="validator" role="form" action="{{url_for('upload')}}" method = "POST" 
-         enctype = "multipart/form-data">
-      <div class="form-group row">
-        <label for="text-input" class="col-3 col-form-label">Resource Name</label>
-        <div class="col-4">
-          <input name = "new_resource_name" class="form-control" type="text" placeholder="Please input new resource name" id="text-input">
-        </div>
-      </div>
-      <div class="form-group row">
-        <label for="text-input" class="col-3 col-form-label">Resource Decription</label>
-        <div class="col-4">
-          <input name = "new_input_description" class="form-control" type="text" placeholder="If available, add a brief description of resource" id="text-input">
-        </div>
-      </div>
-      <div class="form-group row">
-        <label for="text-input" class="col-3 col-form-label">Resource URL</label>
-        <div class="col-4">
-          <input name="new_resource_url" class="form-control" type="text" placeholder="Please add link to resource" id="text-input">
-          <small id="resourceHelp" class="form-text text-muted">If url not available, please input '#' instead.</small>
-        </div>
-      </div>
-    <button type="submit" class="btn btn-primary">Submit</button>
-    </form>
-</div>
-</div>
-
-	<div id="scripts">
-=======
 
 	<div id="scripts">
 
     <!-- standard js -->
->>>>>>> working
 		<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
