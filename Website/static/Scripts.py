@@ -86,7 +86,7 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
                 interaction_dataframe.species[index] = '%s' %organism      
     else:
         interaction_dataframe['species'] = '%s' %organism
-        print(organism)
+        
     
     pairs = interaction_dataframe.merge(species_dataframe, left_on='species', right_on='species_name', how='left')
 
@@ -94,6 +94,13 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
     if interaction_dataframe[0].str.contains('_').all():
         pairs['source'] = [x.split('_')[:-1] for x in interaction_dataframe[0]]
         pairs['source'] = ['_'.join(x) for x in pairs['source']]
+        pairs.drop(0, axis=1, inplace=True)
+        pairs.drop('species', axis = 1, inplace = True)
+        pairs.drop('species_name', axis =1, inplace = True)
+        pairs.columns = ['target', 'species_id', 'source']
+    if interaction_dataframe[0].str.contains('-').all():
+        pairs['source'] = [x.split('-')[:-1] for x in interaction_dataframe[0]]
+        pairs['source'] = ['-'.join(x) for x in pairs['source']]
         pairs.drop(0, axis=1, inplace=True)
         pairs.drop('species', axis = 1, inplace = True)
         pairs.drop('species_name', axis =1, inplace = True)
@@ -109,8 +116,15 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
     # Need to uppercase all names in the dataframe to standardize names
     # across different files
 
+    if type(pairs.source[0]) != type("Error"):
+        return "Error"
+
+    if type(pairs.target[0]) != type("Error"):
+        return "Error"
+
     pairs['source'] = [name.upper() for name in pairs.source]
     pairs['target'] = [name.upper() for name in pairs.target]
+
 
     pairs.drop_duplicates(inplace=True)
     
@@ -149,4 +163,8 @@ def SIG_to_Genes(sig, submission_fk, organism, engine):
     interactions=pd.concat([source_fk, target_fk], axis = 1)
     interactions.insert(2, 'submission_fk', submission_fk)
     interactions.columns = ['source_gene_fk', 'target_gene_fk', 'submission_fk']
+
+    if interaction_dataframe.isnull().values.any():
+        return "Error"
+
     return interactions

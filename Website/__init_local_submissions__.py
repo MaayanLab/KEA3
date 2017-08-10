@@ -385,7 +385,9 @@ def upload():
 
 		#Retrieve id of last insert into a database table (i.e. submission foreign key)
 		submission_fk = sub.lastrowid
-		print(submission_fk)
+
+
+		########################## Process files (See Scripts.py for exact methods of processing)  ########################################################333
 
 		#Process a gmt file if file type = 1
 		if file_type == '1':
@@ -408,13 +410,13 @@ def upload():
 
 			# Second stat: Number of Sources/Hubs
 			hub_terms = len(stat_df.ProteinA.unique())
-			print(hub_terms)
 
 			# Third stat: Number of Targets
-			target_terms = len(stat_df.ProteinB.unique())
-			print(target_terms)		
+			target_terms = len(stat_df.ProteinB.unique())	
 
 			#Fourth stat: Total Number of Unique Terms
+
+				#If any, separates species name from the gene symbol in order to accurately calculate the number of unique terms
 			if stat_df['ProteinA'].str.contains('_').all():
 				stat_df['ProteinA'] = [x.split('_')[:-1] for x in stat_df.ProteinA]
 				stat_df['ProteinA'] = ['_'.join(x) for x in stat_df['ProteinA']]
@@ -478,6 +480,8 @@ def upload():
 			print(target_terms)		
 
 			#Fourth stat: Total Number of Unique Terms
+
+				#If any, separates species name from the gene symbol in order to accurately calculate the number of unique terms
 			if stat_df['ProteinA'].str.contains('_').all():
 				stat_df['ProteinA'] = [x.split('_')[:-1] for x in stat_df.ProteinA]
 				stat_df['ProteinA'] = ['_'.join(x) for x in stat_df['ProteinA']]
@@ -572,7 +576,7 @@ def int_type():
 @app.route(entry_point+'/new_interaction_type', methods = ["POST"])
 
 def new_interaction():
-	# Obtain information from form and insert it into the interaction_typee table
+	# Obtain information from form and insert it into the interaction_type table
 	if request.method == 'POST':
 
 		int_type = request.form.get("new_interaction_type")
@@ -597,7 +601,6 @@ def submission():
 	colnames = ["Submission Title", "Date of Contribution", "Resource Name", "Interaction Type", "Processing Script", "Processed File", "Interactions", "Source Proteins", "Target Proteins", "Total Proteins", "Average Interactions per Protein", "PMID"]
 
 	submissions = pd.read_sql_query('SELECT submission_name, date_contributed, processing_script, interaction_num, hub_terms, target_terms, unique_terms, avg_term, db_name, db_url, pmid, interaction_name, type_name FROM statistics LEFT JOIN submissions ON submissions.id = statistics.submission_fk LEFT JOIN resources ON resources.id = submissions.resource_fk LEFT JOIN interaction_type ON interaction_type.id = submissions.submission_type_fk LEFT JOIN file_types ON file_types.id = submissions.file_type_fk '.format(**locals()), engine)
-	print(submissions)
 
 	return render_template('submissions.html', colnames = colnames, submissions = submissions)
 
@@ -610,10 +613,10 @@ def submission():
 
 def get_file():
 
+	# Receive from repository necessary information about data corresponding to the submission
 	submission_name = request.args.get("submission")
 
 	interaction_dataframe = pd.read_sql_query('SELECT source_gene_fk, target_gene_fk, interaction_name, type_name FROM interactions i LEFT JOIN submissions s ON s.id = i.submission_fk LEFT JOIN interaction_type it ON it.id = s.submission_type_fk LEFT JOIN file_types f ON f.id = s.file_type_fk WHERE submission_name = "{submission_name}"'.format(**locals()), engine)
-	print(interaction_dataframe)
 
 	genes = pd.read_sql_query('SELECT * FROM genes', engine)
 
@@ -621,8 +624,11 @@ def get_file():
 
 	gmt_string = ""
 
+	# Recreate GMT file to be displayed on website
 	if labeled_interaction_dataframe.type_name.all() == 'GMT':
 		gmt_string = "<br>".join(["\t".join([source_gene_symbol, 'None']+list(labeled_interaction_dataframe.loc[source_gene_symbol,"target_gene_symbol"])) for source_gene_symbol in labeled_interaction_dataframe.index.unique()])
+	
+	# Recreate SIG file to be displayed on website
 	elif labeled_interaction_dataframe.type_name.all() == 'SIG':
 
 		labeled_interaction_dataframe.reset_index(inplace=True)
@@ -632,6 +638,7 @@ def get_file():
 		for index, rowData in labeled_interaction_dataframe.iterrows():
 			gmt_string = "<br>".join(["\t".join([rowData.source_gene_symbol, 'na', "na", "na", "na", rowData.target_gene_symbol, "na", "na", "na", "na", "na", "na", "na"]), gmt_string])
 
+	# Return final GMT or SIG file as the linked file
 	return gmt_string
 	
 	
